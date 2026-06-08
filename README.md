@@ -1,4 +1,4 @@
-# Estudos — PWA + pipeline automático de aulas
+# SyntIA — PWA de estudo + pipeline automático de aulas
 
 Largas ficheiros **MP3** de aulas no repositório e, sozinho, tens:
 **transcrição → síntese de estudo + flashcards → ideias de produto**, tudo

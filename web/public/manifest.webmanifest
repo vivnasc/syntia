@@ -1,6 +1,6 @@
 {
-  "name": "Estudos — Pós-graduações",
-  "short_name": "Estudos",
+  "name": "SyntIA — Estudo das pós-graduações",
+  "short_name": "SyntIA",
   "description": "Sínteses, flashcards e banco de produto das aulas, gerados automaticamente.",
   "start_url": "/",
   "scope": "/",
