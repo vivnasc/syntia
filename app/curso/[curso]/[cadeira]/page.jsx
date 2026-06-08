@@ -68,7 +68,9 @@ export default function CadeiraPage({ params }) {
                 <Link key={aula.nome} href={`/curso/${curso.id}/${cadeira.id}/aula/${encodeURIComponent(aula.nome)}`} className="row">
                   <span className="grow">
                     <div style={{ fontWeight: 600 }}>{aula.titulo}</div>
-                    <div className="meta">{aula.flashcards.length} flashcard{aula.flashcards.length === 1 ? "" : "s"}</div>
+                    <div className="meta">
+                      {aula.partes > 1 ? `${aula.partes} partes · ` : ""}{aula.flashcards.length} flashcard{aula.flashcards.length === 1 ? "" : "s"}
+                    </div>
                   </span>
                   <span className="arrow">→</span>
                 </Link>
