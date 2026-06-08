@@ -1,0 +1,175 @@
+:root {
+  --bg: #0c0a28;
+  --bg-soft: #16133a;
+  --card: #1b1745;
+  --card-2: #221d57;
+  --line: #322c6b;
+  --ink: #ece9ff;
+  --ink-soft: #b6afe6;
+  --roxo: #a78bfa;
+  --rosa: #f0abfc;
+  --corpo: #fb7185;
+  --amor: #f472b6;
+  --maternidade: #c084fc;
+  --prosperidade: #34d399;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(1200px 600px at 80% -10%, #2a2470 0%, var(--bg) 55%);
+  color: var(--ink);
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+a { color: inherit; text-decoration: none; }
+
+.wrap {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 20px 18px 80px;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 0 8px;
+}
+.topbar .brand {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  font-size: 18px;
+}
+.topbar .spacer { flex: 1; }
+.topbar a.nav {
+  font-size: 14px;
+  color: var(--ink-soft);
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg-soft);
+}
+.topbar a.nav.active { color: var(--ink); border-color: var(--roxo); }
+
+.crumbs { font-size: 13px; color: var(--ink-soft); margin: 6px 0 18px; }
+.crumbs a { color: var(--roxo); }
+
+h1 { font-size: 26px; letter-spacing: -0.02em; margin: 8px 0 4px; }
+h2 { font-size: 19px; margin: 28px 0 12px; }
+.lead { color: var(--ink-soft); margin: 0 0 20px; line-height: 1.5; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 14px;
+}
+
+.card {
+  display: block;
+  background: linear-gradient(160deg, var(--card) 0%, var(--card-2) 100%);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 18px;
+  transition: transform .12s ease, border-color .12s ease;
+}
+.card:hover { transform: translateY(-2px); border-color: var(--roxo); }
+.card .eyebrow { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--roxo); }
+.card .title { font-size: 17px; font-weight: 700; margin: 6px 0 4px; }
+.card .meta { font-size: 13px; color: var(--ink-soft); }
+
+.pill {
+  display: inline-block;
+  font-size: 12px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  color: var(--ink-soft);
+  background: var(--bg-soft);
+}
+
+.list { display: flex; flex-direction: column; gap: 10px; }
+.row {
+  display: flex; align-items: center; gap: 12px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 14px 16px;
+}
+.row:hover { border-color: var(--roxo); }
+.row .num { font-variant-numeric: tabular-nums; color: var(--roxo); font-weight: 700; }
+.row .grow { flex: 1; }
+.row .arrow { color: var(--ink-soft); }
+
+.materiais { display: flex; flex-wrap: wrap; gap: 8px; }
+.mat {
+  display: inline-flex; align-items: center; gap: 8px;
+  font-size: 13px;
+  background: var(--bg-soft);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 9px 12px;
+}
+.mat:hover { border-color: var(--rosa); }
+.mat .ic { color: var(--rosa); }
+
+/* Markdown (síntese) */
+.md { line-height: 1.62; color: var(--ink); font-size: 15.5px; }
+.md h1, .md h2, .md h3 { letter-spacing: -0.01em; }
+.md h2 { border-bottom: 1px solid var(--line); padding-bottom: 6px; }
+.md code { background: #0e0b2e; padding: 1px 6px; border-radius: 6px; font-size: .9em; }
+.md pre { background: #0e0b2e; padding: 14px; border-radius: 10px; overflow:auto; }
+.md ul, .md ol { padding-left: 22px; }
+.md blockquote { border-left: 3px solid var(--roxo); margin: 0; padding-left: 14px; color: var(--ink-soft); }
+.md hr { border: none; border-top: 1px solid var(--line); margin: 22px 0; }
+
+/* Flashcards */
+.fc-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+.fc {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 16px;
+  cursor: pointer;
+  min-height: 120px;
+  display: flex; flex-direction: column; gap: 10px;
+}
+.fc:hover { border-color: var(--roxo); }
+.fc .q { font-weight: 650; }
+.fc .a { color: var(--prosperidade); border-top: 1px dashed var(--line); padding-top: 10px; }
+.fc .hint { font-size: 12px; color: var(--ink-soft); }
+
+/* Banco de produto */
+.filtros { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 20px; }
+.chip {
+  font-size: 13px; padding: 8px 14px; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--bg-soft); color: var(--ink-soft);
+  cursor: pointer; user-select: none;
+}
+.chip[data-on="true"] { color: #0c0a28; font-weight: 700; }
+.chip[data-tema="corpo"][data-on="true"] { background: var(--corpo); border-color: var(--corpo); }
+.chip[data-tema="amor"][data-on="true"] { background: var(--amor); border-color: var(--amor); }
+.chip[data-tema="maternidade"][data-on="true"] { background: var(--maternidade); border-color: var(--maternidade); }
+.chip[data-tema="prosperidade"][data-on="true"] { background: var(--prosperidade); border-color: var(--prosperidade); }
+.chip[data-tema="todos"][data-on="true"] { background: var(--roxo); border-color: var(--roxo); }
+
+.prod { display: flex; flex-direction: column; gap: 12px; }
+.prod-item {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 14px; padding: 16px;
+}
+.prod-item .tags { display: flex; gap: 6px; margin-bottom: 8px; flex-wrap: wrap; }
+.tag { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; padding: 3px 9px; border-radius: 999px; font-weight: 700; color: #0c0a28; }
+.tag[data-tema="corpo"] { background: var(--corpo); }
+.tag[data-tema="amor"] { background: var(--amor); }
+.tag[data-tema="maternidade"] { background: var(--maternidade); }
+.tag[data-tema="prosperidade"] { background: var(--prosperidade); }
+.prod-item .src { font-size: 12px; color: var(--ink-soft); margin-top: 8px; }
+.prod-item .txt { line-height: 1.55; white-space: pre-wrap; }
+
+.empty { color: var(--ink-soft); padding: 30px; text-align: center; border: 1px dashed var(--line); border-radius: 14px; }
+.footer { margin-top: 50px; font-size: 12px; color: var(--ink-soft); text-align: center; }

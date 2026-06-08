@@ -1,0 +1,14 @@
+# dependências e builds
+node_modules/
+.next/
+out/
+
+# artefactos gerados pelo prebuild (derivados do repositório)
+lib/conteudo.json
+public/material/
+public/icons/
+
+# diversos
+.DS_Store
+*.log
+.vercel

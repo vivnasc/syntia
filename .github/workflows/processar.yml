@@ -2,9 +2,17 @@ name: Processar Aulas
 
 on:
   push:
+    branches:
+      - main
     paths:
       - 'cursos/**/_audio/**'
+      - 'disciplina-partilhada/_audio/**'
   workflow_dispatch:
+
+# Evita corridas simultâneas a fazerem commit ao mesmo tempo.
+concurrency:
+  group: processar-aulas
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -16,13 +24,16 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
+      - name: Instalar ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Configurar Node
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
       - name: Instalar dependências
-        run: npm install
+        run: npm install --no-audit --no-fund
 
       - name: Processar áudios novos
         env:
@@ -34,10 +45,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add cursos/
+          git add cursos/ disciplina-partilhada/
           if git diff --staged --quiet; then
             echo "Nada de novo para processar."
           else
-            git commit -m "Processamento automático de aulas"
+            git commit -m "Processamento automático de aulas [skip ci]"
             git push
           fi
