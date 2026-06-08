@@ -339,8 +339,13 @@ select.campo { appearance: none; cursor: pointer; }
 /* ---------- Fila de envio ---------- */
 .fila { display: flex; flex-direction: column; gap: 6px; }
 .fila-item {
-  display: flex; align-items: center; gap: 10px; padding: 9px 12px;
+  display: flex; flex-direction: column; gap: 6px; padding: 9px 12px;
   background: var(--card); border: 1px solid var(--line); border-radius: 9px; font-size: 13px;
+}
+.fi-linha { display: flex; align-items: center; gap: 10px; }
+.fi-erro {
+  font-size: 12px; color: var(--corpo); background: color-mix(in srgb, var(--corpo) 10%, transparent);
+  border-radius: 6px; padding: 6px 9px; word-break: break-word; line-height: 1.4;
 }
 .fila-item.feito { border-color: color-mix(in srgb, var(--gold) 40%, var(--line)); }
 .fila-item.erro { border-color: var(--corpo); }

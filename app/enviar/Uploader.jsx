@@ -58,18 +58,23 @@ export default function Uploader({ cursos, partilhada }) {
       setItens((prev) => prev.map((it, j) => (j === i ? { ...it, status: "enviar", erro: "" } : it)));
       try {
         const file = itens[i].file;
-        const blob = await upload(file.name, file, {
-          access: "public",
-          handleUploadUrl: "/api/blob-upload",
-          contentType: file.type || "audio/mpeg",
-        });
+        let blob;
+        try {
+          blob = await upload(file.name, file, {
+            access: "public",
+            handleUploadUrl: "/api/blob-upload",
+            contentType: file.type || "audio/mpeg",
+          });
+        } catch (e) {
+          throw new Error(`upload p/ Blob: ${e?.message || e}`);
+        }
         const resp = await fetch("/api/ingest", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ url: blob.url, curso: destinoId, cadeira: isPart ? "" : cadeiraSel, filename: file.name }),
         });
-        const data = await resp.json();
-        if (!resp.ok) throw new Error(data.error || "Falha ao iniciar.");
+        const data = await resp.json().catch(() => ({}));
+        if (!resp.ok) throw new Error(data.error || `processar (${resp.status})`);
         setItens((prev) => prev.map((it, j) => (j === i ? { ...it, status: "feito" } : it)));
       } catch (e) {
         setItens((prev) => prev.map((it, j) => (j === i ? { ...it, status: "erro", erro: e?.message || "erro" } : it)));
@@ -128,14 +133,17 @@ export default function Uploader({ cursos, partilhada }) {
         <div className="fila">
           {itens.map((it, i) => (
             <div key={i} className={`fila-item ${it.status}`}>
-              <span className="fi-uni">{unidadeDe(it.file.name) || "—"}</span>
-              <span className="fi-nome">{it.file.name}</span>
-              <span className="fi-estado">
-                {it.status === "fila" && (!correr ? <button className="fi-x" onClick={() => remover(i)}>remover</button> : "em fila")}
-                {it.status === "enviar" && "a enviar…"}
-                {it.status === "feito" && "✓"}
-                {it.status === "erro" && <span title={it.erro}>erro</span>}
-              </span>
+              <div className="fi-linha">
+                <span className="fi-uni">{unidadeDe(it.file.name) || "—"}</span>
+                <span className="fi-nome">{it.file.name}</span>
+                <span className="fi-estado">
+                  {it.status === "fila" && (!correr ? <button className="fi-x" onClick={() => remover(i)}>remover</button> : "em fila")}
+                  {it.status === "enviar" && "a enviar…"}
+                  {it.status === "feito" && "✓"}
+                  {it.status === "erro" && "erro"}
+                </span>
+              </div>
+              {it.status === "erro" && it.erro && <div className="fi-erro">{it.erro}</div>}
             </div>
           ))}
         </div>
