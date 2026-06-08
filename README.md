@@ -23,9 +23,11 @@ disciplina-partilhada/   ← comum às 3 pós, NUNCA duplicada (mesma estrutura)
   _material/             ← as 4 Unidades + a Apresentação
 
 prompts/prompt-mestre.md   ← o prompt que orienta o Claude
+contexto/ecossistema-produto.md  ← os teus produtos (alimenta o Bloco C)
 scripts/processar.mjs      ← o pipeline
+scripts/gerar-*.mjs        ← geração do conteúdo/ícones da PWA (no build)
 .github/workflows/processar.yml  ← dispara sozinho quando há áudio novo
-web/                       ← a PWA (Next.js)
+app/ · lib/ · public/      ← a PWA (Next.js), na RAIZ do repositório
 ```
 
 **Adicionar um curso novo** = criar uma pasta `cursos/04-...` com `_audio/` e
@@ -59,10 +61,8 @@ referência para o Bloco B — e faz commit dos resultados. Demora alguns minuto
 ## ② Como faço o deploy (PWA na Vercel)
 
 1. Entra em **vercel.com**, faz login com o GitHub e **Add New → Project**.
-2. Escolhe este repositório. Em **Root Directory**, escolhe a pasta **`web`**
-   (Framework: Next.js — detetado automaticamente). Se aparecer a opção
-   *"Include files outside the Root Directory"*, deixa-a **ligada** — a app lê
-   o conteúdo de `cursos/` na build.
+2. Escolhe este repositório. Deixa o **Root Directory** em **`./`** (a raiz) — a
+   app está na raiz e a Vercel deteta **Next.js** automaticamente.
 3. Em **Storage**, cria um **Blob Store** e liga-o ao projeto (grátis no plano
    base). Fica a guardar os MP3 enviados e define sozinho `BLOB_READ_WRITE_TOKEN`.
 4. Em **Settings → Environment Variables**, acrescenta duas:
@@ -70,8 +70,10 @@ referência para o Bloco B — e faz commit dos resultados. Demora alguns minuto
      poder enviar aulas (impede que estranhos usem o teu upload).
    - `GITHUB_DISPATCH_TOKEN` — um *fine-grained token* do GitHub (github.com →
      Settings → Developer settings → Fine-grained tokens), com acesso ao
-     repositório `estudos` e permissão **Actions: Read and write**. É o que deixa
+     repositório `syntia` e permissão **Actions: Read and write**. É o que deixa
      a app arrancar o pipeline.
+   - *(opcional)* `GH_REPO` — só se mudares o nome do repositório no futuro; por
+     omissão é `vivnasc/syntia`.
 5. **Deploy.** Fica online num endereço `*.vercel.app`. No telemóvel, abre e
    **"Adicionar ao ecrã principal"**.
 
