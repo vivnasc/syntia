@@ -1,23 +1,12 @@
 // Autoriza uploads diretos para o Vercel Blob.
-// O browser pede aqui um token de upload; só o concedemos se o código de
-// acesso (UPLOAD_PASSCODE) bater certo. O ficheiro vai direto browser → Blob,
+// O browser pede aqui um token de upload; o ficheiro vai direto browser → Blob,
 // por isso não passa pelo limite de tamanho das funções da Vercel.
+//
+// Não restringimos tipos de ficheiro (é uma ferramenta privada) e damos um
+// sufixo aleatório ao nome guardado para nunca colidir com um upload anterior
+// — o nome original da aula viaja à parte no /api/ingest, por isso a etiqueta
+// da aula é preservada.
 import { handleUpload } from "@vercel/blob/client";
-
-const TIPOS_AUDIO = [
-  "audio/mpeg",
-  "audio/mp3",
-  "audio/mp4",
-  "audio/x-m4a",
-  "audio/m4a",
-  "audio/wav",
-  "audio/x-wav",
-  "audio/ogg",
-  "audio/aac",
-  "audio/flac",
-  "audio/webm",
-  "application/octet-stream",
-];
 
 export async function POST(request) {
   const body = await request.json();
@@ -25,13 +14,10 @@ export async function POST(request) {
     const json = await handleUpload({
       request,
       body,
-      onBeforeGenerateToken: async () => {
-        // Sem proteção por código: qualquer pedido pode obter um token de upload.
-        return {
-          allowedContentTypes: TIPOS_AUDIO,
-          maximumSizeInBytes: 500 * 1024 * 1024, // 500 MB
-        };
-      },
+      onBeforeGenerateToken: async () => ({
+        addRandomSuffix: true,
+        maximumSizeInBytes: 1024 * 1024 * 1024, // 1 GB
+      }),
       // O disparo do pipeline é feito pelo cliente via /api/ingest depois do
       // upload terminar, por isso aqui não é preciso fazer nada.
       onUploadCompleted: async () => {},
