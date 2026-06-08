@@ -294,6 +294,66 @@ select.campo { appearance: none; cursor: pointer; }
 }
 .ementa li::before { content: "›"; position: absolute; left: 4px; color: var(--gold); }
 
+/* ---------- Prazos ---------- */
+.prazo { display: inline-flex; align-items: center; gap: 7px; font-size: 12.5px; margin-top: 4px; }
+.prazo-datas { color: var(--ink-dim); font-variant-numeric: tabular-nums; }
+.prazo-dot { color: var(--line); }
+.prazo .prazo-txt { color: var(--ink-soft); }
+.prazo.aberta .prazo-txt { color: var(--gold-soft); font-weight: 600; }
+.prazo.aberta.urgente .prazo-txt { color: var(--corpo); font-weight: 700; }
+.prazo.encerrada .prazo-txt { color: var(--ink-dim); }
+
+.prazos { display: flex; flex-direction: column; gap: 10px; }
+.prazo-card {
+  display: flex; align-items: stretch; gap: 0; overflow: hidden;
+  background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+  transition: border-color .14s ease;
+}
+.prazo-card:hover { border-color: var(--gold); }
+.prazo-card .pc-faixa { width: 4px; background: var(--gold); flex: none; }
+.prazo-card.urgente .pc-faixa { background: var(--corpo); }
+.prazo-card.urgente { border-color: color-mix(in srgb, var(--corpo) 45%, var(--line)); }
+.pc-corpo { display: flex; flex-direction: column; gap: 3px; padding: 13px 16px; flex: 1; min-width: 0; }
+.pc-curso { font-size: 10.5px; text-transform: uppercase; letter-spacing: .07em; color: var(--ink-dim); }
+.pc-tit { font-weight: 600; line-height: 1.25; }
+.pc-meta { font-size: 12px; color: var(--ink-dim); font-variant-numeric: tabular-nums; }
+.pc-dias { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 18px; text-align: center; }
+.pc-dias strong { font-family: var(--serif); font-size: 26px; line-height: 1; color: var(--gold-soft); }
+.prazo-card.urgente .pc-dias strong { color: var(--corpo); }
+.pc-dias span { font-size: 10.5px; color: var(--ink-dim); margin-top: 3px; }
+.prazos-prox { font-size: 13px; color: var(--ink-soft); margin-top: 4px; }
+.prazos-prox a { color: var(--gold-soft); }
+
+/* ---------- Unidades (módulos) ---------- */
+.unidade { margin-top: 14px; }
+.unidade-cab {
+  display: flex; align-items: center; gap: 9px; padding: 8px 2px; font-weight: 600;
+  border-bottom: 1px solid var(--line); margin-bottom: 8px;
+}
+.unidade-n {
+  font-size: 11px; font-weight: 700; color: var(--gold-soft);
+  border: 1px solid var(--line); border-radius: 6px; padding: 2px 7px;
+}
+.unidade-c { margin-left: auto; font-size: 12px; color: var(--ink-dim); font-weight: 400; }
+
+/* ---------- Fila de envio ---------- */
+.fila { display: flex; flex-direction: column; gap: 6px; }
+.fila-item {
+  display: flex; align-items: center; gap: 10px; padding: 9px 12px;
+  background: var(--card); border: 1px solid var(--line); border-radius: 9px; font-size: 13px;
+}
+.fila-item.feito { border-color: color-mix(in srgb, var(--gold) 40%, var(--line)); }
+.fila-item.erro { border-color: var(--corpo); }
+.fi-uni {
+  font-size: 11px; font-weight: 700; color: var(--gold-soft); min-width: 28px; text-align: center;
+  border: 1px solid var(--line); border-radius: 6px; padding: 2px 0;
+}
+.fi-nome { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.fi-estado { font-size: 12px; color: var(--ink-soft); white-space: nowrap; }
+.fila-item.feito .fi-estado { color: var(--gold-soft); font-weight: 700; }
+.fila-item.erro .fi-estado { color: var(--corpo); font-weight: 600; }
+.fi-x { background: none; border: 0; color: var(--ink-dim); cursor: pointer; font-size: 12px; text-decoration: underline; }
+
 .prog { display: flex; flex-direction: column; gap: 10px; }
 .prog-row {
   display: block; background: var(--card); border: 1px solid var(--line);

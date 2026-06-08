@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getCursos, getCadeira } from "../../../../lib/conteudo";
+import { Prazo } from "../../../Prazo";
 
 export function generateStaticParams() {
   const out = [];
@@ -14,12 +15,19 @@ export default function CadeiraPage({ params }) {
   if (!found) return <div className="empty">Disciplina não encontrada.</div>;
   const { curso, cadeira } = found;
 
+  const unidades = (cadeira.unidades || []).filter((u) => u.n >= 1);
+  const outras = (cadeira.unidades || []).find((u) => u.n === 0);
+  const unidadesComAulas = unidades.filter((u) => u.aulas.length > 0).length;
+
   return (
     <>
       <div className="crumbs">
         <Link href="/">Início</Link> / <Link href={`/curso/${curso.id}`}>{curso.titulo}</Link> / {cadeira.titulo}
       </div>
       <h1>{cadeira.titulo}</h1>
+      {cadeira.inicio && cadeira.fim && (
+        <p className="lead" style={{ marginTop: 4 }}><Prazo inicio={cadeira.inicio} fim={cadeira.fim} /></p>
+      )}
 
       {cadeira.ementa?.length > 0 && (
         <>
@@ -44,25 +52,50 @@ export default function CadeiraPage({ params }) {
       )}
 
       <div className="section-label" style={{ marginTop: 34 }}>
-        Aulas{cadeira.aulas.length ? ` · ${cadeira.aulas.length}` : ""}
+        Aulas por unidade · {unidadesComAulas} de {unidades.length} unidades começadas
       </div>
-      {cadeira.aulas.length === 0 ? (
-        <div className="empty">
-          Ainda sem aulas nesta disciplina. Envia um MP3 em <strong>Enviar aula</strong> (escolhe esta disciplina)
-          e a síntese aparece aqui.
+
+      {unidades.map((u) => (
+        <div key={u.n} className="unidade">
+          <div className="unidade-cab">
+            <span className="unidade-n">U{u.n}</span>
+            <span>{u.titulo}</span>
+            <span className="unidade-c">{u.aulas.length ? `${u.aulas.length} aula${u.aulas.length === 1 ? "" : "s"}` : "por dar"}</span>
+          </div>
+          {u.aulas.length > 0 && (
+            <div className="list">
+              {u.aulas.map((aula) => (
+                <Link key={aula.nome} href={`/curso/${curso.id}/${cadeira.id}/aula/${encodeURIComponent(aula.nome)}`} className="row">
+                  <span className="grow">
+                    <div style={{ fontWeight: 600 }}>{aula.titulo}</div>
+                    <div className="meta">{aula.flashcards.length} flashcard{aula.flashcards.length === 1 ? "" : "s"}</div>
+                  </span>
+                  <span className="arrow">→</span>
+                </Link>
+              ))}
+            </div>
+          )}
         </div>
-      ) : (
-        <div className="list">
-          {cadeira.aulas.map((aula, i) => (
-            <Link key={aula.nome} href={`/curso/${curso.id}/${cadeira.id}/aula/${encodeURIComponent(aula.nome)}`} className="row">
-              <span className="num">{String(i + 1).padStart(2, "0")}</span>
-              <span className="grow">
-                <div style={{ fontWeight: 600 }}>{aula.titulo}</div>
-                <div className="meta">{aula.flashcards.length} flashcard{aula.flashcards.length === 1 ? "" : "s"}</div>
-              </span>
-              <span className="arrow">→</span>
-            </Link>
-          ))}
+      ))}
+
+      {outras && outras.aulas.length > 0 && (
+        <div className="unidade">
+          <div className="unidade-cab"><span>{outras.titulo}</span></div>
+          <div className="list">
+            {outras.aulas.map((aula) => (
+              <Link key={aula.nome} href={`/curso/${curso.id}/${cadeira.id}/aula/${encodeURIComponent(aula.nome)}`} className="row">
+                <span className="grow"><div style={{ fontWeight: 600 }}>{aula.titulo}</div></span>
+                <span className="arrow">→</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {unidadesComAulas === 0 && (
+        <div className="empty">
+          Ainda sem aulas. Envia os MP3 desta disciplina em <strong>Enviar aula</strong> — o nome
+          (U1_, U2_…) coloca cada um na unidade certa.
         </div>
       )}
     </>

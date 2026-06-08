@@ -65,12 +65,6 @@ export default function Sidebar({ cursos, partilhada }) {
           );
         })}
 
-        {partilhada && (
-          <Link href="/partilhada" onClick={fechar} className={`sb-link sb-curso-link solo${is("/partilhada") ? " active" : ""}`}>
-            {partilhada.titulo} <span className="sb-tag">comum</span>
-          </Link>
-        )}
-
         <div className="sb-group-label">Ferramentas</div>
         <Link href="/produto" onClick={fechar} className={`sb-link${is("/produto") ? " active" : ""}`}>Banco de Produto</Link>
         <Link href="/enviar" onClick={fechar} className={`sb-link${is("/enviar") ? " active" : ""}`}>Enviar aula</Link>

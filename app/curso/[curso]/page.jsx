@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getCursos, getCurso, getPartilhada } from "../../../lib/conteudo";
+import { Prazo } from "../../Prazo";
 
 export function generateStaticParams() {
   const ids = getCursos().map((c) => ({ curso: c.id }));
@@ -55,6 +56,7 @@ export default function CursoPage({ params }) {
                   {k.titulo} {k.partilhada && <span className="sb-tag">comum</span>}
                 </div>
                 <div className="meta">{estado}{k.ementa?.length ? ` · ${k.ementa.length} tópicos` : ""}</div>
+                {k.inicio && k.fim && <Prazo inicio={k.inicio} fim={k.fim} />}
               </span>
               <span className="arrow">→</span>
             </Link>

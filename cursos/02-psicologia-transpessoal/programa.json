@@ -1,30 +1,23 @@
 {
   "disciplinas": [
     {
-      "id": "desenvolvimento-profissional",
-      "titulo": "Desenvolvimento Profissional",
+      "id": "desenvolvimento-pessoal",
+      "titulo": "Desenvolvimento Pessoal e Profissional nas Carreiras da Saúde",
+      "partilhada": true,
+      "inicio": "2026-05-28",
+      "fim": "2026-09-05",
       "ementa": [
-        "Liderança e o papel do líder",
-        "Liderar a própria carreira",
-        "Comunicação eficaz; dar e receber feedback",
-        "Apresentação em público",
-        "Características empreendedoras; criar o próprio negócio",
-        "Propósito pessoal e profissional",
-        "Ética e dilemas éticos"
-      ]
-    },
-    {
-      "id": "astrologia",
-      "titulo": "Técnicas Transpessoais: Astrologia",
-      "ementa": [
-        "Fundamentos da Astrologia",
-        "Inter-relação com a abordagem interpessoal",
-        "Técnicas da astrologia"
+        "Inteligência emocional",
+        "Habilidades e competências de carreira",
+        "Prevenção do adoecimento psíquico",
+        "Qualidade de vida e bem-estar"
       ]
     },
     {
       "id": "historia-fundamentos",
       "titulo": "Transpessoal: História e Fundamentos",
+      "inicio": "2026-06-07",
+      "fim": "2026-07-05",
       "ementa": [
         "Precursores da Psicologia Transpessoal",
         "Fundamentação teórica",
@@ -32,16 +25,10 @@
       ]
     },
     {
-      "id": "terapia-transdisciplinaridade",
-      "titulo": "Terapia Transpessoal e Transdisciplinaridade",
-      "ementa": [
-        "A transdisciplinaridade da Psicologia Transpessoal",
-        "Intervenções com princípios fenomenológicos"
-      ]
-    },
-    {
       "id": "mitologia-junguiana",
       "titulo": "Mitologia, Simbolismo e Terapia Junguiana",
+      "inicio": "2026-07-07",
+      "fim": "2026-08-05",
       "ementa": [
         "Fundamentos da psicologia junguiana",
         "Simbolismo e estruturas de arquétipos",
@@ -49,8 +36,41 @@
       ]
     },
     {
+      "id": "constelacao-familiar",
+      "titulo": "Técnicas Transpessoais: Constelação Familiar",
+      "inicio": "2026-08-07",
+      "fim": "2026-09-05",
+      "ementa": [
+        "A constelação familiar na terapia transpessoal",
+        "Fundamentos da constelação familiar"
+      ]
+    },
+    {
+      "id": "astrologia",
+      "titulo": "Técnicas Transpessoais: Astrologia",
+      "inicio": "2026-09-07",
+      "fim": "2026-10-05",
+      "ementa": [
+        "Fundamentos da Astrologia",
+        "Inter-relação com a abordagem interpessoal",
+        "Técnicas da astrologia"
+      ]
+    },
+    {
+      "id": "terapia-transdisciplinaridade",
+      "titulo": "Terapia Transpessoal e Transdisciplinaridade",
+      "inicio": "2026-10-07",
+      "fim": "2026-11-05",
+      "ementa": [
+        "A transdisciplinaridade da Psicologia Transpessoal",
+        "Intervenções com princípios fenomenológicos"
+      ]
+    },
+    {
       "id": "hipnose-regressao",
       "titulo": "Técnicas Transpessoais: Expansão da Consciência — Hipnose e Regressão",
+      "inicio": "2026-11-07",
+      "fim": "2026-12-05",
       "ementa": [
         "Fundamentos da expansão da consciência",
         "Técnica de hipnose",
@@ -58,17 +78,10 @@
       ]
     },
     {
-      "id": "mandalas-xamanismo-sonhos",
-      "titulo": "Técnicas Transpessoais: Mandalas, Xamanismo e Sonhos",
-      "ementa": [
-        "A mandala como instrumento analítico",
-        "O xamanismo como modelo de atenção transpessoal",
-        "Sonhos e a psicologia transpessoal"
-      ]
-    },
-    {
       "id": "meditacoes",
       "titulo": "Técnicas Transpessoais: Meditações",
+      "inicio": "2026-12-07",
+      "fim": "2027-01-15",
       "ementa": [
         "Contexto histórico da meditação",
         "Abordagens de meditação",
@@ -76,11 +89,14 @@
       ]
     },
     {
-      "id": "constelacao-familiar",
-      "titulo": "Técnicas Transpessoais: Constelação Familiar",
+      "id": "mandalas-xamanismo-sonhos",
+      "titulo": "Técnicas Transpessoais: Mandalas, Xamanismo e Sonhos",
+      "inicio": "2027-01-07",
+      "fim": "2027-02-05",
       "ementa": [
-        "A constelação familiar na terapia transpessoal",
-        "Fundamentos da constelação familiar"
+        "A mandala como instrumento analítico",
+        "O xamanismo como modelo de atenção transpessoal",
+        "Sonhos e a psicologia transpessoal"
       ]
     }
   ]

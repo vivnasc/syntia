@@ -4,6 +4,8 @@
       "id": "desenvolvimento-pessoal",
       "titulo": "Desenvolvimento Pessoal e Profissional nas Carreiras da Saúde",
       "partilhada": true,
+      "inicio": "2026-05-28",
+      "fim": "2026-09-05",
       "ementa": [
         "Inteligência emocional",
         "Habilidades e competências de carreira",
@@ -12,8 +14,34 @@
       ]
     },
     {
+      "id": "pensamento-sistemico-teoria",
+      "titulo": "Explorando o Pensamento Sistémico e a Teoria dos Sistemas",
+      "inicio": "2026-06-07",
+      "fim": "2026-07-05",
+      "ementa": [
+        "Bases do pensamento sistémico",
+        "A teoria sistémica na psicologia",
+        "Abordagem sistémica nas organizações",
+        "A psicoterapia sistémica"
+      ]
+    },
+    {
+      "id": "constelador-tecnicas",
+      "titulo": "O Constelador Familiar e as Técnicas de Atendimento Individual e em Grupo",
+      "inicio": "2026-07-07",
+      "fim": "2026-08-05",
+      "ementa": [
+        "As constelações familiares",
+        "Orientação pelo sistema",
+        "O escopo da constelação familiar",
+        "Riscos e oportunidades das técnicas"
+      ]
+    },
+    {
       "id": "mudanca-epistemologica",
       "titulo": "Mudança Epistemológica e Introdução ao Pensamento Sistémico",
+      "inicio": "2026-08-07",
+      "fim": "2026-09-05",
       "ementa": [
         "Paradigma e epistemologia",
         "O paradigma sistémico",
@@ -27,6 +55,8 @@
     {
       "id": "definindo-constelacoes",
       "titulo": "Definindo e Entendendo as Constelações Familiares",
+      "inicio": "2026-09-07",
+      "fim": "2026-10-05",
       "ementa": [
         "Sobre as Constelações Familiares",
         "Dos emaranhamentos às imagens de solução",
@@ -35,18 +65,10 @@
       ]
     },
     {
-      "id": "pensamento-sistemico-teoria",
-      "titulo": "Explorando o Pensamento Sistémico e a Teoria dos Sistemas",
-      "ementa": [
-        "Bases do pensamento sistémico",
-        "A teoria sistémica na psicologia",
-        "Abordagem sistémica nas organizações",
-        "A psicoterapia sistémica"
-      ]
-    },
-    {
       "id": "constelacao-familiar-sistemica",
       "titulo": "Constelação Familiar Sistémica",
+      "inicio": "2026-10-07",
+      "fim": "2026-11-05",
       "ementa": [
         "Introdução à Constelação Familiar Sistémica",
         "Como constelar?",
@@ -57,6 +79,8 @@
     {
       "id": "ordens-do-amor",
       "titulo": "Ordens do Amor — Pais e Filhos, Relacionamento Afetivo, Ordens da Ajuda",
+      "inicio": "2026-11-07",
+      "fim": "2026-12-05",
       "ementa": [
         "O sistema familiar",
         "Ordens do amor",
@@ -67,6 +91,8 @@
     {
       "id": "pnl-constelacao",
       "titulo": "PNL na Constelação Sistémica — Aprendendo a Ler o seu Cliente",
+      "inicio": "2026-12-07",
+      "fim": "2027-01-15",
       "ementa": [
         "PNL e a terapia sistémica",
         "PNL e os sistemas",
@@ -77,21 +103,13 @@
     {
       "id": "campo-morfogenetico",
       "titulo": "Campo Morfogenético e Campo Mórfico",
+      "inicio": "2027-01-07",
+      "fim": "2027-02-05",
       "ementa": [
         "Teoria dos Campos",
         "A Constelação Familiar",
         "Tipos de Constelação",
         "Árvore genealógica na Constelação"
-      ]
-    },
-    {
-      "id": "constelador-tecnicas",
-      "titulo": "O Constelador Familiar e as Técnicas de Atendimento Individual e em Grupo",
-      "ementa": [
-        "As constelações familiares",
-        "Orientação pelo sistema",
-        "O escopo da constelação familiar",
-        "Riscos e oportunidades das técnicas"
       ]
     }
   ]

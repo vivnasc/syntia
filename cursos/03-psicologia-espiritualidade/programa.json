@@ -4,6 +4,8 @@
       "id": "desenvolvimento-pessoal",
       "titulo": "Desenvolvimento Pessoal e Profissional nas Carreiras da Saúde",
       "partilhada": true,
+      "inicio": "2026-05-28",
+      "fim": "2026-09-05",
       "ementa": [
         "Inteligência emocional",
         "Habilidades e competências de carreira",
@@ -14,23 +16,18 @@
     {
       "id": "correlacao-psicologia-espiritualidade",
       "titulo": "A Correlação entre a Psicologia e a Espiritualidade na Formação da Personalidade",
+      "inicio": "2026-06-07",
+      "fim": "2026-07-05",
       "ementa": [
         "Ciência, espiritualidade e psicologia",
         "Discussão possível entre os conceitos"
       ]
     },
     {
-      "id": "espiritualidade-clinica",
-      "titulo": "Espiritualidade na Clínica Psicológica",
-      "ementa": [
-        "Fenómenos espirituais e o sagrado",
-        "A psiquê no contexto das crenças religiosas",
-        "A noção particular do sagrado"
-      ]
-    },
-    {
       "id": "qualidade-vida-bem-estar",
       "titulo": "Qualidade de Vida e Bem-Estar Espiritual",
+      "inicio": "2026-07-07",
+      "fim": "2026-08-05",
       "ementa": [
         "Espiritualidade na sociedade contemporânea",
         "Ampliação da consciência e do self",
@@ -39,8 +36,21 @@
       ]
     },
     {
+      "id": "espiritualidade-clinica",
+      "titulo": "Espiritualidade na Clínica Psicológica",
+      "inicio": "2026-08-07",
+      "fim": "2026-09-05",
+      "ementa": [
+        "Fenómenos espirituais e o sagrado",
+        "A psiquê no contexto das crenças religiosas",
+        "A noção particular do sagrado"
+      ]
+    },
+    {
       "id": "religiosidade-niilismo",
       "titulo": "Psicologia, Espiritualidade, Religiosidade e Niilismo",
+      "inicio": "2026-09-07",
+      "fim": "2026-10-05",
       "ementa": [
         "A visão niilista de mundo (falta de sentido)",
         "Espiritualidade no contexto psicológico"
@@ -49,6 +59,8 @@
     {
       "id": "autoconhecimento-emocoes",
       "titulo": "Autoconhecimento e o Estudo das Emoções",
+      "inicio": "2026-10-07",
+      "fim": "2026-11-05",
       "ementa": [
         "A psiquê nos ciclos da vida",
         "Estudo das emoções"
@@ -57,6 +69,8 @@
     {
       "id": "psicoterapias-transtornos",
       "titulo": "Psicoterapias e Transtornos Mentais",
+      "inicio": "2026-11-07",
+      "fim": "2026-12-05",
       "ementa": [
         "Saúde mental e psicoterapia",
         "Transtorno de personalidade borderline",
@@ -69,6 +83,8 @@
     {
       "id": "espacos-atuacao",
       "titulo": "Psicologia e Espiritualidade: Espaços de Atuação do Profissional",
+      "inicio": "2026-12-07",
+      "fim": "2027-01-15",
       "ementa": [
         "Relação empática",
         "Integração das crenças nos cuidados psicoterapêuticos",
@@ -78,6 +94,8 @@
     {
       "id": "religiosidade-desenvolvimento",
       "titulo": "A Religiosidade como Elemento do Desenvolvimento Humano",
+      "inicio": "2027-01-07",
+      "fim": "2027-02-05",
       "ementa": [
         "Religiosidade na sociedade contemporânea",
         "Identidades coletivas",

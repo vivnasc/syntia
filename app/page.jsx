@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getCursos, getPartilhada, getBanco, getTemas } from "../lib/conteudo";
+import { PainelPrazos } from "./Prazo";
 
 const COR_TEMA = {
   corpo: "var(--corpo)",
@@ -26,6 +27,20 @@ export default function Home() {
 
   const temaCount = Object.fromEntries(temas.map((t) => [t, banco.filter((it) => it.temas.includes(t)).length]));
 
+  // Prazos de todas as disciplinas (partilhada uma só vez).
+  const prazoItens = [];
+  const vistos = new Set();
+  for (const c of cursos) {
+    for (const k of c.cadeiras) {
+      if (!k.inicio || !k.fim) continue;
+      const href = k.partilhada ? "/partilhada" : `/curso/${c.id}/${k.id}`;
+      const chave = `${href}|${k.titulo}`;
+      if (vistos.has(chave)) continue;
+      vistos.add(chave);
+      prazoItens.push({ cursoTitulo: k.partilhada ? "Comum às 3 pós" : c.titulo, titulo: k.titulo, inicio: k.inicio, fim: k.fim, href });
+    }
+  }
+
   return (
     <>
       <h1>O teu painel</h1>
@@ -40,6 +55,9 @@ export default function Home() {
         <div className="stat"><div className="n">{totalFlash}</div><div className="l">flashcards</div></div>
         <div className="stat"><div className="n">{banco.length}</div><div className="l">ideias de produto</div></div>
       </div>
+
+      <div className="section-label" style={{ marginTop: 34 }}>Prazos · o que está aberto</div>
+      <PainelPrazos itens={prazoItens} />
 
       <div className="section-label" style={{ marginTop: 34 }}>Progresso por curso</div>
       <div className="prog">

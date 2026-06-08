@@ -84,6 +84,31 @@ function lerPrograma(cursoDir) {
   }
 }
 
+// "U1_Aula05_Historico_Geral_dos_Sistemas_P2" → unidade 1
+function unidadeDe(nome) {
+  const m = nome.match(/^U(\d+)/i);
+  return m ? parseInt(m[1], 10) : null;
+}
+// Título legível: tira o prefixo U<n>_ e arruma "Aula05" → "Aula 05".
+function tituloAula(nome) {
+  let s = nome.replace(/^U\d+[_-]/i, "");
+  s = s.replace(/aula0*(\d+)/i, (_, d) => `Aula ${d}`);
+  return prettify(s);
+}
+
+// Agrupa as aulas pelas Unidades (módulos). Cada disciplina tem 4 por defeito.
+function agruparUnidades(aulas) {
+  const nums = aulas.map((a) => a.unidade).filter((n) => n);
+  const max = Math.max(4, ...nums);
+  const unidades = [];
+  for (let n = 1; n <= max; n++) {
+    unidades.push({ n, titulo: `Unidade ${n}`, aulas: aulas.filter((a) => a.unidade === n) });
+  }
+  const soltas = aulas.filter((a) => !a.unidade);
+  if (soltas.length) unidades.push({ n: 0, titulo: "Outras aulas", aulas: soltas });
+  return unidades;
+}
+
 function lerAulas(cadeiraDir, fonte, banco) {
   const sintDir = path.join(cadeiraDir, "sinteses");
   const prodDir = path.join(cadeiraDir, "produto");
@@ -93,12 +118,14 @@ function lerAulas(cadeiraDir, fonte, banco) {
   for (const f of fs.readdirSync(sintDir).sort()) {
     if (!f.endsWith(".md")) continue;
     const nome = f.replace(/\.md$/, "");
+    const titulo = tituloAula(nome);
     const { flashcards, sinteseSemCards } = extrairFlashcards(lerTxt(path.join(sintDir, f)));
     const produtoMd = lerTxt(path.join(prodDir, `${nome}.md`));
-    banco.push(...extrairItensProduto(produtoMd, { ...fonte, aula: prettify(nome) }));
+    banco.push(...extrairItensProduto(produtoMd, { ...fonte, aula: titulo }));
     aulas.push({
       nome,
-      titulo: prettify(nome),
+      titulo,
+      unidade: unidadeDe(nome),
       sintese: sinteseSemCards,
       flashcards,
       temTranscricao: existe(path.join(transDir, `${nome}.txt`)),
@@ -129,10 +156,10 @@ function main() {
       const usados = new Set();
       for (const disc of lerPrograma(cursoDir)) {
         usados.add(disc.id);
-        const ementa = disc.ementa || [];
+        const base = { id: disc.id, titulo: disc.titulo, ementa: disc.ementa || [], inicio: disc.inicio || null, fim: disc.fim || null };
         if (disc.partilhada) {
           // disciplina comum: o conteúdo vive na disciplina-partilhada.
-          cadeiras.push({ id: disc.id, titulo: disc.titulo, ementa, partilhada: true, materiais: [], aulas: [] });
+          cadeiras.push({ ...base, partilhada: true, materiais: [], aulas: [], unidades: [] });
           continue;
         }
         const cadDir = path.join(cursoDir, disc.id);
@@ -140,7 +167,7 @@ function main() {
         const aulas = isDir(cadDir)
           ? lerAulas(cadDir, { curso: cursoId, cursoTitulo, cadeira: disc.id, areaTitulo: `${cursoTitulo} · ${disc.titulo}` }, banco)
           : [];
-        cadeiras.push({ id: disc.id, titulo: disc.titulo, ementa, materiais, aulas });
+        cadeiras.push({ ...base, materiais, aulas, unidades: agruparUnidades(aulas) });
       }
       // Pastas de conteúdo que não constam do programa — não perder nada.
       for (const cadId of fs.readdirSync(cursoDir).sort()) {
@@ -150,7 +177,7 @@ function main() {
         const cadTitulo = prettify(cadId);
         const materiais = copiarMaterial(path.join(cadDir, "_material"), `${cursoId}/${cadId}`);
         const aulas = lerAulas(cadDir, { curso: cursoId, cursoTitulo, cadeira: cadId, areaTitulo: `${cursoTitulo} · ${cadTitulo}` }, banco);
-        cadeiras.push({ id: cadId, titulo: cadTitulo, ementa: [], materiais, aulas });
+        cadeiras.push({ id: cadId, titulo: cadTitulo, ementa: [], inicio: null, fim: null, materiais, aulas, unidades: agruparUnidades(aulas) });
       }
       cursos.push({ id: cursoId, titulo: cursoTitulo, materiais: materiaisCurso, cadeiras });
     }
@@ -160,10 +187,10 @@ function main() {
   let partilhada = null;
   const partDir = path.join(ROOT, "disciplina-partilhada");
   if (isDir(partDir)) {
-    const titulo = "Disciplina Partilhada";
+    const titulo = "Desenvolvimento Pessoal e Profissional nas Carreiras da Saúde";
     const materiais = copiarMaterial(path.join(partDir, "_material"), "disciplina-partilhada");
     const aulas = lerAulas(partDir, { curso: "disciplina-partilhada", cursoTitulo: titulo, cadeira: "", areaTitulo: titulo }, banco);
-    partilhada = { id: "disciplina-partilhada", titulo, materiais, aulas };
+    partilhada = { id: "disciplina-partilhada", titulo, inicio: "2026-05-28", fim: "2026-09-05", materiais, aulas, unidades: agruparUnidades(aulas) };
   }
 
   const conteudo = { geradoEm: new Date().toISOString(), temas: TEMAS, cursos, partilhada, banco };
