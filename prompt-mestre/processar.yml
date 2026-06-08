@@ -1,0 +1,43 @@
+name: Processar Aulas
+
+on:
+  push:
+    paths:
+      - 'cursos/**/_audio/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  processar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Processar áudios novos
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/processar.mjs
+
+      - name: Commit dos resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cursos/
+          if git diff --staged --quiet; then
+            echo "Nada de novo para processar."
+          else
+            git commit -m "Processamento automático de aulas"
+            git push
+          fi
