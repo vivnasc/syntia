@@ -3,7 +3,6 @@ import { useRef, useState } from "react";
 import { upload } from "@vercel/blob/client";
 
 export default function Uploader({ areas }) {
-  const [passcode, setPasscode] = useState("");
   const [curso, setCurso] = useState(areas[0]?.id || "");
   const [file, setFile] = useState(null);
   const [estado, setEstado] = useState("idle"); // idle | upload | dispatch | ok | erro
@@ -22,7 +21,6 @@ export default function Uploader({ areas }) {
 
   async function enviar() {
     setErro("");
-    if (!passcode) return setErro("Escreve o código de acesso.");
     if (!curso) return setErro("Escolhe a área.");
     if (!file) return setErro("Escolhe o ficheiro de áudio.");
 
@@ -32,14 +30,13 @@ export default function Uploader({ areas }) {
         access: "public",
         handleUploadUrl: "/api/blob-upload",
         contentType: file.type || "audio/mpeg",
-        clientPayload: JSON.stringify({ passcode }),
       });
 
       setEstado("dispatch");
       const resp = await fetch("/api/ingest", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ url: blob.url, curso, filename: file.name, passcode }),
+        body: JSON.stringify({ url: blob.url, curso, filename: file.name }),
       });
       const data = await resp.json();
       if (!resp.ok) throw new Error(data.error || "Falha ao iniciar o processamento.");
@@ -76,18 +73,6 @@ export default function Uploader({ areas }) {
 
   return (
     <div className="list" style={{ maxWidth: 560 }}>
-      <label className="lead" style={{ margin: 0 }}>
-        Código de acesso
-        <input
-          type="password"
-          value={passcode}
-          onChange={(e) => setPasscode(e.target.value)}
-          placeholder="o teu código"
-          className="campo"
-          autoComplete="off"
-        />
-      </label>
-
       <label className="lead" style={{ margin: 0 }}>
         Área
         <select value={curso} onChange={(e) => setCurso(e.target.value)} className="campo">

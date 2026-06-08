@@ -19,11 +19,8 @@ export async function POST(request) {
   } catch {
     return Response.json({ error: "Pedido inválido." }, { status: 400 });
   }
-  const { url, curso, filename, passcode } = payload || {};
+  const { url, curso, filename } = payload || {};
 
-  if (!process.env.UPLOAD_PASSCODE || passcode !== process.env.UPLOAD_PASSCODE) {
-    return Response.json({ error: "Código de acesso inválido." }, { status: 401 });
-  }
   const token = process.env.GITHUB_DISPATCH_TOKEN;
   if (!token) {
     return Response.json({ error: "Falta configurar GITHUB_DISPATCH_TOKEN no servidor." }, { status: 500 });

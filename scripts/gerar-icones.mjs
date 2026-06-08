@@ -60,29 +60,47 @@ function png(size, draw) {
   ]);
 }
 
-const INDIGO = [30, 27, 75];
-const ROXO = [167, 139, 250];
-const ROSA = [240, 171, 252];
+// Tile editorial: estrela de quatro pontas em ouro + anel-selo fino,
+// sobre tinta quente profunda. Sóbrio, condiz com o "✦ SyntIA".
+const INK_A = [38, 26, 28];   // canto claro do fundo
+const INK_B = [24, 16, 18];   // canto escuro do fundo
+const GOLD = [198, 162, 78];
+const GOLD_HI = [230, 201, 130];
 function mix(a, b, t) { return a.map((v, i) => Math.round(v + (b[i] - v) * t)); }
+function clamp01(t) { return t < 0 ? 0 : t > 1 ? 1 : t; }
 
 function desenhar(size) {
-  const cx = size / 2, cy = size / 2;
-  const rOut = size * 0.34, rIn = size * 0.17;
+  const cx = (size - 1) / 2, cy = (size - 1) / 2;
+  const rStar = size * 0.30;     // raio das pontas da estrela
+  const rRing = size * 0.40;     // anel-selo
+  const ringW = Math.max(1, size * 0.011);
   return (x, y) => {
-    // gradiente de fundo diagonal índigo→índigo-mais-escuro
-    const g = (x + y) / (2 * size);
-    const bg = mix(INDIGO, [12, 10, 40], g);
-    const d = Math.hypot(x - cx, y - cy);
-    if (d < rIn) return [...ROSA, 255];
-    if (d < rOut) {
-      const t = (d - rIn) / (rOut - rIn);
-      return [...mix(ROSA, ROXO, t), 255];
+    const dx = x - cx, dy = y - cy;
+    const g = clamp01((x + y) / (2 * size));
+    const bg = mix(INK_A, INK_B, g);
+
+    // estrela de 4 pontas (astroide): sqrt(|nx|)+sqrt(|ny|) <= 1
+    const nx = Math.abs(dx) / rStar;
+    const ny = Math.abs(dy) / rStar;
+    const s = Math.sqrt(nx) + Math.sqrt(ny);
+    if (s <= 1.02) {
+      const dist = Math.hypot(dx, dy);
+      const core = clamp01(1 - dist / rStar);          // mais claro ao centro
+      const col = mix(GOLD, GOLD_HI, core * 0.7);
+      const edge = clamp01((1.02 - s) / 0.06);          // suaviza o contorno
+      return [...mix(bg, col, edge), 255];
     }
+
+    // anel-selo fino
+    const dist = Math.hypot(dx, dy);
+    const ringA = clamp01(1 - Math.abs(dist - rRing) / ringW);
+    if (ringA > 0) return [...mix(bg, GOLD, ringA * 0.55), 255];
+
     return [...bg, 255];
   };
 }
 
-for (const size of [180, 192, 512]) {
+for (const size of [32, 180, 192, 512]) {
   fs.writeFileSync(path.join(PUBLIC, `icon-${size}.png`), png(size, desenhar(size)));
   console.log(`icon-${size}.png`);
 }

@@ -25,19 +25,8 @@ export async function POST(request) {
     const json = await handleUpload({
       request,
       body,
-      onBeforeGenerateToken: async (_pathname, clientPayload) => {
-        let passcode = "";
-        try {
-          passcode = JSON.parse(clientPayload || "{}").passcode || "";
-        } catch {
-          passcode = "";
-        }
-        if (!process.env.UPLOAD_PASSCODE) {
-          throw new Error("Falta configurar UPLOAD_PASSCODE no servidor.");
-        }
-        if (passcode !== process.env.UPLOAD_PASSCODE) {
-          throw new Error("Código de acesso inválido.");
-        }
+      onBeforeGenerateToken: async () => {
+        // Sem proteção por código: qualquer pedido pode obter um token de upload.
         return {
           allowedContentTypes: TIPOS_AUDIO,
           maximumSizeInBytes: 500 * 1024 * 1024, // 500 MB

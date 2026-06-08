@@ -65,15 +65,17 @@ referência para o Bloco B — e faz commit dos resultados. Demora alguns minuto
    app está na raiz e a Vercel deteta **Next.js** automaticamente.
 3. Em **Storage**, cria um **Blob Store** e liga-o ao projeto (grátis no plano
    base). Fica a guardar os MP3 enviados e define sozinho `BLOB_READ_WRITE_TOKEN`.
-4. Em **Settings → Environment Variables**, acrescenta duas:
-   - `UPLOAD_PASSCODE` — um código à tua escolha; é o que escreves na app para
-     poder enviar aulas (impede que estranhos usem o teu upload).
+4. Em **Settings → Environment Variables**, acrescenta:
    - `GITHUB_DISPATCH_TOKEN` — um *fine-grained token* do GitHub (github.com →
      Settings → Developer settings → Fine-grained tokens), com acesso ao
      repositório `syntia` e permissão **Actions: Read and write**. É o que deixa
      a app arrancar o pipeline.
    - *(opcional)* `GH_REPO` — só se mudares o nome do repositório no futuro; por
      omissão é `vivnasc/syntia`.
+
+   > O envio de aulas está **sem proteção** (qualquer pessoa com o link pode
+   > enviar). Se quiseres um cadeado, define `UPLOAD_PASSCODE` e pede para o
+   > reativar, ou usa a Password Protection da Vercel (Pro).
 5. **Deploy.** Fica online num endereço `*.vercel.app`. No telemóvel, abre e
    **"Adicionar ao ecrã principal"**.
 
@@ -82,10 +84,10 @@ atualiza a app automaticamente.
 
 ## ③ Enviar aulas pela app (sem ir ao GitHub)
 
-Na app, abre **"Enviar aula"**, escreve o teu `UPLOAD_PASSCODE`, escolhe a área,
-arrasta o MP3 e envia. O áudio vai para o armazenamento, a app arranca o
-pipeline, e daí a alguns minutos a aula aparece com síntese e flashcards. O MP3
-fica só no armazenamento — ao repositório vão apenas os textos gerados.
+Na app, abre **"Enviar aula"**, escolhe a área, arrasta o MP3 e envia. O áudio
+vai para o armazenamento, a app arranca o pipeline, e daí a alguns minutos a aula
+aparece com síntese e flashcards. O MP3 fica só no armazenamento — ao
+repositório vão apenas os textos gerados.
 
 > Continuas a poder largar MP3 diretamente em `cursos/<curso>/_audio/` pelo
 > GitHub, se preferires.
