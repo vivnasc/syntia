@@ -3,7 +3,7 @@ import { useRef, useState } from "react";
 import { createClient } from "@supabase/supabase-js";
 
 const BUCKET = "aulas";
-const EXT_AUDIO = /\.(mp3|m4a|wav|mp4|aac|ogg|flac|webm)$/i;
+const EXT_OK = /\.(mp3|m4a|wav|mp4|aac|ogg|flac|webm|pdf|txt|md)$/i;
 const unidadeDe = (nome) => {
   const m = nome.match(/^U(\d+)/i);
   return m ? `U${m[1]}` : null;
@@ -42,10 +42,10 @@ export default function Uploader({ cursos, partilhada }) {
     const novos = [];
     let ignorados = 0;
     for (const f of Array.from(fileList || [])) {
-      if (EXT_AUDIO.test(f.name)) novos.push({ file: f, status: "fila", erro: "" });
+      if (EXT_OK.test(f.name)) novos.push({ file: f, status: "fila", erro: "" });
       else ignorados++;
     }
-    setAviso(ignorados ? `${ignorados} ficheiro(s) não-áudio ignorado(s) (PDF/txt entram como material, em breve).` : "");
+    setAviso(ignorados ? `${ignorados} ficheiro(s) ignorado(s) (só MP3, PDF ou txt).` : "");
     setItens((prev) => [...prev, ...novos]);
   }
 
@@ -82,7 +82,7 @@ export default function Uploader({ cursos, partilhada }) {
 
         // 2) envia o ficheiro direto para o Supabase
         const up = await supa.storage.from(BUCKET).uploadToSignedUrl(prep.path, prep.token, file, {
-          contentType: file.type || "audio/mpeg",
+          contentType: file.type || "application/octet-stream",
         });
         if (up.error) throw new Error(`upload: ${up.error.message}`);
 
@@ -134,13 +134,13 @@ export default function Uploader({ cursos, partilhada }) {
         onDragLeave={() => setArrastar(false)}
         onDrop={(e) => { e.preventDefault(); setArrastar(false); juntar(e.dataTransfer.files); }}
       >
-        <div style={{ fontWeight: 650 }}>Arrasta os MP3 para aqui</div>
-        <div className="hint">podes escolher vários de uma vez · o nome U1_/U2_ arruma por unidade</div>
+        <div style={{ fontWeight: 650 }}>Arrasta MP3, PDF ou txt para aqui</div>
+        <div className="hint">vários de uma vez · cada um vira síntese + flashcards · o nome U1_/U2_ arruma por unidade</div>
         <input
           ref={inputRef}
           type="file"
           multiple
-          accept="audio/*,.mp3,.m4a,.wav,.aac,.ogg,.flac"
+          accept="audio/*,.mp3,.m4a,.wav,.aac,.ogg,.flac,.pdf,.txt,.md"
           style={{ display: "none" }}
           onChange={(e) => juntar(e.target.files)}
         />

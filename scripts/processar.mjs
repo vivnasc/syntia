@@ -33,6 +33,7 @@ const ECOSSISTEMA = fs.existsSync(ECOSSISTEMA_PATH)
   : "";
 
 const AUDIO_EXT = [".mp3", ".m4a", ".wav", ".mp4", ".aac", ".ogg", ".flac", ".webm"];
+const TEXTO_EXT = [".txt", ".md"];
 
 // Groq aceita ficheiros até ~25 MB. Mantemo-nos com folga abaixo disso.
 const LIMITE_BYTES = 24 * 1024 * 1024;
@@ -154,6 +155,26 @@ async function transcreverTroco(caminho) {
   return (await resp.text()).trim();
 }
 
+// Extrai o texto de um PDF com pdftotext (poppler-utils, instalado na Action).
+function extrairTextoPdf(caminho) {
+  try {
+    return execFileSync("pdftotext", ["-enc", "UTF-8", "-nopgbrk", caminho, "-"], {
+      maxBuffer: 64 * 1024 * 1024,
+    }).toString("utf-8").trim();
+  } catch (e) {
+    throw new Error(`pdftotext falhou: ${e.message}`);
+  }
+}
+
+// Obtém o texto-fonte de um ficheiro, conforme o tipo: áudio → transcrição,
+// PDF → extração, txt/md → leitura direta.
+async function textoFonteDe(caminho, ext) {
+  if (AUDIO_EXT.includes(ext)) return transcrever(caminho);
+  if (ext === ".pdf") return extrairTextoPdf(caminho);
+  if (TEXTO_EXT.includes(ext)) return fs.readFileSync(caminho, "utf-8").trim();
+  throw new Error(`Tipo de ficheiro não suportado: ${ext}`);
+}
+
 async function transcrever(caminhoAudio) {
   const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), "aula-"));
   try {
@@ -206,7 +227,7 @@ function carregarMaterial(materialDir) {
 // ---------------------------------------------------------------------------
 // Processamento via API do Claude
 // ---------------------------------------------------------------------------
-async function processarComClaude(transcricao, materialBlocos) {
+async function processarComClaude(transcricao, materialBlocos, rotulo = "TRANSCRIÇÃO DA AULA") {
   const content = [];
   if (materialBlocos.length) {
     content.push({
@@ -234,7 +255,7 @@ async function processarComClaude(transcricao, materialBlocos) {
       cache_control: { type: "ephemeral" },
     });
   }
-  content.push({ type: "text", text: `${PROMPT_MESTRE}\n\n=== TRANSCRIÇÃO DA AULA ===\n${transcricao}` });
+  content.push({ type: "text", text: `${PROMPT_MESTRE}\n\n=== ${rotulo} ===\n${transcricao}` });
 
   const resp = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
@@ -276,17 +297,18 @@ function separarBlocos(saida) {
 // repositório (ex.: /tmp) e não é comitado — só os textos gerados o são.
 // ---------------------------------------------------------------------------
 async function processarIngest() {
-  const audioPath = process.env.INGEST_AUDIO_PATH;
+  const ficheiroPath = process.env.INGEST_AUDIO_PATH;
   const area = process.env.INGEST_AREA || "";
-  const filename = process.env.INGEST_FILENAME || path.basename(audioPath || "");
+  const filename = process.env.INGEST_FILENAME || path.basename(ficheiroPath || "");
 
   if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
     throw new Error(`Área inválida: "${area}"`);
   }
-  if (!audioPath || !fs.existsSync(audioPath)) {
-    throw new Error(`Áudio não encontrado em ${audioPath}`);
+  if (!ficheiroPath || !fs.existsSync(ficheiroPath)) {
+    throw new Error(`Ficheiro não encontrado em ${ficheiroPath}`);
   }
 
+  const ext = path.extname(filename).toLowerCase();
   const nomeBase = path.basename(filename, path.extname(filename)) || "aula";
   const transDir = path.join(area, "transcricoes");
   const sintDir = path.join(area, "sinteses");
@@ -303,15 +325,19 @@ async function processarIngest() {
   }
 
   const material = materialParaArea(area);
+  const rotulo = AUDIO_EXT.includes(ext) ? "TRANSCRIÇÃO DA AULA" : "TEXTO DA AULA (documento enviado)";
 
-  console.log(`[${area}] A transcrever ${filename}...`);
-  const transcricao = fs.existsSync(txtPath)
+  console.log(`[${area}] A obter o texto de ${filename} (${ext || "?"})...`);
+  const texto = fs.existsSync(txtPath)
     ? fs.readFileSync(txtPath, "utf-8")
-    : await transcrever(audioPath);
-  fs.writeFileSync(txtPath, transcricao, "utf-8");
+    : await textoFonteDe(ficheiroPath, ext);
+  if (!texto || !texto.trim()) {
+    throw new Error(`Sem texto utilizável em ${filename} (PDF só com imagens? áudio vazio?).`);
+  }
+  fs.writeFileSync(txtPath, texto, "utf-8");
 
   console.log(`[${area}] A processar com o Claude (${material.length} PDF(s) de referência)...`);
-  const saida = await processarComClaude(transcricao, material);
+  const saida = await processarComClaude(texto, material, rotulo);
   const { sintese, produto } = separarBlocos(saida);
   fs.writeFileSync(sintPath, sintese, "utf-8");
   fs.writeFileSync(prodPath, produto, "utf-8");

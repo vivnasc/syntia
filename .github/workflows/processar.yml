@@ -37,8 +37,8 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
-      - name: Instalar ffmpeg
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Instalar ffmpeg e pdftotext
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg poppler-utils
 
       - name: Configurar Node
         uses: actions/setup-node@v4
@@ -69,6 +69,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "Nada de novo para processar."
           else
-            git commit -m "Processamento automático de aulas [skip ci]"
+            git commit -m "Processamento automático de aulas"
             git push
           fi
