@@ -22,9 +22,10 @@ export default function EnviarPage() {
       </div>
       <h1>Enviar aula</h1>
       <p className="lead">
-        Escolhe o curso e a cadeira, arrasta o MP3 e envia. O resto é automático:
-        transcrição, síntese, flashcards e ideias de produto aparecem na cadeira certa
-        daqui a alguns minutos. Se for uma cadeira nova, é criada na hora.
+        Escolhe o curso e a cadeira, arrasta os ficheiros e envia — MP3, PDF ou txt,
+        à vontade misturados. O resto é automático: cada um vira síntese, flashcards e
+        ideias de produto na cadeira certa daqui a alguns minutos (o áudio é transcrito,
+        o PDF e o txt são lidos). Se for uma cadeira nova, é criada na hora.
       </p>
 
       <Uploader cursos={cursos} partilhada={partilhada} />

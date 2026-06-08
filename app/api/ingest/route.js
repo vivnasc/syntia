@@ -5,7 +5,7 @@
 // O token do GitHub vive só aqui, no servidor — nunca chega ao browser.
 import { getCursos, getPartilhada } from "../../../lib/conteudo";
 
-const EXT_AUDIO = /\.(mp3|m4a|wav|mp4|aac|ogg|flac|webm)$/i;
+const EXT_OK = /\.(mp3|m4a|wav|mp4|aac|ogg|flac|webm|pdf|txt|md)$/i;
 
 function sanitizarNome(nome) {
   const base = String(nome || "").split(/[\\/]/).pop() || "";
@@ -30,8 +30,8 @@ export async function POST(request) {
   }
 
   const nomeFicheiro = sanitizarNome(filename);
-  if (!EXT_AUDIO.test(nomeFicheiro)) {
-    return Response.json({ error: "Ficheiro não é áudio reconhecido." }, { status: 400 });
+  if (!EXT_OK.test(nomeFicheiro)) {
+    return Response.json({ error: "Tipo de ficheiro não suportado (usa MP3, PDF ou txt)." }, { status: 400 });
   }
 
   // Constrói o caminho de destino (disciplina), validando contra o programa.
