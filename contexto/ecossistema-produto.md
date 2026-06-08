@@ -8,8 +8,7 @@ cada aula, para que as ideias sejam específicas dos produtos reais e respeitem 
 Organização: um cabeçalho por projeto/dossiê. Dentro de cada projeto, um bloco
 por produto/oferta, seguido do mapa por tema e do glossário de voz.
 
-> Estado da recolha: 3 de 4 dossiês recebidos (o 3.º veio rotulado "r4" e
-> consolida toda a loja / o Universo das 7 coleções).
+> Estado da recolha: **4 de 4 dossiês recebidos — recolha completa.**
 
 ---
 
@@ -362,3 +361,111 @@ por produto/oferta, seguido do mapa por tema e do glossário de voz.
 13. **Travessia** (vs. transformação) — palavra preferida; passa-se atravessando, não em chegando.
 14. **Porta** — cada livro/coleção é uma porta, não a casa.
 15. **A fonte interior / o nó invisível / o que não te disseste** — formas de nomear o que está por baixo do sintoma.
+
+---
+
+# Projeto 4 — SyncHim (A travessia do casal)
+
+> Eixo central do tema **amor**. Diagnóstico gratuito → travessia dos 7 nós →
+> biblioteca completa, mais a Coleção IV literária. **Só toca amor.** Maternidade
+> e prosperidade ficam de fora — a marca recusa explicitamente o vocabulário
+> new-age de "prosperidade/abundância/frequência".
+
+## SyncHim · Diagnóstico (Tier 0)
+- **Essência:** Diagnóstico íntimo e gratuito que revela qual dos sete padrões antigos está a tirar a tua relação de sincronia.
+- **Tema:** amor · **Formato:** PWA web (Next.js), texto, 21 perguntas + Sessão 1 (reconhecimento) + Sessão 2 (revelação do nó). Sem áudio, sem vídeo, sem rosto. 8 minutos de leitura.
+- **Para quem é:** Mulheres em relações sérias — casadas há anos OU em construção (variantes "casada"/"solteira"). "Por fora está tudo bem, por dentro tu sabes." Dor: dessincronia sem nome.
+- **Promessa:** De "não sei o que se passa connosco" para "tem um nome — e é meu". Reconhecimento + nome do padrão. Não promete resolver, devolve visão.
+- **Linguagem:** "os 7 nós", "nó dominante", "padrão antigo", "voltar a ti", "sincronia/dessincronia", "ver / nomear / dissolver", "honestidade brutal contigo mesma".
+- **Estado:** No ar (`/diagnostico` e `/resultado`, PT + EN).
+- **Pilares:** as 21 perguntas (scoring 0-3 por padrão), Sessão 1 (`content/pt/sessao-01.md`), Sessão 2 com revelação do nó, leads por nó (lead/body/fraseQueDoi) em `no-content.ts` + variantes solteira.
+- **Falta:** reescrita das sessões pagas em variante "solteira" (hoje cai por fallback para "casada"); afinação das `fraseQueDoi`.
+
+## SyncHim · Travessia do nó dominante (Tier 1)
+- **Essência:** Percurso pago de 21 dias para atravessar o nó que o diagnóstico revelou. · **Tema:** amor
+- **Formato:** 5 sessões adicionais (3-7) personalizadas pelo nó + 5 práticas + acesso vitalício. Gating temporal de 3 dias entre sessões. Texto puro.
+- **Para quem é:** Mulher que fez o diagnóstico e quer trabalhar o nó nomeado.
+- **Promessa:** Da compreensão do nó (Tier 0) à travessia — origem sistémica → ponto de viragem → reconfiguração → manutenção. "Quando a sincronia volta, ele volta. Não porque o manipulaste — porque deixaste de o empurrar para longe sem perceberes."
+- **Linguagem:** "ordens do amor", "lealdade invisível", "herança", "travessia", "frase-mãe", "verbo-âncora" (ver, regressar, escolher-se, entregar, distinguir), "devolver a ela".
+- **Estado:** No ar. Conteúdo pleno só para o **Nó da Fome**; os outros 6 herdam a estrutura mas requerem reescrita.
+- **Pilares:** Sessão 3 (mecânica do nó), 4 (origem sistémica), 5 (travessia), 6 (reconfiguração — comum), 7 (retorno — comum). 5 práticas por nó.
+- **Falta:** 18 textos (sessões 3-5 × 6 nós) + 30 práticas + variante solteira. · **Preço:** R$ 127 · US$ 39.
+
+## SyncHim · Biblioteca completa dos 7 nós (Tier 2)
+- **Essência:** Acesso a todos os 7 nós para sempre. · **Tema:** amor
+- **Formato:** Igual ao Tier 1 mas com os 7 nós desbloqueados + refazer diagnóstico ilimitado.
+- **Para quem é:** Mulher que quer ferramenta para a vida toda, ou que reconhece mais do que um padrão.
+- **Promessa:** "Cada nó que aparecer ao longo da vida, tu atravessa-lo."
+- **Linguagem:** "o mapa inteiro", "a biblioteca é tua", "o próximo nó sobe quando o primeiro afrouxa".
+- **Estado:** no ar tecnicamente; README marca "disabled at launch — kept for forward compat". Status real (por definir).
+- **Falta:** mesma reescrita do Tier 1; clareza pública sobre o tier estar activo. · **Preço:** R$ 297 · US$ 87.
+
+## SyncHim · Upgrade individual ("Atravessar próximo nó")
+- **Essência:** Compra à la carte de um nó adicional para quem já fez Tier 1. · **Tema:** amor
+- **Formato:** Desbloqueia sessões 3-7 e práticas de UM nó. · **Para quem é:** Compradora do Tier 1 que reconhece outro nó a subir.
+- **Promessa:** Continuidade sem committment de biblioteca completa.
+- **Linguagem:** "atravessa o teu próximo nó", "o nó que tu atravessaste é teu para sempre".
+- **Estado:** No ar (`UpsellSessao7` activo). · **Falta:** só para nós com conteúdo escrito (hoje só Fome). · **Preço:** US$ 19 (BRL por definir).
+
+## Coleção IV · "A mulher que..." (7 livros)
+- **Essência:** Sete livros literários, cada um sobre uma figura da mulher na ferida do amor — lente individual que aponta para a SyncHim sem a substituir. · **Tema:** amor
+- **Formato:** Livros (suporte por definir). Escrita literária, sem método clínico.
+- **Para quem é:** Mulher antes de estar pronta para o produto, ou que quer compreensão sem trabalho ainda.
+- **Promessa:** "Compreender a ferida é a primeira metade. A outra metade faz-se a dois — e isso é onde a SyncHim entra."
+- **Linguagem:** "a mulher que ama a ausência", "a mulher que desaparece", "a mulher que confunde intensidade com amor"; verbos-âncora por livro; frase-mãe que abre cada capítulo.
+- **Estado:** em construção (Phase 2 editorial).
+- **Falta:** mapeamento final livros-vs-nós; decidir 8.º livro ("a mulher que fica em quem a magoa"); afinar verbos repetidos; todo o conteúdo (por definir).
+
+## Pipeline editorial · estúdio interno `/admin`
+- **Essência:** Infraestrutura própria para produzir/agendar/exportar carrosseis IG e reels MP4 que sustentam organicamente os produtos pagos. *(meio, não produto)*
+- **Tema:** amor (alimenta os produtos acima).
+- **Formato:** Estúdio web interno + GitHub Actions (Puppeteer + FFmpeg) + Supabase Storage + export CSV Metricool (IG/TikTok/YouTube Shorts).
+- **Linguagem:** Karaokê SyncHim (palavra activa em ouro `#D4A857`), EB Garamond serif, estrela persa, paleta bordeaux→escuro.
+- **Estado:** No ar. 140+ posts em produção; 31 reels SV-* renderizados.
+- **Falta:** não é produto à venda — é gerador (ver `EXPERIENCIA-PRODUCAO-CONTEUDO.md`).
+
+### Mapa rápido por tema (Projeto 4)
+
+**Corpo** — Nenhum produto SyncHim toca corpo (é texto puro, leitura). *Loranne* (projeto separado, musicoterapia, "o corpo lembra o que a mente esqueceu") não vive neste repo. Porta aberta via Psicologia Transpessoal, mas seria território editorial novo. (por definir)
+
+**Amor** — SyncHim Diagnóstico, Tier 1, Tier 2, Upgrade (todo o eixo central) + Coleção IV (lente literária). Aulas que alimentam: ordens do amor no casal (Constelação Familiar), padrões sistémicos herdados, "fusão vs relação", arquétipos da feminilidade no amor (Jung, Transpessoal), o vazio como chamado (Espiritualidade).
+
+**Maternidade** — Nenhum produto SyncHim toca maternidade. (por definir — território editorial novo ou fora do universo.)
+
+**Prosperidade** — **Explicitamente proibido** como vocabulário (`SYNCHIM-CONCEITO.md` §6.4): "prosperidade" new-age está na lista preta com "manifestar", "abundância", "frequência". A marca recusa o eixo.
+
+### Glossário da voz (Projeto 4 — SyncHim)
+
+1. **nó / os 7 nós / nó dominante** — unidade de análise, minúscula salvo em título.
+2. **sincronia / dessincronia** — palavra-mãe; "casais não morrem por falta de amor, morrem por dessincronia".
+3. **travessia** — verbo do percurso de 21 dias (não "jornada", não "transformação").
+4. **ordens do amor** — vocabulário sistémico (Hellinger), usar literal.
+5. **voltar a ti / voltar à tua frequência** — fim do percurso, nunca "encontrar-te".
+6. **padrão antigo** — preferir a "trauma", "bloqueio" ou "ferida emocional".
+7. **ferida** — admitido no livro/coleção; no app preferir "padrão" ou "nó".
+8. **fusão vs relação** — a tese ("o amor deixa de ser fusão e passa a ser relação").
+9. **lealdade invisível / herança** — vindo da Constelação.
+10. **ver / nomear / dissolver** — método em 3 movimentos, manter ordem.
+11. **frase-mãe** — a frase que abre cada sessão/capítulo, formato fixo.
+12. **anti-guru, anti-curso** — auto-descrição da voz.
+13. **devolver a ela / devolver visão** — fim de qualquer texto, não fechar conclusões.
+14. **sem cobrar, sem brigar, sem ele saber** — promessa-assinatura da landing.
+15. **honestidade brutal contigo mesma** — registo emocional do diagnóstico.
+
+**Regras de uso transversais (SyncHim):**
+- **PT-PT sempre** (telemóvel, ecrã, casa de banho — nunca celular, tela, banheiro).
+- **Tu, 2ª pessoa, sempre** — falar com ela, nunca sobre ela.
+- **Sem travessões longos** (—, –) no corpo — vírgula, ponto, dois pontos. Exceção: assinatura visual ao lado da estrela persa.
+- **Sem emojis** no corpo (livros e app); admitidos em redes sociais.
+- **Frases curtas, parágrafos 1-3 linhas**, ritmo de leitura em telemóvel.
+- **Proibidos:** "energia feminina", "sagrado feminino", "vibração", "frequência" (new-age), "alinhar com o universo", "manifestar", "abundância", "afirmações", "decretos", "tu mereces" (como motor argumentativo), jargão coaching americano traduzido.
+
+---
+
+## Nota de relação entre produtos (por confirmar pela Vivianne)
+
+`SYNCHIM-CONCEITO.md` referido numa sessão afirma *"FreeMe = Pós-SyncHim. Quem
+fez a travessia e está a refazer-se"* (relação **sequencial**: casal → libertação
+pós-fusão). Já o retrato do FreeMe e o da SyncHim tratam-se como **portas
+autónomas por tema** (amor vs maternidade). Até a Vivianne decidir, o pipeline
+trata-os como **portas independentes**, sem forçar ligação sequencial.
