@@ -6,6 +6,7 @@ export default function Topbar({ active }) {
       <Link href="/" className="brand">✦ SyntIA</Link>
       <span className="spacer" />
       <Link href="/" className={`nav ${active === "areas" ? "active" : ""}`}>Áreas</Link>
+      <Link href="/enviar/" className={`nav ${active === "enviar" ? "active" : ""}`}>Enviar aula</Link>
       <Link href="/produto/" className={`nav ${active === "produto" ? "active" : ""}`}>Banco de Produto</Link>
     </div>
   );

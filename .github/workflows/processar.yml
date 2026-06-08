@@ -8,6 +8,19 @@ on:
       - 'cursos/**/_audio/**'
       - 'disciplina-partilhada/_audio/**'
   workflow_dispatch:
+    inputs:
+      audio_url:
+        description: 'URL do áudio (enviado pela PWA via Vercel Blob)'
+        required: false
+        default: ''
+      curso:
+        description: 'Pasta da área (ex.: cursos/01-... ou disciplina-partilhada)'
+        required: false
+        default: ''
+      filename:
+        description: 'Nome do ficheiro (ex.: U1_Aula01.mp3)'
+        required: false
+        default: ''
 
 # Evita corridas simultâneas a fazerem commit ao mesmo tempo.
 concurrency:
@@ -35,17 +48,27 @@ jobs:
       - name: Instalar dependências
         run: npm install --no-audit --no-fund
 
-      - name: Processar áudios novos
+      - name: Descarregar áudio enviado (modo upload)
+        if: ${{ github.event.inputs.audio_url != '' }}
+        env:
+          AUDIO_URL: ${{ github.event.inputs.audio_url }}
+        run: curl -fsSL "$AUDIO_URL" -o /tmp/ingest-audio
+
+      - name: Processar
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INGEST_AUDIO_PATH: ${{ github.event.inputs.audio_url != '' && '/tmp/ingest-audio' || '' }}
+          INGEST_AREA: ${{ github.event.inputs.curso }}
+          INGEST_FILENAME: ${{ github.event.inputs.filename }}
         run: node scripts/processar.mjs
 
-      - name: Commit dos resultados
+      - name: Commit dos resultados (só os textos, nunca o áudio)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add cursos/ disciplina-partilhada/
+          git reset -q -- ':(glob)**/_audio/**' 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "Nada de novo para processar."
           else

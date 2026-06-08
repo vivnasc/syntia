@@ -266,6 +266,54 @@ function separarBlocos(saida) {
 }
 
 // ---------------------------------------------------------------------------
+// Modo upload: processa um único áudio descarregado (variáveis INGEST_*).
+// Usado quando a Action é disparada pelo upload da PWA. O MP3 vem de fora do
+// repositório (ex.: /tmp) e não é comitado — só os textos gerados o são.
+// ---------------------------------------------------------------------------
+async function processarIngest() {
+  const audioPath = process.env.INGEST_AUDIO_PATH;
+  const area = process.env.INGEST_AREA || "";
+  const filename = process.env.INGEST_FILENAME || path.basename(audioPath || "");
+
+  if (!/^(cursos\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+    throw new Error(`Área inválida: "${area}"`);
+  }
+  if (!audioPath || !fs.existsSync(audioPath)) {
+    throw new Error(`Áudio não encontrado em ${audioPath}`);
+  }
+
+  const nomeBase = path.basename(filename, path.extname(filename)) || "aula";
+  const transDir = path.join(area, "transcricoes");
+  const sintDir = path.join(area, "sinteses");
+  const prodDir = path.join(area, "produto");
+  [transDir, sintDir, prodDir].forEach((d) => fs.mkdirSync(d, { recursive: true }));
+
+  const txtPath = path.join(transDir, `${nomeBase}.txt`);
+  const sintPath = path.join(sintDir, `${nomeBase}.md`);
+  const prodPath = path.join(prodDir, `${nomeBase}.md`);
+
+  if (fs.existsSync(txtPath) && fs.existsSync(sintPath) && fs.existsSync(prodPath)) {
+    console.log(`[${area}] ${nomeBase} já processado, salto.`);
+    return;
+  }
+
+  const material = carregarMaterial(path.join(area, "_material"));
+
+  console.log(`[${area}] A transcrever ${filename}...`);
+  const transcricao = fs.existsSync(txtPath)
+    ? fs.readFileSync(txtPath, "utf-8")
+    : await transcrever(audioPath);
+  fs.writeFileSync(txtPath, transcricao, "utf-8");
+
+  console.log(`[${area}] A processar com o Claude (${material.length} PDF(s) de referência)...`);
+  const saida = await processarComClaude(transcricao, material);
+  const { sintese, produto } = separarBlocos(saida);
+  fs.writeFileSync(sintPath, sintese, "utf-8");
+  fs.writeFileSync(prodPath, produto, "utf-8");
+  console.log(`[${area}] ${nomeBase} concluído.`);
+}
+
+// ---------------------------------------------------------------------------
 // Loop principal
 // ---------------------------------------------------------------------------
 async function main() {
@@ -273,6 +321,12 @@ async function main() {
     throw new Error("Faltam os secrets GROQ_API_KEY e/ou ANTHROPIC_API_KEY.");
   }
   if (!FFMPEG) console.log("Aviso: ffmpeg indisponível — áudios grandes vão falhar.");
+
+  // Disparado pela PWA: um único áudio vindo do armazenamento.
+  if (process.env.INGEST_AUDIO_PATH) {
+    await processarIngest();
+    return;
+  }
 
   const areas = descobrirAreas();
   if (!areas.length) {

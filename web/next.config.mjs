@@ -1,9 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Exporta um site estático (HTML/JS/CSS) → simples de servir na Vercel,
-  // lê o conteúdo do repositório em tempo de build.
-  output: "export",
-  trailingSlash: true,
+  // App com servidor na Vercel (deixou de ser export estático) para suportar
+  // o upload de áudio (rotas /api). As páginas de conteúdo continuam a ser
+  // pré-geradas em build a partir do repositório.
   images: { unoptimized: true },
 };
 
