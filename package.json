@@ -1,9 +1,23 @@
 {
-  "name": "estudos-pipeline",
+  "name": "syntia",
   "version": "1.0.0",
-  "type": "module",
   "private": true,
+  "type": "module",
   "scripts": {
+    "gerar": "node scripts/gerar-icones.mjs && node scripts/gerar-conteudo.mjs",
+    "prebuild": "npm run gerar",
+    "predev": "npm run gerar",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "processar": "node scripts/processar.mjs"
+  },
+  "dependencies": {
+    "@vercel/blob": "^0.27.3",
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-markdown": "9.0.1",
+    "remark-gfm": "4.0.0"
   }
 }

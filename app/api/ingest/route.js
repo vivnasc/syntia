@@ -44,7 +44,7 @@ export async function POST(request) {
     return Response.json({ error: "Ficheiro não é áudio reconhecido." }, { status: 400 });
   }
 
-  const repo = process.env.GH_REPO || "vivnasc/estudos";
+  const repo = process.env.GH_REPO || "vivnasc/syntia";
   const ref = process.env.GH_BRANCH || "main";
 
   const resp = await fetch(

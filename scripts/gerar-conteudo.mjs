@@ -1,9 +1,9 @@
-// web/scripts/gerar-conteudo.mjs
+// scripts/gerar-conteudo.mjs
 //
 // Lê as pastas do repositório (cursos/* e disciplina-partilhada) e produz:
-//   - web/lib/conteudo.json  → dados que a PWA renderiza (áreas, aulas,
+//   - lib/conteudo.json  → dados que a PWA renderiza (áreas, aulas,
 //     sínteses, flashcards, banco de produto)
-//   - web/public/material/<area>/<ficheiro>.pdf → cópia dos PDFs de referência
+//   - public/material/<area>/<ficheiro>.pdf → cópia dos PDFs de referência
 //
 // Corre automaticamente antes do `next build` (script "prebuild").
 // Não é preciso tocar aqui para adicionar um curso: basta criar a pasta.
@@ -12,10 +12,10 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
-const WEB = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const REPO = path.resolve(WEB, "..");
-const OUT_JSON = path.join(WEB, "lib", "conteudo.json");
-const OUT_MATERIAL = path.join(WEB, "public", "material");
+// A app vive na raiz do repositório; este script está em scripts/.
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const OUT_JSON = path.join(ROOT, "lib", "conteudo.json");
+const OUT_MATERIAL = path.join(ROOT, "public", "material");
 
 const TEMAS = ["corpo", "amor", "maternidade", "prosperidade"];
 
@@ -89,14 +89,14 @@ function extrairItensProduto(md, area, areaTitulo, aula) {
 // --- recolha de áreas -------------------------------------------------------
 function recolherAreas() {
   const dirs = [];
-  const cursosDir = path.join(REPO, "cursos");
+  const cursosDir = path.join(ROOT, "cursos");
   if (existe(cursosDir)) {
     for (const nome of fs.readdirSync(cursosDir).sort()) {
       const d = path.join(cursosDir, nome);
       if (fs.statSync(d).isDirectory()) dirs.push({ id: nome, dir: d, tipo: "curso" });
     }
   }
-  const partilhada = path.join(REPO, "disciplina-partilhada");
+  const partilhada = path.join(ROOT, "disciplina-partilhada");
   if (existe(partilhada)) dirs.push({ id: "disciplina-partilhada", dir: partilhada, tipo: "partilhada" });
   return dirs;
 }
