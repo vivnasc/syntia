@@ -12,16 +12,6 @@ function sanitizarNome(nome) {
   return base.replace(/[^\w.\- ]+/g, "_").trim();
 }
 
-function slug(s) {
-  return String(s || "")
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "")
-    .slice(0, 48);
-}
-
 export async function POST(request) {
   let payload;
   try {
@@ -44,7 +34,7 @@ export async function POST(request) {
     return Response.json({ error: "Ficheiro não é áudio reconhecido." }, { status: 400 });
   }
 
-  // Constrói o caminho de destino (cadeira), validando contra o conteúdo real.
+  // Constrói o caminho de destino (disciplina), validando contra o programa.
   let areaDir;
   let destinoTitulo;
   const partilhada = getPartilhada();
@@ -55,18 +45,11 @@ export async function POST(request) {
     const c = getCursos().find((x) => x.id === curso);
     if (!c) return Response.json({ error: "Curso desconhecido." }, { status: 400 });
 
-    let cadId;
-    const existente = c.cadeiras.find((k) => k.id === cadeira || k.titulo === cadeira);
-    if (existente) {
-      cadId = existente.id;
-    } else {
-      const s = slug(cadeira);
-      if (!s) return Response.json({ error: "Indica a cadeira." }, { status: 400 });
-      const idx = String(c.cadeiras.length + 1).padStart(2, "0");
-      cadId = `${idx}-${s}`;
-    }
-    areaDir = `cursos/${c.id}/${cadId}`;
-    destinoTitulo = `${c.titulo} · ${existente ? existente.titulo : cadeira}`;
+    const disc = c.cadeiras.find((k) => !k.partilhada && (k.id === cadeira || k.titulo === cadeira));
+    if (!disc) return Response.json({ error: "Disciplina desconhecida neste curso." }, { status: 400 });
+
+    areaDir = `cursos/${c.id}/${disc.id}`;
+    destinoTitulo = `${c.titulo} · ${disc.titulo}`;
   }
 
   const repo = process.env.GH_REPO || "vivnasc/syntia";

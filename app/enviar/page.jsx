@@ -8,7 +8,9 @@ export default function EnviarPage() {
   const cursos = getCursos().map((c) => ({
     id: c.id,
     titulo: c.titulo,
-    cadeiras: c.cadeiras.map((k) => ({ id: k.id, titulo: k.titulo })),
+    cadeiras: c.cadeiras
+      .filter((k) => !k.partilhada)
+      .map((k) => ({ id: k.id, titulo: k.titulo })),
   }));
   const part = getPartilhada();
   const partilhada = part ? { id: part.id, titulo: part.titulo } : null;

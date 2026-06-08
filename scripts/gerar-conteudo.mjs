@@ -74,6 +74,16 @@ function copiarMaterial(srcDir, destRel) {
   return out;
 }
 
+function lerPrograma(cursoDir) {
+  const p = path.join(cursoDir, "programa.json");
+  if (!existe(p)) return [];
+  try {
+    return JSON.parse(fs.readFileSync(p, "utf-8")).disciplinas || [];
+  } catch {
+    return [];
+  }
+}
+
 function lerAulas(cadeiraDir, fonte, banco) {
   const sintDir = path.join(cadeiraDir, "sinteses");
   const prodDir = path.join(cadeiraDir, "produto");
@@ -113,15 +123,34 @@ function main() {
       const cursoTitulo = prettify(cursoId);
       const materiaisCurso = copiarMaterial(path.join(cursoDir, "_material"), `${cursoId}/__curso`);
 
+      // As cadeiras (disciplinas) vêm do programa.json — currículo completo,
+      // mesmo as que ainda não têm aulas. Preenche as que já têm conteúdo.
       const cadeiras = [];
+      const usados = new Set();
+      for (const disc of lerPrograma(cursoDir)) {
+        usados.add(disc.id);
+        const ementa = disc.ementa || [];
+        if (disc.partilhada) {
+          // disciplina comum: o conteúdo vive na disciplina-partilhada.
+          cadeiras.push({ id: disc.id, titulo: disc.titulo, ementa, partilhada: true, materiais: [], aulas: [] });
+          continue;
+        }
+        const cadDir = path.join(cursoDir, disc.id);
+        const materiais = copiarMaterial(path.join(cadDir, "_material"), `${cursoId}/${disc.id}`);
+        const aulas = isDir(cadDir)
+          ? lerAulas(cadDir, { curso: cursoId, cursoTitulo, cadeira: disc.id, areaTitulo: `${cursoTitulo} · ${disc.titulo}` }, banco)
+          : [];
+        cadeiras.push({ id: disc.id, titulo: disc.titulo, ementa, materiais, aulas });
+      }
+      // Pastas de conteúdo que não constam do programa — não perder nada.
       for (const cadId of fs.readdirSync(cursoDir).sort()) {
-        if (ESPECIAIS.has(cadId) || cadId.startsWith(".")) continue;
+        if (ESPECIAIS.has(cadId) || cadId.startsWith(".") || cadId === "programa.json" || usados.has(cadId)) continue;
         const cadDir = path.join(cursoDir, cadId);
         if (!isDir(cadDir)) continue;
         const cadTitulo = prettify(cadId);
         const materiais = copiarMaterial(path.join(cadDir, "_material"), `${cursoId}/${cadId}`);
         const aulas = lerAulas(cadDir, { curso: cursoId, cursoTitulo, cadeira: cadId, areaTitulo: `${cursoTitulo} · ${cadTitulo}` }, banco);
-        cadeiras.push({ id: cadId, titulo: cadTitulo, materiais, aulas });
+        cadeiras.push({ id: cadId, titulo: cadTitulo, ementa: [], materiais, aulas });
       }
       cursos.push({ id: cursoId, titulo: cursoTitulo, materiais: materiaisCurso, cadeiras });
     }

@@ -13,8 +13,7 @@ export default function Uploader({ cursos, partilhada }) {
   const isPart = destino?.tipo === "partilhada";
   const cadeiras = destino?.cadeiras || [];
 
-  const [cadeiraSel, setCadeiraSel] = useState(cadeiras[0]?.id || "__nova");
-  const [novaCadeira, setNovaCadeira] = useState("");
+  const [cadeiraSel, setCadeiraSel] = useState(cadeiras[0]?.id || "");
   const [file, setFile] = useState(null);
   const [estado, setEstado] = useState("idle"); // idle | upload | dispatch | ok | erro
   const [erro, setErro] = useState("");
@@ -26,8 +25,7 @@ export default function Uploader({ cursos, partilhada }) {
   function trocarDestino(id) {
     setDestinoId(id);
     const d = destinos.find((x) => x.id === id);
-    setCadeiraSel(d?.cadeiras?.[0]?.id || "__nova");
-    setNovaCadeira("");
+    setCadeiraSel(d?.cadeiras?.[0]?.id || "");
     setErro("");
   }
 
@@ -41,15 +39,7 @@ export default function Uploader({ cursos, partilhada }) {
   async function enviar() {
     setErro("");
     if (!destinoId) return setErro("Escolhe o curso.");
-    let cadeiraVal = "";
-    if (!isPart) {
-      if (cadeiraSel === "__nova") {
-        if (!novaCadeira.trim()) return setErro("Dá um nome à cadeira nova.");
-        cadeiraVal = novaCadeira.trim();
-      } else {
-        cadeiraVal = cadeiraSel;
-      }
-    }
+    if (!isPart && !cadeiraSel) return setErro("Escolhe a disciplina.");
     if (!file) return setErro("Escolhe o ficheiro de áudio.");
 
     try {
@@ -64,7 +54,7 @@ export default function Uploader({ cursos, partilhada }) {
       const resp = await fetch("/api/ingest", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ url: blob.url, curso: destinoId, cadeira: cadeiraVal, filename: file.name }),
+        body: JSON.stringify({ url: blob.url, curso: destinoId, cadeira: isPart ? "" : cadeiraSel, filename: file.name }),
       });
       const data = await resp.json();
       if (!resp.ok) throw new Error(data.error || "Falha ao iniciar o processamento.");
@@ -76,12 +66,13 @@ export default function Uploader({ cursos, partilhada }) {
   }
 
   if (estado === "ok") {
+    const onde = isPart ? destino?.titulo : `${destino?.titulo} · ${cadeiras.find((k) => k.id === cadeiraSel)?.titulo || ""}`;
     return (
       <div className="prod-item" style={{ borderColor: "var(--gold)" }}>
         <div style={{ fontWeight: 700, marginBottom: 6 }}>Enviada ✓</div>
         <div className="txt">
           A aula <strong>{file?.name}</strong> está a ser processada. Daqui a alguns minutos
-          aparece em <strong>{destino?.titulo}</strong> com síntese e flashcards.
+          aparece em <strong>{onde}</strong> com síntese e flashcards.
         </div>
         <button className="chip" style={{ marginTop: 14 }} onClick={() => { setFile(null); setEstado("idle"); }}>
           enviar outra
@@ -103,25 +94,12 @@ export default function Uploader({ cursos, partilhada }) {
 
       {!isPart && (
         <label className="lead" style={{ margin: 0 }}>
-          Cadeira
+          Disciplina
           <select value={cadeiraSel} onChange={(e) => setCadeiraSel(e.target.value)} className="campo">
-            {cadeiras.map((k) => (
-              <option key={k.id} value={k.id}>{k.titulo}</option>
+            {cadeiras.map((k, i) => (
+              <option key={k.id} value={k.id}>{String(i + 1).padStart(2, "0")} · {k.titulo}</option>
             ))}
-            <option value="__nova">+ Nova cadeira…</option>
           </select>
-        </label>
-      )}
-
-      {!isPart && cadeiraSel === "__nova" && (
-        <label className="lead" style={{ margin: 0 }}>
-          Nome da cadeira nova
-          <input
-            className="campo"
-            value={novaCadeira}
-            onChange={(e) => setNovaCadeira(e.target.value)}
-            placeholder="ex.: Teoria dos Sistemas"
-          />
         </label>
       )}
 

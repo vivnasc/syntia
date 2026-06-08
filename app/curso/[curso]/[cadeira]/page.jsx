@@ -3,13 +3,15 @@ import { getCursos, getCadeira } from "../../../../lib/conteudo";
 
 export function generateStaticParams() {
   const out = [];
-  for (const c of getCursos()) for (const k of c.cadeiras) out.push({ curso: c.id, cadeira: k.id });
+  for (const c of getCursos())
+    for (const k of c.cadeiras)
+      if (!k.partilhada) out.push({ curso: c.id, cadeira: k.id });
   return out.length ? out : [{ curso: "_", cadeira: "_" }];
 }
 
 export default function CadeiraPage({ params }) {
   const found = getCadeira(params.curso, params.cadeira);
-  if (!found) return <div className="empty">Cadeira não encontrada.</div>;
+  if (!found) return <div className="empty">Disciplina não encontrada.</div>;
   const { curso, cadeira } = found;
 
   return (
@@ -19,9 +21,18 @@ export default function CadeiraPage({ params }) {
       </div>
       <h1>{cadeira.titulo}</h1>
 
+      {cadeira.ementa?.length > 0 && (
+        <>
+          <div className="section-label">No programa, esta disciplina cobre</div>
+          <ul className="ementa">
+            {cadeira.ementa.map((t, i) => <li key={i}>{t}</li>)}
+          </ul>
+        </>
+      )}
+
       {cadeira.materiais.length > 0 && (
         <>
-          <div className="section-label">Material de referência</div>
+          <div className="section-label" style={{ marginTop: 30 }}>Material de referência</div>
           <div className="materiais">
             {cadeira.materiais.map((m) => (
               <a key={m.ficheiro} className="mat" href={`/${m.ficheiro}`} target="_blank" rel="noreferrer">
@@ -37,7 +48,8 @@ export default function CadeiraPage({ params }) {
       </div>
       {cadeira.aulas.length === 0 ? (
         <div className="empty">
-          Ainda sem aulas. Envia um MP3 em <strong>Enviar aula</strong> e a síntese aparece aqui.
+          Ainda sem aulas nesta disciplina. Envia um MP3 em <strong>Enviar aula</strong> (escolhe esta disciplina)
+          e a síntese aparece aqui.
         </div>
       ) : (
         <div className="list">

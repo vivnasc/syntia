@@ -1,0 +1,87 @@
+{
+  "disciplinas": [
+    {
+      "id": "desenvolvimento-profissional",
+      "titulo": "Desenvolvimento Profissional",
+      "ementa": [
+        "Liderança e o papel do líder",
+        "Liderar a própria carreira",
+        "Comunicação eficaz; dar e receber feedback",
+        "Apresentação em público",
+        "Características empreendedoras; criar o próprio negócio",
+        "Propósito pessoal e profissional",
+        "Ética e dilemas éticos"
+      ]
+    },
+    {
+      "id": "astrologia",
+      "titulo": "Técnicas Transpessoais: Astrologia",
+      "ementa": [
+        "Fundamentos da Astrologia",
+        "Inter-relação com a abordagem interpessoal",
+        "Técnicas da astrologia"
+      ]
+    },
+    {
+      "id": "historia-fundamentos",
+      "titulo": "Transpessoal: História e Fundamentos",
+      "ementa": [
+        "Precursores da Psicologia Transpessoal",
+        "Fundamentação teórica",
+        "Princípios para a expansão da consciência"
+      ]
+    },
+    {
+      "id": "terapia-transdisciplinaridade",
+      "titulo": "Terapia Transpessoal e Transdisciplinaridade",
+      "ementa": [
+        "A transdisciplinaridade da Psicologia Transpessoal",
+        "Intervenções com princípios fenomenológicos"
+      ]
+    },
+    {
+      "id": "mitologia-junguiana",
+      "titulo": "Mitologia, Simbolismo e Terapia Junguiana",
+      "ementa": [
+        "Fundamentos da psicologia junguiana",
+        "Simbolismo e estruturas de arquétipos",
+        "Mito, mitologema e religião"
+      ]
+    },
+    {
+      "id": "hipnose-regressao",
+      "titulo": "Técnicas Transpessoais: Expansão da Consciência — Hipnose e Regressão",
+      "ementa": [
+        "Fundamentos da expansão da consciência",
+        "Técnica de hipnose",
+        "Terapia regressiva e aplicabilidade"
+      ]
+    },
+    {
+      "id": "mandalas-xamanismo-sonhos",
+      "titulo": "Técnicas Transpessoais: Mandalas, Xamanismo e Sonhos",
+      "ementa": [
+        "A mandala como instrumento analítico",
+        "O xamanismo como modelo de atenção transpessoal",
+        "Sonhos e a psicologia transpessoal"
+      ]
+    },
+    {
+      "id": "meditacoes",
+      "titulo": "Técnicas Transpessoais: Meditações",
+      "ementa": [
+        "Contexto histórico da meditação",
+        "Abordagens de meditação",
+        "Terapia pela meditação"
+      ]
+    },
+    {
+      "id": "constelacao-familiar",
+      "titulo": "Técnicas Transpessoais: Constelação Familiar",
+      "ementa": [
+        "A constelação familiar na terapia transpessoal",
+        "Fundamentos da constelação familiar"
+      ]
+    }
+  ]
+}
