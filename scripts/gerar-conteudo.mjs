@@ -89,11 +89,18 @@ function unidadeDe(nome) {
   const m = nome.match(/^U(\d+)/i);
   return m ? parseInt(m[1], 10) : null;
 }
-// Título legível: tira o prefixo U<n>_ e arruma "Aula05" → "Aula 05".
-function tituloAula(nome) {
-  let s = nome.replace(/^U\d+[_-]/i, "");
-  s = s.replace(/aula0*(\d+)/i, (_, d) => `Aula ${d}`);
-  return prettify(s);
+// Tópico = o que identifica a matéria, ignorando o nº de gravação e a parte.
+// "U1_Aula02_Bases_Pensamento_Sistemico"      → "Bases_Pensamento_Sistemico"
+// "U1_Aula05_Historico_Geral_dos_Sistemas_P2" → "Historico_Geral_dos_Sistemas"
+function chaveTopico(nome) {
+  let t = nome.replace(/^U\d+[_-]?/i, "");      // tira U<n>_
+  t = t.replace(/^aula\d+[_-]?/i, "");          // tira Aula<nn>_
+  t = t.replace(/[_-]?p(arte)?\d+$/i, "");       // tira _P2 / _Parte2 no fim
+  return t.trim();
+}
+// Título legível do tópico: "Bases_Pensamento_Sistemico" → "Bases Pensamento Sistémico"
+function tituloTopico(topico) {
+  return prettify(topico) || "Aula";
 }
 
 // Agrupa as aulas pelas Unidades (módulos). Cada disciplina tem 4 por defeito.
@@ -113,22 +120,49 @@ function lerAulas(cadeiraDir, fonte, banco) {
   const sintDir = path.join(cadeiraDir, "sinteses");
   const prodDir = path.join(cadeiraDir, "produto");
   const transDir = path.join(cadeiraDir, "transcricoes");
-  const aulas = [];
-  if (!isDir(sintDir)) return aulas;
+  if (!isDir(sintDir)) return [];
+
+  // 1) Lê cada ficheiro como uma "parte".
+  const partes = [];
   for (const f of fs.readdirSync(sintDir).sort()) {
     if (!f.endsWith(".md")) continue;
     const nome = f.replace(/\.md$/, "");
-    const titulo = tituloAula(nome);
     const { flashcards, sinteseSemCards } = extrairFlashcards(lerTxt(path.join(sintDir, f)));
-    const produtoMd = lerTxt(path.join(prodDir, `${nome}.md`));
-    banco.push(...extrairItensProduto(produtoMd, { ...fonte, aula: titulo }));
-    aulas.push({
+    partes.push({
       nome,
-      titulo,
       unidade: unidadeDe(nome),
+      topico: chaveTopico(nome) || nome,
       sintese: sinteseSemCards,
       flashcards,
+      produtoMd: lerTxt(path.join(prodDir, `${nome}.md`)),
       temTranscricao: existe(path.join(transDir, `${nome}.txt`)),
+    });
+  }
+
+  // 2) Agrupa as partes do mesmo tópico (mesma unidade + mesmo título) numa aula.
+  const grupos = new Map();
+  for (const p of partes) {
+    const chave = `${p.unidade ?? "x"}|${p.topico}`;
+    if (!grupos.has(chave)) grupos.set(chave, []);
+    grupos.get(chave).push(p);
+  }
+
+  // 3) Constrói uma aula por grupo, mantendo a ordem do primeiro ficheiro.
+  const aulas = [];
+  for (const ps of grupos.values()) {
+    const titulo = tituloTopico(ps[0].topico);
+    for (const p of ps) banco.push(...extrairItensProduto(p.produtoMd, { ...fonte, aula: titulo }));
+    const varias = ps.length > 1;
+    aulas.push({
+      nome: varias ? `${ps[0].unidade ? `U${ps[0].unidade}_` : ""}${ps[0].topico}` : ps[0].nome,
+      titulo,
+      unidade: ps[0].unidade,
+      partes: ps.length,
+      sintese: varias
+        ? ps.map((p, i) => `## Parte ${i + 1}\n\n${p.sintese}`).join("\n\n")
+        : ps[0].sintese,
+      flashcards: ps.flatMap((p) => p.flashcards),
+      temTranscricao: ps.some((p) => p.temTranscricao),
     });
   }
   return aulas;
