@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Topbar from "../../Topbar";
 import { getAreas, getArea } from "../../../lib/conteudo";
 
 export function generateStaticParams() {
@@ -10,25 +9,19 @@ export function generateStaticParams() {
 export default function AreaPage({ params }) {
   const area = getArea(params.id);
   if (!area) {
-    return (
-      <div className="wrap">
-        <Topbar active="areas" />
-        <div className="empty">Área não encontrada.</div>
-      </div>
-    );
+    return <div className="empty">Área não encontrada.</div>;
   }
 
   return (
-    <div className="wrap">
-      <Topbar active="areas" />
+    <>
       <div className="crumbs">
-        <Link href="/">Áreas</Link> / {area.titulo}
+        <Link href="/">Início</Link> / {area.titulo}
       </div>
       <h1>{area.titulo}</h1>
 
       {area.materiais.length > 0 && (
         <>
-          <h2>Material de referência</h2>
+          <div className="section-label">Material de referência</div>
           <div className="materiais">
             {area.materiais.map((m) => (
               <a key={m.ficheiro} className="mat" href={`/${m.ficheiro}`} target="_blank" rel="noreferrer">
@@ -39,20 +32,22 @@ export default function AreaPage({ params }) {
         </>
       )}
 
-      <h2>Aulas</h2>
+      <div className="section-label" style={{ marginTop: 34 }}>
+        Aulas{area.aulas.length ? ` · ${area.aulas.length}` : ""}
+      </div>
       {area.aulas.length === 0 ? (
         <div className="empty">
-          Ainda sem aulas processadas. Larga um MP3 em <code>{area.id}/_audio/</code> e
-          a síntese aparece aqui automaticamente.
+          Ainda sem aulas processadas. Envia um MP3 em <strong>Enviar aula</strong> e a
+          síntese aparece aqui automaticamente.
         </div>
       ) : (
         <div className="list">
           {area.aulas.map((aula, i) => (
-            <Link key={aula.nome} href={`/area/${area.id}/aula/${encodeURIComponent(aula.nome)}/`} className="row">
+            <Link key={aula.nome} href={`/area/${area.id}/aula/${encodeURIComponent(aula.nome)}`} className="row">
               <span className="num">{String(i + 1).padStart(2, "0")}</span>
               <span className="grow">
-                <div style={{ fontWeight: 650 }}>{aula.titulo}</div>
-                <div className="meta" style={{ fontSize: 13, color: "var(--ink-soft)" }}>
+                <div style={{ fontWeight: 600 }}>{aula.titulo}</div>
+                <div className="meta">
                   {aula.flashcards.length} flashcard{aula.flashcards.length === 1 ? "" : "s"}
                 </div>
               </span>
@@ -61,8 +56,6 @@ export default function AreaPage({ params }) {
           ))}
         </div>
       )}
-
-      <div className="footer">{area.titulo}</div>
-    </div>
+    </>
   );
 }

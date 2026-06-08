@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Topbar from "../Topbar";
 import Uploader from "./Uploader";
 import { getCursos, getPartilhada } from "../../lib/conteudo";
 
@@ -14,10 +13,9 @@ export default function EnviarPage() {
   ];
 
   return (
-    <div className="wrap">
-      <Topbar active="enviar" />
+    <>
       <div className="crumbs">
-        <Link href="/">Áreas</Link> / Enviar aula
+        <Link href="/">Início</Link> / Enviar aula
       </div>
       <h1>Enviar aula</h1>
       <p className="lead">
@@ -29,6 +27,6 @@ export default function EnviarPage() {
       <Uploader areas={areas} />
 
       <div className="footer">O áudio fica guardado em segurança; ao repositório vão só os textos gerados.</div>
-    </div>
+    </>
   );
 }

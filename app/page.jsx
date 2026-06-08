@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Topbar from "./Topbar";
 import { getCursos, getPartilhada, getBanco } from "../lib/conteudo";
 
 export default function Home() {
@@ -8,17 +7,18 @@ export default function Home() {
   const banco = getBanco();
 
   return (
-    <div className="wrap">
-      <Topbar active="areas" />
+    <>
       <h1>As tuas áreas de estudo</h1>
       <p className="lead">
-        Larga os MP3 das aulas no repositório e elas aparecem aqui com síntese,
-        flashcards e ideias de produto — tudo automático.
+        Escolhe uma área na barra ao lado para ver as aulas. Larga MP3 novos em
+        <strong> Enviar aula</strong> e a síntese, os flashcards e as ideias de
+        produto aparecem aqui sozinhos.
       </p>
 
+      <div className="section-label">Pós-graduações</div>
       <div className="grid">
         {cursos.map((c, i) => (
-          <Link key={c.id} href={`/area/${c.id}/`} className="card">
+          <Link key={c.id} href={`/area/${c.id}`} className="card">
             <div className="eyebrow">Pós-graduação {String(i + 1).padStart(2, "0")}</div>
             <div className="title">{c.titulo}</div>
             <div className="meta">
@@ -30,12 +30,9 @@ export default function Home() {
 
       {partilhada && (
         <>
-          <h2>Disciplina partilhada</h2>
-          <p className="lead" style={{ marginTop: -4 }}>
-            Comum às três pós — fica num só sítio, nunca duplicada.
-          </p>
-          <Link href={`/area/${partilhada.id}/`} className="card" style={{ maxWidth: 420 }}>
-            <div className="eyebrow">Partilhada</div>
+          <div className="section-label" style={{ marginTop: 34 }}>Disciplina partilhada</div>
+          <Link href={`/area/${partilhada.id}`} className="card">
+            <div className="eyebrow">Comum às três pós · nunca duplicada</div>
             <div className="title">{partilhada.titulo}</div>
             <div className="meta">
               {partilhada.aulas.length} aula{partilhada.aulas.length === 1 ? "" : "s"} · {partilhada.materiais.length} PDF
@@ -44,17 +41,14 @@ export default function Home() {
         </>
       )}
 
-      <h2>Banco de Produto</h2>
-      <p className="lead" style={{ marginTop: -4 }}>
-        Tudo o que as aulas geram para os teus produtos, filtrável por tema.
-      </p>
-      <Link href="/produto/" className="card" style={{ maxWidth: 420 }}>
+      <div className="section-label" style={{ marginTop: 34 }}>Banco de Produto</div>
+      <Link href="/produto" className="card">
         <div className="eyebrow">corpo · amor · maternidade · prosperidade</div>
         <div className="title">Abrir o Banco de Produto</div>
-        <div className="meta">{banco.length} ideia{banco.length === 1 ? "" : "s"} reunida{banco.length === 1 ? "" : "s"}</div>
+        <div className="meta">{banco.length} ideia{banco.length === 1 ? "" : "s"} reunida{banco.length === 1 ? "" : "s"} dos teus produtos</div>
       </Link>
 
       <div className="footer">PWA instalável · conteúdo gerado a partir do repositório</div>
-    </div>
+    </>
   );
 }
