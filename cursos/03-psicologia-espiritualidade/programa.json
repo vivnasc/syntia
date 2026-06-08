@@ -1,0 +1,89 @@
+{
+  "disciplinas": [
+    {
+      "id": "desenvolvimento-pessoal",
+      "titulo": "Desenvolvimento Pessoal e Profissional nas Carreiras da Saúde",
+      "partilhada": true,
+      "ementa": [
+        "Inteligência emocional",
+        "Habilidades e competências de carreira",
+        "Prevenção do adoecimento psíquico",
+        "Qualidade de vida e bem-estar"
+      ]
+    },
+    {
+      "id": "correlacao-psicologia-espiritualidade",
+      "titulo": "A Correlação entre a Psicologia e a Espiritualidade na Formação da Personalidade",
+      "ementa": [
+        "Ciência, espiritualidade e psicologia",
+        "Discussão possível entre os conceitos"
+      ]
+    },
+    {
+      "id": "espiritualidade-clinica",
+      "titulo": "Espiritualidade na Clínica Psicológica",
+      "ementa": [
+        "Fenómenos espirituais e o sagrado",
+        "A psiquê no contexto das crenças religiosas",
+        "A noção particular do sagrado"
+      ]
+    },
+    {
+      "id": "qualidade-vida-bem-estar",
+      "titulo": "Qualidade de Vida e Bem-Estar Espiritual",
+      "ementa": [
+        "Espiritualidade na sociedade contemporânea",
+        "Ampliação da consciência e do self",
+        "Autocompaixão",
+        "Psicologia positiva"
+      ]
+    },
+    {
+      "id": "religiosidade-niilismo",
+      "titulo": "Psicologia, Espiritualidade, Religiosidade e Niilismo",
+      "ementa": [
+        "A visão niilista de mundo (falta de sentido)",
+        "Espiritualidade no contexto psicológico"
+      ]
+    },
+    {
+      "id": "autoconhecimento-emocoes",
+      "titulo": "Autoconhecimento e o Estudo das Emoções",
+      "ementa": [
+        "A psiquê nos ciclos da vida",
+        "Estudo das emoções"
+      ]
+    },
+    {
+      "id": "psicoterapias-transtornos",
+      "titulo": "Psicoterapias e Transtornos Mentais",
+      "ementa": [
+        "Saúde mental e psicoterapia",
+        "Transtorno de personalidade borderline",
+        "Adições",
+        "Depressão maior",
+        "Ansiedade generalizada",
+        "Baixa autoestima"
+      ]
+    },
+    {
+      "id": "espacos-atuacao",
+      "titulo": "Psicologia e Espiritualidade: Espaços de Atuação do Profissional",
+      "ementa": [
+        "Relação empática",
+        "Integração das crenças nos cuidados psicoterapêuticos",
+        "Centros comunitários, espaços religiosos, grupos de adictos"
+      ]
+    },
+    {
+      "id": "religiosidade-desenvolvimento",
+      "titulo": "A Religiosidade como Elemento do Desenvolvimento Humano",
+      "ementa": [
+        "Religiosidade na sociedade contemporânea",
+        "Identidades coletivas",
+        "Religião e ética",
+        "O dilema: o profano e o sagrado"
+      ]
+    }
+  ]
+}

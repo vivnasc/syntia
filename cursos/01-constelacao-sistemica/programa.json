@@ -1,0 +1,98 @@
+{
+  "disciplinas": [
+    {
+      "id": "desenvolvimento-pessoal",
+      "titulo": "Desenvolvimento Pessoal e Profissional nas Carreiras da Saúde",
+      "partilhada": true,
+      "ementa": [
+        "Inteligência emocional",
+        "Habilidades e competências de carreira",
+        "Prevenção do adoecimento psíquico",
+        "Qualidade de vida e bem-estar"
+      ]
+    },
+    {
+      "id": "mudanca-epistemologica",
+      "titulo": "Mudança Epistemológica e Introdução ao Pensamento Sistémico",
+      "ementa": [
+        "Paradigma e epistemologia",
+        "O paradigma sistémico",
+        "Fundamentos da terapia relacional sistémica",
+        "História da terapia familiar",
+        "Mitos, legados e lealdades",
+        "Comunicação humana",
+        "Genograma e ciclo de vida"
+      ]
+    },
+    {
+      "id": "definindo-constelacoes",
+      "titulo": "Definindo e Entendendo as Constelações Familiares",
+      "ementa": [
+        "Sobre as Constelações Familiares",
+        "Dos emaranhamentos às imagens de solução",
+        "A consciência",
+        "Relacionamentos e condução da Constelação"
+      ]
+    },
+    {
+      "id": "pensamento-sistemico-teoria",
+      "titulo": "Explorando o Pensamento Sistémico e a Teoria dos Sistemas",
+      "ementa": [
+        "Bases do pensamento sistémico",
+        "A teoria sistémica na psicologia",
+        "Abordagem sistémica nas organizações",
+        "A psicoterapia sistémica"
+      ]
+    },
+    {
+      "id": "constelacao-familiar-sistemica",
+      "titulo": "Constelação Familiar Sistémica",
+      "ementa": [
+        "Introdução à Constelação Familiar Sistémica",
+        "Como constelar?",
+        "A Constelação Familiar Sistémica",
+        "Quando recorrer à Constelação"
+      ]
+    },
+    {
+      "id": "ordens-do-amor",
+      "titulo": "Ordens do Amor — Pais e Filhos, Relacionamento Afetivo, Ordens da Ajuda",
+      "ementa": [
+        "O sistema familiar",
+        "Ordens do amor",
+        "A fenomenologia das constelações familiares",
+        "Constelação sistémica organizacional"
+      ]
+    },
+    {
+      "id": "pnl-constelacao",
+      "titulo": "PNL na Constelação Sistémica — Aprendendo a Ler o seu Cliente",
+      "ementa": [
+        "PNL e a terapia sistémica",
+        "PNL e os sistemas",
+        "Ferramentas da PNL — parte I",
+        "Ferramentas da PNL — parte II"
+      ]
+    },
+    {
+      "id": "campo-morfogenetico",
+      "titulo": "Campo Morfogenético e Campo Mórfico",
+      "ementa": [
+        "Teoria dos Campos",
+        "A Constelação Familiar",
+        "Tipos de Constelação",
+        "Árvore genealógica na Constelação"
+      ]
+    },
+    {
+      "id": "constelador-tecnicas",
+      "titulo": "O Constelador Familiar e as Técnicas de Atendimento Individual e em Grupo",
+      "ementa": [
+        "As constelações familiares",
+        "Orientação pelo sistema",
+        "O escopo da constelação familiar",
+        "Riscos e oportunidades das técnicas"
+      ]
+    }
+  ]
+}

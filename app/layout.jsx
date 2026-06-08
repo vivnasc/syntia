@@ -24,12 +24,18 @@ export const viewport = {
 };
 
 export default function RootLayout({ children }) {
+  const part = getPartilhada();
+  const partTemAulas = !!(part && part.aulas.length);
   const cursos = getCursos().map((c) => ({
     id: c.id,
     titulo: c.titulo,
-    cadeiras: c.cadeiras.map((k) => ({ id: k.id, titulo: k.titulo })),
+    cadeiras: c.cadeiras.map((k) => ({
+      id: k.id,
+      titulo: k.titulo,
+      partilhada: !!k.partilhada,
+      feita: k.partilhada ? partTemAulas : k.aulas.length > 0,
+    })),
   }));
-  const part = getPartilhada();
   const partilhada = part ? { id: part.id, titulo: part.titulo } : null;
 
   return (
