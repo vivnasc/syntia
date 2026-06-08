@@ -59,16 +59,34 @@ referência para o Bloco B — e faz commit dos resultados. Demora alguns minuto
 ## ② Como faço o deploy (PWA na Vercel)
 
 1. Entra em **vercel.com**, faz login com o GitHub e **Add New → Project**.
-2. Escolhe este repositório. A Vercel lê o `vercel.json` da raiz e já sabe
-   construir a app em `web/` — **não precisas de configurar mais nada**.
-   (Framework: Next.js · Build: `cd web && npm run build` · Output: `web/out`.)
-3. **Deploy.** Fica online num endereço `*.vercel.app`.
-4. No telemóvel, abre esse endereço e **"Adicionar ao ecrã principal"** —
-   passa a abrir como uma app.
+2. Escolhe este repositório. Em **Root Directory**, escolhe a pasta **`web`**
+   (Framework: Next.js — detetado automaticamente). Se aparecer a opção
+   *"Include files outside the Root Directory"*, deixa-a **ligada** — a app lê
+   o conteúdo de `cursos/` na build.
+3. Em **Storage**, cria um **Blob Store** e liga-o ao projeto (grátis no plano
+   base). Fica a guardar os MP3 enviados e define sozinho `BLOB_READ_WRITE_TOKEN`.
+4. Em **Settings → Environment Variables**, acrescenta duas:
+   - `UPLOAD_PASSCODE` — um código à tua escolha; é o que escreves na app para
+     poder enviar aulas (impede que estranhos usem o teu upload).
+   - `GITHUB_DISPATCH_TOKEN` — um *fine-grained token* do GitHub (github.com →
+     Settings → Developer settings → Fine-grained tokens), com acesso ao
+     repositório `estudos` e permissão **Actions: Read and write**. É o que deixa
+     a app arrancar o pipeline.
+5. **Deploy.** Fica online num endereço `*.vercel.app`. No telemóvel, abre e
+   **"Adicionar ao ecrã principal"**.
 
-A app **não usa chaves nenhumas** — só lê os ficheiros já gerados no
-repositório. Cada vez que o pipeline faz commit de novas sínteses, a Vercel
-reconstrói e atualiza a app automaticamente.
+Sempre que o pipeline faz commit de novas sínteses, a Vercel reconstrói e
+atualiza a app automaticamente.
+
+## ③ Enviar aulas pela app (sem ir ao GitHub)
+
+Na app, abre **"Enviar aula"**, escreve o teu `UPLOAD_PASSCODE`, escolhe a área,
+arrasta o MP3 e envia. O áudio vai para o armazenamento, a app arranca o
+pipeline, e daí a alguns minutos a aula aparece com síntese e flashcards. O MP3
+fica só no armazenamento — ao repositório vão apenas os textos gerados.
+
+> Continuas a poder largar MP3 diretamente em `cursos/<curso>/_audio/` pelo
+> GitHub, se preferires.
 
 ---
 
