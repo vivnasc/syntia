@@ -247,6 +247,13 @@ function extrasDe(dir) {
   };
 }
 
+// Apresentação da cadeira (opcional): apresentacao.md na raiz da cadeira.
+// Vai para a capa/abertura do manual, não para dentro de uma unidade.
+function lerApresentacao(cadeiraDir) {
+  const f = path.join(cadeiraDir, "apresentacao.md");
+  return fs.existsSync(f) ? lerTxt(f) : "";
+}
+
 // Agrupa as aulas pelas Unidades (módulos). Cada disciplina tem 4 por defeito.
 function agruparUnidades(aulas, extras = {}) {
   const objetivos = extras.objetivos || {};
@@ -358,7 +365,7 @@ function main() {
         const aulas = isDir(cadDir)
           ? lerAulas(cadDir, { curso: cursoId, cursoTitulo, cadeira: disc.id, areaTitulo: `${cursoTitulo} · ${disc.titulo}` }, banco)
           : [];
-        cadeiras.push({ ...base, materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(cadDir)) });
+        cadeiras.push({ ...base, apresentacao: lerApresentacao(cadDir), materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(cadDir)) });
       }
       // Pastas de conteúdo que não constam do programa — não perder nada.
       for (const cadId of fs.readdirSync(cursoDir).sort()) {
@@ -368,7 +375,7 @@ function main() {
         const cadTitulo = prettify(cadId);
         const materiais = copiarMaterial(path.join(cadDir, "_material"), `${cursoId}/${cadId}`);
         const aulas = lerAulas(cadDir, { curso: cursoId, cursoTitulo, cadeira: cadId, areaTitulo: `${cursoTitulo} · ${cadTitulo}` }, banco);
-        cadeiras.push({ id: cadId, titulo: cadTitulo, ementa: [], inicio: null, fim: null, materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(cadDir)) });
+        cadeiras.push({ id: cadId, titulo: cadTitulo, ementa: [], inicio: null, fim: null, apresentacao: lerApresentacao(cadDir), materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(cadDir)) });
       }
       cursos.push({ id: cursoId, titulo: cursoTitulo, materiais: materiaisCurso, cadeiras });
     }

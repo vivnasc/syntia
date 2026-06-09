@@ -42,7 +42,7 @@ export default function ManualPage({ params }) {
       ) : (
         <ManualPDFClient
           curso={{ id: curso.id, titulo: curso.titulo }}
-          cadeira={{ id: cadeira.id, titulo: cadeira.titulo, ementa: cadeira.ementa || [] }}
+          cadeira={{ id: cadeira.id, titulo: cadeira.titulo, ementa: cadeira.ementa || [], apresentacao: cadeira.apresentacao || "" }}
           unidades={unidades}
           hoje={hoje}
         />

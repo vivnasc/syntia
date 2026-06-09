@@ -207,6 +207,18 @@ export function buildManualDocument({ curso, cadeira, unidades, hoje }) {
         : null,
     ])),
 
+    // Apresentação da cadeira (opcional) — logo a seguir à capa.
+    cadeira.apresentacao
+      ? h(Page, { key: "apr", size: "A4", style: s.page }, [
+          h(Text, { key: "k", style: s.uniKicker }, "Apresentação"),
+          h(Text, { key: "hd", style: s.uniHead }, cadeira.titulo),
+          h(View, { key: "r", style: s.uniRule }),
+          ...Markdown(cadeira.apresentacao, "apr"),
+          h(View, { key: "fr", style: s.footRule, fixed: true }),
+          h(Text, { key: "pn", style: s.pageNum, fixed: true, render: ({ pageNumber, totalPages }) => `${curso.titulo} · ${cadeira.titulo}      ${pageNumber} / ${totalPages}` }),
+        ])
+      : null,
+
     // Uma unidade por página (flui se transbordar)
     ...unidades.map((u) => h(Page, { key: u.n, size: "A4", style: s.page }, [
       h(Text, { key: "k", style: s.uniKicker }, `Unidade ${u.n}`),
