@@ -130,50 +130,61 @@ function nest(blocks) {
   return root;
 }
 
-function renderChildren(children) {
-  return children.map((n, i) => renderNode(n, i));
+// Achata a árvore num fluxo de elementos. Títulos de secção (níveis 1 e 2)
+// NÃO embrulham o conteúdo numa View — devolvem [título, ...filhos] em linha,
+// para o texto fluir naturalmente entre páginas (senão a secção salta inteira
+// e deixa metade da página em branco). Só cartões e caixas ficam contidos.
+function renderChildren(children, prefix) {
+  const out = [];
+  children.forEach((n, idx) => {
+    const r = renderNode(n, prefix + ":" + idx);
+    if (Array.isArray(r)) out.push(...r);
+    else if (r) out.push(r);
+  });
+  return out.map((el, i) => (el ? React.cloneElement(el, { key: `${prefix}#${i}` }) : null));
 }
 
-function renderNode(node, key) {
-  if (node.kind === "leaf") return Leaf(node.block, key);
+function renderNode(node, prefix) {
+  if (node.kind === "leaf") return Leaf(node.block, prefix);
 
   const kw = classify(node.runs);
   const titleText = node.runs.map((r) => r.text).join("");
+  const kids = renderChildren(node.children, prefix);
 
-  // Caixa de destaque (callout) — título + conteúdo numa caixa colorida.
+  // Caixa de destaque (callout) — título + conteúdo numa caixa colorida contida.
   if (kw) {
-    return h(View, { key, style: [s.callout, { backgroundColor: kw.bg, borderLeftColor: kw.bar }], wrap: true, minPresenceAhead: 48 }, [
+    return h(View, { style: [s.callout, { backgroundColor: kw.bg, borderLeftColor: kw.bar }], minPresenceAhead: 36 }, [
       h(Text, { key: "l", style: [s.calloutLabel, { color: kw.fg }] }, kw.label),
       h(Text, { key: "t", style: s.cardTitle }, titleText),
-      ...renderChildren(node.children),
+      ...kids,
     ]);
   }
 
-  // Conceito (nível 3+) com corpo -> cartão.
+  // Conceito (nível 3+) com corpo -> cartão contido.
   if (node.level >= 3 && node.children.length) {
-    return h(View, { key, style: s.card, wrap: true, minPresenceAhead: 48 }, [
+    return h(View, { style: s.card, minPresenceAhead: 36 }, [
       h(Text, { key: "t", style: s.cardTitle }, titleText),
-      ...renderChildren(node.children),
+      ...kids,
     ]);
   }
 
-  // Secção nível 2 -> barra de cor.
+  // Secção nível 2 -> barra de cor + conteúdo em fluxo (achatado).
   if (node.level === 2) {
-    return h(View, { key, minPresenceAhead: 60 }, [
-      h(View, { key: "bar", style: s.h2bar, wrap: false }, [h(View, { key: "t", style: s.h2tick }), h(Text, { key: "x", style: s.h2text }, titleText)]),
-      ...renderChildren(node.children),
-    ]);
+    return [
+      h(View, { style: s.h2bar, wrap: false, minPresenceAhead: 46 }, [h(View, { key: "t", style: s.h2tick }), h(Text, { key: "x", style: s.h2text }, titleText)]),
+      ...kids,
+    ];
   }
 
-  // Nível 1 (raro dentro do corpo).
-  return h(View, { key, minPresenceAhead: 60 }, [
-    Runs(node.runs, s.h1),
-    ...renderChildren(node.children),
-  ]);
+  // Nível 1 -> título + conteúdo em fluxo (achatado).
+  return [
+    h(View, { style: { marginTop: 10 }, wrap: false, minPresenceAhead: 46 }, Runs(node.runs, s.h1)),
+    ...kids,
+  ];
 }
 
-function Markdown(md) {
-  return renderChildren(nest(parseMarkdown(md)));
+function Markdown(md, prefix) {
+  return renderChildren(nest(parseMarkdown(md)), prefix);
 }
 
 export function buildManualDocument({ curso, cadeira, unidades, hoje }) {
@@ -199,10 +210,10 @@ export function buildManualDocument({ curso, cadeira, unidades, hoje }) {
       h(View, { key: "r", style: s.uniRule }),
 
       u.objetivos ? h(Text, { key: "ol", style: s.secLabel }, "Objetivos & auto-avaliação") : null,
-      ...(u.objetivos ? Markdown(u.objetivos) : []),
+      ...(u.objetivos ? Markdown(u.objetivos, `u${u.n}obj`) : []),
 
       u.resumo ? h(Text, { key: "rl", style: s.secLabel }, "Resumo da unidade") : null,
-      ...(u.resumo ? Markdown(u.resumo) : []),
+      ...(u.resumo ? Markdown(u.resumo, `u${u.n}res`) : []),
 
       (u.aulas && u.aulas.length) ? h(Text, { key: "al", style: s.secLabel }, "Aulas desta unidade") : null,
       (u.aulas && u.aulas.length) ? h(View, { key: "ab", style: s.aulaBox }, u.aulas.map((a, i) =>
