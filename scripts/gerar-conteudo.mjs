@@ -23,9 +23,47 @@ const existe = (p) => fs.existsSync(p);
 const lerTxt = (p) => (existe(p) ? fs.readFileSync(p, "utf-8") : "");
 const isDir = (p) => existe(p) && fs.statSync(p).isDirectory();
 
+// Quando os ficheiros foram criados, os acentos perderam-se: "é/í/ã/ç…" viraram
+// "_" (ou desapareceram). "Sist_mica" era "Sistémica", "Fam_lia" era "Família".
+// Repomos os termos conhecidos ANTES de trocar "_" por espaço, senão a palavra
+// parte-se em dois ("Sist Mica"). Match sem distinguir maiúsculas; saída canónica.
+// Mais longas primeiro (Sist_micas antes de Sist_mica).
+const ACENTOS = [
+  [/sist[_ ]?micas/gi, "Sistémicas"],
+  [/sist[_ ]?mica/gi, "Sistémica"],
+  [/sist[_ ]?mico/gi, "Sistémico"],
+  [/sistemico/gi, "Sistémico"],
+  [/fam[_ ]?lia/gi, "Família"],
+  [/rela[_ ]?es/gi, "Relações"],
+  [/intera[_ ]?o/gi, "Interação"],
+  [/organiza[_ ]?o/gi, "Organização"],
+  [/constela[_ ]?o/gi, "Constelação"],
+  [/revis[_ ]?o/gi, "Revisão"],
+  [/cl[_ ]?nica/gi, "Clínica"],
+  [/cl[_ ]?ssicas/gi, "Clássicas"],
+  [/padr[_ ]?o/gi, "Padrão"],
+  [/din[_ ]?mico/gi, "Dinâmico"],
+  [/m[_ ]?todos/gi, "Métodos"],
+  [/m[_ ]?todo/gi, "Método"],
+  [/p[_ ]?s-modernidade/gi, "Pós‑modernidade"], // hífen não-quebrável: sobrevive ao passo "_-"→espaço
+  [/historico/gi, "Histórico"],
+  [/administracao/gi, "Administração"],
+  [/sintese/gi, "Síntese"],
+  [/parteii\b/gi, "Parte II"], // ficheiro veio "ParteII" colado, sem separador
+];
+// Palavras de ligação ficam minúsculas (exceto se forem a 1.ª palavra).
+const LIGACAO = new Set(["a", "à", "às", "ao", "aos", "o", "os", "as", "e", "ou",
+  "de", "do", "da", "dos", "das", "em", "no", "na", "nos", "nas", "para", "por",
+  "com", "sem", "que", "se"]);
+
 function prettify(id) {
-  return id.replace(/^\d+[-_]/, "").replace(/[-_]+/g, " ").replace(/\s+/g, " ").trim()
-    .replace(/\b\w/g, (c) => c.toUpperCase());
+  let s = id.replace(/^\d+[-_]/, "");
+  for (const [re, certo] of ACENTOS) s = s.replace(re, certo);
+  s = s.replace(/[-_]+/g, " ").replace(/\s+/g, " ").trim();
+  return s.split(" ").map((w, i) => {
+    if (i > 0 && LIGACAO.has(w.toLowerCase())) return w.toLowerCase();
+    return w.charAt(0).toUpperCase() + w.slice(1);
+  }).join(" ");
 }
 
 function extrairFlashcards(md) {
