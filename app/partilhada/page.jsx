@@ -44,8 +44,8 @@ export default function PartilhadaPage() {
             <span className="unidade-c">{u.aulas.length ? `${u.aulas.length} aula${u.aulas.length === 1 ? "" : "s"}` : "por dar"}</span>
           </div>
           {u.objetivos && (
-            <details className="painel-uni" open>
-              <summary>🎯 Objetivos desta unidade</summary>
+            <details className="painel-uni">
+              <summary>🎯 Objetivos desta unidade — guia de estudo</summary>
               <Markdown>{u.objetivos}</Markdown>
             </details>
           )}
