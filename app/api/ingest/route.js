@@ -19,20 +19,24 @@ export async function POST(request) {
   } catch {
     return Response.json({ error: "Pedido inválido." }, { status: 400 });
   }
-  const { url, curso, cadeira, filename, modo } = payload || {};
-  const modoFinal = modo === "material" ? "material" : "aula";
+  const { url, curso, cadeira, filename, modo, unidade } = payload || {};
+  const modoFinal = modo === "material" ? "material" : modo === "consolidar" ? "consolidar" : "aula";
+  const consolidar = modoFinal === "consolidar";
 
   const token = process.env.GITHUB_DISPATCH_TOKEN;
   if (!token) {
     return Response.json({ error: "Falta configurar GITHUB_DISPATCH_TOKEN no servidor." }, { status: 500 });
   }
-  if (!url || typeof url !== "string" || !url.startsWith("https://")) {
-    return Response.json({ error: "URL do áudio em falta." }, { status: 400 });
-  }
 
-  const nomeFicheiro = sanitizarNome(filename);
-  if (!EXT_OK.test(nomeFicheiro)) {
-    return Response.json({ error: "Tipo de ficheiro não suportado (usa MP3, PDF ou txt)." }, { status: 400 });
+  let nomeFicheiro = "";
+  if (!consolidar) {
+    if (!url || typeof url !== "string" || !url.startsWith("https://")) {
+      return Response.json({ error: "URL do áudio em falta." }, { status: 400 });
+    }
+    nomeFicheiro = sanitizarNome(filename);
+    if (!EXT_OK.test(nomeFicheiro)) {
+      return Response.json({ error: "Tipo de ficheiro não suportado (usa MP3, PDF ou txt)." }, { status: 400 });
+    }
   }
 
   // Constrói o caminho de destino (disciplina), validando contra o programa.
@@ -68,7 +72,13 @@ export async function POST(request) {
       },
       body: JSON.stringify({
         ref,
-        inputs: { audio_url: url, curso: areaDir, filename: nomeFicheiro, modo: modoFinal },
+        inputs: {
+          audio_url: consolidar ? "" : url,
+          curso: areaDir,
+          filename: nomeFicheiro,
+          modo: modoFinal,
+          unidade: consolidar ? String(unidade || "") : "",
+        },
       }),
     }
   );

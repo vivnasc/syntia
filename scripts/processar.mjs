@@ -553,9 +553,17 @@ async function processarIngest() {
   fs.writeFileSync(sintPath, sintese, "utf-8");
   fs.writeFileSync(prodPath, produto, "utf-8");
   console.log(`[${area}] ${nomeBase} concluído.`);
+  // Nota: o Resumo e o Quiz da unidade são gerados a pedido (modo "consolidar"),
+  // para não gastar 3 chamadas ao Claude por cada aula.
+}
 
-  // Atualiza o Resumo da Unidade (visão geral de todas as aulas da unidade).
-  await regenerarResumoUnidade(area, uniAula, material);
+// Gera/atualiza o Resumo + Quiz de uma unidade, a pedido (botão na app).
+async function consolidarUnidade(area, unidade) {
+  if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+    throw new Error(`Área inválida: "${area}"`);
+  }
+  const material = materialParaArea(area, unidade);
+  await regenerarResumoUnidade(area, unidade, material);
 }
 
 // ---------------------------------------------------------------------------
@@ -566,6 +574,12 @@ async function main() {
     throw new Error("Faltam os secrets GROQ_API_KEY e/ou ANTHROPIC_API_KEY.");
   }
   if (!FFMPEG) console.log("Aviso: ffmpeg indisponível — áudios grandes vão falhar.");
+
+  // Pedido de consolidação: gerar Resumo + Quiz de uma unidade (sem ficheiro).
+  if (process.env.INGEST_MODO === "consolidar") {
+    await consolidarUnidade(process.env.INGEST_AREA || "", process.env.INGEST_UNIDADE || "");
+    return;
+  }
 
   // Disparado pela PWA: um único áudio vindo do armazenamento.
   if (process.env.INGEST_AUDIO_PATH) {

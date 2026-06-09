@@ -421,6 +421,14 @@ select.campo { appearance: none; cursor: pointer; }
 .quiz-nota.fraco { border-color: var(--gold); }
 .quiz-acoes { margin-top: 4px; }
 
+.btn-consolidar {
+  display: inline-block; margin: 2px 0 12px; padding: 8px 13px; font: inherit; font-size: 13px; font-weight: 600;
+  background: color-mix(in srgb, var(--gold) 9%, var(--card)); color: var(--gold-soft);
+  border: 1px solid var(--line); border-radius: 9px; cursor: pointer;
+}
+.btn-consolidar:hover:not(:disabled) { border-color: var(--gold); }
+.btn-consolidar:disabled { opacity: .7; cursor: default; }
+
 /* ---------- Seletor Aulas / Apostila ---------- */
 .modo-tabs { display: flex; gap: 8px; }
 .modo-tab {

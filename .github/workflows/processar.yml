@@ -3,9 +3,11 @@ name: Processar Aulas
 # Nome legível de cada execução: mostra o ficheiro e o modo na lista de runs
 # e na página de Estado da app.
 run-name: >-
-  ${{ github.event.inputs.filename != ''
-      && format('{0} · {1}', github.event.inputs.filename, github.event.inputs.modo || 'aula')
-      || 'Processamento (push)' }}
+  ${{ github.event.inputs.modo == 'consolidar'
+      && format('Resumo+Quiz · Unidade {0}', github.event.inputs.unidade)
+      || (github.event.inputs.filename != ''
+          && format('{0} · {1}', github.event.inputs.filename, github.event.inputs.modo || 'aula')
+          || 'Processamento (push)') }}
 
 on:
   push:
@@ -29,9 +31,13 @@ on:
         required: false
         default: ''
       modo:
-        description: 'aula (gera síntese) ou material (apostila de referência)'
+        description: 'aula | material | consolidar (gerar resumo+quiz da unidade)'
         required: false
         default: 'aula'
+      unidade:
+        description: 'Número da unidade (só para modo consolidar)'
+        required: false
+        default: ''
 
 # Não usamos um grupo de concorrência único: queremos que vários envios
 # simultâneos corram em paralelo (um grupo único cancelava os que ficavam em
@@ -69,6 +75,7 @@ jobs:
           INGEST_AREA: ${{ github.event.inputs.curso }}
           INGEST_FILENAME: ${{ github.event.inputs.filename }}
           INGEST_MODO: ${{ github.event.inputs.modo }}
+          INGEST_UNIDADE: ${{ github.event.inputs.unidade }}
         run: node scripts/processar.mjs
 
       - name: Commit dos resultados (só os textos, nunca o áudio)

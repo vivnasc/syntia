@@ -3,6 +3,7 @@ import { getCursos, getCadeira } from "../../../../lib/conteudo";
 import { Prazo } from "../../../Prazo";
 import Markdown from "../../../Markdown";
 import Quiz from "../../../Quiz";
+import Consolidar from "../../../Consolidar";
 
 export function generateStaticParams() {
   const out = [];
@@ -81,6 +82,9 @@ export default function CadeiraPage({ params }) {
               <summary>📝 Treina — quiz da unidade ({u.quiz.length} perguntas de escolha múltipla)</summary>
               <Quiz perguntas={u.quiz} />
             </details>
+          )}
+          {u.aulas.length > 0 && (
+            <Consolidar curso={curso.id} cadeira={cadeira.id} unidade={u.n} />
           )}
           {u.complementar && (
             <details className="painel-uni">

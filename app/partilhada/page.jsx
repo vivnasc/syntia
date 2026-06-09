@@ -3,6 +3,7 @@ import { getPartilhada } from "../../lib/conteudo";
 import { Prazo } from "../Prazo";
 import Markdown from "../Markdown";
 import Quiz from "../Quiz";
+import Consolidar from "../Consolidar";
 
 export const metadata = { title: "Disciplina Partilhada — SyntIA" };
 
@@ -61,6 +62,9 @@ export default function PartilhadaPage() {
               <summary>📝 Treina — quiz da unidade ({u.quiz.length} perguntas de escolha múltipla)</summary>
               <Quiz perguntas={u.quiz} />
             </details>
+          )}
+          {u.aulas.length > 0 && (
+            <Consolidar curso={p.id} cadeira="" unidade={u.n} />
           )}
           {u.complementar && (
             <details className="painel-uni">
