@@ -46,10 +46,19 @@ const ACENTOS = [
   [/m[_ ]?todos/gi, "Métodos"],
   [/m[_ ]?todo/gi, "Método"],
   [/p[_ ]?s-modernidade/gi, "Pós‑modernidade"], // hífen não-quebrável: sobrevive ao passo "_-"→espaço
-  [/historico/gi, "Histórico"],
+  [/hist[_ ]?ricos/gi, "Históricos"],
+  [/hist[_ ]?rico/gi, "Histórico"],
+  [/ci[_ ]?ncia/gi, "Ciência"],
+  [/f[_ ]?sica/gi, "Física"],
+  [/qu[_ ]?ntica/gi, "Quântica"],
+  [/transpessoa(?!l)/gi, "Transpessoal"], // ficheiros vieram com "Transpessoa" truncado
   [/administracao/gi, "Administração"],
   [/sintese/gi, "Síntese"],
-  [/parteii\b/gi, "Parte II"], // ficheiro veio "ParteII" colado, sem separador
+  // "ParteI/II/III/IV" colados, sem separador — mais longos primeiro.
+  [/parteiv\b/gi, "Parte IV"],
+  [/parteiii\b/gi, "Parte III"],
+  [/parteii\b/gi, "Parte II"],
+  [/partei\b/gi, "Parte I"],
 ];
 // Palavras de ligação ficam minúsculas (exceto se forem a 1.ª palavra).
 const LIGACAO = new Set(["a", "à", "às", "ao", "aos", "o", "os", "as", "e", "ou",

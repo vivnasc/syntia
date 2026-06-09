@@ -584,3 +584,12 @@ select.campo { appearance: none; cursor: pointer; }
   .manual-uni-cab, .manual-aula-titulo, h3, h4 { page-break-after: avoid; }
   a { color: inherit; text-decoration: none; }
 }
+
+/* Confirmação de destino no envio de aulas — evita enviar para a cadeira errada */
+.dest-confirma {
+  font-size: 14px; color: var(--ink); background: var(--card);
+  border: 1px solid var(--line-strong); border-left: 3px solid var(--gold);
+  border-radius: 9px; padding: 10px 14px;
+}
+.dest-confirma b { color: var(--gold-soft); font-weight: 600; }
+.dest-falta { font-size: 13.5px; color: var(--corpo); }

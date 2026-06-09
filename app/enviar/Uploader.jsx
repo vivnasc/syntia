@@ -20,12 +20,14 @@ export default function Uploader({ cursos, partilhada }) {
     ...(partilhada ? [{ id: partilhada.id, titulo: partilhada.titulo, tipo: "partilhada", cadeiras: [] }] : []),
   ];
 
-  const [destinoId, setDestinoId] = useState(destinos[0]?.id || "");
+  // Sem pré-seleção: obriga a escolher curso e disciplina (evita enviar para o
+  // destino errado por o primeiro vir marcado por defeito).
+  const [destinoId, setDestinoId] = useState("");
   const destino = destinos.find((d) => d.id === destinoId);
   const isPart = destino?.tipo === "partilhada";
   const cadeiras = destino?.cadeiras || [];
 
-  const [cadeiraSel, setCadeiraSel] = useState(cadeiras[0]?.id || "");
+  const [cadeiraSel, setCadeiraSel] = useState("");
   const [modo, setModo] = useState("aula"); // "aula" = vira síntese · "material" = apostila/referência
   const [itens, setItens] = useState([]); // { file, status: fila|enviar|feito|erro, erro }
   const [correr, setCorrer] = useState(false);
@@ -35,8 +37,7 @@ export default function Uploader({ cursos, partilhada }) {
 
   function trocarDestino(id) {
     setDestinoId(id);
-    const d = destinos.find((x) => x.id === id);
-    setCadeiraSel(d?.cadeiras?.[0]?.id || "");
+    setCadeiraSel(""); // ao trocar de curso, força reescolher a disciplina
   }
 
   function juntar(fileList) {
@@ -111,16 +112,18 @@ export default function Uploader({ cursos, partilhada }) {
       <label className="lead" style={{ margin: 0 }}>
         Curso
         <select value={destinoId} onChange={(e) => trocarDestino(e.target.value)} className="campo" disabled={correr}>
+          <option value="" disabled>— escolhe o curso —</option>
           {destinos.map((d) => (
             <option key={d.id} value={d.id}>{d.titulo}{d.tipo === "partilhada" ? " (partilhada)" : ""}</option>
           ))}
         </select>
       </label>
 
-      {!isPart && (
+      {destino && !isPart && (
         <label className="lead" style={{ margin: 0 }}>
           Disciplina
           <select value={cadeiraSel} onChange={(e) => setCadeiraSel(e.target.value)} className="campo" disabled={correr}>
+            <option value="" disabled>— escolhe a disciplina —</option>
             {cadeiras.map((k, i) => (
               <option key={k.id} value={k.id}>{String(i + 1).padStart(2, "0")} · {k.titulo}</option>
             ))}
@@ -186,7 +189,16 @@ export default function Uploader({ cursos, partilhada }) {
         </div>
       )}
 
-      <button className="btn" onClick={enviarTodos} disabled={correr || porEnviar === 0}>
+      {destinoId && (isPart || cadeiraSel) ? (
+        <div className="dest-confirma">
+          A enviar para <b>{destino.titulo}</b>
+          {!isPart && <> · <b>{cadeiras.find((k) => k.id === cadeiraSel)?.titulo}</b></>}
+        </div>
+      ) : (
+        itens.length > 0 && <div className="dest-falta">Escolhe o curso e a disciplina acima antes de enviar.</div>
+      )}
+
+      <button className="btn" onClick={enviarTodos} disabled={correr || porEnviar === 0 || !destinoId || (!isPart && !cadeiraSel)}>
         {correr ? "A enviar…" : porEnviar > 0 ? `Enviar ${porEnviar} ficheiro${porEnviar === 1 ? "" : "s"}` : feitos > 0 ? "Tudo enviado ✓" : "Enviar"}
       </button>
 
