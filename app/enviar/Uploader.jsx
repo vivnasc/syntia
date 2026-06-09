@@ -192,7 +192,8 @@ export default function Uploader({ cursos, partilhada }) {
 
       {feitos > 0 && !correr && (
         <div className="txt" style={{ fontSize: 13.5 }}>
-          {feitos} ficheiro{feitos === 1 ? "" : "s"} enviado{feitos === 1 ? "" : "s"} para processar. Em alguns minutos aparece na disciplina.
+          {feitos} ficheiro{feitos === 1 ? "" : "s"} enviado{feitos === 1 ? "" : "s"} para processar.{" "}
+          <a href="/estado" style={{ color: "var(--gold-soft)" }}>Vê o estado aqui</a> (✓ pronto / a processar / falhou).
           {" "}<button className="fi-x" onClick={() => { setItens([]); setAviso(""); }}>limpar lista</button>
         </div>
       )}
