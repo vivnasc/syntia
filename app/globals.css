@@ -513,3 +513,83 @@ select.campo { appearance: none; cursor: pointer; }
 }
 .todo a:hover { border-color: var(--gold); }
 .todo a b { color: var(--gold-soft); font-weight: 600; }
+
+/* ===== Manual imprimível (PDF por cadeira) ===== */
+.manual-barra {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; margin-bottom: 24px;
+}
+.manual-barra a { color: var(--ink-soft); font-size: 14px; }
+.manual-barra a:hover { color: var(--gold); }
+.btn-imprimir {
+  font: inherit; font-size: 14px; color: var(--bg); background: var(--gold);
+  border: none; border-radius: 9px; padding: 10px 16px; cursor: pointer; font-weight: 600;
+}
+.btn-imprimir:hover { background: var(--gold-soft); }
+
+.manual-capa { border-bottom: 2px solid var(--line-strong); padding-bottom: 22px; margin-bottom: 30px; }
+.manual-curso { color: var(--gold); font-size: 14px; letter-spacing: .04em; text-transform: uppercase; }
+.manual-titulo { font-family: var(--serif); font-size: 34px; margin: 8px 0 6px; line-height: 1.15; }
+.manual-sub { color: var(--ink-dim); font-size: 13px; }
+.manual-ementa { margin-top: 18px; }
+.manual-ementa ul { margin: 8px 0 0; padding-left: 20px; }
+.manual-ementa li { margin: 3px 0; font-size: 14px; }
+
+.manual-unidade { margin: 0 0 38px; }
+.manual-uni-cab {
+  font-family: var(--serif); font-size: 24px; display: flex; align-items: center; gap: 12px;
+  border-bottom: 1px solid var(--line); padding-bottom: 8px; margin: 0 0 18px;
+}
+.manual-uni-n {
+  background: var(--gold); color: var(--bg); font-family: var(--sans); font-weight: 700;
+  font-size: 14px; padding: 3px 9px; border-radius: 7px;
+}
+.manual-bloco { margin: 0 0 18px; }
+.manual-bloco h3 { font-size: 17px; margin: 0 0 8px; }
+.manual-aula { border-left: 2px solid var(--line-strong); padding-left: 16px; margin: 0 0 26px; }
+.manual-aula-titulo { font-family: var(--serif); font-size: 20px; margin: 0 0 12px; }
+
+.manual-cards h4 { font-size: 14px; color: var(--ink-soft); text-transform: uppercase; letter-spacing: .04em; margin: 0 0 8px; }
+.manual-cards ol { margin: 0; padding-left: 22px; }
+.manual-cards li { margin: 0 0 10px; break-inside: avoid; }
+.manual-card-p { display: block; font-weight: 600; }
+.manual-card-r { display: block; color: var(--ink-soft); }
+
+.manual-rodape { margin-top: 30px; padding-top: 14px; border-top: 1px solid var(--line); color: var(--ink-dim); font-size: 12px; text-align: center; }
+
+/* Botão de atalho na página da cadeira */
+.btn-manual {
+  display: inline-flex; align-items: center; gap: 7px; font-size: 13.5px; font-weight: 600;
+  color: var(--gold-soft); background: var(--card); border: 1px solid var(--line-strong);
+  border-radius: 9px; padding: 9px 14px;
+}
+.btn-manual:hover { border-color: var(--gold); color: var(--gold); }
+
+/* ===== Impressão: só o manual, em folha A4 limpa ===== */
+@media print {
+  @page { size: A4; margin: 18mm 16mm; }
+  .sidebar, .no-print { display: none !important; }
+  .app, .main, .main-inner { display: block !important; margin: 0 !important; padding: 0 !important; max-width: none !important; }
+  body { background: #fff !important; color: #1a1a1a !important; }
+  .manual { color: #1a1a1a; }
+  .manual-curso, .manual-uni-n { color: #6b4f1d; }
+  .manual-uni-n { background: none; padding: 0; }
+  .manual-titulo, .manual-uni-cab, .manual-aula-titulo { color: #111; }
+  .manual-sub, .manual-rodape, .manual-cards h4 { color: #666; }
+  .manual-card-r, .md, .manual-ementa li { color: #2a2a2a; }
+  .manual-uni-cab { border-color: #999; }
+  .manual-aula { border-color: #bbb; page-break-inside: avoid; }
+  .manual-capa { border-color: #333; page-break-after: avoid; }
+  .manual-unidade { page-break-before: auto; }
+  .manual-uni-cab, .manual-aula-titulo, h3, h4 { page-break-after: avoid; }
+  a { color: inherit; text-decoration: none; }
+}
+
+/* Confirmação de destino no envio de aulas — evita enviar para a cadeira errada */
+.dest-confirma {
+  font-size: 14px; color: var(--ink); background: var(--card);
+  border: 1px solid var(--line-strong); border-left: 3px solid var(--gold);
+  border-radius: 9px; padding: 10px 14px;
+}
+.dest-confirma b { color: var(--gold-soft); font-weight: 600; }
+.dest-falta { font-size: 13.5px; color: var(--corpo); }

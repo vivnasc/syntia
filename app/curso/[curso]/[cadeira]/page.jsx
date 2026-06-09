@@ -34,6 +34,14 @@ export default function CadeiraPage({ params }) {
         <p className="lead" style={{ marginTop: 4 }}><Prazo inicio={cadeira.inicio} fim={cadeira.fim} /></p>
       )}
 
+      {unidades.some((u) => u.aulas.length > 0) && (
+        <p style={{ marginTop: 14 }}>
+          <Link href={`/curso/${curso.id}/${cadeira.id}/manual`} className="btn-manual">
+            📘 Manual de estudo (PDF)
+          </Link>
+        </p>
+      )}
+
       {cadeira.ementa?.length > 0 && (
         <>
           <div className="section-label">No programa, esta disciplina cobre</div>
