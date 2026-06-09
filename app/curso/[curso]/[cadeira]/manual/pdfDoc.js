@@ -106,8 +106,8 @@ function Leaf(b, key) {
   switch (b.type) {
     case "p": return h(View, { key }, Runs(b.runs, s.p));
     case "hr": return h(View, { key, style: s.hr });
-    case "ul": return h(View, { key, style: s.list }, b.items.map((it, i) => h(View, { key: i, style: s.li }, [h(Text, { key: "b", style: s.bullet }, "•"), Runs(it, s.liText)])));
-    case "ol": return h(View, { key, style: s.list }, b.items.map((it, i) => h(View, { key: i, style: s.li }, [h(Text, { key: "b", style: s.bullet }, `${i + 1}.`), Runs(it, s.liText)])));
+    case "ul": return b.items.map((it, i) => h(View, { key: i, style: s.li }, [h(Text, { key: "b", style: s.bullet }, "•"), Runs(it, s.liText)]));
+    case "ol": return b.items.map((it, i) => h(View, { key: i, style: s.li }, [h(Text, { key: "b", style: s.bullet }, `${i + 1}.`), Runs(it, s.liText)]));
     case "table": return Table(b, key);
     default: return null;
   }
@@ -168,21 +168,16 @@ function renderNode(node, prefix) {
     ]);
   }
 
-  // Secção nível 2 -> barra de cor + conteúdo em fluxo (achatado). O
-  // minPresenceAhead alto reserva espaço para o título E as primeiras linhas
-  // do conteúdo — senão o título salta sozinho para o fundo da página.
-  if (node.level === 2) {
-    return [
-      h(View, { style: s.h2bar, wrap: false, minPresenceAhead: 74 }, [h(View, { key: "t", style: s.h2tick }), h(Text, { key: "x", style: s.h2text }, titleText)]),
-      ...kids,
-    ];
-  }
-
-  // Nível 1 -> título + conteúdo em fluxo (achatado).
-  return [
-    h(View, { style: { marginTop: 10 }, wrap: false, minPresenceAhead: 74 }, Runs(node.runs, s.h1)),
-    ...kids,
-  ];
+  // Secção (níveis 1 e 2): o título é COLADO à primeira linha do conteúdo num
+  // bloco que não parte (wrap:false), por isso nunca fica sozinho no fundo da
+  // página. O resto do conteúdo flui livremente a seguir.
+  const bar = node.level === 2
+    ? h(View, { key: "hb", style: s.h2bar, wrap: false }, [h(View, { key: "t", style: s.h2tick }), h(Text, { key: "x", style: s.h2text }, titleText)])
+    : h(View, { key: "hb", style: { marginTop: 10 } }, Runs(node.runs, s.h1));
+  const first = kids.length ? kids[0] : null;
+  const rest = kids.slice(1);
+  const bonded = h(View, { wrap: false, minPresenceAhead: 28 }, first ? [bar, first] : [bar]);
+  return [bonded, ...rest];
 }
 
 function Markdown(md, prefix) {
