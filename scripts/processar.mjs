@@ -354,16 +354,73 @@ async function regenerarResumoUnidade(area, unidade, materialBlocos) {
   const re = new RegExp(`^U${unidade}[_-]`, "i");
   const ficheiros = fs.readdirSync(sintDir).filter((f) => f.endsWith(".md") && re.test(f)).sort();
   if (!ficheiros.length) return;
-  const partes = ficheiros.map((f) => `## ${path.basename(f, ".md")}\n\n${fs.readFileSync(path.join(sintDir, f), "utf-8")}`);
+  const sintesesTexto = ficheiros.map((f) => `## ${path.basename(f, ".md")}\n\n${fs.readFileSync(path.join(sintDir, f), "utf-8")}`).join("\n\n---\n\n");
+
   try {
-    const resumo = await resumirUnidade(partes.join("\n\n---\n\n"), materialBlocos);
+    const resumo = await resumirUnidade(sintesesTexto, materialBlocos);
     const dir = path.join(area, "resumos");
     fs.mkdirSync(dir, { recursive: true });
     fs.writeFileSync(path.join(dir, `U${unidade}.md`), resumo, "utf-8");
     console.log(`[${area}] Resumo da Unidade ${unidade} atualizado (${ficheiros.length} aula(s)).`);
   } catch (e) {
-    console.error(`[${area}] aviso: não consegui atualizar o resumo da Unidade ${unidade}: ${e.message}`);
+    console.error(`[${area}] aviso: resumo da Unidade ${unidade} falhou: ${e.message}`);
   }
+
+  try {
+    await gerarQuizUnidade(area, unidade, sintesesTexto, materialBlocos);
+  } catch (e) {
+    console.error(`[${area}] aviso: quiz da Unidade ${unidade} falhou: ${e.message}`);
+  }
+}
+
+// Gera um quiz de escolha múltipla da unidade (formato do teste real da
+// utilizadora) a partir dos objetivos + sínteses + apostila. Guarda JSON.
+async function gerarQuizUnidade(area, unidade, sintesesTexto, materialBlocos) {
+  const objPath = path.join(area, "objetivos", `U${unidade}.md`);
+  const objetivos = fs.existsSync(objPath) ? fs.readFileSync(objPath, "utf-8") : "";
+
+  const content = [];
+  if (materialBlocos.length) {
+    content.push({ type: "text", text: "APOSTILA DESTA UNIDADE (referência para as perguntas)." });
+    content.push(...materialBlocos);
+  }
+  content.push({
+    type: "text",
+    text:
+      "Cria um quiz de ESCOLHA MÚLTIPLA para eu me preparar para o teste desta unidade. " +
+      "Baseia-te SÓ no material a seguir (objetivos + sínteses das aulas + apostila). " +
+      "Gera 10 a 12 perguntas sobre os pontos mais importantes e mais prováveis de saírem em teste. " +
+      "Cada pergunta tem 4 opções plausíveis, exatamente UMA correta, e uma explicação curta do porquê. " +
+      "Português de Portugal, sem travessões longos. " +
+      "Responde APENAS com JSON válido (sem markdown, sem ```), no formato exato:\n" +
+      '[{"p":"pergunta","opcoes":["A","B","C","D"],"correta":0,"explica":"porquê"}]\n' +
+      "O campo 'correta' é o índice (0 a 3) da opção certa.\n\n" +
+      (objetivos ? `=== OBJETIVOS ===\n${objetivos}\n\n` : "") +
+      `=== SÍNTESES DAS AULAS ===\n${sintesesTexto}`,
+  });
+
+  const resp = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: { "x-api-key": ANTHROPIC_API_KEY, "anthropic-version": "2023-06-01", "content-type": "application/json" },
+    body: JSON.stringify({ model: CLAUDE_MODEL, max_tokens: 8000, messages: [{ role: "user", content }] }),
+  });
+  if (!resp.ok) throw new Error(`Claude ${resp.status}: ${await resp.text()}`);
+  const data = await resp.json();
+  const bruto = data.content.map((b) => (b.type === "text" ? b.text : "")).join("\n");
+
+  // Extrai o array JSON mesmo que venha com texto à volta.
+  const ini = bruto.indexOf("[");
+  const fim = bruto.lastIndexOf("]");
+  if (ini === -1 || fim === -1) throw new Error("resposta sem JSON");
+  const perguntas = JSON.parse(bruto.slice(ini, fim + 1))
+    .filter((q) => q && q.p && Array.isArray(q.opcoes) && q.opcoes.length === 4 && Number.isInteger(q.correta))
+    .map((q) => ({ p: String(q.p), opcoes: q.opcoes.map(String), correta: Math.max(0, Math.min(3, q.correta)), explica: String(q.explica || "") }));
+  if (!perguntas.length) throw new Error("nenhuma pergunta válida");
+
+  const dir = path.join(area, "quiz");
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(path.join(dir, `U${unidade}.json`), JSON.stringify(perguntas, null, 2), "utf-8");
+  console.log(`[${area}] Quiz da Unidade ${unidade}: ${perguntas.length} perguntas.`);
 }
 
 // ---------------------------------------------------------------------------

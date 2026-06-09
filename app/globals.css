@@ -387,6 +387,40 @@ select.campo { appearance: none; cursor: pointer; }
 .estado-row.proc .estado-badge { color: var(--gold-soft); }
 .estado-row.dim .estado-badge { color: var(--ink-dim); font-weight: 400; }
 
+/* ---------- Quiz ---------- */
+.quiz { display: flex; flex-direction: column; gap: 18px; padding: 4px 0 8px; }
+.quiz-q { display: flex; flex-direction: column; gap: 8px; }
+.quiz-p { font-weight: 650; line-height: 1.4; }
+.quiz-ops { display: flex; flex-direction: column; gap: 6px; }
+.quiz-op {
+  display: flex; align-items: flex-start; gap: 9px; text-align: left; width: 100%;
+  padding: 10px 12px; border-radius: 9px; cursor: pointer; font: inherit; line-height: 1.35;
+  background: var(--card); border: 1px solid var(--line); color: var(--ink);
+}
+.quiz-op:hover:not(:disabled) { border-color: var(--gold); }
+.quiz-op.sel { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 10%, var(--card)); }
+.quiz-op.certa { border-color: #81c784; background: color-mix(in srgb, #81c784 14%, var(--card)); }
+.quiz-op.errada { border-color: var(--corpo); background: color-mix(in srgb, var(--corpo) 12%, var(--card)); }
+.quiz-op:disabled { cursor: default; }
+.quiz-letra {
+  font-weight: 700; font-size: 12px; flex: none; width: 20px; height: 20px; border-radius: 5px;
+  display: inline-flex; align-items: center; justify-content: center;
+  background: color-mix(in srgb, var(--gold) 16%, transparent); color: var(--gold-soft);
+}
+.quiz-op.certa .quiz-letra { background: #81c784; color: #0c1a0e; }
+.quiz-op.errada .quiz-letra { background: var(--corpo); color: #fff; }
+.quiz-explica {
+  font-size: 13px; color: var(--ink-soft); line-height: 1.45; padding: 8px 11px;
+  border-left: 2px solid var(--line); margin-left: 4px;
+}
+.quiz-nota {
+  padding: 11px 14px; border-radius: 10px; font-size: 14.5px;
+  border: 1px solid var(--line); background: var(--card);
+}
+.quiz-nota.bom { border-color: #81c784; }
+.quiz-nota.fraco { border-color: var(--gold); }
+.quiz-acoes { margin-top: 4px; }
+
 /* ---------- Seletor Aulas / Apostila ---------- */
 .modo-tabs { display: flex; gap: 8px; }
 .modo-tab {

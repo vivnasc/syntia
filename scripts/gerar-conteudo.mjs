@@ -140,11 +140,25 @@ function lerPainelUnidade(cadeiraDir, sub) {
   return map;
 }
 
+// Lê os quizzes por unidade (quiz/U<n>.json) → { 1: [perguntas], ... }
+function lerQuizzes(cadeiraDir) {
+  const dir = path.join(cadeiraDir, "quiz");
+  const map = {};
+  if (!isDir(dir)) return map;
+  for (const f of fs.readdirSync(dir)) {
+    const m = f.match(/^U(\d+)\.json$/i);
+    if (!m) continue;
+    try { map[parseInt(m[1], 10)] = JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8")); } catch {}
+  }
+  return map;
+}
+
 function extrasDe(dir) {
   return {
     objetivos: lerPainelUnidade(dir, "objetivos"),
     complementar: lerPainelUnidade(dir, "complementar"),
     resumo: lerPainelUnidade(dir, "resumos"),
+    quiz: lerQuizzes(dir),
   };
 }
 
@@ -153,6 +167,7 @@ function agruparUnidades(aulas, extras = {}) {
   const objetivos = extras.objetivos || {};
   const complementar = extras.complementar || {};
   const resumo = extras.resumo || {};
+  const quiz = extras.quiz || {};
   const nums = aulas.map((a) => a.unidade).filter((n) => n);
   const max = Math.max(4, ...nums);
   const unidades = [];
@@ -163,11 +178,12 @@ function agruparUnidades(aulas, extras = {}) {
       objetivos: objetivos[n] || "",
       complementar: complementar[n] || "",
       resumo: resumo[n] || "",
+      quiz: quiz[n] || [],
       aulas: aulas.filter((a) => a.unidade === n),
     });
   }
   const soltas = aulas.filter((a) => !a.unidade);
-  if (soltas.length) unidades.push({ n: 0, titulo: "Outras aulas", objetivos: "", complementar: "", resumo: "", aulas: soltas });
+  if (soltas.length) unidades.push({ n: 0, titulo: "Outras aulas", objetivos: "", complementar: "", resumo: "", quiz: [], aulas: soltas });
   return unidades;
 }
 

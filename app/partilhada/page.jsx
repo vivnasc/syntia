@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getPartilhada } from "../../lib/conteudo";
 import { Prazo } from "../Prazo";
 import Markdown from "../Markdown";
+import Quiz from "../Quiz";
 
 export const metadata = { title: "Disciplina Partilhada — SyntIA" };
 
@@ -53,6 +54,12 @@ export default function PartilhadaPage() {
             <details className="painel-uni">
               <summary>📘 Resumo da unidade — a matéria toda de relance</summary>
               <Markdown>{u.resumo}</Markdown>
+            </details>
+          )}
+          {u.quiz?.length > 0 && (
+            <details className="painel-uni">
+              <summary>📝 Treina — quiz da unidade ({u.quiz.length} perguntas de escolha múltipla)</summary>
+              <Quiz perguntas={u.quiz} />
             </details>
           )}
           {u.complementar && (

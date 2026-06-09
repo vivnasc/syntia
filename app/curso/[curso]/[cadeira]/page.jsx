@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getCursos, getCadeira } from "../../../../lib/conteudo";
 import { Prazo } from "../../../Prazo";
 import Markdown from "../../../Markdown";
+import Quiz from "../../../Quiz";
 
 export function generateStaticParams() {
   const out = [];
@@ -73,6 +74,12 @@ export default function CadeiraPage({ params }) {
             <details className="painel-uni">
               <summary>📘 Resumo da unidade — a matéria toda de relance</summary>
               <Markdown>{u.resumo}</Markdown>
+            </details>
+          )}
+          {u.quiz?.length > 0 && (
+            <details className="painel-uni">
+              <summary>📝 Treina — quiz da unidade ({u.quiz.length} perguntas de escolha múltipla)</summary>
+              <Quiz perguntas={u.quiz} />
             </details>
           )}
           {u.complementar && (
