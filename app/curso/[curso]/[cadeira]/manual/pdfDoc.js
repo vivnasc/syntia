@@ -57,6 +57,9 @@ const s = StyleSheet.create({
   // Caixa de destaque (callout)
   callout: { borderRadius: 5, padding: 10, marginVertical: 9, borderLeftWidth: 4 },
   calloutLabel: { fontFamily: "Helvetica-Bold", fontSize: 8, letterSpacing: 1, textTransform: "uppercase", marginBottom: 5 },
+  // Faixa de cabeçalho para destaques/conceitos que contêm sub-caixas (em vez
+  // de embrulhar tudo numa caixa gigante que não parte e deixa buracos).
+  calloutHead: { borderRadius: 5, borderLeftWidth: 4, paddingVertical: 7, paddingHorizontal: 10, marginTop: 12, marginBottom: 5 },
 
   // Tabela
   table: { marginVertical: 8, borderWidth: 1, borderColor: LINE, borderRadius: 3 },
@@ -144,6 +147,24 @@ function renderChildren(children, prefix) {
   return out.map((el, i) => (el ? React.cloneElement(el, { key: `${prefix}#${i}` }) : null));
 }
 
+// Estima quantas linhas o conteúdo de uma secção ocupa. Serve para decidir se
+// cabe numa caixa com fundo (curto) ou se tem de fluir como texto (longo), já
+// que o react-pdf não parte caixas com fundo entre páginas.
+function estLines(node) {
+  const txt = (arr) => arr.reduce((a, r) => a + (r.text ? r.text.length : 0), 0);
+  let n = 0;
+  for (const c of node.children) {
+    if (c.kind !== "leaf") { n += 3; continue; }
+    const b = c.block;
+    if (b.type === "p") n += Math.max(1, Math.ceil(txt(b.runs) / 82));
+    else if (b.type === "ul" || b.type === "ol") for (const it of b.items) n += Math.max(1, Math.ceil(txt(it) / 76));
+    else if (b.type === "table") n += (b.rows.length + 1) * 1.5;
+    else if (b.type === "hr") n += 0.5;
+    else n += 1;
+  }
+  return n;
+}
+
 function renderNode(node, prefix) {
   if (node.kind === "leaf") return Leaf(node.block, prefix);
 
@@ -151,29 +172,42 @@ function renderNode(node, prefix) {
   const titleText = node.runs.map((r) => r.text).join("");
   const kids = renderChildren(node.children, prefix);
 
-  // Começa o corpo por texto (leaf) ou por outra caixa?
+  // Uma caixa com fundo só serve para conteúdo CURTO: o react-pdf não parte
+  // caixas com fundo entre páginas, por isso uma caixa alta salta inteira e
+  // deixa um buraco. Se tiver sub-secções, ou se o conteúdo for longo, o título
+  // vira uma faixa de cabeçalho e o conteúdo flui solto a seguir (parte bem).
+  const hasChildSection = node.children.some((c) => c.kind === "section");
+  const flui = hasChildSection || estLines(node) > 6;
   const firstIsLeaf = node.children[0] && node.children[0].kind === "leaf";
+  // Cabeçalho que não parte e não fica órfão (puxa o 1º filho consigo).
+  const bond = (children, mpa = 28) => h(View, { wrap: false, minPresenceAhead: mpa }, children);
 
-  // Caixa de destaque (callout). Se o corpo começa por texto, colo o
-  // título+etiqueta à 1ª linha (sem órfão, sem buraco). Se começa por outra
-  // caixa, deixo partir e reservo espaço para o título + arranque da 1ª caixa.
+  // Caixa de destaque (callout).
   if (kw) {
     const label = h(Text, { key: "l", style: [s.calloutLabel, { color: kw.fg }] }, kw.label);
     const title = h(Text, { key: "t", style: s.cardTitle }, titleText);
-    const box = (sty, children) => h(View, { style: [s.callout, { backgroundColor: kw.bg, borderLeftColor: kw.bar }, sty] }, children);
-    if (firstIsLeaf) {
-      return box({ minPresenceAhead: 30 }, [h(View, { key: "bond", wrap: false }, [label, title, kids[0]]), ...kids.slice(1)]);
+    if (flui) {
+      // faixa de cabeçalho colorida (pequena, não parte) + conteúdo a fluir.
+      // A reserva de espaço evita o cabeçalho órfão no fundo da página.
+      const head = h(View, { key: "hd", style: [s.calloutHead, { backgroundColor: kw.bg, borderLeftColor: kw.bar }], wrap: false, minPresenceAhead: 64 }, [label, title]);
+      return [head, ...kids];
     }
-    return box({ minPresenceAhead: 80 }, [label, title, ...kids]);
+    // curto -> caixa contida; título colado à 1ª linha
+    const box = (children) => h(View, { style: [s.callout, { backgroundColor: kw.bg, borderLeftColor: kw.bar }], minPresenceAhead: 30 }, children);
+    if (firstIsLeaf) return box([bond([label, title, kids[0]], 0), ...kids.slice(1)]);
+    return box([label, title, ...kids]);
   }
 
-  // Conceito (nível 3+) com corpo -> cartão. Mesma lógica condicional.
+  // Conceito (nível 3+) com corpo -> cartão.
   if (node.level >= 3 && node.children.length) {
     const title = h(Text, { key: "t", style: s.cardTitle }, titleText);
-    if (firstIsLeaf) {
-      return h(View, { style: s.card, minPresenceAhead: 30 }, [h(View, { key: "bond", wrap: false }, [title, kids[0]]), ...kids.slice(1)]);
+    if (flui) {
+      // título como cabeçalho com barra + conteúdo a fluir (parte bem)
+      const head = h(View, { key: "hd", style: s.h2bar, wrap: false, minPresenceAhead: 64 }, [h(View, { key: "k", style: s.h2tick }), h(Text, { key: "x", style: s.h2text }, titleText)]);
+      return [head, ...kids];
     }
-    return h(View, { style: s.card, minPresenceAhead: 80 }, [title, ...kids]);
+    if (firstIsLeaf) return h(View, { style: s.card, minPresenceAhead: 30 }, [bond([title, kids[0]], 0), ...kids.slice(1)]);
+    return h(View, { style: s.card, minPresenceAhead: 30 }, [title, ...kids]);
   }
 
   // Secção (níveis 1 e 2): o título é COLADO à primeira linha do conteúdo num
