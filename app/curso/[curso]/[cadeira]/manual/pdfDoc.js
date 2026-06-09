@@ -151,28 +151,29 @@ function renderNode(node, prefix) {
   const titleText = node.runs.map((r) => r.text).join("");
   const kids = renderChildren(node.children, prefix);
 
-  // Caixa de destaque (callout) — etiqueta + título COLADOS à 1ª linha do
-  // corpo (bloco que não parte), para o título não ficar sozinho no fundo.
+  // Começa o corpo por texto (leaf) ou por outra caixa?
+  const firstIsLeaf = node.children[0] && node.children[0].kind === "leaf";
+
+  // Caixa de destaque (callout). Se o corpo começa por texto, colo o
+  // título+etiqueta à 1ª linha (sem órfão, sem buraco). Se começa por outra
+  // caixa, deixo partir e reservo espaço para o título + arranque da 1ª caixa.
   if (kw) {
-    const head = [
-      h(Text, { key: "l", style: [s.calloutLabel, { color: kw.fg }] }, kw.label),
-      h(Text, { key: "t", style: s.cardTitle }, titleText),
-    ];
-    if (kids[0]) head.push(kids[0]);
-    return h(View, { style: [s.callout, { backgroundColor: kw.bg, borderLeftColor: kw.bar }], minPresenceAhead: 36 }, [
-      h(View, { key: "bond", wrap: false }, head),
-      ...kids.slice(1),
-    ]);
+    const label = h(Text, { key: "l", style: [s.calloutLabel, { color: kw.fg }] }, kw.label);
+    const title = h(Text, { key: "t", style: s.cardTitle }, titleText);
+    const box = (sty, children) => h(View, { style: [s.callout, { backgroundColor: kw.bg, borderLeftColor: kw.bar }, sty] }, children);
+    if (firstIsLeaf) {
+      return box({ minPresenceAhead: 30 }, [h(View, { key: "bond", wrap: false }, [label, title, kids[0]]), ...kids.slice(1)]);
+    }
+    return box({ minPresenceAhead: 80 }, [label, title, ...kids]);
   }
 
-  // Conceito (nível 3+) com corpo -> cartão; título colado à 1ª linha.
+  // Conceito (nível 3+) com corpo -> cartão. Mesma lógica condicional.
   if (node.level >= 3 && node.children.length) {
-    const head = [h(Text, { key: "t", style: s.cardTitle }, titleText)];
-    if (kids[0]) head.push(kids[0]);
-    return h(View, { style: s.card, minPresenceAhead: 36 }, [
-      h(View, { key: "bond", wrap: false }, head),
-      ...kids.slice(1),
-    ]);
+    const title = h(Text, { key: "t", style: s.cardTitle }, titleText);
+    if (firstIsLeaf) {
+      return h(View, { style: s.card, minPresenceAhead: 30 }, [h(View, { key: "bond", wrap: false }, [title, kids[0]]), ...kids.slice(1)]);
+    }
+    return h(View, { style: s.card, minPresenceAhead: 80 }, [title, ...kids]);
   }
 
   // Secção (níveis 1 e 2): o título é COLADO à primeira linha do conteúdo num
