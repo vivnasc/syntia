@@ -321,6 +321,24 @@ async function processarIngest() {
 
   const ext = path.extname(filename).toLowerCase();
   const nomeBase = path.basename(filename, path.extname(filename)) || "aula";
+
+  // Ficheiros especiais por nome: objetivos e material complementar da unidade.
+  // Não viram aula — ficam num painel próprio da Unidade.
+  const especial = /objetiv/i.test(nomeBase)
+    ? "objetivos"
+    : /(complementar|complement|leituras|artigos|links)/i.test(nomeBase)
+      ? "complementar"
+      : null;
+  if (especial) {
+    const uni = (nomeBase.match(/^u(\d+)/i) || [])[1] || "0";
+    const dir = path.join(area, especial);
+    fs.mkdirSync(dir, { recursive: true });
+    const texto = await textoFonteDe(ficheiroPath, ext);
+    fs.writeFileSync(path.join(dir, `U${uni}.md`), texto || "", "utf-8");
+    console.log(`[${area}] ${especial} da Unidade ${uni} guardado.`);
+    return;
+  }
+
   const transDir = path.join(area, "transcricoes");
   const sintDir = path.join(area, "sinteses");
   const prodDir = path.join(area, "produto");

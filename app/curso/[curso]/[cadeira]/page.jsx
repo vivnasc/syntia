@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getCursos, getCadeira } from "../../../../lib/conteudo";
 import { Prazo } from "../../../Prazo";
+import Markdown from "../../../Markdown";
 
 export function generateStaticParams() {
   const out = [];
@@ -62,6 +63,18 @@ export default function CadeiraPage({ params }) {
             <span>{u.titulo}</span>
             <span className="unidade-c">{u.aulas.length ? `${u.aulas.length} aula${u.aulas.length === 1 ? "" : "s"}` : "por dar"}</span>
           </div>
+          {u.objetivos && (
+            <details className="painel-uni" open>
+              <summary>🎯 Objetivos desta unidade</summary>
+              <Markdown>{u.objetivos}</Markdown>
+            </details>
+          )}
+          {u.complementar && (
+            <details className="painel-uni">
+              <summary>📎 Material complementar e leituras</summary>
+              <Markdown>{u.complementar}</Markdown>
+            </details>
+          )}
           {u.aulas.length > 0 && (
             <div className="list">
               {u.aulas.map((aula) => (

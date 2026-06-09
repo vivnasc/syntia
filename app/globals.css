@@ -335,6 +335,18 @@ select.campo { appearance: none; cursor: pointer; }
   border: 1px solid var(--line); border-radius: 6px; padding: 2px 7px;
 }
 .unidade-c { margin-left: auto; font-size: 12px; color: var(--ink-dim); font-weight: 400; }
+.painel-uni {
+  background: var(--card); border: 1px solid var(--line); border-left: 3px solid var(--gold);
+  border-radius: 10px; padding: 4px 14px; margin-bottom: 10px;
+}
+.painel-uni > summary {
+  cursor: pointer; font-weight: 650; font-size: 13.5px; color: var(--corpo);
+  padding: 8px 0; list-style: none;
+}
+.painel-uni > summary::-webkit-details-marker { display: none; }
+.painel-uni > summary::before { content: "▸ "; color: var(--gold-soft); }
+.painel-uni[open] > summary::before { content: "▾ "; }
+.painel-uni .md { font-size: 14px; padding-bottom: 8px; }
 
 /* ---------- Fila de envio ---------- */
 .fila { display: flex; flex-direction: column; gap: 6px; }

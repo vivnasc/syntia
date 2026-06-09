@@ -103,16 +103,40 @@ function tituloTopico(topico) {
   return prettify(topico) || "Aula";
 }
 
+// Lê painéis por unidade (objetivos/, complementar/) → { 1: "texto", 2: "..." }
+function lerPainelUnidade(cadeiraDir, sub) {
+  const dir = path.join(cadeiraDir, sub);
+  const map = {};
+  if (!isDir(dir)) return map;
+  for (const f of fs.readdirSync(dir)) {
+    const m = f.match(/^U(\d+)\.md$/i);
+    if (m) map[parseInt(m[1], 10)] = lerTxt(path.join(dir, f));
+  }
+  return map;
+}
+
+function extrasDe(dir) {
+  return { objetivos: lerPainelUnidade(dir, "objetivos"), complementar: lerPainelUnidade(dir, "complementar") };
+}
+
 // Agrupa as aulas pelas Unidades (módulos). Cada disciplina tem 4 por defeito.
-function agruparUnidades(aulas) {
+function agruparUnidades(aulas, extras = {}) {
+  const objetivos = extras.objetivos || {};
+  const complementar = extras.complementar || {};
   const nums = aulas.map((a) => a.unidade).filter((n) => n);
   const max = Math.max(4, ...nums);
   const unidades = [];
   for (let n = 1; n <= max; n++) {
-    unidades.push({ n, titulo: `Unidade ${n}`, aulas: aulas.filter((a) => a.unidade === n) });
+    unidades.push({
+      n,
+      titulo: `Unidade ${n}`,
+      objetivos: objetivos[n] || "",
+      complementar: complementar[n] || "",
+      aulas: aulas.filter((a) => a.unidade === n),
+    });
   }
   const soltas = aulas.filter((a) => !a.unidade);
-  if (soltas.length) unidades.push({ n: 0, titulo: "Outras aulas", aulas: soltas });
+  if (soltas.length) unidades.push({ n: 0, titulo: "Outras aulas", objetivos: "", complementar: "", aulas: soltas });
   return unidades;
 }
 
@@ -201,7 +225,7 @@ function main() {
         const aulas = isDir(cadDir)
           ? lerAulas(cadDir, { curso: cursoId, cursoTitulo, cadeira: disc.id, areaTitulo: `${cursoTitulo} · ${disc.titulo}` }, banco)
           : [];
-        cadeiras.push({ ...base, materiais, aulas, unidades: agruparUnidades(aulas) });
+        cadeiras.push({ ...base, materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(cadDir)) });
       }
       // Pastas de conteúdo que não constam do programa — não perder nada.
       for (const cadId of fs.readdirSync(cursoDir).sort()) {
@@ -211,7 +235,7 @@ function main() {
         const cadTitulo = prettify(cadId);
         const materiais = copiarMaterial(path.join(cadDir, "_material"), `${cursoId}/${cadId}`);
         const aulas = lerAulas(cadDir, { curso: cursoId, cursoTitulo, cadeira: cadId, areaTitulo: `${cursoTitulo} · ${cadTitulo}` }, banco);
-        cadeiras.push({ id: cadId, titulo: cadTitulo, ementa: [], inicio: null, fim: null, materiais, aulas, unidades: agruparUnidades(aulas) });
+        cadeiras.push({ id: cadId, titulo: cadTitulo, ementa: [], inicio: null, fim: null, materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(cadDir)) });
       }
       cursos.push({ id: cursoId, titulo: cursoTitulo, materiais: materiaisCurso, cadeiras });
     }
@@ -224,7 +248,7 @@ function main() {
     const titulo = "Desenvolvimento Pessoal e Profissional nas Carreiras da Saúde";
     const materiais = copiarMaterial(path.join(partDir, "_material"), "disciplina-partilhada");
     const aulas = lerAulas(partDir, { curso: "disciplina-partilhada", cursoTitulo: titulo, cadeira: "", areaTitulo: titulo }, banco);
-    partilhada = { id: "disciplina-partilhada", titulo, inicio: "2026-05-28", fim: "2026-09-05", materiais, aulas, unidades: agruparUnidades(aulas) };
+    partilhada = { id: "disciplina-partilhada", titulo, inicio: "2026-05-28", fim: "2026-09-05", materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(partDir)) };
   }
 
   const conteudo = { geradoEm: new Date().toISOString(), temas: TEMAS, cursos, partilhada, banco };
