@@ -39,11 +39,11 @@ export default function CadeiraPage({ params }) {
         </>
       )}
 
-      {cadeira.materiais.length > 0 && (
+      {cadeira.materiais.filter((m) => !m.unidade).length > 0 && (
         <>
           <div className="section-label" style={{ marginTop: 30 }}>Material de referência</div>
           <div className="materiais">
-            {cadeira.materiais.map((m) => (
+            {cadeira.materiais.filter((m) => !m.unidade).map((m) => (
               <a key={m.ficheiro} className="mat" href={`/${m.ficheiro}`} target="_blank" rel="noreferrer">
                 <span className="ic">▤</span> {m.nome}
               </a>
@@ -74,6 +74,15 @@ export default function CadeiraPage({ params }) {
               <summary>📎 Material complementar e leituras</summary>
               <Markdown>{u.complementar}</Markdown>
             </details>
+          )}
+          {cadeira.materiais.filter((m) => m.unidade === u.n).length > 0 && (
+            <div className="materiais" style={{ marginBottom: 10 }}>
+              {cadeira.materiais.filter((m) => m.unidade === u.n).map((m) => (
+                <a key={m.ficheiro} className="mat" href={`/${m.ficheiro}`} target="_blank" rel="noreferrer">
+                  <span className="ic">▤</span> {m.nome}
+                </a>
+              ))}
+            </div>
           )}
           {u.aulas.length > 0 && (
             <div className="list">

@@ -64,12 +64,24 @@ function extrairItensProduto(md, fonte) {
 function copiarMaterial(srcDir, destRel) {
   if (!isDir(srcDir)) return [];
   const out = [];
-  const destDir = path.join(OUT_MATERIAL, destRel);
-  for (const f of fs.readdirSync(srcDir).sort()) {
-    if (!f.toLowerCase().endsWith(".pdf")) continue;
-    fs.mkdirSync(destDir, { recursive: true });
-    fs.copyFileSync(path.join(srcDir, f), path.join(destDir, f));
-    out.push({ nome: prettify(f.replace(/\.pdf$/i, "")), ficheiro: `material/${destRel}/${f}` });
+  const copiarDe = (dir, sub, unidade) => {
+    for (const f of fs.readdirSync(dir).sort()) {
+      if (!f.toLowerCase().endsWith(".pdf")) continue;
+      const destDir = path.join(OUT_MATERIAL, destRel, sub);
+      fs.mkdirSync(destDir, { recursive: true });
+      fs.copyFileSync(path.join(dir, f), path.join(destDir, f));
+      out.push({
+        nome: prettify(f.replace(/\.pdf$/i, "")),
+        ficheiro: `material/${destRel}${sub ? `/${sub}` : ""}/${f}`,
+        unidade,
+      });
+    }
+  };
+  copiarDe(srcDir, "", null);
+  // Subpastas U<n> = apostilas por unidade.
+  for (const d of fs.readdirSync(srcDir)) {
+    const m = d.match(/^U(\d+)$/i);
+    if (m && isDir(path.join(srcDir, d))) copiarDe(path.join(srcDir, d), d.toUpperCase(), parseInt(m[1], 10));
   }
   return out;
 }
