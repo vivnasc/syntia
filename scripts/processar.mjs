@@ -178,11 +178,14 @@ async function transcreverTroco(caminho) {
   form.append("language", "pt");
   form.append("response_format", "text");
 
+  // Transcrição: muito paciente com o limite de áudio/hora do Groq (até ~30
+  // tentativas, ~1h de espera no total) para que um lote grande se complete
+  // sozinho à medida que a quota da hora vai libertando — sem reenviar à mão.
   const resp = await fetchRetry("https://api.groq.com/openai/v1/audio/transcriptions", {
     method: "POST",
     headers: { Authorization: `Bearer ${GROQ_API_KEY}` },
     body: form,
-  });
+  }, 30);
   if (!resp.ok) {
     throw new Error(`Groq falhou (${resp.status}): ${await resp.text()}`);
   }
