@@ -1,5 +1,12 @@
 name: Processar Aulas
 
+# Nome legível de cada execução: mostra o ficheiro e o modo na lista de runs
+# e na página de Estado da app.
+run-name: >-
+  ${{ github.event.inputs.filename != ''
+      && format('{0} · {1}', github.event.inputs.filename, github.event.inputs.modo || 'aula')
+      || 'Processamento (push)' }}
+
 on:
   push:
     branches:
