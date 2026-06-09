@@ -151,20 +151,27 @@ function renderNode(node, prefix) {
   const titleText = node.runs.map((r) => r.text).join("");
   const kids = renderChildren(node.children, prefix);
 
-  // Caixa de destaque (callout) — título + conteúdo numa caixa colorida contida.
+  // Caixa de destaque (callout) — etiqueta + título COLADOS à 1ª linha do
+  // corpo (bloco que não parte), para o título não ficar sozinho no fundo.
   if (kw) {
-    return h(View, { style: [s.callout, { backgroundColor: kw.bg, borderLeftColor: kw.bar }], minPresenceAhead: 36 }, [
+    const head = [
       h(Text, { key: "l", style: [s.calloutLabel, { color: kw.fg }] }, kw.label),
       h(Text, { key: "t", style: s.cardTitle }, titleText),
-      ...kids,
+    ];
+    if (kids[0]) head.push(kids[0]);
+    return h(View, { style: [s.callout, { backgroundColor: kw.bg, borderLeftColor: kw.bar }], minPresenceAhead: 36 }, [
+      h(View, { key: "bond", wrap: false }, head),
+      ...kids.slice(1),
     ]);
   }
 
-  // Conceito (nível 3+) com corpo -> cartão contido.
+  // Conceito (nível 3+) com corpo -> cartão; título colado à 1ª linha.
   if (node.level >= 3 && node.children.length) {
+    const head = [h(Text, { key: "t", style: s.cardTitle }, titleText)];
+    if (kids[0]) head.push(kids[0]);
     return h(View, { style: s.card, minPresenceAhead: 36 }, [
-      h(Text, { key: "t", style: s.cardTitle }, titleText),
-      ...kids,
+      h(View, { key: "bond", wrap: false }, head),
+      ...kids.slice(1),
     ]);
   }
 
