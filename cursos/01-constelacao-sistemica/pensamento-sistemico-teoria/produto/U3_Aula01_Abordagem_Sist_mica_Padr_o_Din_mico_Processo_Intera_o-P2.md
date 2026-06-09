@@ -1,0 +1,13 @@
+═══ BLOCO C — PRODUTO ═══
+
+[prosperidade] **Infonte** — A aula valida e aprofunda dois pilares do percurso: a oposição entre agir sem rumo (querer tudo rápido) e agir com construção (planear e analisar), e a tese de que perseguir muitos objetivos isolados dispersa, enquanto focar uma direção materializa. As desvantagens "não será algo imediato", "buscar solução rápida" e "não efetuar planeamento" são exatamente o padrão de "fome" que o Infonte trabalha.
+Ideia concreta: etapa de PWA dentro do percurso (alinhada à etapa 5, materializar) chamada "antes de escolher, conta as possibilidades". A leitora escreve um problema seu, lista os vários caminhos possíveis, e só depois escolhe um para partir em ação. Reforça "talento a mais, clareza a menos" virando clareza pela triagem. Texto em pt-PT, sem travessões, fecho com o selo "infonte. clareza, foco, acção."
+
+[prosperidade] **Campanha 30 dias** — A aula dá matéria para o arco do método (semana 3): a diferença entre querer resultado de um dia para o outro e construir chão. Sustenta a tese contraintuitiva de que a pressa por solucionar rápido é o que mantém a pessoa presa.
+Ideia concreta: carrossel didáctico de 10 slides intitulado "a solução rápida é a armadilha". Slide a slide mostra como buscar a saída imediata, sem planear, atrasa em vez de adiantar, e termina convidando a esvaziar a mesa antes de escolher. À tarde, o "Eco" emocional: o cansaço de quem corre atrás e nunca chega, lugar vazio vs lugar cheio.
+
+═══ NOTAS ═══
+
+- A transcrição tem várias passagens truncadas ou corrompidas, sobretudo onde palavras aparecem cortadas ("inaçãomente", "n empresarial a n organizacional", "benef e vantagens", "solu", "ent assim", "independidos", "meios atritos" — provavelmente "menos atritos", "divisão distribuída" — provavelmente "visão distribuída", "v ficar mais conscientes", "s as desvantagens", "tamb", "dif"). O sentido geral é recuperável e foi reconstruído com apoio do material de referência (Figura 13 e tópico 1.3 da Unidade III), mas as frases exatas dessas zonas não são citáveis com fiabilidade.
+- A expressão "meios atritos" foi interpretada como "menos atritos" e "divisão distribuída" como "visão distribuída", coerente com o material oficial.
+- A aula anuncia continuação no "próximo capítulo", pelo que o tema das bases do pensamento sistémico (domínio pessoal, mapas mentais, visão distribuída, aprendizagem em grupo) é apenas apresentado, não desenvolvido em detalhe nesta transcrição.
