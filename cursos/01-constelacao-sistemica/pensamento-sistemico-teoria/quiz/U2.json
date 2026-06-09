@@ -1,0 +1,134 @@
+[
+  {
+    "p": "Qual é a principal diferença entre o pensamento cartesiano e o pensamento sistémico?",
+    "opcoes": [
+      "O cartesiano divide e reduz às partes isoladas; o sistémico entende o sistema como um todo integrado cujas propriedades essenciais surgem das inter-relações entre as partes",
+      "O cartesiano é mais moderno e utiliza tecnologia; o sistémico é antigo e baseado em filosofia",
+      "O cartesiano estuda a natureza; o sistémico estuda apenas a família humana",
+      "O cartesiano aceita múltiplas causas; o sistémico defende uma causa única"
+    ],
+    "correta": 0,
+    "explica": "O pensamento cartesiano é analítico e dedutivo, fragmentando o conhecimento em partes. O sistémico, ao contrário, vê o todo integrado onde as propriedades essenciais resultam das inter-relações, não da soma isolada das partes."
+  },
+  {
+    "p": "O que significa dizer que a família é um sistema vivo?",
+    "opcoes": [
+      "Que a família é um conjunto estático de pessoas que vivem juntas",
+      "Que é um organismo complexo que se altera ao longo do tempo para assegurar a continuidade e o desenvolvimento psicossocial dos seus membros",
+      "Que apenas os membros biologicamente vivos contam como parte da família",
+      "Que a família precisa de receber diagnóstico médico regularmente"
+    ],
+    "correta": 1,
+    "explica": "A família é descrita como um organismo vivo que se transforma continuamente para garantir a continuidade e o crescimento psicossocial dos seus membros, não sendo estática nem mecânica."
+  },
+  {
+    "p": "Qual é o significado de 'homeostase' na teoria sistémica familiar?",
+    "opcoes": [
+      "O mecanismo que causa conflitos permanentes na família",
+      "A mudança constante e previsível do sistema familiar",
+      "O mecanismo regulador que busca manter o equilíbrio e a estabilidade do sistema, mesmo que esse equilíbrio seja doentio",
+      "A capacidade de um membro de rejeitar os outros"
+    ],
+    "correta": 2,
+    "explica": "A homeostase é a tendência do sistema para manter o equilíbrio dinâmico. Por vezes, para preservar esse equilíbrio, o sistema familiar mantém funcionamentos desequilibrados ou doentios, porque resolver o problema desequilibraria o sistema."
+  },
+  {
+    "p": "O que significa a frase 'mexeu com um, mexeu com todos' no contexto da teoria sistémica familiar?",
+    "opcoes": [
+      "Que apenas um membro da família tem poder sobre os outros",
+      "Que a experiência e vivência de cada membro afeta o sistema todo devido à inter-relação e interdependência das partes",
+      "Que toda a gente discorda com uma pessoa que toma decisões",
+      "Que não existe comunicação real entre membros familiares"
+    ],
+    "correta": 1,
+    "explica": "Este conceito exprime a interdependência sistémica: quando um membro passa por uma situação, todos os outros são afetados porque estão inter-relacionados dentro do mesmo sistema."
+  },
+  {
+    "p": "Qual é o papel do feedback na psicologia sistémica familiar?",
+    "opcoes": [
+      "Punir os membros da família pelos seus comportamentos inadequados",
+      "Um processo de retroalimentação ligado ao sistema de informação que permite monitoramento constante e intervenções rápidas, dando devolutiva ao sistema para que vejam o que é saudável ou não",
+      "Ignorar completamente o comportamento dos membros",
+      "Manter segredos dentro da família para proteger a harmonia"
+    ],
+    "correta": 1,
+    "explica": "O feedback é fundamental no trabalho sistémico; permite que o sistema receba informações sobre o seu funcionamento e se autorregule, ajudando a identificar o que está saudável ou prejudicial."
+  },
+  {
+    "p": "Qual é a principal diferença entre um sistema aberto e um sistema fechado?",
+    "opcoes": [
+      "Um sistema aberto é pequeno; um sistema fechado é grande",
+      "Um sistema aberto tem forte interação e interdependência com o ambiente; um sistema fechado tem pouca influência do ambiente e inexistência de interação",
+      "Um sistema aberto sempre tem problemas; um sistema fechado nunca tem problemas",
+      "Um sistema aberto não pode existir em família; um sistema fechado é exclusivamente familiar"
+    ],
+    "correta": 1,
+    "explica": "A característica definidora é o grau de interação com o ambiente. O sistema aberto é flexível e interage; o fechado é resistente à mudança e pouco interativo com o exterior."
+  },
+  {
+    "p": "Que significa 'causalidade circular' no pensamento sistémico?",
+    "opcoes": [
+      "Que apenas uma pessoa causa todos os problemas da família",
+      "Que não existe qualquer relação de causa e efeito entre os comportamentos",
+      "Que nenhum evento causa o outro isoladamente; tudo está ligado de forma circular, em que uma situação gera outra continuamente",
+      "Que os problemas desaparecem naturalmente com o tempo"
+    ],
+    "correta": 2,
+    "explica": "Na causalidade circular, não há uma relação linear de causa-efeito (A causa B), mas um movimento contínuo onde os comportamentos e situações se influenciam mutuamente em ciclos."
+  },
+  {
+    "p": "Qual é a postura apropriada do terapeuta sistémico face ao cliente?",
+    "opcoes": [
+      "Manter neutralidade permanente e distância emocional em todos os atendimentos",
+      "Envolver-se emocionalmente sem controlo, perdendo profissionalismo",
+      "Buscar aproximação e empatia, permitindo envolvimento emocional, mas com autocontrolo profissional para identificar quando mobilizar essa sensibilidade",
+      "Atender exclusivamente o cliente sem envolver qualquer familiar"
+    ],
+    "correta": 2,
+    "explica": "A psicologia sistémica relacional permite envolvimento emocional empático, mas com autocontrolo profissional que identifica quando e porquê mobilizar essa sensibilidade, evitando distanciamento não saudável."
+  },
+  {
+    "p": "O que significa que 'o terapeuta sistémico faz parte do sistema'?",
+    "opcoes": [
+      "Que o terapeuta vive com a família que atende",
+      "Que o terapeuta entra no sistema com a sua subjetividade e coloca-se como parte do processo através da sua observação e intervenção",
+      "Que o terapeuta não pode ter opinião própria",
+      "Que o terapeuta é sempre membro da mesma família que atende"
+    ],
+    "correta": 1,
+    "explica": "Reconhece-se que o terapeuta, ao observar e intervir, não é observador neutro, mas participa do sistema com a sua subjetividade, co-construindo a realidade e a solução."
+  },
+  {
+    "p": "Qual é a definição de 'sinergia' na teoria sistémica?",
+    "opcoes": [
+      "A competição entre membros da família",
+      "A situação em que o todo é maior do que a soma das partes e a interação cooperativa produz resultados melhores do que a atuação isolada",
+      "A capacidade de guardar segredos dentro da família",
+      "A ausência total de comunicação entre os membros"
+    ],
+    "correta": 1,
+    "explica": "A sinergia expressa que quando os elementos trabalham em conjunto e coordenação, os resultados são superiores ao que cada um conseguiria alcançar isoladamente."
+  },
+  {
+    "p": "Quais são os cinco níveis do pensar sistémico apresentados na unidade?",
+    "opcoes": [
+      "Individualismo, isolamento, rigidez, conflito e negação",
+      "Complexidade, globalidade, multicausalidade, instabilidade e intersubjetividade",
+      "Análise, síntese, dedução, indução e intuição",
+      "Formação, transformação, deformação, conformação e uniformação"
+    ],
+    "correta": 1,
+    "explica": "Estes cinco níveis, baseados nos três pilares (complexidade, instabilidade e intersubjetividade), formam a base do pensamento sistémico apresentado por Vasconcelos como novo paradigma da ciência."
+  },
+  {
+    "p": "O que significa 'pensar sistematicamente' segundo a síntese final da unidade?",
+    "opcoes": [
+      "Analisar um problema isoladamente focando apenas num indivíduo",
+      "Ampliar o foco, deixando de o manter apenas no indivíduo para focalizar todas as relações, identificar as regras dessas relações, contextualizá-las e trabalhar com um sistema mais universal e aberto",
+      "Aplicar regras rígidas a todas as famílias sem considerar contexto",
+      "Manter padrões antigos de pensamento e ação"
+    ],
+    "correta": 1,
+    "explica": "Pensar sistematicamente significa ampliar a perspetiva para ver as inter-relações e o contexto, em vez de isolar um problema ou indivíduo, e trabalhar com o sistema como um todo integrado."
+  }
+]
