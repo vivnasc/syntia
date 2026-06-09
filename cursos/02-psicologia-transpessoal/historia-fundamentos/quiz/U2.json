@@ -1,0 +1,134 @@
+[
+  {
+    "p": "Qual é a principal crítica de Maslow que origina a Psicologia Transpessoal?",
+    "opcoes": [
+      "A psicanálise e o behaviorismo fragmentavam o sujeito; a psicologia humanista não respondia ao entendimento do 'homem todo'",
+      "A psicologia humanista era a única abordagem correta e deveria ser mantida sem alterações",
+      "O behaviorismo era a única forma válida de estudar a consciência humana",
+      "A psicanálise era demasiado focada na espiritualidade e negligenciava o comportamento observable"
+    ],
+    "correta": 0,
+    "explica": "Maslow criticava que nenhuma das três correntes anteriores (psicanálise, behaviorismo, humanista) conseguia explicar o ser humano de forma integral, levando ao surgimento da Transpessoal como quarta força."
+  },
+  {
+    "p": "De acordo com Theodore Roszak, qual era o principal mecanismo de cooptação da contracultura pelo capitalismo?",
+    "opcoes": [
+      "A supressão violenta dos movimentos sociais pela polícia",
+      "Os meios de comunicação de massa utilizados como instrumento de controlo, vulgarizando conquistas sociais",
+      "A ausência total de financiamento para atividades culturais",
+      "A proibição legal de protestos públicos"
+    ],
+    "correta": 1,
+    "explica": "Roszak argumentava que os meios de comunicação de massa vulgarizavam e simplificavam os movimentos de contracultura, transformando-os em produtos de consumo e esvaziando seu potencial crítico."
+  },
+  {
+    "p": "Qual é a principal diferença entre o caminho da borboleta e o caminho da serpente na cartografia da consciência?",
+    "opcoes": [
+      "O caminho da borboleta é superficial; o caminho da serpente é profundo",
+      "O caminho da borboleta implica transformação genuína e interna; o caminho da serpente é apenas troca de máscaras sem mudança interior",
+      "Ambos são idênticos, apenas nomeados de forma diferente",
+      "O caminho da serpente leva à consciência cósmica; o da borboleta não"
+    ],
+    "correta": 1,
+    "explica": "A borboleta representa transformação profunda de dentro para fora (crise da crisálida); a serpente representa muda superficial de comportamentos sem transformação interna real, análogo à descamação de pele."
+  },
+  {
+    "p": "Segundo Stanislav Grof, qual é a distinção principal entre o nível biográfico e o nível transpessoal?",
+    "opcoes": [
+      "O nível biográfico estuda apenas o comportamento observável",
+      "O nível biográfico refere-se a experiências conscientes e inconscientes marcantes da vida individual; o transpessoal refere-se a experiências que extrapolam o nível normal da consciência",
+      "O nível transpessoal é apenas uma construção teórica sem aplicação prática",
+      "Não há distinção entre os dois níveis"
+    ],
+    "correta": 1,
+    "explica": "A cartografia de Grof em três níveis diferencia as experiências individuais marcantes (biográfico) das experiências que transcendem a consciência normal (transpessoal)."
+  },
+  {
+    "p": "Qual o significado de 'reencarnação' na teoria de Robert Rolfe, conforme apresentado na aula?",
+    "opcoes": [
+      "Vidas anteriores no sentido espírita tradicional",
+      "Permitir-se, compreender e expandir o próprio eu, acumulando experiências que promovem o desenvolvimento da consciência",
+      "Um conceito religioso que não se aplica à psicologia",
+      "Uma fase de sono profundo sem significado psicológico"
+    ],
+    "correta": 1,
+    "explica": "Rolfe utiliza 'reencarnação' não no sentido espírita, mas como a capacidade contínua de expansão do eu ao longo da vida através da acumulação de experiências transformadoras."
+  },
+  {
+    "p": "Qual foi a inovação criada por John Lilly para estudar a expansão da consciência?",
+    "opcoes": [
+      "A prática de meditação zen tradicional",
+      "O tanque de privação sensorial, que isolava sensorialmente o sujeito para induzir expansão da consciência",
+      "A utilização exclusiva de hipnose clínica",
+      "Um sistema de terapia grupal intensa"
+    ],
+    "correta": 1,
+    "explica": "Lilly criou o tanque de privação sensorial como instrumento para isolar o sujeito sensorialmente e facilitar a expansão da consciência pelo contacto com sensações internas intensificadas."
+  },
+  {
+    "p": "De acordo com Ken Wilber, o que é a 'falácia pré-trans'?",
+    "opcoes": [
+      "A confusão entre o pré-pessoal (estados infantis, românticos) e o transpessoal (estados espirituais avançados)",
+      "Uma corrente filosófica válida que Wilber propõe",
+      "A incapacidade de distinguir entre espírito e matéria",
+      "Uma fase da psicanálise de Freud que Wilber aceita plenamente"
+    ],
+    "correta": 0,
+    "explica": "Wilber identifica a falácia pré-trans como um erro cometido nas primeiras fases da sua obra, confundindo estados primitivos com espirituais avançados. Reconhece-a como erro da sua 'fase romântica'."
+  },
+  {
+    "p": "Qual é o princípio central que rege a cartografia da consciência de Robert Rolfe?",
+    "opcoes": [
+      "O medo como motor de transformação",
+      "O amor como princípio imperativo: agir com o outro como gostaríamos que agissem connosco",
+      "A rejeição total das relações sociais",
+      "A acumulação de riqueza material"
+    ],
+    "correta": 1,
+    "explica": "Rolfe defende que o nível de consciência desenvolvida mede-se pela capacidade de tratar o outro como se gostaria de ser tratado, sendo o amor o princípio fundamental que orienta a evolução da consciência."
+  },
+  {
+    "p": "Qual é o modelo de esferas evolutivas sucessivas proposto por Ken Wilber?",
+    "opcoes": [
+      "Apenas matéria e espírito, sem níveis intermédios",
+      "Matéria → vida → mente → alma → espírito, onde cada camada inclui e transcende a anterior",
+      "Espírito → alma → mente → vida → matéria, em ordem inversa",
+      "Um único nível de consciência sem variação"
+    ],
+    "correta": 1,
+    "explica": "Wilber propõe cinco esferas evolutivas que correspondem a física, biologia, psicologia, teologia e misticismo, onde cada nível absorve e supera o anterior, não o elimina."
+  },
+  {
+    "p": "Qual é a síntese paradigmática da cartografia da consciência de Robert Rolfe?",
+    "opcoes": [
+      "A rejeição completa das emoções em favor da racionalidade pura",
+      "O desenvolvimento da consciência dá-se a partir da perfeita identificação do conhecimento com o sentimento, tendo como resposta a conquista do eu mais profundo em sintonia com a consciência cósmica",
+      "A consciência é imutável e não pode ser desenvolvida",
+      "Apenas o conhecimento intelectual importa para o desenvolvimento pessoal"
+    ],
+    "correta": 1,
+    "explica": "A síntese de Rolfe articula a integração entre conhecimento e sentimento como base para a evolução da consciência, culminando na consciência cósmica e na descoberta do eu profundo."
+  },
+  {
+    "p": "Qual era o objetivo último de John Lilly para a humanidade através dos estudos da consciência?",
+    "opcoes": [
+      "Manter o controlo sobre os sujeitos através de substâncias psicoativas",
+      "Que os seres humanos atingissem regularmente os estados mais elevados de consciência, criando um mundo governado com alegria e eficiência, assente no equilíbrio entre homem, natureza e universo",
+      "Eliminar a necessidade de dormir",
+      "Criar uma sociedade baseada apenas na razão científica"
+    ],
+    "correta": 1,
+    "explica": "Lilly acreditava que o acesso regular aos estados elevados de consciência era essencial para a sobrevivência humana e para um mundo equilibrado entre homem e natureza."
+  },
+  {
+    "p": "Como Freud e Jung divergem fundamentalmente na interpretação dos estados espirituais?",
+    "opcoes": [
+      "Ambos concordam que estados espirituais são epifenómenos",
+      "Freud trata-os como epifenómenos sem efeito próprio; Jung atribui-lhes transpessoalidade, fundamentando a teoria dos arquétipos e inconsciente coletivo",
+      "Ambos rejeitam completamente a existência de estados espirituais",
+      "Freud é o único que reconhece a importância da espiritualidade"
+    ],
+    "correta": 1,
+    "explica": "A diferença fundamental é que Freud considera estados espirituais como fenómenos acidentais de estados infantis, enquanto Jung reconhece uma dimensão genuinamente transpessoal na psique humana."
+  }
+]
