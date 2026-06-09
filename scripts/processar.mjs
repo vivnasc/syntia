@@ -573,6 +573,35 @@ async function consolidarUnidade(area, unidade) {
   await regenerarResumoUnidade(area, unidade);
 }
 
+// Move uma aula para outra unidade: renomeia os seus ficheiros (síntese,
+// produto, transcrição) trocando o prefixo U<n>_. Sem reprocessar nada.
+function moverAula(area, arquivosJson, unidade) {
+  if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+    throw new Error(`Área inválida: "${area}"`);
+  }
+  const u = parseInt(unidade, 10);
+  if (!(u >= 1 && u <= 99)) throw new Error(`Unidade inválida: "${unidade}"`);
+  let arquivos;
+  try { arquivos = JSON.parse(arquivosJson); } catch { throw new Error("lista de ficheiros inválida"); }
+  if (!Array.isArray(arquivos) || !arquivos.length) throw new Error("sem ficheiros para mover");
+
+  const subdirs = { sinteses: ".md", produto: ".md", transcricoes: ".txt" };
+  for (const stem of arquivos) {
+    const base = path.basename(String(stem)); // segurança: sem caminhos
+    if (!base || base !== stem) continue;
+    const novo = `U${u}_` + base.replace(/^U\d+[_-]?/i, "");
+    if (novo === base) continue;
+    for (const [sub, ext] of Object.entries(subdirs)) {
+      const de = path.join(area, sub, `${base}${ext}`);
+      const para = path.join(area, sub, `${novo}${ext}`);
+      if (fs.existsSync(de)) {
+        fs.renameSync(de, para);
+        console.log(`[${area}] movido: ${sub}/${base} -> ${novo}`);
+      }
+    }
+  }
+}
+
 // ---------------------------------------------------------------------------
 // Loop principal
 // ---------------------------------------------------------------------------
@@ -585,6 +614,12 @@ async function main() {
   // Pedido de consolidação: gerar Resumo + Quiz de uma unidade (sem ficheiro).
   if (process.env.INGEST_MODO === "consolidar") {
     await consolidarUnidade(process.env.INGEST_AREA || "", process.env.INGEST_UNIDADE || "");
+    return;
+  }
+
+  // Pedido de mover: muda a unidade de uma aula renomeando os seus ficheiros.
+  if (process.env.INGEST_MODO === "mover") {
+    moverAula(process.env.INGEST_AREA || "", process.env.INGEST_ARQUIVOS || "", process.env.INGEST_UNIDADE || "");
     return;
   }
 

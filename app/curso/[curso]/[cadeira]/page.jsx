@@ -4,6 +4,7 @@ import { Prazo } from "../../../Prazo";
 import Markdown from "../../../Markdown";
 import Quiz from "../../../Quiz";
 import Consolidar from "../../../Consolidar";
+import MoverAula from "../../../MoverAula";
 
 export function generateStaticParams() {
   const out = [];
@@ -19,6 +20,7 @@ export default function CadeiraPage({ params }) {
   const { curso, cadeira } = found;
 
   const unidades = (cadeira.unidades || []).filter((u) => u.n >= 1);
+  const numerosUnidades = unidades.map((u) => u.n);
   const outras = (cadeira.unidades || []).find((u) => u.n === 0);
   const unidadesComAulas = unidades.filter((u) => u.aulas.length > 0).length;
 
@@ -104,15 +106,18 @@ export default function CadeiraPage({ params }) {
           {u.aulas.length > 0 && (
             <div className="list">
               {u.aulas.map((aula) => (
-                <Link key={aula.nome} href={`/curso/${curso.id}/${cadeira.id}/aula/${encodeURIComponent(aula.nome)}`} className="row">
-                  <span className="grow">
-                    <div style={{ fontWeight: 600 }}>{aula.titulo}</div>
-                    <div className="meta">
-                      {aula.partes > 1 ? `${aula.partes} partes · ` : ""}{aula.flashcards.length} flashcard{aula.flashcards.length === 1 ? "" : "s"}
-                    </div>
-                  </span>
-                  <span className="arrow">→</span>
-                </Link>
+                <div className="row-wrap" key={aula.nome}>
+                  <Link href={`/curso/${curso.id}/${cadeira.id}/aula/${encodeURIComponent(aula.nome)}`} className="row">
+                    <span className="grow">
+                      <div style={{ fontWeight: 600 }}>{aula.titulo}</div>
+                      <div className="meta">
+                        {aula.partes > 1 ? `${aula.partes} partes · ` : ""}{aula.flashcards.length} flashcard{aula.flashcards.length === 1 ? "" : "s"}
+                      </div>
+                    </span>
+                    <span className="arrow">→</span>
+                  </Link>
+                  <MoverAula curso={curso.id} cadeira={cadeira.id} arquivos={aula.arquivos} unidadeAtual={aula.unidade} unidades={numerosUnidades} />
+                </div>
               ))}
             </div>
           )}
@@ -124,10 +129,13 @@ export default function CadeiraPage({ params }) {
           <div className="unidade-cab"><span>{outras.titulo}</span></div>
           <div className="list">
             {outras.aulas.map((aula) => (
-              <Link key={aula.nome} href={`/curso/${curso.id}/${cadeira.id}/aula/${encodeURIComponent(aula.nome)}`} className="row">
-                <span className="grow"><div style={{ fontWeight: 600 }}>{aula.titulo}</div></span>
-                <span className="arrow">→</span>
-              </Link>
+              <div className="row-wrap" key={aula.nome}>
+                <Link href={`/curso/${curso.id}/${cadeira.id}/aula/${encodeURIComponent(aula.nome)}`} className="row">
+                  <span className="grow"><div style={{ fontWeight: 600 }}>{aula.titulo}</div></span>
+                  <span className="arrow">→</span>
+                </Link>
+                <MoverAula curso={curso.id} cadeira={cadeira.id} arquivos={aula.arquivos} unidadeAtual={aula.unidade ?? 0} unidades={numerosUnidades} />
+              </div>
             ))}
           </div>
         </div>

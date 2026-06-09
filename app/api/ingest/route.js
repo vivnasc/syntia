@@ -19,17 +19,27 @@ export async function POST(request) {
   } catch {
     return Response.json({ error: "Pedido inválido." }, { status: 400 });
   }
-  const { url, curso, cadeira, filename, modo, unidade } = payload || {};
-  const modoFinal = modo === "material" ? "material" : modo === "consolidar" ? "consolidar" : "aula";
+  const { url, curso, cadeira, filename, modo, unidade, arquivos } = payload || {};
+  const modoFinal =
+    modo === "material" ? "material"
+    : modo === "consolidar" ? "consolidar"
+    : modo === "mover" ? "mover"
+    : "aula";
   const consolidar = modoFinal === "consolidar";
+  const mover = modoFinal === "mover";
+  const semFicheiro = consolidar || mover;
 
   const token = process.env.GITHUB_DISPATCH_TOKEN;
   if (!token) {
     return Response.json({ error: "Falta configurar GITHUB_DISPATCH_TOKEN no servidor." }, { status: 500 });
   }
 
+  if (mover && (!Array.isArray(arquivos) || arquivos.length === 0)) {
+    return Response.json({ error: "Sem ficheiros para mover." }, { status: 400 });
+  }
+
   let nomeFicheiro = "";
-  if (!consolidar) {
+  if (!semFicheiro) {
     if (!url || typeof url !== "string" || !url.startsWith("https://")) {
       return Response.json({ error: "URL do áudio em falta." }, { status: 400 });
     }
@@ -73,11 +83,12 @@ export async function POST(request) {
       body: JSON.stringify({
         ref,
         inputs: {
-          audio_url: consolidar ? "" : url,
+          audio_url: semFicheiro ? "" : url,
           curso: areaDir,
           filename: nomeFicheiro,
           modo: modoFinal,
-          unidade: consolidar ? String(unidade || "") : "",
+          unidade: consolidar || mover ? String(unidade || "") : "",
+          arquivos: mover ? JSON.stringify(arquivos.map(String)) : "",
         },
       }),
     }
