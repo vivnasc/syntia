@@ -201,7 +201,11 @@ function unidadeDe(nome) {
 function chaveTopico(nome) {
   let t = nome.replace(/^U\d+[_-]?/i, "");      // tira U<n>_
   t = t.replace(/^aula\d+[_-]?/i, "");          // tira Aula<nn>_
-  t = t.replace(/[_-]?p(arte)?\d+$/i, "");       // tira _P2 / _Parte2 no fim
+  // Tira o sufixo de parte no fim — árabe (_P2, _Parte2) OU romano
+  // (-ParteI, -ParteIV). As gravações longas vêm partidas e os ficheiros
+  // usam "ParteI/II/III/IV"; sem isto cada parte virava uma aula isolada.
+  t = t.replace(/[\s_-]*parte[\s_-]*(\d+|[ivxlcdm]+)$/i, ""); // Parte II / ParteIV
+  t = t.replace(/[\s_-]*p\d+$/i, "");                          // _P2 (forma curta)
   return t.trim();
 }
 // Título legível do tópico: "Bases_Pensamento_Sistemico" → "Bases Pensamento Sistémico"
