@@ -1,0 +1,134 @@
+[
+  {
+    "p": "Qual é a definição de sistema segundo a Teoria Geral dos Sistemas?",
+    "opcoes": [
+      "Um conjunto de partes isoladas que funcionam independentemente uma da outra",
+      "Um organismo composto por partes independentes e interligadas que visa atender uma finalidade",
+      "Uma estrutura fixa que não sofre alterações quando uma das suas partes é modificada",
+      "Um modelo matemático utilizado apenas para análise de máquinas industriais"
+    ],
+    "correta": 1,
+    "explica": "A TGS define sistema como um organismo composto por partes independentes mas interligadas. Esta definição é fundamental e aparece consistentemente no material, contrastando com a visão mecanicista que via as partes isoladas."
+  },
+  {
+    "p": "Qual foi a contribuição de Ludwig von Bertalanffy para o pensamento sistémico?",
+    "opcoes": [
+      "Desenvolveu a teoria da cibernética aplicada a máquinas industriais",
+      "Introduziu o conceito de transdisciplinaridade nas ciências sociais",
+      "Publicou em 1940 o primeiro trabalho chamado 'Teoria dos Sistemas', considerando o organismo como um sistema físico e vivo",
+      "Formulou os princípios da homeostase e da retroalimentação negativa"
+    ],
+    "correta": 2,
+    "explica": "Bertalanffy foi o biólogo pioneiro que em 1940 publicou 'Teoria dos Sistemas', considerando o organismo como um sistema físico e vivo. Este foi o marco histórico da TGS, mencionado explicitamente na aula 2."
+  },
+  {
+    "p": "Quais são os três pressupostos sistémicos que caracterizam o pensamento sistémico?",
+    "opcoes": [
+      "Linearidade, determinismo e objetividade científica",
+      "Complexidade, instabilidade e intersubjetividade",
+      "Mecanicismo, redução e fragmentação",
+      "Hierarquia, autoridade e controlo centralizado"
+    ],
+    "correta": 1,
+    "explica": "Os três pressupostos sistémicos que se complementam são: complexidade (tramas e teias interligadas), instabilidade e intersubjetividade. Estes contrastam diretamente com os pressupostos mecanicistas."
+  },
+  {
+    "p": "De que forma o pensamento sistémico se diferencia do paradigma cartesiano/mecanicista?",
+    "opcoes": [
+      "O pensamento sistémico é mais simples e direto, enquanto o cartesiano é complexo",
+      "O pensamento cartesiano estuda o todo, enquanto o sistémico estuda as partes isoladamente",
+      "O pensamento sistémico rompe com a divisão em partes isoladas e entende os fenómenos como um todo inteiro, enquanto o cartesiano divide e estuda partes separadas",
+      "Ambos são idênticos, apenas com nomenclatura diferente"
+    ],
+    "correta": 2,
+    "explica": "O pensamento sistémico rompe explicitamente com o paradigma cartesiano que dividia os problemas e os resolvia em partes isoladas. A abordagem sistémica entende os fenómenos como um conjunto inteiro."
+  },
+  {
+    "p": "O que representa a característica de 'totalidade' num sistema?",
+    "opcoes": [
+      "A soma de todas as partes é sempre igual ao funcionamento do todo",
+      "Os sistemas são organismos vivos e qualquer alteração numa parte produz consequências em todas as demais",
+      "O sistema é completo quando tem todas as partes que uma máquina normal precisa",
+      "A totalidade significa que o sistema nunca sofre mudanças internas"
+    ],
+    "correta": 1,
+    "explica": "A totalidade significa que os sistemas são organismos vivos e qualquer alteração numa parte produz consequências em todas as demais (reação em cadeia). Este conceito é fundamental na TGS."
+  },
+  {
+    "p": "Qual é a relação entre o todo e as partes no pensamento sistémico?",
+    "opcoes": [
+      "A soma das partes resulta exatamente no todo, sem elementos adicionais",
+      "O todo é menor que a soma das partes porque algumas partes são eliminadas",
+      "A soma das partes não resulta no todo, mas o todo resulta numa soma das partes com propriedades emergentes",
+      "Não existe relação entre o todo e as partes no pensamento sistémico"
+    ],
+    "correta": 2,
+    "explica": "No pensamento sistémico, a soma das partes não resulta no todo, mas o todo resulta numa soma das partes. Isto implica que o todo tem propriedades que não existem nas partes isoladas."
+  },
+  {
+    "p": "O que são as 'fronteiras' de um sistema na Teoria Geral dos Sistemas?",
+    "opcoes": [
+      "Os objetivos finais que o sistema pretende alcançar",
+      "Os limites que definem um sistema e o isolam dos outros, indicando até onde se pode ir",
+      "As partes mais importantes de um sistema que o mantêm em funcionamento",
+      "A quantidade de energia que o sistema utiliza para funcionar"
+    ],
+    "correta": 1,
+    "explica": "As fronteiras são os limites que definem um sistema e o isolam dos outros. São essenciais para distinguir o que faz parte do sistema e do seu ambiente externo."
+  },
+  {
+    "p": "O que representa a 'entrada' (input) e a 'saída' (output) num sistema?",
+    "opcoes": [
+      "A entrada são as partes do sistema e a saída são os objetivos",
+      "A entrada é o fenómeno de causalidade que dá início ao funcionamento e a saída é a consequência terminal que deve ser coerente com o propósito",
+      "A entrada é onde o sistema recebe dinheiro e a saída é onde gasta",
+      "A entrada e a saída são sinónimos e representam a mesma coisa"
+    ],
+    "correta": 1,
+    "explica": "A entrada (input) é o fenómeno de causalidade que inicia o funcionamento do sistema. A saída (output) é a consequência terminal que deve ser coerente com o propósito do sistema. O processamento (throughput) converte entradas em saídas."
+  },
+  {
+    "p": "Como Maria José Esteves (2002) define o pensamento sistémico?",
+    "opcoes": [
+      "Como uma forma de simplificar os problemas complexos em partes mais pequenas",
+      "Como uma forma de integrar o que não tem como coexistir desintegrado",
+      "Como um método exclusivamente matemático de análise de dados",
+      "Como uma abordagem que rejeita completamente a ciência tradicional"
+    ],
+    "correta": 1,
+    "explica": "Maria José Esteves define o pensamento sistémico como 'a forma de integrar o que não tem como coexistir desintegrado', enfatizando que não existe separação ou dissociação, tudo está conectado."
+  },
+  {
+    "p": "Qual é a relação entre a Teoria Geral dos Sistemas (TGS) e a Cibernética?",
+    "opcoes": [
+      "São teorias completamente independentes sem qualquer ligação",
+      "A cibernética é anterior à TGS e a substitui completamente",
+      "A cibernética surge como uma concepção de visão sistemática baseada em comunicação, controlo e retroação entre sistema e ambiente, complementando a TGS",
+      "A TGS e a cibernética tratam apenas de máquinas e não de sistemas vivos"
+    ],
+    "correta": 2,
+    "explica": "A cibernética é uma concepção de visão sistemática que estuda comunicação, controlo e retroação (feedback). Bertalanffy definia-a como teoria de sistemas de controlo baseada na comunicação entre o sistema e o meio."
+  },
+  {
+    "p": "O que se entende por 'homeostase' no contexto dos sistemas autorreguladores?",
+    "opcoes": [
+      "O crescimento contínuo e ilimitado do sistema",
+      "A destruição das partes fracas do sistema para fortalecer o todo",
+      "O estado de equilíbrio que os sistemas autorreguladores procuram manter através da retroalimentação",
+      "A capacidade do sistema de se tornar cada vez mais complexo"
+    ],
+    "correta": 2,
+    "explica": "A homeostase é o estado de equilíbrio que os sistemas autorreguladores procuram manter. É uma propriedade central dos sistemas cibernéticos, mantida através de retroalimentação (feedback)."
+  },
+  {
+    "p": "Qual é o conceito-chave que distingue a segunda ordem da primeira ordem na cibernética?",
+    "opcoes": [
+      "A segunda ordem é mais antiga que a primeira ordem",
+      "A segunda ordem inclui autorreferência e relação, enquanto a primeira ordem não inclui autorreferência",
+      "A primeira ordem é mais complexa que a segunda ordem",
+      "Não existe diferença entre primeira e segunda ordem na cibernética"
+    ],
+    "correta": 1,
+    "explica": "A segunda ordem da cibernética caracteriza-se pela autorreferência e relação, ou seja, o sistema observa a si próprio. A primeira ordem não incluía essa autorreferência, focando-se apenas em retroação simples."
+  }
+]
