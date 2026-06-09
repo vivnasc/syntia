@@ -1,0 +1,25 @@
+═══ BLOCO C — PRODUTO ═══
+
+[maternidade] **FreeMe — A Travessia da Mãe** — A aula valida e dá fundamento académico ao núcleo sistémico do produto: o conceito de "função do sintoma" e a "transmissão geracional" (Bowen) e "lealdades invisíveis" (Boszormenyi-Nagy) sustentam directamente a tese de que a mãe carrega o que não é seu. A frase de Neuburger ("um membro tem um sintoma e é um sintoma da família") fundamenta o bloqueio do "peso". Ideia concreta: capítulo de leitura no bloqueio do peso intitulado "O que carregas não começou em ti", explicando lealdade invisível e transmissão geracional com a voz da Vivianne, fechando com "honrar sem repetir" e "pousar o que não era teu para carregar". Manter PT-PT, "tu", sem travessões.
+
+[maternidade] **FreeMe — A Travessia da Mãe** — A aula aprofunda a articulação entre o individual e o familiar ("a mudança individual favorece a mudança familiar e vice-versa"). Isto valida o desenho da app, que trabalha a mãe sozinha mas afecta o sistema. Ideia: post/carrossel (@vivianne.dos.santos) com a frase âncora "quando uma mãe pousa o que não é seu, o sistema inteiro respira" — abrir com "A mãe não se pode queixar. A mãe aguenta." e fechar com "Diagnóstico grátis. Link na bio."
+
+[maternidade] **Ebook "O que herdaste sem saber"** — A aula é matéria-prima directa: "lealdades invisíveis" e "transmissão geracional" são exactamente o tema do ebook ("porque repetes o que juraste nunca repetir"). Valida cientificamente o conteúdo com Boszormenyi-Nagy e Bowen. Ideia: incluir um capítulo "O padrão atravessa gerações" que distingue padrão herdado de defeito pessoal ("um padrão, ao contrário de um defeito, pode mudar"), apoiado na ideia de projecção familiar repetida de geração em geração.
+
+[maternidade] **Ebook "A culpa não é boa conselheira"** — A aula reforça que a culpa pode ter raiz sistémica e geracional, não individual. Sustenta o argumento "a culpa tem origem" e "herdaste-a". Ideia: secção que liga a culpa materna às lealdades invisíveis — "a culpa que herdaste como compromisso não consciente" — mantendo "pousar o que não é teu, e voltar a ti, sem deixares de os amar".
+
+[amor] **SyncHim — A travessia do casal** — A aula valida o vocabulário central do produto: "ordens do amor", "lealdade invisível", "herança" e a circularidade/pensamento circular sustentam a leitura sistémica do casal. O conceito de "causalidade circular" fundamenta a tese de que o nó não tem um culpado linear. Ideia: na sessão 4 de um nó (origem sistémica), texto que explica em linguagem de telemóvel a circularidade — "não há quem começou, há um círculo que se repete" — usando "padrão antigo" em vez de "trauma" e fechando com o verbo-âncora do nó. PT-PT, "tu", frases curtas, sem travessões nem jargão new-age.
+
+[amor] **SyncHim — Diagnóstico (Tier 0)** — A aula aprofunda a noção de que "as regras governam todo o sistema" e a distinção primeira ordem / segunda ordem. Isto sustenta a promessa do diagnóstico de devolver visão (ver o padrão) antes de mudar. Ideia: reforçar na Sessão 2 (revelação do nó) a ideia de que nomear o padrão é o primeiro movimento ("ver / nomear / dissolver"), explicando que mudar só o comportamento de um (primeira ordem) não chega — é preciso mexer na regra do sistema (segunda ordem).
+
+[amor] **Coleção IV — "A mulher que..."** — A aula oferece base conceitual para a lente individual da ferida no amor: "fusão vs relação" e a herança relacional precoce. Ideia: usar o conceito de lealdade invisível como frase-mãe de abertura de um capítulo — "há lealdades que assinaste sem saber, e levaste-as para dentro do amor" — mantendo registo literário e o fecho que aponta para a travessia a dois.
+
+[prosperidade] **Infonte** — A aula valida, por contraste, a tese de "sonhos herdados" do Infonte: a transmissão geracional (Bowen) e as lealdades invisíveis dão suporte académico à triagem "sonho meu / emprestado / de outro". Ideia: numa etapa do percurso (a da triagem herdada), um bloco de texto que ancore a ferramenta "despachar sonhos herdados sem culpa" na ideia de projecção familiar repetida entre gerações — "o que persegues pode ser um compromisso que nunca assinaste" — respeitando "bastar-se", "fome/chão" e o selo "infonte. clareza, foco, acção." em minúsculas, sem travessões e sem jargão proibido.
+
+═══ NOTAS ═══
+
+- O texto é um artigo científico (Psicologia: Teoria e Pesquisa, 2010), não uma transcrição de aula falada; está bem estruturado e legível, sem truncamentos significativos.
+- Pequenos erros tipográficos no original (ex.: "referenciadaz", "Withaker" por Whitaker, "socieducativa", "Wittzaele") não afectam a compreensão.
+- O conceito de "duplo vínculo" é mencionado como tendo sido descrito pelo Grupo de Palo Alto, mas o texto não o define em detalhe.
+- Os conceitos de "pseudomutualidade" e "cerco de borracha" são nomeados (associados a Wynne e famílias com membro psicótico) mas não explicados a fundo no texto.
+- A referência da SENAD na bibliografia aparece com um campo de data vazio "()", aparente falha de edição do original.

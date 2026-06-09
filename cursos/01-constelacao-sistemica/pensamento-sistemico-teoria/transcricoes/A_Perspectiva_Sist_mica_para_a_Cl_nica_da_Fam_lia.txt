@@ -1,0 +1,1038 @@
+Psicologia: Teoria e Pesquisa
+2010, Vol. 26 n. especial , pp. 95-104
+
+A Perspectiva Sistêmica para a Clínica da Família1
+Liana Fortunato Costa2
+Universidade de Brasília
+RESUMO - O presente texto tem por objetivo traçar uma breve trajetória teórica, conceitual, empírica e tecnológica do estudo
+da família na perspectiva sistêmica e apontar a consequente proposta de intervenções para a clínica da família. Apresentamos
+as diferentes Escolas de Terapia Familiar, desde aquelas fortemente influenciadas pela Cibernética até aquelas que assimilaram
+as contribuições do Construtivismo e do Construcionismo Social. A seguir, tecemos comentários sobre a pesquisa com família
+e os interesses dos pesquisadores da área em nosso país. Finalmente, apontamos nossa opinião sobre o direcionamento futuro
+da Terapia Familiar no Brasil.
+Palavras chave: família; terapia familiar; teoria sistêmica; escolas de terapia familiar.
+
+The Systemic Perspective for Family Clinic
+ABSTRACT - The present text aims to outline a brief theoretical, conceptual, empirical and technological course of family
+studies under a systemic perspective, and to point out the consequent proposal of interventions for family clinic. Different
+Family Therapy Schools are presented: from schools mainly influenced by Cybernetic to those that assimilated the contributions
+of Constructivism and Social Constructionism. Next, comments about family research and the interest of researchers about the
+theme in our country are made. Finally, our opinion about the future tendency of Family Therapy in Brazil is given.
+Keywords: family; familiar therapy; systemic theory; family therapy schools.
+
+O presente texto tem por objetivo traçar uma breve trajetória teórica, conceitual, empírica e tecnológica do estudo
+da família na perspectiva sistêmica e apontar a consequente
+proposta de intervenções para a clínica da família. Ousamos
+ainda tentar delinear qual perspectiva futura se mostra mais
+viável para esse campo de conhecimento na próxima década.
+
+Um Pouco de História
+No Brasil, duas autoras, Julia Bucher-Maluschke e Terezinha Féres-Carneiro, têm contribuído sobremaneira para
+o resgate da história da Terapia Familiar (TF) e das contribuições da Psicanálise e sua articulação com a abordagem
+sistêmica (Bucher-Maluschke, 2008; Féres-Carneiro, 1996;
+Féres-Carneiro & Diniz-Neto, 2008). Ambas as autoras indicam que o estudo e o interesse pela participação da família
+na construção dos conflitos e do sofrimento decorrente destes
+últimos vêm desde os primórdios das ciências psicológicas.
+Tanto Féres-Carneiro quanto Bucher-Maluschke concordam
+que a preocupação de Freud, desde o início de seus escritos, voltou-se para as relações familiares de seus pacientes,
+colocando a família e o indivíduo como interdependentes.
+1
+
+Aproveito a oportunidade para agradecer às grandes mestras da Terapia
+Familiar no Brasil, o muito que aprendi e ainda aprenderei: Julia Sursis Nobre Ferro Bucher-Maluschke, Maria Fátima Olivier Sudbrack,
+Maria José Esteves de Vasconcellos, Rosa Maria Stefanini de Macedo,
+Terezinha Féres-Carneiro.
+
+2
+
+Endereço para correspondência: Departamento de Clínica, Instituto de
+Psicologia, Universidade de Brasilia. Brasília, DF. CEP 70.910-900.
+E-mail: lianaf@terra.com.br.
+
+Muitos outros autores contemporâneos, como Adler, Sullivan e Fromm-Reichman, também contribuíram no sentido
+de apontar as origens dos conflitos individuais nas relações
+familiares. Teóricos da Cibernética (como Norbert Wiener),
+ou movimentos terapêuticos grupais (como Pichon Riviére
+e as comunidades terapêuticas) participaram do movimento
+lento, mas definitivo, de trazer a família para a cena clínica,
+o que veio ocorrer sistematicamente após 1960. A família
+passa, então, a ser a protagonista da cena com o reconhecimento de que seu estudo auxilia a compreensão da dimensão
+individual do conflito. A partir daí é que se desenvolvem os
+modelos sistêmicos da TF.
+A TF surgiu nos Estados Unidos a partir do trabalho de
+um grupo de pensadores e terapeutas, conforme indica Minuchin (2006/2007): Gregory Bateson e Nathan Ackerman
+foram os pioneiros. Entre 1960 e 1970 surgiram diferentes
+abordagens, métodos, clientelas e contextos do que hoje
+temos como o escopo da TF. O pensamento original era que
+a orientação teórica sistêmica era aplicável a toda estrutura
+humana, sem preocupação com diferenças culturais ou étnicas. Gradativamente, no entanto, foram surgindo, a partir
+de críticas, importantes complementos que se incorporaram
+a esse pensamento original: a crítica feminista à ausência
+da perspectiva de gênero e poder no enfoque sistêmico; a
+dimensão intrapsíquica que buscou recuperar o indivíduo
+no grupo familiar; as emoções e as heranças transgeracionais; os significados nas conversações e o lugar da família
+no contexto sociocultural. É importante, ainda, apontar as
+mudanças ocorridas na formação, na postura e na ação do
+terapeuta familiar, desde seu início. As mudanças vão de um
+terapeuta eminentemente intervencionista, a um terapeuta
+95
+
+L. F. Costa
+
+conhecedor ativo de si mesmo e dos membros da família,
+não neutro, mas determinado a participar. Essa trajetória de
+qualificação pessoal teve seu percurso entre pertinência e
+pertencimento (Andolfi, 1981) à significação e interpretação
+das narrativas da família (Anderson & Goolishian, 1998).
+Para Nichols e Schwartz (2006/2007), a abordagem
+individual e a familiar oferecem condições de compreensão
+e ajuda para a resolução de conflitos e alívio do sofrimento
+humano. A mudança individual favorece a mudança familiar
+e vice-versa. No entanto, a TF presta-se melhor ao enfrentamento terapêutico de determinados problemas interacionais
+(queixas entre membros da família ou entre o casal) ou
+problemas ligados a momentos de transição da vida familiar
+(como adolescência e uso de drogas). A TF traz para análise
+o campo de interseção dos indivíduos em família, e desta
+com o ambiente sociocomunitário que a circunda, enfocando
+sistemas, subsistemas e sistemas mais amplos em conexão.
+Não é minha intenção fazer uma retrospectiva histórica
+da TF, mas apenas apontar breves momentos da construção
+teórico-metodológica que caracterizaram seu início e marcaram seu desenvolvimento posterior. Portanto, peço desculpas,
+desde já, pela ausência de algumas referências importantes
+desse percurso. É de comum reconhecimento que o Grupo de
+Palo Alto (Gregory Bateson, John Weakland, Don Jackson,
+Paul Watzlawick, entre outros) interessou-se pelo estudo da
+comunicação, trazendo suas observações para o campo da
+análise das relações humanas no cotidiano. É dessa época,
+entre 1960 e 1970, a descrição da comunicação do duplo
+vínculo. As construções teóricas iniciais da TF contaram
+com grande contribuição de psicanalistas que se interessaram
+pela observação da comunicação em famílias com membros
+psicóticos, como Lyman Wynne. Desse período surgem as
+discussões sobre o papel da emoção na interação, que cria
+qualidades particulares, como é o caso da pseudomutualidade
+ou do cerco de borracha, que foram conceitos formulados
+com base nas interações de famílias com membro psicótico
+e na análise da comunicação característica desse grupo.
+O Grupo de Palo Alto trouxe ainda outras contribuições
+dos terapeutas Jay Haley e Virginia Satir, que apresentaram
+indicações práticas e técnicas como recursos para alcance
+de mudanças no padrão da interação familiar. Em especial,
+Satir trouxe o valor dos sentimentos para complementar uma
+racionalidade mais prevalente nesse momento (Nichols &
+Schwartz, 2006/2007). Outros teóricos, como Murray Bowen
+e Ivan Boszormenyi-Nagy, estudaram as heranças, mitos e
+lealdades familiares que colaboram para a repetição de conflitos nas diferentes gerações. Já Nathan Ackerman e Carl
+Withaker trouxeram intensidade e valor ao manejo técnico
+do terapeuta. Na década de 1970 chegamos a Salvador Minuchin que foi, indiscutivelmente, uma referência de terapeuta
+criativo, teórico e propositor de um modelo que influencia,
+até hoje, desdobramentos ocorridos na TF.
+Temos, portanto, a seguinte caracterização ao longo
+das últimas cinco décadas: década de 1960 – surge a TF,
+privilegiando o estudo da comunicação; décadas de 1970 e
+1980 – aparecimento de escolas de TF, com ênfase na Escola
+Estratégica e na Escola de Milão; década de 1990 – novos
+enfoques interpretativos e discursivos; década de 2000 – TF
+voltada para a família na relação com sistemas mais amplos.
+Sem dúvida, podemos afirmar que permanece, em todos esses
+96
+
+períodos, a primazia do pensamento circular para compreensão e intervenção do jogo relacional.
+
+Bases Epistemológicas e Teóricas
+A Cibernética, estudo dos mecanismos de feedback em
+sistemas que se autorregulam, foi o mais influente modelo
+teórico sobre o estudo de famílias (Nichols & Schwartz,
+2006/2007). O circuito de feedback representa o processo
+por meio do qual um sistema obtém uma informação necessária para seguir adiante de forma estável. Essas definições
+pontuam a perspectiva circular, ou circularidade, como
+a lente para compreensão das influências mútuas entre os
+membros da família. Inicialmente, os conceitos cibernéticos
+foram aplicados sobre a observação direta das interações
+ocorridas em família. O desafio foi enxergar a família além
+das individualidades e buscar o padrão de influência mútua
+que se observa nas condutas de seus membros.
+Ademais, Ludwig von Bertalanffy desenvolveu um modelo teórico – a Teoria Geral dos Sistemas – que combinava
+conceitos de pensamento sistêmico e da biologia, e buscava
+sua aplicação aos seres vivos e aos sistemas sociais. Nessa
+proposta teórica, os organismos eram um sistema aberto
+interagindo todo o tempo com seu ambiente, buscando
+como um todo atingir um objetivo a partir de suas condições
+(equifinalidade), com uma reatividade que visa o equilíbrio
+(homeostase) e, acima de tudo, dirigindo-se a mudanças.
+Esses conceitos se mantiveram como referência em todas
+as discussões e avanços teóricos posteriores na TF (Bloch
+& Rambo, 1995/1998; Nichols & Schwartz, 2006/2007).
+Nesse ponto, vale ressaltar uma formulação teórica inicial
+que sempre teve grande influência sobre a interpretação da
+dinâmica familiar, que é a função do sintoma. O surgimento
+de um sintoma em um membro da família pode ter uma função estabilizadora de um movimento de mudança iminente,
+restabelecendo, assim, uma homeostase anterior. O sintoma
+teria uma função homeostática. Essa compreensão fez com
+que se buscasse olhar o sintoma muito além da queixa individual. Poderíamos dizer que o sintoma beneficiaria a interação
+familiar (Nichols & Schwartz, 2006/2007). Neuburger (1984)
+resumiu essa posição numa sentença: um membro familiar
+tem um sintoma e é um sintoma da família. Essa perspectiva
+conceitual, atualmente, está bastante desgastada em virtude
+de que o estabelecimento de uma relação causal e competitiva
+entre o aparecimento do sintoma e sua função reguladora
+pode levar a uma posição antagônica do terapeuta e da família. O terapeuta, hoje, está mais preocupado em alcançar
+uma relação mais colaborativa com o sistema.
+Em 1995, Esteves de Vasconcellos publicou contribuições para a releitura e aprofundamento da compreensão da
+interação do sistema, criticando a influência da Cibernética
+sobre a TF, sendo aquela vista como uma perspectiva mais
+mecanicista, na qual a preocupação maior é com a organização do sistema. A partir de discussões epistemológicas,
+referenciadaz em autores como Edgar Morin, Humberto
+Maturana, Bradford Keeney, Marcelo Pakman, Lynn Hoffman, entre outros, Esteves de Vasconcellos articulou novos
+conceitos como complexidade, instabilidade, desordem e
+imprevisibilidade para reconhecer a manifestação de um
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 95-104
+
+Terapia Familiar Sistêmica
+
+“novo paradigma”. Essa autora propõe que o novo paradigma,
+denominado de Pensamento Sistêmico, seja mais abrangente
+e aplicado às ciências de modo geral. Interessa-nos como
+essa proposição pode ser útil na ampliação do estudo dos
+sistemas familiares em conexão com outros sistemas sociais.
+Em sua obra de 2002, Esteves de Vasconcellos apresentou
+formalmente sua proposta epistemológica para o estudo das
+interações intra e entre sistemas, observadas em famílias ou
+além, sendo a complexidade, a instabilidade e a intersubjetividade consideradas em contexto. Esses conceitos não são
+invocados como novos, mas com uma nova percepção da
+condição de fundantes na observação dos sistemas. A família
+pode ser compreendida, então, como um sistema em relação,
+que deve ser visto em seu contexto (um sistema em relação
+com outros sistemas); em sua complexidade (com interações
+múltiplas e diversas); em sua instabilidade (articulações e mudanças em constante andamento) e em sua intersubjetividade
+(realidades múltiplas decorrentes de interações). Buscamos
+aqui resgatar a contribuição de uma autora brasileira que
+tem reconhecimento nacional e internacional, apresenta uma
+proposição teórica e constrói uma referência que considera
+e integra elementos conceituais formulados em discussões
+epistemológicas de outras ciências, durante esse período de
+avanço da TF.
+Para finalizar esse tópico, aponto que unidades de análise
+da TF sempre se concentraram em pensar a família em seu
+contexto; considerar a reciprocidade como influência mútua
+nos relacionamentos; analisar as interações e os problemas
+vivenciados como produto de uma causalidade circular;
+valorizar o processo de comunicação; conhecer a função do
+sintoma para a organização familiar; perceber a emergência
+de problemas e conflitos considerando a passagem da vida
+familiar por ciclos. Como veremos a seguir, novos temas e
+enfoques foram sendo agregados aos conceitos fundamentais,
+a partir de 1980: maior preocupação com o conteúdo das
+conversações entre os membros da família, daí o surgimento de um interesse particular na construção das narrativas
+familiares; conscientização das influências do gênero e da
+disputa de poder (aspectos preponderantes da vida social)
+presentes na família; reconhecimento da relação interpenetrante das características culturais, étnicas e de raça na família
+(McGoldrick, 1998/2003; McNamee & Gergen, 1995/1998;
+Perelberg & Miller, 1990/1994).
+
+As Escolas de Terapia Familiar e seus Conceitos
+Escolas com maior influência da Cibernética e da Teoria
+Geral dos Sistemas
+As Escolas que receberam maior influência imediata
+dos conceitos da Cibernética e da Teoria Geral dos Sistemas
+foram as pioneiras na construção do contexto clínico do atendimento a famílias com a observação direta das interações
+familiares. Também preservaram o conceito básico de que a
+família é um sistema vivo e aberto, em constante mudança.
+Em termos conceituais, além dessa premissa, esses teóricos
+enfocam a família como um grupo delimitado por fronteiras,
+organizado em subsistemas menores e inserido em sistemas
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 95-104
+
+maiores, com função autorreguladora que busca manter a
+homeostase que, por sua vez, tem uma função interpessoal
+no surgimento de um sintoma, o qual é visto como um regulador homeostático (Bloch & Rambo, 1995/1998). A terapia
+é voltada para observação e ação, visando conhecer e atuar
+na homeostase.
+O método é o da observação direta da interação familiar,
+buscando a modificação do padrão de comunicação, porque
+os conflitos são vistos como o resultado da forma de comunicação de uns membros com outros. Em termos formais,
+além da presença de todos os membros da família à consulta,
+temos o atendimento realizado por uma equipe, a qual se
+divide naqueles que estão em contato direto com a família
+(dupla terapêutica), e os que se dedicam mais à observação,
+mas têm uma responsabilidade compartilhada na leitura e
+interpretação da dinâmica familiar, bem como na condução da
+ação. Desde esse período, há uma inovação que diz respeito
+à filmagem dos atendimentos, a qual tem utilidade tanto para
+os terapeutas como para os membros da família, como um
+recurso estratégico de provocação para mudança.
+Os principais grupos representantes dessa orientação
+metodológica específica são: a Escola de Palo Alto (Paul
+Watzlawick, Gregory Bateson, Carlos Sluzki, entre outros); a
+Escola Estrutural (Salvador Minuchin, Jorge Colapinto, entre
+outros); e a Escola Estratégica (Jay Haley, Cloé Madanés,
+entre outros). Em termos metodológicos, os teóricos baseavam suas intervenções em redefinições (definir de modo novo
+um comportamento antigo, dando-lhe um novo sentido) e na
+orientação de tarefas, que seriam realizadas pelas famílias,
+com o objetivo de alterar o padrão de comunicação repetitivo.
+Há um livro (Watzlawick, Weakland & Fisch, 1973/1977),
+bem ilustrativo, da avaliação dos conflitos familiares a partir
+da análise dos comportamentos que estariam sustentando a
+repetição dos conflitos e da proposição de tarefas que teriam
+o poder de interferir na homeostase e criar novas respostas.
+A Escola de Palo Alto propõe uma terapia breve e objetiva, procurando evidenciar os paradoxos da comunicação
+na família, e centrada na solução de problemas. A Escola
+Estratégica também conserva esses objetivos a partir da observação das regras familiares que mantêm o problema. As
+regras governam todo o sistema e a busca é por mudanças
+de segunda ordem que mostram, de fato, mudança nas regras
+do sistema. Uma mudança de primeira ordem traz somente
+uma mudança na regra do comportamento de um elemento
+do sistema, não sendo, portanto, o desejável. Apesar dessas
+proposições colocarem o terapeuta numa posição de muito
+poder, e esse “interventor poderoso” ser alvo de críticas,
+esse modelo trouxe muitas contribuições quanto ao manejo
+terapêutico e uso de técnicas com a família, que permanecem até hoje (Nichols & Schwartz, 2006/2007; Wittzaele &
+Garcia, 1995/1998).
+A Escola Estrutural (Minuchin, 1980/1982) valoriza
+a estrutura familiar e segue mapeando fronteiras, regras,
+direção da funcionalidade familiar, padrão de organização
+das interações, repetições de comportamentos, coalizões,
+dinâmica de interação. A abordagem dá grande valor à análise
+e intervenção nos subsistemas, que são grupos demarcados
+por fronteiras internas, como o subsistema fraternal, o conjugal, o feminino, o masculino etc. As fronteiras têm ainda
+uma outra função que é demarcar a estrutura hierárquica.
+97
+
+L. F. Costa
+
+O terapeuta busca alterar essa estrutura com a intervenção
+em seus elementos, por meio de uma participação ativa que
+tem por objetivo alterar a hierarquia familiar e o problema
+relacionado a ela.
+O aspecto metodológico inclui criatividade no trato com
+os membros da família, posição de liderança e autoridade,
+mapeamento da estrutura progressivamente ao andamento
+das sessões, e intervenções que seguem um plano objetivo e
+claro. O foco é permanente nas interações entre os membros
+da família. Duas orientações técnicas são bastante usadas:
+prescrição de tarefas, o que leva o ambiente terapêutico
+para dentro de casa, e o enfoque no sintoma por meio de sua
+redefinição. A afetividade também merece especial atenção.
+A Escola Estratégica (Haley, 1985; Madanes, 1984) é um
+modelo pragmático voltado essencialmente para a clínica.
+Sua preocupação é com a solução do problema e com a
+identificação dos comportamentos que mantêm o problema.
+Para cada resolução de problema, são traçadas estratégias específicas. Há um plano geral, que inclui a primeira entrevista,
+a qual tem lugar muito importante, pois além de explorar o
+problema, estabelece as metas e as atribuições que cabem a
+todos. Progressivamente vão sendo planejadas intervenções
+que requerem cooperação de todos, até o estágio de resolução do problema, e uma fase posterior de manutenção dos
+ganhos obtidos.
+Conceitos complementares da Psicanálise na Terapia
+Familiar
+Muitos teóricos iniciais da TF eram psicanalistas e
+trabalharam no sentido de estabelecer complementaridade
+com os conceitos cibernéticos, produzindo contribuições que
+resgatam as histórias familiares e seus desdobramentos ao
+longo do tempo, isto é, resgatam a importância do processo
+da relação familiar e não somente o momento atual observado. Alguns terapeutas tiveram destaque nessa abordagem:
+Alberto Eiguer, Andre Ruffiot, Dider Anzieu, entre outros, e
+mais recentemente, Robert Neuburger e Pierre Segond. Esses
+autores resgatam a palavra nas sessões, entendem que o sintoma reflete aspectos da história passada da família e que é por
+meio da interpretação e releitura do significado do sintoma na
+história familiar que haverá mudanças. O objetivo da sessão
+de TF é clarear as repetições de comportamentos passados e
+que ainda se reproduzem no presente (Féres-Carneiro, 1996).
+Há um grande interesse na trama inconsciente dos sentimentos, desejos e expectativas entre os membros da família. O
+método é o da interpretação das relações e repetições, para
+que esse padrão se faça consciente a todos. O grupo familiar
+compartilha um aparelho psíquico inconsciente.
+Tomo a liberdade de incluir, nesse tópico, os estudiosos
+dos aspectos inconscientes (e.g., segredos, mitos e transmissões geracionais) que envolvem todos os membros
+da família. Esses aspectos são perpetuados por meio das
+lealdades invisíveis (Boszormenyi-Nagy & Spark, 1983),
+isto é, compromissos assumidos de forma não consciente
+entre os membros da família. Dentre esses autores, destaco
+Boszormenyi-Nagy, Helm Stierlin e Murray Bowen. O que
+está em jogo, nessa abordagem, é tanto a individuação como
+a dependência emocional que une inexoravelmente todo os
+98
+
+membros da família em suas histórias particulares e familiares. Como cada pessoa se posiciona individualmente nessa
+trama, entre a história individual e a história familiar surge a
+condição de realizar e manter a separação com relação à dependência emocional que une a todos os membros da família.
+O conceito de transmissão geracional, discutido por
+Murray Bowen, trata dos processos de projeção familiar
+repetidos de geração a geração, permitindo, ou não, níveis
+de diferenciação. Outros conceitos, como lealdade e parentalização, desenvolvidos por Boszormenyi-Nagy, tratam dos
+processos inconscientes que formulam compromissos entre
+os membros da família, ao longo de gerações e que, em última
+análise, visam garantir a união do sistema. A família, durante
+todo o tempo, administra a tensão entre união e distanciamento emocional, proporcionando separação e crescimento
+funcional no devido momento. A escuta é o principal fator
+nessa abordagem, além da valorização da história familiar
+que identifica as relações afetivas precoces de todos os
+membros nas diferentes gerações.
+Para finalizar esse tópico, aponto a posição de FéresCarneiro (1996) e Bucher-Maluschke (2008), que enfatizam
+o valor complementar da influência psicanalítica na clínica
+da família. Além disso, o estudo das influências transgeracionais sobre o surgimento de determinados sintomas na
+família, como abuso de substâncias químicas ou violência
+intrafamiliar sexual, beneficia-se extremamente das contribuições advindas da abordagem transgeracional (Penso &
+Costa, 2008).
+A Escola de Milão
+Novamente, tomo a liberdade de organizar a construção
+do contexto clínico da família, ressaltando, em especial, as
+contribuições da Escola de Milão. Seus vários teóricos –
+Mara Selvini Palazzoli, Gianfranco Cecchin, Luigi Boscolo
+e Giulana Prata – tiveram grande influência dos conceitos das
+escolas iniciais, anteriormente expostos. Porém, esses autores
+foram além e propuseram conceitos que inovaram e formaram
+diretrizes teórico-metodológicas de grande abrangência sobre
+os terapeutas familiares de todos as épocas e orientações
+teóricas, tais como: questionamento circular, conotação positiva e elaboração de hipóteses (Féres-Carneiro, 1996). Esse
+grupo preocupou-se com apresentação de recursos e ações
+que envolvessem todos os membros da família. A elaboração
+de hipótese inclui a ideia de que o terapeuta e os membros
+da família estão construindo e “testando” explicações sobre
+o que se passa com a família. O questionamento circular
+reflete o conceito de circularidade, de que os sistemas vivos
+são caracterizados por formações de círculos relacionais.
+A neutralidade é a posição de que o sistema deve ser visto
+em todas as suas partes, e todas têm a mesma importância
+na sua expressão. Na prática é fazer aliança com todos os
+membros da família. Além do valor da equipe como um importante recurso no atendimento, a Escola de Milão trouxe
+questionamento sobre intervalo entre as sessões, como um
+outro recurso terapêutico (Boscolo, Cecchin, Hoffman &
+Penn, 1993). Nichols & Schwartz (2006/2007) consideram
+que a Escola de Milão pode ser vista como estratégica (na
+origem de seus conceitos e prescrições) e com ênfase na
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 95-104
+
+Terapia Familiar Sistêmica
+
+adoção de rituais, que são ações prescritas para dramatização
+da conotação positiva.
+Aquisição de conceitos sociais na Terapia Familiar
+Ao longo do tempo, o estudo das famílias incorporou
+temas e conceitos com forte ênfase social, como o feminismo
+e a rede social. A leitura sistêmica da família ressalta mais
+o conjunto e menos as partes. Alguns temas sociais, como
+atenção às relações de gênero, vieram valorizar essas partes e
+os indivíduos com posição social diferentes dentro do todo. O
+papel da mulher, o patriarcado, os condicionamentos sociais
+da maternidade/paternidade passaram a receber estudos particularizados. Com esse avanço, foram trazidos para a leitura
+das relações familiares, temas como a submissão da mulher,
+a vitimização de mulheres e crianças e a responsabilidade
+social e ética decorrentes dessas observações, bem como a
+questão do poder diferenciado entre homens e mulheres,
+entre adultos e crianças e/ou adolescentes numa sociedade
+machista (Saffioti, 1997).
+A perspectiva feminista trouxe críticas importantes à
+adoção de conceitos cibernéticos. A complementaridade
+(diferença de posicionamento entre homem e mulher) não
+contempla a desvantagem que a mulher tem em relação ao
+homem em nossa sociedade (Goodrich, Rampage, Ellman
+& Halsted 1988/1990; Rampage & Avis, 1995/1998). Do
+mesmo modo, outros conceitos como circularidade e neutralidade tiveram suas formulações questionadas, pois a falta
+de apontamento dessas desigualdades sociais no contexto
+da terapia pode mascarar o valor desse aspecto e promover
+a perpetuação dos comportamentos e ações de submissão
+da mulher e poder do homem. Uma consequência dessa
+mudança se fez nas propostas metodológicas para trabalhos
+com violência intrafamiliar, violência conjugal e alcoolismo,
+nos quais uma dimensão política dessas condições tem que
+ser considerada. Não se trata de uma nova escola, nem de
+arcabouço técnico ou metodológico, mas da inserção da
+questão de gênero nesse contexto.
+O conceito de rede social foi desenvolvido na década
+de 1960, a partir dos trabalhos de Ross Speck e Carolyn
+Attneave, nos Estados Unidos e Canadá, na área da psiquiatria, com famílias de psicóticos que reuniam graves
+condições de reintegração do paciente. Hoje, a intervenção
+em rede constitui-se numa ação bastante usada na Bélgica,
+Itália e Argentina, além dos países de origem, tendo sido
+definitivamente incorporada às intervenções com famílias.
+Os trabalhos são, prioritariamente, realizados junto a comunidades de pacientes psicóticos e toxicômanos e populações
+de baixa renda (Speck, 1987/1989). A rede é a tribo à qual o
+indivíduo pertence. O princípio que rege a formação da rede
+é o da mobilização do relacionamento natural das famílias
+como sistema de suporte para as mesmas. Esse sistema natural em volta da família é um suporte mais potente do que
+a responsabilidade profissional.
+Speck (1987/1989) enfocou o conceito de rede social no
+contexto clínico, propondo uma intervenção enérgica que
+seria oferecida à família somente quando outros métodos
+não tivessem produzido resultados. Essa proposta consistia
+num encontro entre a equipe terapêutica (o chefe, técnicos
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 95-104
+
+em dinâmicas de grupo e consultores), a família e cerca de
+mais ou menos 40 pessoas, escolhidas, pela família, entre
+conhecidos, parentes, vizinhos e amigos, com o objetivo de
+encontrar soluções.
+Com relação a trabalhos comunitários com populações menos favorecidas economicamente, Pluymarkers
+(1987/1989) enfoca a importância da rede social na abordagem de problemas no campo da exclusão social. Esse trabalho
+de rede é importante na medida em que mantém as pessoas e
+famílias conscientes da dimensão coletiva, das implicações
+socioeconômicas dos problemas, no sentido de questionar
+os trabalhos sociais que visam ajudar, mas terminam por
+acelerar a exclusão dos envolvidos no problema. Há cerca
+de 15 anos atrás, Dabas (1995) descreveu uma experiência
+de trabalho com multifamílias, que enfatizou uma abordagem descentrada da função do especialista, apoiando-se na
+capacidade autogestiva dos grupos. Esse trabalho visava
+potencializar as redes de solidariedade entre pessoas que
+compartilhavam problemas semelhantes, os quais incluíam
+quadros de exclusão resultantes de um progressivo processo
+de desfiliação. A valorização da construção e/ou reconstrução da rede social desenvolve a capacidade autorreflexiva e
+autocrítica, otimiza a organização autogestiva e implica mudanças na subjetividade individual, produzindo modificações
+na família e no meio social. Aun, Esteves de Vasconcellos e
+Coelho (2006, 2007) lançaram uma obra, em dois volumes,
+na qual explicitam, propõem e descrevem casos clínicos a
+partir de uma abordagem psicossocial de famílias em grave
+sofrimento e com grande prejuízo em sua inserção social. A
+proposta é de um atendimento fundamentado na perspectiva
+sistêmica e da mobilização da rede social de pertencimento
+dessa família. O valor maior dessa proposição é que se faz
+no contexto brasileiro, considerando as condições de sobrevivência e precariedade de recursos sociais e comunitários de
+nossas famílias, e exemplifica passos práticos de mobilização
+e atuação da rede.
+Linguagem e significados na Terapia Familiar
+Os estudos sobre a linguagem tiveram influência sobre
+a intervenção com famílias, configurado no surgimento da
+Abordagem Narrativista (White, 1997). Essa abordagem reflete as construções teóricas ditas pós-modernas e preocupase com o processo da construção da história e “verdade”
+familiar, e como esses significados são construídos.
+Para a configuração da Abordagem Narrativista, conceitos
+advindos da Biologia (Maturana Romesín, 1995/1998), na
+interface com os processos comunicacionais, e a inseparabilidade entre o observador e o observado (von Foerster,
+1988) foram incorporados, passando-se a dar atenção aos
+processos cognitivos presentes nas interações familiares.
+Duas correntes teóricas forneceram subsídios para essa
+abordagem: O Construtivismo e o Construcionismo Social. O
+Construtivismo propôs a redescoberta do processo libertador
+do diálogo (Anderson & Goolishian, 1998). A abordagem
+Narrativista visa que a família explore novos significados e
+sentidos para os fatos em andamento, constituindo-se em um
+avanço muito grande e crítico em relação à observação privilegiada do comportamento, característica das abordagens
+99
+
+L. F. Costa
+
+anteriores. A partir do Narrativismo, toma-se a direção da
+percepção e interpretação dos fatos e do sofrimento inerente,
+pela ótica de todos da família. A percepção é recíproca e a
+linguagem cria soluções (Nichols & Schwartz, 2006/2007).
+O Construcionismo Social trouxe a reconsideração do papel
+da linguagem no mundo social e na relação familiar. As
+interações são construídas no processo de interrelação, mediado, principalmente, pela linguagem, ou seja, pelo modo de
+conversar. Os eventos da história familiar têm que ser vistos
+em função do momento histórico, social e cultural. A ação
+cooperativa entre as pessoas marca o processo de relação
+familiar e a construção das saídas dos conflitos.
+Em síntese, podemos dizer que o Construtivismo enfatiza
+a concepção de que as pessoas criam suas realidades e de
+que a experiência é, primordialmente, subjetiva. O Construcionismo Social enfatiza que as pessoas em interação criam
+significados advindos da percepção particular e também
+das experiências no âmbito social, e essas experiências são
+intersubjetivas, narradas e interpretadas nesse contexto. Os
+significados são construídos na interação social e não mais
+na origem individual (Elkaïm, 1995/1998; Guimarães &
+Costa, 2002; McNamee & Gergen, 1995/1998). Apesar de o
+Construcionismo Social dar ênfase a processos mais sociais
+e o Construtivismo, a processos mais individuais, ambos
+contribuíram de forma complementar para a TF, colocando
+a família como um sistema sociocultural e linguístico.
+Retomando a Abordagem Narrativista, seu princípio
+central é que nossas ações e comportamentos são efeitos
+concretos dos significados que damos às nossas experiências,
+e esses significados estão expressos nas histórias que contamos, para outros, sobre nós mesmos. Essas narrativas têm que
+ser dimensionadas em seu contexto social e cultural. Dessa
+forma, cria-se um sistema de significados no qual estamos
+imersos. Precisamos ir além e exteriorizar esses significados.
+Isso ocorre na conversação, e é por meio dela e de perguntas
+desconstrutivas que podemos reconstruir esses significados
+(Guimarães & Costa, 2002; White, 1997; Zimmerman &
+Dickerson, 1995/1998), tomando-se a direção de que cada
+um construa uma outra alternativa de conhecimento próprio.
+Essa abordagem se configura para mudanças individuais e
+interacionais. Uma conversação que seja criativa, curiosa,
+desconstrutiva e reconstrutiva baseia-se na interpretação
+dos significados, isto é, na hermenêutica (Anderson & Goolishian, 1998; McNamee & Gergen, 1995/1998; Nichols
+& Schwartz, 2006/2007). São as narrativas presentes nas
+conversações que encadeiam e dão sentido às experiências
+vividas e oferecem outros sentidos e, assim, outras “verdades” poderão ser construídas (Guimarães & Costa, 2002).
+
+As Transformações no Contexto Sociocomunitário
+e a Resposta da Terapia Familiar
+Desde a década de 1990 tem havido um lento, mas
+inexorável, direcionamento das intervenções clínicas para
+o contexto comunitário. O Instituto Brasileiro de Geografia
+e Estatística - IBGE (2003) informa que em 2003, 32% dos
+municípios brasileiros viviam na pobreza absoluta e que
+em 77% dos municípios do Nordeste, mais da metade da
+população vivia na pobreza. Em função dessas condições
+100
+
+econômicas precárias, tem havido iniciativas no sentido de
+viabilizar o acesso dessas populações ao contexto clínico e,
+desse modo, tem ocorrido adaptações de métodos clínicos
+para contextos de comunidades de baixa renda. A Terapia
+Comunitária (TC) foi criada por Adalberto de Paula Barreto
+– médico, psiquiatra, antropólogo, professor de Psiquiatria
+da Universidade Federal do Ceará – e, ainda que não voltada
+para o grupo familiar, tem sua base teórica sistêmica, sendo
+seu criador, ele mesmo, um terapeuta familiar sistêmico.
+Outro método, o Grupo Multifamiliar (GM), já bastante divulgado, está, cada vez mais, sendo adotado por instituições
+públicas que atendem famílias carentes, como é o caso dos
+CRAS (Centro de Referência em Assistência Social) ou dos
+CREAS (Centro de Referência Especializada de Assistência
+Social). Ambas instituições pertencem às ações de política
+pública do Ministério do Desenvolvimento Social e Combate
+à Fome (MDS).
+A TC nasceu há 20 anos (Barreto, 2007), a partir de uma
+iniciativa do Departamento de Saúde Comunitária da Universidade Federal do Ceará, com apoio do Centro de Direitos
+Humanos do Pirambú (favela de Fortaleza) e do Movimento
+Integrado de Saúde Mental Comunitária. Grandesso (2007)
+situa a TC na perspectiva sistêmica, identificando seu objeto
+de intervenção como o grupo e a comunidade, e contemplando em sua organização e método, os aspectos apontados
+anteriormente por Esteves de Vasconcellos (2002): complexidade, imprevisibilidade e intersubjetividade. Além disso, essa
+autora indica a TC como o espaço de diálogo e conversas,
+no qual histórias são reconstruídas pela ativa participação
+de todos os presentes. A TC compreende os distúrbios das
+populações excluídas em três categorias: do abandono, da
+insegurança e da baixa autoestima. O contexto para atenção
+a esses problemas, considerando populações desassistidas,
+é o comunitário. A TC encontra-se, atualmente, difundida
+em todo o território nacional, tendo sido preconizada pela
+Secretaria Nacional de Políticas sobre Drogas, vinculada diretamente à Presidência da República, que edita uma cartilha
+denominada “A Prevenção do Uso de Drogas e a Terapia
+Comunitária” (SENAD, 2010).
+O GM surgiu na década de 1950 e foi chamado inicialmente de Terapia de Múltiplos Grupos Familiares, por Peter
+Laquer (Nichols & Schwartz, 2006/2007). Essa abordagem
+é uma adaptação da técnica de grupo ao tratamento de famílias e foi criada a partir de famílias de pacientes psicóticos
+(Laquer, 1973/1983). Bowen (1976) descreveu os primeiros
+resultados sobre a reunião de famílias num contexto clínico,
+observando que estas se mostravam mais à vontade estando
+reunidas e que havia maior focalização nas interações familiares. As famílias desenvolveram mudanças 50% mais rápidas
+do que famílias semelhantes que eram vistas isoladamente.
+Laquer (1973/1983) descreve os GM como grupos abertos,
+com famílias ingressando ou deixando o grupo conforme
+o necessário. As famílias são reunidas durante 1 hora e 30
+min em sessões semanais, frente a uma equipe terapêutica
+que inclui terapeuta, coterapeuta e observadores. A seleção
+das famílias é feita com base na similaridade na intensidade
+dos problemas (Bowen, 1976) ou, então, de forma aleatória,
+dependendo das queixas. O principal ganho dessa forma
+de intervenção é quanto à aprendizagem de novas formas
+de comportamento pela pressão ou aprovação do grupo,
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 95-104
+
+Terapia Familiar Sistêmica
+
+e as mudanças se dão por semelhança e identificação. Por
+semelhança, quando as famílias presenciam, em outras, seus
+conflitos, e por identificação, quando pais aprendem com outros pais, mães com outras mães, as soluções já encontradas.
+As famílias assumem o papel de coterapeutas, na medida
+em que já alcançaram mudanças e, desse modo, funcionam
+como modelos, criando um foco permanente de excitação,
+já que sempre existem famílias em estágios diferentes.
+Um dado considerado relevante por Laquer (1976) é que,
+na convivência com outras famílias, há a quebra do rígido
+código familiar e dos silenciamentos e, assim, fica evidente
+o conflito intrafamiliar. Essa quebra pode, ainda, levar ao
+surgimento da cooperação. Várias experiências vêm sendo
+realizadas com populações de baixa renda e com populações
+com problemas específicos. É importante assinalar que, na
+atualidade, o MDS vem organizando e sistematizando sua
+política de assistência às famílias carentes, por meio de documentos que preconizam o atendimento em grupo familiar.
+O documento do Serviço de Proteção e Atendimento Integral
+à Família - Paif (MDS, 2010) e o Guia de Orientação nº 1
+(CREAS, 2010) indicam que a assistência às famílias deve
+ser organizada e proposta em grupos, mais especificamente,
+“grupos de famílias”.
+Ambas as abordagens têm sua praticidade indicada para
+nosso contexto de famílias com carências financeiras, como
+foi apontado nos dados do IBGE (2003). Queremos aqui
+ressaltar que essas iniciativas respondem de forma viável
+às necessidades da população de baixa renda familiar e vêm
+assumindo um papel fundamental para a viabilização dessas
+políticas públicas que o país deve há muito tempo para essas
+famílias.
+
+Proposta Metodológica para o
+Trabalho com Famílias no Contexto Comunitário
+Em 1998, a autora deste texto defendeu sua Tese de
+Doutorado sobre o tema família, com uma proposição metodológica de Reuniões Multifamiliares para atendimento
+comunitário a famílias, numa perspectiva de construção de
+contexto clínico na comunidade (Costa, 1998). Desde então,
+essa perspectiva vem oferecendo outras possibilidades de
+adaptação, e têm sido publicados outros trabalhos descrevendo essa trajetória, a partir de um projeto de pesquisa
+interinstitucional (Costa, 2002) que reúne duas universidades – Universidade de Brasília e Universidade Católica
+de Brasília. Vários resultados decorrentes desse projeto já
+foram publicados: Costa, Almeida, Ribeiro e Penso (2009),
+Costa, Penso, Almeida e Ribeiro (2008), entre outros títulos.
+Em termos teóricos, o GM tem como referência os aportes: (a) da Psicologia Comunitária, que visa o trabalho em
+grupo, preocupa-se com a adaptação da Psicologia Clínica
+na comunidade (Mejias, 1995) e valoriza a equipe com diferentes saberes, científicos e populares (Santos, 1999); (b) da
+Terapia Familiar, em que a família é vista “como o cliente” e a
+relação é o ponto focal do trabalho, sempre numa perspectiva
+contextual (Minuchin, Colapinto & Minuchin, 1998/1999);
+(c) do Sociodrama, em que o grupo é o protagonista e a ação
+protagônica grupal é o objetivo (Moreno, 1959/1993); e (d)
+da Teoria das Redes Sociais, que enfoca a interação humaPsic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 95-104
+
+na com a troca de experiências, compreendendo-se que as
+relações já existentes nas redes naturais dos sujeitos devem
+ser preservadas (Sluzki, 1994/1996).
+Cada sessão do GM dura em média 3 horas e sua programação segue um calendário quinzenal. Cada encontro dividese em três momentos distintos e interligados: aquecimento,
+discussão e conclusão. Essa organização segue orientação
+metodológica da sessão psicodramática (Gonçalves, Wolff
+& Almeida, 1988), que indica três etapas: aquecimento,
+dramatização e compartilhamento. O ‘aquecimento’ tem por
+objetivo integrar o grupo e estimular a discussão do tema
+daquele dia (são usados jogos dramáticos). A ‘discussão’
+visa aprofundar a conversação sobre o tema, desenvolver
+a capacidade de reflexão sobre o assunto por meio de perguntas reflexivas (Anderson & Goolishian, 1998) e acolher
+o sofrimento psicológico advindo das identificações com o
+tema (são propostos subgrupos para melhor aproveitamento
+da conversação). A ‘conclusão’ sintetiza as opiniões sobre o
+tema discutido, avalia a aprendizagem sobre o tema e formula
+sugestões práticas às famílias (cada encontro termina com
+um ritual de compromisso mútuo).
+A proposta do GM tem sido adaptada a diversos contextos envolvendo famílias encaminhadas pela justiça e com
+atendimento sob obrigação, adolescentes em cumprimento
+de medida socioeducativa e suas famílias, famílias com
+situação de violência sexual envolvendo crianças e adolescentes e famílias com adolescentes ofensores sexuais
+(Costa & Penso, 2010). Cada uma das adaptações para esses
+diferentes contextos contém sugestão de temas específicos
+ligados à complexidade de cada circunstância. Para o contexto de atendimento comunitário, os temas são: família,
+violência, escolarização, profissionalização dos jovens e
+drogas, assim como temas de interesse da comunidade ou
+sugeridos pela instituição parceira. Os temas para o contexto
+de adolescentes em cumprimento de medida socioeducativa
+consistem em: família, adolescência, drogas, escola, significado da medida socieducativa e relação com o sistema
+judicial. No contexto de crianças e adolescentes violentados
+sexualmente são abordados os seguintes temas: proteção à
+criança, autoestima, dimensão transgeracional da violência,
+responsabilização dos pais (e dos adultos) pela proteção das
+crianças e projeto de compromisso futuro de proteção. E para
+o contexto de adolescentes ofensores sexuais, o temas são:
+eu, adolescente, protejo outras crianças mas ainda preciso
+de proteção; minha sexualidade está desabrochando; a violência sexual contra criança é crime e uma violência; preciso
+conhecer e mudar a violência na minha família; pretendo
+namorar bastante.
+Os participantes do GM apontam que as relações grupais
+daqueles que têm vivências e sentimentos semelhantes entre
+si, ou mesmo que se conheceram dentro do grupo, é um dos
+aspectos apontados como vantagens para o desenvolvimento
+das atividades. Percebemos que a oportunidade das mulheres
+(ou mães) falarem entre si possui um poder de apoio e reforço
+para uma série de iniciativas e decisões que são necessárias
+ao prosseguimento das ações que envolvem famílias que
+têm um membro com pendência na justiça, como é o caso
+dos adolescentes em conflito com a lei ou das crianças e/ou
+adolescentes vitimizados sexualmente. Um ponto sempre enfatizado pelas mães é sobre o valor de uma intervenção clara
+101
+
+L. F. Costa
+
+e precisa, ou de uma orientação, realizada pelos profissionais
+que coordenam o grupo.
+
+A Pesquisa em Terapia Familiar no Brasil
+Os Anais do XIII Simpósio de Pesquisa e Intercâmbio
+Científico em Psicologia identificam quatro grupos de pesquisa da Associação Nacional de Pesquisa e Pós-Graduação
+em Psicologia – ANPEPP (2010) na área de família. Esses
+grupos abrangem professores e pesquisadores do norte
+ao sul do país, perfazendo 64 pesquisadores. Dos quatro
+grupos, três dedicam-se à pesquisa clínica com famílias
+numa perspectiva sistêmica e um grupo volta-se mais para
+a pesquisa em família numa perspectiva da Psicologia do
+Desenvolvimento. Sem a pretensão de elaborar uma pesquisa bibliográfica para comprovação de trabalhos publicados, penso que desde a década de 1980 tem havido um
+crescimento significativo de contribuições para o estudo
+de família que se preocupam em identificar e descrever os
+modos e problemas de interação familiar características de
+nosso país. Temos publicações sobre trabalhos clínicos e
+sobre organização familiar e do casal, estudos de gênero,
+estudos focando problemáticas mais específicas (e.g., drogadição, violência sexual, violência doméstica ou psicose)
+ou, ainda, interligando aspectos culturais comunitários e
+metodológicos, e estudos sobre problemas da atualidade
+(e.g., violência e famílias no contexto jurídico). O mais
+importante é que há, de fato, uma intenção de se estudar
+a família considerando nosso contexto e complexidade
+própria. Um exemplo dessa direção encontra-se no estudo
+de Macedo (2004) que, após traçar uma proposta de compreensão do ciclo de vida da família paulista e paulistana,
+pretende ampliar para o conhecimento do ciclo de vida da
+família brasileira.
+O campo de pesquisa sobre a família tem nas universidades brasileiras uma consolidação que é evidente nos dias de
+hoje, não só nas universidades federais como nas particulares.
+Essas pesquisas têm sido orientadas para a clínica, para as
+intervenções psicossociais, questões de gênero presentes
+em famílias de classe média e baixa renda, organizações
+familiares fortemente influenciadas pela cultura e famílias
+com quadro de doenças crônicas ou agudas. O panorama das
+pesquisas tem recebido contribuições de muitas áreas: Psicologia, Serviço Social, Antropologia, Medicina, Enfermagem,
+Sociologia, na perspectiva sistêmica ou não. O importante
+é que os aspectos da intimidade familiar e conjugal vêm se
+desvelando, além das mudanças nas relações da família e do
+casal. No entanto, há um hiato entre a realização das pesquisas e o acesso que a população, de um modo geral, pode
+ter desses resultados. Penso que, gradativamente, essa falha
+poderá ser minimizada, na medida em que as publicações
+forem disponibilizando seus textos via internet.
+
+Desafios Futuros da Terapia Familiar
+em Nossa Realidade
+Atuamos num país imenso, com grandes dificuldades econômicas e com enormes áreas de muita pobreza. Precisamos
+102
+
+pensar em metodologias que se adaptem à nossa realidade e
+possam oferecer atendimento clínico ou psicossocial às famílias que possuem grandes diferenças em suas necessidades
+e características. Isso implica avanços nos delineamentos
+das pesquisas, no sentido de proporcionar conhecimento
+de aspectos de dinâmicas familiares que estão ainda muito
+obscuros porque refletem modos de vida da população família ainda distantes dos interesses dos pesquisadores. Por
+exemplo: o ciclo de vida da família brasileira, as configurações familiares rompidas em razão de migração, os vínculos
+afetivos inerentes à realidade brasileira, incestos travestidos
+de valor cultural etc.
+O estudo da família é um item presente no currículo dos
+cursos de Psicologia e essa vantagem deve ser acrescida
+de uma formação específica voltada para nossa realidade,
+assim como ocorre com a formação dada nos cursos de especialização em Terapia Familiar. Penso que o terapeuta de
+família, no Brasil, deva ser muito criativo para dar conta de
+uma diversidade de valores e diferentes modos de organização que o país possui, em função de sua área geográfica de
+grande dimensão e diversidade. Nesse sentido, penso que a
+formação em Terapia Familiar deva orientar seu currículo
+para o atendimento comunitário, criando modos de intervir
+que reflitam os recursos locais e as competências de vários
+profissionais que colaboram com a comunidade.
+Com relação à intervenção terapêutica, a clínica da família está diante do desafio de atuar considerando a família
+em dependência e/ou vinculação com sistemas mais amplos, como é a situação das famílias pertencentes a classes
+sociais com maior prejuízo econômico. É preciso, ainda,
+que o conhecimento da dinâmica familiar na perspectiva
+sistêmica seja melhor divulgado nos sistemas decisórios,
+como exemplo, a Justiça. Neste ano de 2010, temos tido
+várias iniciativas de leis que pretendem regular a intimidade da família, como o projeto de lei que proíbe agressão
+física a crianças. As decisões do judiciário que se dirigem
+a famílias dependem de um conhecimento específico que
+ofereça soluções que levem em conta a complexidade das
+relações familiares. Da mesma forma, o conhecimento da
+família necessita ser ampliado e valorizado igualmente
+nos contextos de cuidado à infância e à adolescência, por
+exemplo, os contextos da escola e da medicina. Em março
+de 2010, aconteceu em Buenos Aires o XVIII World Family Therapy Congress da International Family Therapy
+Association (IFTA). Nessa ocasião, pudemos constatar
+o quanto nós, terapeutas de família brasileiros, estamos
+sintonizados com os avanços teóricos e metodológicos do
+estudo e do trabalho terapêutico com famílias. É claro que
+também constatamos o quanto o tema continua longe dos
+incentivos financeiros e financiamentos para pesquisas e
+experimentações de inovações técnicas. Porém, é inegável
+o potencial criativo que o terapeuta familiar brasileiro
+possui para atender a famílias em circunstâncias sociais e
+culturais tão diversas.
+Finalmente, percebemos que cada vez mais profissionais estão interessados em conhecer e atuar com famílias.
+Esperamos que esse contingente possa integrar o grupo já
+existente de terapeutas e pesquisadores de famílias e, assim,
+colaborar no aprofundamento das questões e das ações com
+as famílias.
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 95-104
+
+Terapia Familiar Sistêmica
+
+Referências
+Anderson, H., & Goolishian, H. (1998). O cliente é o
+especialista: a abordagem terapêutica do não-saber. Em S. McNamee
+& K. J. Gergen (Orgs.), A terapia como construção social (C.
+O. Dornelles, Trad.) (pp. 34-50). Porto Alegre: Artes Médicas.
+(Trabalho original publicado em 1995)
+Andolfi, M. (1981). A terapia familiar. Lisboa: Vega.
+Associação Nacional de Pesquisa e Pós-Graduação em
+Psicologia - ANPEPP (2010). Anais do XIII Simpósio de Pesquisa
+e Intercâmbio Científico em Psicologia. Fortaleza: ANPEPP.
+Aun, J. G., Esteves de Vasconcellos, M. J., & Coelho, S. V.
+(2006). Atendimento sistêmico de famílias e redes sociais. Vol. 1:
+fundamentos teóricos e epistemológicos. Belo Horizonte: Ophicina
+de Arte & Prosa.
+Aun, J. G., Esteves de Vasconcellos, M. J., & Coelho, S. V.
+(2007). Atendimento sistêmico de famílias e redes sociais. Vol. 2:
+o processo de atendimento sistêmico. Belo Horizonte: Ophicina
+de Arte & Prosa.
+Barreto, A. de P. (2007). As dores da alma dos excluídos no
+Brasil e a terapia comunitária. Em M. Grandesso & M. R. Barreto
+(Orgs.), Terapia comunitária. Tecendo redes para a transformação
+social. Saúde, educação e políticas públicas (pp. 19-26). São Paulo:
+Casa do Psicólogo.
+Bloch, D. A., & Rambo, A. (1998). O início da terapia familiar:
+temas e pessoas. Em M. Elkaïm (Org.), Panorama das terapias
+familiares, Vol. 1 (E. C. Heller, Trad.) (pp. 17-56). São Paulo:
+Summus. (Trabalho original publicado em 1995)
+Boscolo, L., Cecchin, G., Hoffman, L., & Penn, P. (1993). A
+terapia familiar sistêmica de Milão. Conversações sobre teoria e
+prática (C. A. Molina-Loza & C. Sutter, Trads.). Porto Alegre: Artes
+Médicas. (Trabalho original s/d)
+Boszormenyi–Nagy, I., & Spark, G. M. (1983). Lealtades
+invisibles. Buenos Aires: Amorrortu.
+Bowen, E. (1976). Principles and techniques of multiple family
+therapy. Em P. Guerin Jr. (Ed.), Family therapy: Theory and practice
+(pp. 388-404). New York: Gardner.
+Bucher-Maluschke, J. S. N. F. (2008). Do transgeracional na
+perspectiva sistêmica à transmissão psíquica entre as gerações na
+perspectiva da psicanálise. Em M. A. Penso & L. F. Costa (Orgs.),
+A transmissão geracional em diferentes contextos. Da pesquisa à
+intervenção (pp. 76-96). São Paulo: Summus.
+Centro de Referência Especializado da Assistência Social CREAS (2010). Guia de Orientação nº 1. Retirado em 18/08/2010,
+de www.mds.gov.br.
+Costa, L. F. (1998). Reuniões multifamiliares: uma proposta
+de intervenção em psicologia clínica na comunidade. Tese de
+Doutorado, Universidade de São Paulo, São Paulo.
+Costa, L. F. (2002). Violência intrafamiliar: construção de
+metodologia de grupos multifamiliares no contexto do abuso sexual
+infantil (Projeto de pesquisa). Brasília: Departamento de Psicologia
+Clínica, Universidade de Brasília.
+Costa, L. F., Almeida, T. M. C., Ribeiro, M. A., & Penso, M.
+A. (2009). Grupo multifamiliar: espaço para a escuta das famílias
+em situação de abuso sexual. Psicologia em Estudo (Maringá),
+14, 21-30.
+Costa, L. F., Penso, M. A., Almeida, T. M. C., & Ribeiro, M.
+A. (2008). “ A justiça é demorosa, burra e cega”. Percepções de
+famílias sobre a dimensão jurídica dos crimes de abusos sexual.
+Boletim de Psicologia (São Paulo), LVIII, 85-102.
+
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 95-104
+
+Costa, L. F., & Penso, M. A. (2010). O grupo multifamiliar nas
+situações de violência sexual contra crianças e adolescentes. Em C.
+Ladvocat (Org.), Psicologia: campo de atuação, teoria e prática.
+São Paulo: Book Link.
+Dabas, L. N. (1995). A intervenção em rede. Nova Perspectiva
+Sistêmica, 6, 5-18.
+Elkaïm, M. (1998). Construtivismo, construcionismo social
+e técnicas narrativas: limites da teoria sistêmica? Em M. Elkaïm
+(Org.), Panorama das terapias familiares, Vol. 2 (E. C. Heller,
+Trad.) (pp. 225-251). São Paulo: Summus. (Trabalho original
+publicado em 1995)
+Esteves de Vasconcellos, M. J. (1995). Terapia familiar
+sistêmica. Bases cibernéticas. Campinas: Psy.
+Esteves de Vasconcellos, M. J. (2002). Pensamento sistêmico.
+O novo paradigma da ciência. Campinas: Papirus.
+Féres-Carneiro, T. (1996). Terapia familiar: das divergências às
+possibilidades de articulação dos diferentes enfoques. Psicologia:
+Ciência e Profissão, 16, 38-42.
+Féres-Carneiro, T., & Diniz-Neto, O. (2008). De onde viemos?
+Uma revisão histórico-conceitual da psicoterapia de casal.
+Psicologia: Teoria e Pesquisa, 24, 487-496.
+Goodrich, T. J., Rampage, C., Ellman, B., & Halsted, K. (1990).
+Terapia feminista da família (R. M. Garcia, Trad.). Porto Alegre:
+Artes Médicas. (Trabalho original publicado em 1988)
+Gonçalves, C. S., Wolff, J. R., & Almeida, W. C. (1988). Lições
+de psicodrama. São Paulo: Ágora.
+Grandesso, M. (2007). Terapia comunitária: uma prática pósmoderna crítica. Considerações teórico-metodológicas. Em M.
+Grandesso & M. R. Barreto (Orgs.), Terapia comunitária. Tecendo
+redes para a transformação social. Saúde, educação e políticas
+públicas (pp. 181-190). São Paulo: Casa do Psicólogo.
+Guimarães, F. L., & Costa, L. F. (2002). Clínica psicológica
+do adolescente: do sistema à abordagem narrativista. Paidéia.
+Cadernos de Psicologia e Educação (Ribeirão Preto), 12, 163-174.
+Haley, J. (1985). Trastornos de la emancipación juvenil y
+terapia familiar. Buenos Aires: Amorrortu.
+Instituto Brasileiro de Geografia e Estatística - IBGE (2003).
+Mapa da pobreza e desigualdade 2003. Retirado em 15/07/2010,
+de http://www.ibge.gov.br/home/presidencia/noticias/noticia_
+visualiza.php?id_noticia=1293&id_pagina=1.
+Laquer, H. P. (1976). Multiple family therapy. Em P. Guerin Jr. (Ed.),
+Family therapy. Theory and practice (pp. 405-416). New York: Gardner.
+Laquer, P. (1983). Terapia familiar múltipla: perguntas e
+respostas. Em D. A. Bloch (Coord.), Técnicas de psicoterapia
+familiar. Uma estrutura conceitual (pp. 93-107). São Paulo:
+Atheneu. (Trabalho original publicado em 1973)
+Macedo, R. M. S. de (2004). O ciclo vital da família no Brasil
+(Projeto de Pesquisa). São Paulo: Pontifícia Universidade Católica
+de São Paulo.
+Madanes, C. (1984). Terapia familiar estratégica. Buenos
+Aires: Amorrortu.
+Maturana Romesín, H. (1998). Da biologia à psicologia (J. A.
+Llorens, Trad). Porto Alegre: Artes Médicas. (Trabalho original
+publicado em 1995)
+McGoldrick, M. (2003). Novas abordagens da terapia familiar.
+Raça, cultura e gênero na prática clínica (M. Lopes, Trad.). São
+Paulo: Roca. (Trabalho original publicado em 1998)
+McNamee, S., & Gergen, K. J. (Orgs.) (1998). A terapia como
+construção social (C. O. Dornelles, Trad.). Porto Alegre: Artes
+Médicas. (Trabalho original publicado em 1995)
+
+103
+
+L. F. Costa
+
+Mejias, N. P. (1995). A atuação do psicólogo: da clínica para a
+comunidade. Cadernos de Psicologia (São Paulo), 1, 32-43.
+Ministério do Desenvolvimento Social – MDS (2010). Serviço
+de proteção e atendimento integral à família (Paif). Retirado
+em 18/08/2010, de http://www.mds.gov.br/assistenciasocial/
+protecaobasica/servicos/protecao-e-atendimento-integral-a-familiapaif.
+Minuchin, S. (1982). Famílias: funcionamento & tratamento (J.
+A. Cunha, Trad.). Porto Alegre: Artes Médicas. (Trabalho original
+publicado em 1980)
+Minuchin, S. (2007). Prefácio. Em M. P. Nichols & R. C.
+Schwartz, Terapia familiar: conceitos e métodos (7a ed.) (M.
+A. V. Veronese, Trad.) (pp. v-vii). Porto Alegre: Artes Médicas.
+(Trabalho original dessa edição publicado em 2006)
+Minuchin, P., Colapinto, J., & Minuchin, S. (1999). Trabalhando
+com famílias pobres (M. F. Lopes, Trad.). Porto Alegre: Artes
+Médicas. (Trabalho original publicado em 1998)
+Moreno, J. L. (1993). Psicoterapia de grupo e psicodrama (A.
+C. M. Cesarino Filho, Trad.) (2ª ed.). Campinas: Psy. (Trabalho
+original publicado em 1959)
+Neuburger. R. (1984). L’autre demand. Psychanalyse et thérapie
+familiale systhémique. Paris: ESF.
+Nichols, M. P., & Schwartz, R. C. (2007). Terapia familiar.
+Conceitos e métodos (7a ed.) (M. A. V. Veronese, Trad.). Porto Alegre:
+Artes Médicas (Trabalho original dessa edição publicado em 2006)
+Penso, M. A., & Costa, L. F. (2008). A transmissão geracional
+em diferentes contextos. Da pesquisa à intervenção. São Paulo:
+Summus.
+Perelberg, R. J., & Miller, A. (Orgs.) (1994). Os sexos e o poder
+nas famílias (M. C. B. Fernandes, Trad.). Rio de Janeiro: Imago.
+(Trabalho original publicado em 1990)
+Pluymarkers, J. (1989). Red y práctica de barrio. Em M. Elkaïm
+(Org.), Las practicas de la terapia de red (pp. 86-108). Barcelona:
+Gedisa. (Trabalho original publicado em 1987)
+Rampage, C., & Avis, J. M. (1998). Identidade sexual,
+feminismo e terapia familiar. Em M. Elkaïm (Org.), Panorama das
+terapias familiares, Vol 1 (E. C. Heller, Trad.) (pp. 189-221). São
+Paulo: Summus. (Trabalho original publicado em 1995)
+
+104
+
+Saffioti, H. I. B. (1997). No fio da navalha: violência contra
+crianças e adolescentes no Brasil atual. Em F. R. Madeira (Org.),
+Quem mandou nascer mulher? (pp. 135-213). Rio de Janeiro: Rosa
+dos Tempos.
+Santos, B. S. (1999). Um discurso sobre as ciências (11ª ed.).
+Porto: Afrontamento.
+Secretaria Nacional de Políticas sobre Drogas - SENAD ()
+(2010). A prevenção do uso de drogas e a Terapia Comunitária.
+Retirado em 18/08/2010, de http://www.obid.senad.gov.br/portais/
+OBID/conteudo/index.php?id_conteudo=11198&rastro=PUBLICA
+%C3%87%C3%95ES/Cartilhas%2C+livros+e+folhetos.
+Sluzki, C. E. (1996). Violência familiar e violência política:
+implicações terapêuticas de um modelo geral. Em D. F. Schnitman
+(Org.), Novos paradigmas, cultura e subjetividade (J. H. Rodrigues,
+Trad.) (pp. 228-243). Porto Alegre: Artes Médicas. (Trabalho
+original publicado em 1994)
+Speck, R. (1989). La intervención de red social: Las terapias de
+red, teoria y desarrollo. Em M. Elkaïm (Org.), Las practicas de la
+terapia de red (pp. 20-39). Barcelona: Gedisa. (Trabalho original
+publicado em 1987)
+von Foerster, H. (1988). Construyendo una realidad. Em O.
+Watzlawick y otros (Orgs.), La realidad inventada. Como sabemos
+o que creemos saber? (pp. 38-56). Barcelona: Gedisa.
+Watzlawick, P., Weakland, J. H., & Fisch, R. (1977).
+Mudança: princípios de formação e resolução de problemas (J.
+Martins, Trad.). São Paulo: Cultrix. (Trabalho original publicado
+em 1973)
+White, M. (1997). Guias para una terapia familiar sistemica.
+Buenos Aires: Paidós. (Trabalho original publicado em 1989)
+Wittzaele, J-J., & Garcia, T. (1998). A abordagem clínica de Palo
+Alto. Em M. Elkaïm (Org.), Panorama das terapias familiares, Vol.
+1 (E. C. Heller, Trad.) (pp. 180-224). São Paulo: Summus. (Trabalho
+original publicado em 1995)
+Zimmerman, J., & Dickerson, V. C. (1998). A técnica da
+narração no campo da psiquiatria e o trabalho de Michael White.
+Em M. Elkaïm (Org.), Panorama das terapias familiares, Vol. 2
+(E. C. Heller, Trad.) (pp. 252-274). São Paulo: Summus. (Trabalho
+original publicado em 1995)
+
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 95-104
