@@ -78,14 +78,17 @@ function descobrirCadeiras() {
 }
 
 // Material de referência de uma cadeira = o programa do curso (se aplicável)
-// + o material próprio da cadeira. Devolve blocos com um único cache_control.
-function materialParaArea(areaDir) {
+// Material de referência para uma aula = material do curso + material da
+// disciplina (top-level) + material da UNIDADE da aula (_material/U<n>).
+// As apostilas são por unidade, por isso uma aula só recebe a(s) da sua unidade.
+function materialParaArea(areaDir, unidade) {
   const partes = areaDir.split(path.sep);
   const blocos = [];
   if (partes[0] === "cursos" && partes.length >= 3) {
     blocos.push(...carregarMaterial(path.join(partes[0], partes[1], "_material")));
   }
   blocos.push(...carregarMaterial(path.join(areaDir, "_material")));
+  if (unidade) blocos.push(...carregarMaterial(path.join(areaDir, "_material", `U${unidade}`)));
   blocos.forEach((b) => delete b.cache_control);
   if (blocos.length) blocos[blocos.length - 1].cache_control = { type: "ephemeral" };
   return blocos;
@@ -277,6 +280,40 @@ async function processarComClaude(transcricao, materialBlocos, rotulo = "TRANSCR
   return data.content.map((b) => (b.type === "text" ? b.text : "")).join("\n");
 }
 
+// Transforma a lista crua de objetivos da unidade num guia de estudo
+// assimilável, ancorado na apostila da unidade (se existir).
+async function resumirObjetivos(objetivosTexto, materialBlocos) {
+  const content = [];
+  if (materialBlocos.length) {
+    content.push({ type: "text", text: "APOSTILA / MATERIAL DESTA UNIDADE (a seguir). Usa-o como fonte para explicar os objetivos com rigor." });
+    content.push(...materialBlocos);
+  }
+  content.push({
+    type: "text",
+    text:
+      "A seguir está a lista crua dos OBJETIVOS DE APRENDIZAGEM desta unidade. " +
+      "Transforma-a num guia de estudo curto e assimilável, em português de Portugal, em markdown:\n" +
+      "- Começa com 1 frase a enquadrar o que a unidade quer que domines.\n" +
+      "- Para cada objetivo, 1 a 3 linhas que expliquem o que significa na prática e o conceito-chave a reter (com base na apostila, se houver).\n" +
+      "- Termina com um bloco \"**Para dominar isto, foca-te em:**\" com 3 a 5 pontos.\n" +
+      "Não inventes nada que não esteja nos objetivos ou na apostila. Evita travessões longos.\n\n" +
+      "=== OBJETIVOS (lista crua) ===\n" + objetivosTexto,
+  });
+
+  const resp = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "x-api-key": ANTHROPIC_API_KEY,
+      "anthropic-version": "2023-06-01",
+      "content-type": "application/json",
+    },
+    body: JSON.stringify({ model: CLAUDE_MODEL, max_tokens: 4000, messages: [{ role: "user", content }] }),
+  });
+  if (!resp.ok) throw new Error(`Claude falhou ao resumir objetivos (${resp.status}): ${await resp.text()}`);
+  const data = await resp.json();
+  return data.content.map((b) => (b.type === "text" ? b.text : "")).join("\n").trim();
+}
+
 // ---------------------------------------------------------------------------
 // Separa o Bloco C (produto) do resto (síntese = Bloco A + B [+ Notas])
 // ---------------------------------------------------------------------------
@@ -311,11 +348,12 @@ async function processarIngest() {
   // Modo "material": a apostila/PDF é guardada como referência da disciplina
   // (não vira aula). Passa a alimentar a síntese de cada aula seguinte.
   if (process.env.INGEST_MODO === "material") {
-    const materialDir = path.join(area, "_material");
+    const uni = (path.basename(filename).match(/^u(\d+)/i) || [])[1];
+    const materialDir = uni ? path.join(area, "_material", `U${uni}`) : path.join(area, "_material");
     fs.mkdirSync(materialDir, { recursive: true });
     const seguro = path.basename(filename).replace(/[^\w.\- ]+/g, "_").trim() || "apostila.pdf";
     fs.copyFileSync(ficheiroPath, path.join(materialDir, seguro));
-    console.log(`[${area}] material de referência guardado: ${seguro}`);
+    console.log(`[${area}] material de referência guardado${uni ? ` (Unidade ${uni})` : ""}: ${seguro}`);
     return;
   }
 
@@ -334,7 +372,13 @@ async function processarIngest() {
     const dir = path.join(area, especial);
     fs.mkdirSync(dir, { recursive: true });
     const texto = await textoFonteDe(ficheiroPath, ext);
-    fs.writeFileSync(path.join(dir, `U${uni}.md`), texto || "", "utf-8");
+    let saida = texto || "";
+    if (especial === "objetivos" && texto) {
+      const material = materialParaArea(area, uni !== "0" ? uni : undefined);
+      console.log(`[${area}] A resumir objetivos da Unidade ${uni} (${material.length} PDF(s) de apoio)...`);
+      saida = await resumirObjetivos(texto, material);
+    }
+    fs.writeFileSync(path.join(dir, `U${uni}.md`), saida, "utf-8");
     console.log(`[${area}] ${especial} da Unidade ${uni} guardado.`);
     return;
   }
@@ -353,7 +397,8 @@ async function processarIngest() {
     return;
   }
 
-  const material = materialParaArea(area);
+  const uniAula = (nomeBase.match(/^u(\d+)/i) || [])[1];
+  const material = materialParaArea(area, uniAula);
   const rotulo = AUDIO_EXT.includes(ext) ? "TRANSCRIÇÃO DA AULA" : "TEXTO DA AULA (documento enviado)";
 
   console.log(`[${area}] A obter o texto de ${filename} (${ext || "?"})...`);
@@ -409,10 +454,9 @@ async function main() {
       .sort();
     if (!audios.length) continue;
 
-    const material = materialParaArea(area);
-
     for (const audio of audios) {
       const nomeBase = path.basename(audio, path.extname(audio));
+      const material = materialParaArea(area, (nomeBase.match(/^u(\d+)/i) || [])[1]);
       const txtPath = path.join(transDir, `${nomeBase}.txt`);
       const sintPath = path.join(sintDir, `${nomeBase}.md`);
       const prodPath = path.join(prodDir, `${nomeBase}.md`);

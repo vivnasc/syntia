@@ -135,7 +135,7 @@ export default function Uploader({ cursos, partilhada }) {
         </button>
         <button type="button" className={`modo-tab${modo === "material" ? " on" : ""}`} onClick={() => setModo("material")} disabled={correr}>
           Apostila / referência
-          <span>vale para a disciplina toda; torna as sínteses exatas</span>
+          <span>nome U1_ liga à Unidade 1; torna as sínteses exatas</span>
         </button>
       </div>
 
@@ -151,7 +151,7 @@ export default function Uploader({ cursos, partilhada }) {
         </div>
         <div className="hint">
           {modo === "material"
-            ? "fica como referência da disciplina — não vira aula"
+            ? "apostila por unidade (nome U1_, U2_…) — não vira aula, alimenta as sínteses"
             : "vários de uma vez · cada um vira síntese + flashcards · o nome U1_/U2_ arruma por unidade"}
         </div>
         <input
