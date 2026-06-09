@@ -1,0 +1,134 @@
+[
+  {
+    "p": "Qual é o principal objetivo da Constelação Familiar Sistêmica, segundo o método de Bert Hellinger?",
+    "opcoes": [
+      "Interpretar os conflitos familiares à luz da psicanálise",
+      "Colocar o sistema em ordem e gerar informações sobre a história geracional, restabelecendo as Ordens do Amor",
+      "Isolar o membro problemático e trabalhar a sua consciência individual",
+      "Substituir a terapia familiar tradicional por sessões de dramatização"
+    ],
+    "correta": 1,
+    "explica": "O método busca colocar o sistema em ordem, gerar informações e restabelecer as Ordens do Amor (hierarquia, pertencimento, equilíbrio entre dar e receber). Não é interpretação psicanalítica, não isola indivíduos e é complementar a outras abordagens, não substitutiva."
+  },
+  {
+    "p": "O que é um emaranhamento no contexto da Constelação Familiar?",
+    "opcoes": [
+      "Um estado de confusão mental causado por stress laboral",
+      "A repetição de padrões ou destinos de familiares anteriores de forma inconsciente por um membro do sistema",
+      "Um tipo de vínculo afetivo forte entre pais e filhos",
+      "Um mecanismo de defesa psicológica comum em todas as pessoas"
+    ],
+    "correta": 1,
+    "explica": "Emaranhamento significa que alguém retoma e revive inconscientemente o destino de um familiar de geração anterior. É a causa-raiz do sofrimento e conflito segundo o método de Hellinger, não é apenas stress, vínculo normal ou defesa universal."
+  },
+  {
+    "p": "Quantas gerações podem ser incluídas no trabalho de uma Constelação Familiar?",
+    "opcoes": [
+      "Apenas três gerações (avós, pais, filhos)",
+      "Até cinco gerações no máximo",
+      "Até oito gerações",
+      "Todas as gerações sem limite, desde os primeiros ancestrais"
+    ],
+    "correta": 2,
+    "explica": "O método de Bert Hellinger trabalha com a leitura de até oito gerações, permitindo identificar padrões que se repetem ao longo dessa linhagem temporal específica."
+  },
+  {
+    "p": "Qual é a primeira Ordem do Amor, segundo Bert Hellinger?",
+    "opcoes": [
+      "O pertencimento de todos os membros da família, sem exceção",
+      "O equilíbrio entre dar e receber nas relações",
+      "A hierarquia, que coloca quem veio primeiro num lugar de maior respeito",
+      "O perdão incondicional de todas as transgressões familiares"
+    ],
+    "correta": 2,
+    "explica": "A hierarquia respeita a ordem cronológica: pais antes de filhos, primeiro filho antes do segundo. Não é julgamento de valor, mas respeito à ordem dos factos. O pertencimento e o equilíbrio são as outras duas ordens."
+  },
+  {
+    "p": "Qual das seguintes afirmações sobre a abordagem estrutural de Minuchin é correta?",
+    "opcoes": [
+      "Centra-se exclusivamente na história inconsciente da família",
+      "Defende que a organização hierárquica e as fronteiras da família determinam a sua funcionalidade",
+      "Usa apenas perguntas circulares como técnica principal",
+      "Baseia-se na transmissão geracional de padrões ao longo de múltiplas gerações"
+    ],
+    "correta": 1,
+    "explica": "A abordagem estrutural de Minuchin foca na organização da família, hierarquias e fronteiras entre subsistemas. A história inconsciente é transgeracional; perguntas circulares são estratégicas; transmissão geracional é o enfoque transgeracional."
+  },
+  {
+    "p": "Qual é o propósito da pergunta circular na terapia sistêmica familiar, segundo a Escola de Milão?",
+    "opcoes": [
+      "Conduzir o cliente a uma conclusão pré-determinada pelo terapeuta",
+      "Explorar as relações entre membros da família de forma a ampliar a compreensão em vez de a fechar",
+      "Diagnosticar com precisão qual é o membro problemático do sistema",
+      "Substituir a escuta empática por um questionário estruturado"
+    ],
+    "correta": 1,
+    "explica": "A pergunta circular baseia-se no princípio de circularidade: cada membro descreve como vê a relação entre os outros, ampliando a perspetiva. Não diagnóstica, não pré-direciona, mantém a abertura sistémica."
+  },
+  {
+    "p": "Qual é a diferença central entre a primeira e a segunda cibernética, conforme apresentado no material de aula?",
+    "opcoes": [
+      "A primeira é mecanicista, a segunda é humanista",
+      "A primeira foca a homeostase e a segunda incorpora o questionamento circular e a mudança adaptativa",
+      "A primeira estuda máquinas, a segunda estuda famílias",
+      "A primeira foi desenvolvida por Wiener, a segunda por Bateson"
+    ],
+    "correta": 1,
+    "explica": "A primeira cibernética (Wiener, 1948) centra-se na homeostase do sistema psicossocial. A segunda cibernética consolida o enfoque circular sistémico com questionamento circular e retroalimentação positiva (mudança). Bateson contribuiu para ambas, mas o criador foi Wiener."
+  },
+  {
+    "p": "De acordo com o material de aula, qual é a duração típica de um processo de terapia sistêmica familiar, em contraste com a terapia individual?",
+    "opcoes": [
+      "Terapia familiar: anos; terapia individual: semanas",
+      "Terapia familiar: semanas ou meses; terapia individual: anos",
+      "Ambas têm duração idêntica, entre 6 a 12 meses",
+      "Terapia familiar é sempre mais breve, nunca ultrapassando 4 sessões"
+    ],
+    "correta": 1,
+    "explica": "Segundo a tabela de Daniel Sampaio (1984) citada no material, a terapia individual dura tipicamente anos, enquanto a terapia sistêmica familiar dura habitualmente semanas ou meses, sendo mais breve e focada."
+  },
+  {
+    "p": "O que defende Esteves de Vasconcellos sobre a Cibernética na perspetiva sistémica?",
+    "opcoes": [
+      "Que é a abordagem mais completa e não necessita crítica",
+      "Que a sua influência é mecanicista e propõe um novo paradigma baseado em complexidade, instabilidade e intersubjetividade",
+      "Que deve ser abandonada completamente em favor da psicanálise",
+      "Que é inútil para o contexto familiar brasileiro"
+    ],
+    "correta": 1,
+    "explica": "Vasconcellos (1995, 2002) criticou a influência mecanicista da Cibernética e propôs o 'novo paradigma' do Pensamento Sistémico, fundado em complexidade, instabilidade e intersubjetividade, indo além da visão mecanicista anterior."
+  },
+  {
+    "p": "Qual é o significado do pertencimento como terceira Ordem do Amor, segundo Bert Hellinger?",
+    "opcoes": [
+      "Apenas os filhos biológicos legais pertencem ao sistema familiar",
+      "Todos os membros, incluindo os que morreram precocemente, deficientes, abortados e adotados, têm o direito de serem reconhecidos como pertencentes",
+      "O pertencimento depende do desempenho e do comportamento de cada membro",
+      "Apenas os membros vivos e saudáveis têm direito de pertencimento"
+    ],
+    "correta": 1,
+    "explica": "O pertencimento inclui todos os membros do sistema, sem exceção, incluindo mortos, deficientes, abortados e adotados. A exclusão gera sofrimento que propaga-se por todo o sistema. Não é condicional a desempenho nem limitado aos vivos."
+  },
+  {
+    "p": "Qual é a principal diferença entre a terapia individual e a terapia sistêmica familiar em termos de definição de patologia?",
+    "opcoes": [
+      "A individual vê patologia como conflito intrapsíquico, a sistémica como disfunção do sistema e suas causas",
+      "A individual é baseada em factos, a sistémica em interpretações subjetivas",
+      "A individual é mais rápida, a sistémica é sempre mais lenta",
+      "Não há diferença significativa, são apenas nomes diferentes para a mesma prática"
+    ],
+    "correta": 0,
+    "explica": "Segundo a tabela de Daniel Sampaio (1984), a patologia na terapia individual é conflito intrapsíquico ou defeito na estrutura psicológica, enquanto na TFS é disfunção no sistema e nas suas causas — visão fundamentalmente diferente da origem do problema."
+  },
+  {
+    "p": "Qual das seguintes afirmações sobre o papel do constelador é correta, segundo o material sobre Constelação Familiar?",
+    "opcoes": [
+      "O constelador é quem realiza o trabalho terapêutico através de técnicas específicas",
+      "O constelador apenas pergunta, organiza e acompanha, enquanto o campo morfogenético revela a dinâmica familiar",
+      "O constelador diagnostica o problema e prescreve a solução ao constelado",
+      "O constelador é responsável por interpretar todos os movimentos dos representantes"
+    ],
+    "correta": 1,
+    "explica": "O papel do constelador é facilitador, não interventor direto. O campo mórfico (morfogenético) é que revela a dinâmica, os emaranhamentos e as soluções. O constelador pergunta, posiciona e acompanha sem dirigir ou interpretar unilateralmente."
+  }
+]
