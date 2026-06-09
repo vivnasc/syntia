@@ -575,7 +575,7 @@ select.campo { appearance: none; cursor: pointer; }
   @page { size: A4; margin: 18mm 16mm; }
   .sidebar, .no-print { display: none !important; }
   .app, .main, .main-inner { display: block !important; margin: 0 !important; padding: 0 !important; max-width: none !important; }
-  body { background: #fff !important; color: #1a1a1a !important; }
+  body { background: #fff !important; color: #1a1a1a !important; orphans: 3; widows: 3; }
   .manual { color: #1a1a1a; }
   .manual-curso, .manual-uni-n { color: #6b4f1d; }
   .manual-uni-n { background: none; padding: 0; }
@@ -583,10 +583,28 @@ select.campo { appearance: none; cursor: pointer; }
   .manual-sub, .manual-rodape, .manual-cards h4 { color: #666; }
   .manual-card-r, .md, .manual-ementa li { color: #2a2a2a; }
   .manual-uni-cab { border-color: #999; }
-  .manual-aula { border-color: #bbb; page-break-inside: avoid; }
-  .manual-capa { border-color: #333; page-break-after: avoid; }
-  .manual-unidade { page-break-before: auto; }
-  .manual-uni-cab, .manual-aula-titulo, h3, h4 { page-break-after: avoid; }
+  .manual-aula { border-color: #bbb; }
+
+  /* Paginação: a capa ocupa uma folha só; cada unidade abre em página nova
+     (exceto a 1.ª, que já vem logo a seguir à capa — evita folha em branco). */
+  .manual-capa { border-color: #333; page-break-after: always; break-after: page; margin-bottom: 0; }
+  .manual-unidade { page-break-before: always; break-before: page; margin: 0; }
+  .manual-unidade:first-of-type { page-break-before: avoid; break-before: avoid; }
+
+  /* Títulos nunca ficam sozinhos no fim da página — colam ao que se segue.
+     Inclui os títulos do corpo do markdown (resumo/objetivos). */
+  .manual-uni-cab, .manual-aula-titulo,
+  .manual-bloco > h3, .manual-bloco > h4,
+  .md h1, .md h2, .md h3, .md h4 { page-break-after: avoid; break-after: avoid; }
+
+  /* Blocos que nunca devem partir a meio de uma página. */
+  .manual-cards li, .manual-aulas-lista li, .manual-ementa li,
+  .md tr, .md img, .md pre, .md blockquote { page-break-inside: avoid; break-inside: avoid; }
+
+  /* Tabelas: deixa fluir entre páginas, mas repete o cabeçalho em cada folha. */
+  .md table { page-break-inside: auto; }
+  .md thead { display: table-header-group; }
+
   a { color: inherit; text-decoration: none; }
 }
 
