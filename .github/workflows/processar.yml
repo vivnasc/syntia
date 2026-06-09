@@ -3,7 +3,9 @@ name: Processar Aulas
 # Nome legível de cada execução: mostra o ficheiro e o modo na lista de runs
 # e na página de Estado da app.
 run-name: >-
-  ${{ github.event.inputs.modo == 'consolidar'
+  ${{ github.event.inputs.modo == 'mover'
+      && format('Mover aula → Unidade {0}', github.event.inputs.unidade)
+      || github.event.inputs.modo == 'consolidar'
       && format('Resumo+Quiz · Unidade {0}', github.event.inputs.unidade)
       || (github.event.inputs.filename != ''
           && format('{0} · {1}', github.event.inputs.filename, github.event.inputs.modo || 'aula')
@@ -35,7 +37,11 @@ on:
         required: false
         default: 'aula'
       unidade:
-        description: 'Número da unidade (só para modo consolidar)'
+        description: 'Número da unidade (modo consolidar ou mover)'
+        required: false
+        default: ''
+      arquivos:
+        description: 'JSON com os ficheiros da aula a mover (modo mover)'
         required: false
         default: ''
 
@@ -76,6 +82,7 @@ jobs:
           INGEST_FILENAME: ${{ github.event.inputs.filename }}
           INGEST_MODO: ${{ github.event.inputs.modo }}
           INGEST_UNIDADE: ${{ github.event.inputs.unidade }}
+          INGEST_ARQUIVOS: ${{ github.event.inputs.arquivos }}
         run: node scripts/processar.mjs
 
       - name: Commit dos resultados (só os textos, nunca o áudio)

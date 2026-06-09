@@ -268,6 +268,7 @@ function lerAulas(cadeiraDir, fonte, banco) {
         : ps[0].sintese,
       flashcards: ps.flatMap((p) => p.flashcards),
       temTranscricao: ps.some((p) => p.temTranscricao),
+      arquivos: ps.map((p) => p.nome),
     });
   }
   return aulas;
