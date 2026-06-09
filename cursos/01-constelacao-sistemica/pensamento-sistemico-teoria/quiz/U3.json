@@ -1,0 +1,145 @@
+[
+  {
+    "p": "Segundo a perspetiva sistémica, como deve ser encarada uma organização?",
+    "opcoes": [
+      "Como uma máquina onde se troca uma peça sem afetar as outras",
+      "Como um sistema vivo de partes interdependentes que se interligam",
+      "Como um conjunto de setores totalmente autónomos",
+      "Como uma estrutura puramente hierárquica e isolada"
+    ],
+    "correta": 1,
+    "explica": "A abordagem sistémica vê a organização como um todo integrado de partes interdependentes, e não como um mecanismo isolado."
+  },
+  {
+    "p": "Qual é o princípio que serve de base à visão sistémica nas organizações?",
+    "opcoes": [
+      "O reducionismo",
+      "O mecanicismo",
+      "O expansionismo",
+      "O individualismo"
+    ],
+    "correta": 2,
+    "explica": "O expansionismo defende que cada objeto ou fenómeno faz parte de um todo maior, sendo o foco o sistema onde tudo se integra."
+  },
+  {
+    "p": "Segundo a aula, em que década a visão sistémica entrou formalmente para o pensamento administrativo?",
+    "opcoes": [
+      "Nos anos 40",
+      "Nos anos 60",
+      "Nos anos 80",
+      "No início do século XX"
+    ],
+    "correta": 1,
+    "explica": "A visão sistémica passou a ser uma corrente do pensamento administrativo nos anos 60, com a popularização da teoria sistémica nas organizações."
+  },
+  {
+    "p": "Segundo o Dicionário Aurélio (2008), o que é um método?",
+    "opcoes": [
+      "Associação ou instituição com objetivos definidos",
+      "Disposição das partes de um todo coordenadas entre si",
+      "Procedimento, técnica ou meio para se atingir um objetivo",
+      "Conjunto harmónico de responsabilidades e autoridades"
+    ],
+    "correta": 2,
+    "explica": "Método é definido como o procedimento, técnica ou meio para se atingir um objetivo; organização e sistema têm as outras definições."
+  },
+  {
+    "p": "Quais são as ferramentas usadas pelo OSM no processo de melhoria das empresas?",
+    "opcoes": [
+      "Organogramas, formulários e fluxogramas",
+      "Termostatos, sensores e indicadores",
+      "Genogramas, mapas e árvores genealógicas",
+      "Inputs, outputs e feedbacks"
+    ],
+    "correta": 0,
+    "explica": "O OSM usa organogramas, formulários e fluxogramas como ferramentas para mapear e melhorar os processos."
+  },
+  {
+    "p": "Quais são os três objetivos principais do OSM (a famosa consultoria)?",
+    "opcoes": [
+      "Eliminar pessoas, reduzir salários e cortar setores",
+      "Eliminar o supérfluo, otimizar recursos e maximizar resultados",
+      "Aumentar a hierarquia, centralizar e controlar",
+      "Dividir tarefas, isolar áreas e padronizar tudo"
+    ],
+    "correta": 1,
+    "explica": "Os objetivos do OSM são eliminar o supérfluo, otimizar os recursos das empresas e maximizar os resultados."
+  },
+  {
+    "p": "O que distingue um sistema aberto de um sistema fechado, no contexto organizacional?",
+    "opcoes": [
+      "O sistema aberto não troca nada com o meio; o fechado troca tudo",
+      "O sistema aberto troca energia, matéria e informação com o meio; o fechado não",
+      "Ambos trocam informação, mas só o fechado aprende",
+      "Não há diferença prática entre os dois"
+    ],
+    "correta": 1,
+    "explica": "O sistema aberto caracteriza-se pela troca de energia, matéria e informação com o meio, enquanto o fechado não tem intercâmbio com o ambiente."
+  },
+  {
+    "p": "Quais são os três níveis hierárquicos das funções administrativas/operacionais?",
+    "opcoes": [
+      "Inicial, intermédio e final",
+      "Operacional, tático e estratégico",
+      "Pessoal, grupal e coletivo",
+      "Físico, abstrato e sistémico"
+    ],
+    "correta": 1,
+    "explica": "As funções administrativas organizam-se em três níveis hierárquicos: operacional, tático e estratégico, que devem estar em sintonia."
+  },
+  {
+    "p": "Indique a sequência correta da ênfase das escolas da administração na sua evolução.",
+    "opcoes": [
+      "Pessoas → tarefas → estrutura → ambiente → todo",
+      "Tarefas → estrutura → pessoas → ambiente → todo",
+      "Ambiente → todo → tarefas → estrutura → pessoas",
+      "Estrutura → ambiente → todo → tarefas → pessoas"
+    ],
+    "correta": 1,
+    "explica": "A evolução vai da ênfase nas tarefas e estrutura para as pessoas, depois o ambiente e, por fim, o todo (Teoria dos Sistemas)."
+  },
+  {
+    "p": "Qual escola da administração deu ênfase às tarefas e à eficiência ao nível operacional?",
+    "opcoes": [
+      "Teoria Clássica de Fayol",
+      "Relações Humanas de Elton Mayo",
+      "Administração Científica de Taylor",
+      "Teoria da Contingência"
+    ],
+    "correta": 2,
+    "explica": "A Administração Científica de Taylor enfatizou as tarefas e o aumento da eficiência no nível operacional."
+  },
+  {
+    "p": "Qual é a ideia central da Teoria da Contingência?",
+    "opcoes": [
+      "Existe um único modelo ideal de organização para todas as empresas",
+      "Tudo depende das características do ambiente; não há modelo único",
+      "A autoridade racional deve centralizar todas as decisões",
+      "O fator psicológico é o único determinante da produtividade"
+    ],
+    "correta": 1,
+    "explica": "A Teoria da Contingência defende que não existe um modelo único; tudo depende (it depends) das características ambientais relevantes para a organização."
+  },
+  {
+    "p": "Segundo a aula prática, por que razão as decisões não devem ser tomadas de forma isolada?",
+    "opcoes": [
+      "Porque é mais demorado ouvir os outros",
+      "Porque fragmenta o pensamento e pode gerar problemas que impactam toda a empresa",
+      "Porque o chefe deve sempre decidir sozinho",
+      "Porque os colaboradores não têm informação útil"
+    ],
+    "correta": 1,
+    "explica": "Decidir isoladamente fragmenta o pensamento, fazendo só uma parte resolver, o que gera complicações futuras que impactam toda a empresa."
+  },
+  {
+    "p": "Qual a palavra apontada na aula como a mais certa para definir o pensamento sistémico aplicado à organização?",
+    "opcoes": [
+      "Hierarquia",
+      "Conexão",
+      "Controlo",
+      "Linearidade"
+    ],
+    "correta": 1,
+    "explica": "Entre as palavras-chave (interligação, interconexão, integração, correlação), a conexão é apontada como a mais certa para definir o pensamento sistémico."
+  }
+]
