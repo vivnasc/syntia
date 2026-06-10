@@ -1,0 +1,145 @@
+[
+  {
+    "p": "Qual é o papel do psicólogo clínico em relação à espiritualidade do paciente, segundo os objetivos e sínteses desta unidade?",
+    "opcoes": [
+      "Impor uma visão científica que rejeita a dimensão espiritual como superstição",
+      "Ser um facilitador que reconhece a espiritualidade como parte integrante do processo terapêutico sem a reduzir a explicações exclusivamente psicológicas",
+      "Explicar todos os fenómenos espirituais através de categorias psicopatológicas",
+      "Converter o paciente a uma perspetiva religiosa específica que considere mais saudável"
+    ],
+    "correta": 1,
+    "explica": "O psicólogo é apresentado como facilitador, não como detentor de saber. Deve reconhecer a espiritualidade sem reduzir a explicações psicológicas nem tentar converter o paciente, conforme reafirmado em múltiplas sínteses."
+  },
+  {
+    "p": "Segundo Koenig, McCullough e Larson (2001), qual é a principal diferença entre religião e espiritualidade?",
+    "opcoes": [
+      "Religião é crença pessoal, espiritualidade é sistema organizado de práticas",
+      "Religião é sistema organizado de crenças e rituais; espiritualidade é busca pessoal de sentido que pode ou não incluir práticas religiosas",
+      "Não há diferença, os termos são sinónimos na prática clínica",
+      "Espiritualidade é restrita a crentes em Deus, religião é universal"
+    ],
+    "correta": 1,
+    "explica": "A definição de Koenig, McCullough e Larson (2001) é explícita: religião é o sistema organizado; espiritualidade é a busca pessoal que pode existir independentemente de qualquer religião ou até sem crença em Deus."
+  },
+  {
+    "p": "De acordo com Wulff (1997), qual das seguintes posturas do psicólogo é considerada a mais ética e coerente na clínica?",
+    "opcoes": [
+      "Negação literal: rejeitar completamente as afirmações religiosas do paciente",
+      "Afirmação literal: agir segundo as próprias crenças e tentar que o paciente as partilhe",
+      "Interpretação restauradora: considerar a experiência religiosa como real, fazer perguntas abertas e manter análise crítica",
+      "Interpretação redutiva: reduzir todos os fenómenos religiosos a explicações psicológicas"
+    ],
+    "correta": 2,
+    "explica": "A interpretação restauradora é destacada em todas as sínteses como a postura mais ética porque acolhe a experiência como real, faz análise crítica sem impor, e implica humildade epistemológica."
+  },
+  {
+    "p": "Qual das seguintes afirmações sobre a espiritualidade é mais alinhada com o material estudado?",
+    "opcoes": [
+      "A espiritualidade é sempre um fator de proteção para a saúde mental",
+      "A espiritualidade é um fator psicopatológico que deve ser eliminado no tratamento",
+      "A espiritualidade pode funcionar tanto como fator protetivo quanto como fator de risco, dependendo de como o indivíduo a experiencia",
+      "A espiritualidade é irrelevante na prática clínica moderna"
+    ],
+    "correta": 2,
+    "explica": "Este é o conceito-chave reiteirado desde a primeira aula: a espiritualidade pode proteger (menor depressão, melhor qualidade de vida) ou prejudicar (culpa religiosa, recusa de tratamento) a saúde mental, consoante as nuances da vivência pessoal."
+  },
+  {
+    "p": "O questionário FICA foi desenvolvido por quem e em que ano?",
+    "opcoes": [
+      "Anandarajah e Hight, em 1998",
+      "Wulff e Koenig, em 1999",
+      "Puchalski e Romer, em 2000",
+      "Frankl e Allport, em 1994"
+    ],
+    "correta": 2,
+    "explica": "FICA é o acrónimo desenvolvido especificamente por Puchalski e Romer em 2000, como instrumento de anamnese espiritual na prática clínica."
+  },
+  {
+    "p": "Qual é a definição de saúde da OMS (1948) que é importante conhecer nesta unidade?",
+    "opcoes": [
+      "Ausência completa de doença ou sintomas incómodos",
+      "Estado completo de bem-estar físico, mental e social, não apenas ausência de doença",
+      "Capacidade de manter conformidade com normas sociais e laborais",
+      "Equilíbrio perfeito de hormónios e sistemas biológicos"
+    ],
+    "correta": 1,
+    "explica": "Esta é a definição da OMS de 1948 citada repetidamente no material como fundação para o modelo biopsicossocial espiritual que inclui a dimensão espiritual."
+  },
+  {
+    "p": "Qual artigo do Código de Ética do Profissional Psicólogo é relevante quando se trabalha com espiritualidade?",
+    "opcoes": [
+      "Artigo 1.º, sobre confidencialidade absoluta",
+      "Artigo 2.º, que veda induzir convicções políticas, filosóficas, morais, ideológicas ou religiosas",
+      "Artigo 3.º, sobre competência profissional",
+      "Artigo 4.º, sobre relações com colegas"
+    ],
+    "correta": 1,
+    "explica": "O artigo 2.º é citado explicitamente quando se distingue entre acolher a espiritualidade (ético) e induzir convicções religiosas (violação do código de ética)."
+  },
+  {
+    "p": "Quais são as cinco dimensões do modelo biopsicossocial espiritual apresentadas nesta unidade?",
+    "opcoes": [
+      "Biológica, psicológica, social, espiritual e comunitária",
+      "Biológica, psicológica, social, espiritual e ambiental",
+      "Genética, comportamental, social, religiosa e cultural",
+      "Neurológica, emocional, relacional, transcendente e ecológica"
+    ],
+    "correta": 1,
+    "explica": "O modelo especificamente apresentado na aula U4_Aula03 nomeia as cinco dimensões como biológica, psicológica, social, espiritual e ambiental, refletindo a evolução da OMS."
+  },
+  {
+    "p": "Qual foi o marco histórico que relançou o diálogo entre medicina e espiritualidade no século XX?",
+    "opcoes": [
+      "A criação da psicanálise por Freud em 1900",
+      "O artigo 'The Faith That Heals' de Sir William Osler em 1910",
+      "A Declaração Universal dos Direitos Humanos em 1948",
+      "O surgimento da psicologia comportamental nos anos 1950"
+    ],
+    "correta": 1,
+    "explica": "Sir William Osler (1910) e o seu artigo 'The Faith That Heals' (A Fé Que Cura) no British Medical Journal é explicitamente citado como o marco que reaproximou medicina e espiritualidade após séculos de ruptura."
+  },
+  {
+    "p": "O que distingue religiosidade organizacional de religiosidade não organizacional?",
+    "opcoes": [
+      "A organizacional é mais sincera; a não organizacional é superficial",
+      "A organizacional envolve participação em templos ou igrejas; a não organizacional inclui práticas individuais como rezas ou leitura de textos sagrados",
+      "A organizacional é restrita a religiões monoteístas; a não organizacional é para religiões politeístas",
+      "Não há diferença, são apenas nomes diferentes para a mesma coisa"
+    ],
+    "correta": 1,
+    "explica": "Koenig, McCullough e Larson (2001) definem organizacional como participação em comunidade religiosa, e não organizacional como rezas, leituras e programas religiosos de forma individual ou informal."
+  },
+  {
+    "p": "De acordo com as sínteses, por que é importante que o psicólogo reconheça a dimensão espiritual do paciente?",
+    "opcoes": [
+      "Para converter o paciente a uma religião organizada",
+      "Porque a espiritualidade é parte integrante da relação terapêutica e pode funcionar como fator protetivo a reforçar ou fator de risco a vigiar",
+      "Porque todos os pacientes são necessariamente religiosos",
+      "Para simplificar o processo terapêutico"
+    ],
+    "correta": 1,
+    "explica": "As sínteses reafirmam que reconhecer a espiritualidade é importante porque ela pode ser fator protetivo (a reforçar) ou de risco (a vigiar), sendo essencial na integração holística do cuidado."
+  },
+  {
+    "p": "Qual é a perspetiva histórica sobre a relação entre religião e saúde mental até ao século XX?",
+    "opcoes": [
+      "A religião era vista como universalmente benéfica para a saúde mental",
+      "A religião era vista como possível causadora de neuroses",
+      "Não havia qualquer debate sobre o tema",
+      "A religião e a saúde mental eram consideradas domínios completamente separados"
+    ],
+    "correta": 1,
+    "explica": "Koenig (2005) é citado para afirmar que até ao século XX a religião era vista como possível causadora de neuroses, e apenas a partir do século XXI passou a ser considerada fator positivo para a saúde."
+  },
+  {
+    "p": "Segundo a unidade, o que se entende por 'visão holística' na clínica?",
+    "opcoes": [
+      "Considerar apenas a dimensão psicológica do paciente",
+      "Integração ativa das cinco dimensões (biológica, psicológica, social, espiritual e ambiental) para alcançar bem-estar completo",
+      "Rejeitar qualquer abordagem científica em favor de práticas espirituais",
+      "Foco exclusivo no diagnóstico e medicação"
+    ],
+    "correta": 1,
+    "explica": "A visão holística é apresentada como a integração das cinco dimensões interdependentes do ser humano, em contraste com reducionismos que focam apenas uma dimensão."
+  }
+]
