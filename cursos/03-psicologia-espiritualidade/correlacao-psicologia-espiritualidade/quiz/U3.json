@@ -1,0 +1,145 @@
+[
+  {
+    "p": "Qual é a diferença fundamental entre transcendência e objetos transcendentes?",
+    "opcoes": [
+      "Transcendência e objetos transcendentes são sinónimos que designam o mesmo conceito",
+      "Transcendência é o conceito amplo que designa o movimento além do limite do mundo material, enquanto objetos transcendentes são denominações específicas que remetem ao sagrado",
+      "Objetos transcendentes são mais importantes que a transcendência para compreender a experiência religiosa",
+      "Transcendência só existe em culturas ocidentais, enquanto objetos transcendentes são universais"
+    ],
+    "correta": 1,
+    "explica": "Transcendência é o conceito amplo (relação do homem com o absoluto), enquanto objetos transcendentes são um recurso operacional mais restrito (palavras ou expressões que fazem referência ao sagrado). Não são sinónimos."
+  },
+  {
+    "p": "Segundo Frankl, qual é a diferença fundamental entre fé incondicional e fé condicional?",
+    "opcoes": [
+      "A fé incondicional é apenas para pessoas religiosas, enquanto a fé condicional é para não crentes",
+      "A fé incondicional se extingue na catástrofe, enquanto a fé condicional se fortalece",
+      "A fé incondicional se fortalece diante da catástrofe, enquanto a fé condicional se extingue na mesma situação",
+      "Ambas funcionam da mesma forma, apenas com nomes diferentes conforme a cultura"
+    ],
+    "correta": 2,
+    "explica": "Frankl observou nos campos de concentração que a fé incondicional aprofundava-se na adversidade, enquanto a fé condicional desaparecia quando as circunstâncias pioravam."
+  },
+  {
+    "p": "De acordo com o material, qual é o argumento epistemológico central sobre a existência de Deus?",
+    "opcoes": [
+      "A existência de Deus pode ser provada cientificamente através do Big Bang",
+      "A ausência de provas da existência de Deus tem o mesmo peso lógico que a ausência de provas da sua inexistência",
+      "A ciência moderna comprovou definitivamente que Deus não existe",
+      "Todas as religiões têm a mesma quantidade de provas sobre a existência de Deus"
+    ],
+    "correta": 1,
+    "explica": "A aula apresenta uma incógnita simétrica: nenhum dos lados consegue afirmar certeza absoluta, o que obriga o profissional a uma postura ética de não imposição."
+  },
+  {
+    "p": "Qual é a relação assimétrica entre sagrado e divino?",
+    "opcoes": [
+      "Sagrado e divino são conceitos idênticos usados indistintamente",
+      "O divino depende sempre de ritos específicos, enquanto o sagrado é independente de lugar",
+      "Toda experiência com o divino é sagrada, mas nem toda experiência sagrada é divina",
+      "O sagrado é mais importante que o divino na experiência religiosa humana"
+    ],
+    "correta": 2,
+    "explica": "Experiências sagradas requerem ritos, lugares ou objetos específicos; experiências com o divino não dependem desses suportes físicos. Esta é a distinção central da aula."
+  },
+  {
+    "p": "Segundo o material, quais são as três categorias de valores que estruturam o sentido da vida em Frankl?",
+    "opcoes": [
+      "Valores religiosos, valores morais e valores intelectuais",
+      "Valores materiais, valores espirituais e valores emocionais",
+      "Valores criativos, valores vivenciais e valores atitudinais",
+      "Valores pessoais, valores comunitários e valores universais"
+    ],
+    "correta": 2,
+    "explica": "Frankl categoriza os valores em: criativos (o que a pessoa faz e cria), vivenciais (o que recebe do mundo) e atitudinais (como responde ao sofrimento)."
+  },
+  {
+    "p": "Qual é a diferença central entre a visão ocidental e oriental sobre o divino na natureza?",
+    "opcoes": [
+      "Ambas as visões consideram a natureza como criação divina exterior ao ser humano",
+      "O Ocidente vê o divino como transcendente ao cosmos; o Oriente sente o divino como imanente à natureza",
+      "O Oriente rejeita completamente a ideia de divino, focando apenas na matéria",
+      "O Ocidente é panteísta enquanto o Oriente acredita num Deus único exterior"
+    ],
+    "correta": 1,
+    "explica": "As tradições ocidentais (cristianismo, islamismo, judaísmo) veem Deus como transcendente; as orientais (hinduísmo, budismo) veem o sagrado como presente em tudo (panteísmo)."
+  },
+  {
+    "p": "O que significa a afirmação de Rodhen de que 'o verdadeiro Oriente não é geográfico, mas humano'?",
+    "opcoes": [
+      "Apenas as pessoas que vivem geograficamente no Oriente podem ter filosofia oriental",
+      "A maneira de ver o mundo e a relação com a natureza não depende de localização geográfica, mas da perspetiva individual",
+      "O pensamento oriental é mais antigo do que o ocidental",
+      "Não existe diferença real entre o pensamento oriental e ocidental"
+    ],
+    "correta": 1,
+    "explica": "Rodhen defende que a integração ou distância em relação à natureza é própria de cada indivíduo, não da sua origem geográfica."
+  },
+  {
+    "p": "Qual é a diferença entre 'criador' e 'gerador' segundo Rodhen (2008)?",
+    "opcoes": [
+      "Criador e gerador são termos sinónimos em filosofia",
+      "Criador manipula matéria-prima, enquanto gerador emite energia/essência para que algo exista",
+      "Gerador é menos importante que criador na teologia",
+      "Apenas Deus pode ser criador, nunca gerador"
+    ],
+    "correta": 1,
+    "explica": "Para Rodhen, Deus é gerador (não fabrica, mas origina), o que significa que toda criatura carrega parte da essência divina."
+  },
+  {
+    "p": "O que é Maya na tradição oriental e qual é a sua relação com Brahman?",
+    "opcoes": [
+      "Maya é um deus menor que Brahman na hierarquia religiosa hindu",
+      "Maya é a natureza, a forma pela qual Brahman (Deus) se materializa e ao mesmo tempo revela e encobre o divino",
+      "Maya e Brahman são nomes diferentes para o mesmo conceito sem relação especial",
+      "Maya é uma religião oriental diferente do hinduísmo"
+    ],
+    "correta": 1,
+    "explica": "Maya é a forma objetiva e visível de Brahman; ignorar a natureza/Maya equivale a ignorar o divino, segundo a tradição oriental."
+  },
+  {
+    "p": "Segundo o material, qual das seguintes afirmações sobre a espiritualidade é correta?",
+    "opcoes": [
+      "A espiritualidade exige sempre filiação religiosa formal numa instituição",
+      "A espiritualidade é uma experiência humana do divino e sagrado, ainda dentro dos limites do humano",
+      "A espiritualidade é exclusiva de pessoas que acreditam em Deus",
+      "A espiritualidade é apenas uma dimensão cultural sem impacto na saúde mental"
+    ],
+    "correta": 1,
+    "explica": "O material define espiritualidade como experiência humana do divino e sagrado que existe dentro dos limites humanos, não exigindo filiação institucional."
+  },
+  {
+    "p": "Qual é o conceito de 'numinoso' criado por Rudolf Otto e qual a sua importância?",
+    "opcoes": [
+      "O numinoso refere-se apenas aos aspetos racionais e morais do sagrado",
+      "O numinoso é o aspecto puramente irracional do sagrado, livre de definições racionais, que designa o elemento original e vivo de toda religião",
+      "O numinoso é uma crítica moderna à religião tradicional",
+      "O numinoso é sinónimo de transcendência e não tem significado especial"
+    ],
+    "correta": 1,
+    "explica": "Otto criou o conceito de numinoso para designar o elemento irracional e original do sagrado, diferenciando-o dos aspetos éticos e morais já contidos na palavra 'sagrado'."
+  },
+  {
+    "p": "De acordo com o Confucionismo, quantas dimensões constitutivas tem o ser humano e quais são?",
+    "opcoes": [
+      "Duas dimensões: corpo e espírito",
+      "Três dimensões: física, mental e espiritual",
+      "Quatro dimensões: Eu, Comunidade, Natureza e Céu",
+      "Cinco dimensões: material, mental, emocional, espiritual e social"
+    ],
+    "correta": 2,
+    "explica": "Confúcio define o ser humano por quatro dimensões constitutivas que incluem a natureza como parte integrante do ser, não como realidade externa."
+  },
+  {
+    "p": "Qual é o argumento lógico apresentado no final da aula para concluir que homem e natureza são um só?",
+    "opcoes": [
+      "A história mostra que humanos sempre viveram em harmonia com a natureza",
+      "Premissa 1: Deus é tudo o que tem alma. Premissa 2: Tudo o que tem alma representa Deus e é parte dele. Conclusão: Homem e natureza, ambos com alma, são um só",
+      "A ciência prova que o DNA humano é idêntico ao das plantas",
+      "Todas as religiões mundiais concordam que humanos e natureza são inseparáveis"
+    ],
+    "correta": 1,
+    "explica": "A aula utiliza um silogismo lógico baseado nas premissas sobre alma e representação divina para concluir a integração entre homem e natureza."
+  }
+]
