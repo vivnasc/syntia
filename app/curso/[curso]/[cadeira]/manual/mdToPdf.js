@@ -65,25 +65,49 @@ export function parseMarkdown(md) {
       continue;
     }
 
-    // Lista não ordenada
+    // Lista não ordenada. Junta as linhas de continuação (indentadas) ao item e
+    // mantém itens separados por linha em branco dentro da mesma lista.
     if (/^\s*[-*+]\s+/.test(line)) {
       const items = [];
-      while (i < lines.length && /^\s*[-*+]\s+/.test(lines[i])) {
-        items.push(parseInline(lines[i].replace(/^\s*[-*+]\s+/, "")));
-        i++;
+      while (i < lines.length) {
+        const m = lines[i].match(/^\s*[-*+]\s+(.*)$/);
+        if (m) {
+          let text = m[1];
+          i++;
+          while (i < lines.length && lines[i].trim() && /^\s+/.test(lines[i]) && !/^\s*[-*+]\s+/.test(lines[i]) && !/^\s*\d+[.)]\s+/.test(lines[i])) { text += " " + lines[i].trim(); i++; }
+          items.push(parseInline(text));
+        } else if (!lines[i].trim()) {
+          let j = i + 1;
+          while (j < lines.length && !lines[j].trim()) j++;
+          if (j < lines.length && /^\s*[-*+]\s+/.test(lines[j])) { i = j; continue; }
+          break;
+        } else break;
       }
       blocks.push({ type: "ul", items });
       continue;
     }
 
-    // Lista ordenada
+    // Lista ordenada. Igual à não ordenada, mas preserva o número da fonte (para
+    // numerar 1, 2, 3… mesmo com continuações e linhas em branco entre itens).
     if (/^\s*\d+[.)]\s+/.test(line)) {
       const items = [];
-      while (i < lines.length && /^\s*\d+[.)]\s+/.test(lines[i])) {
-        items.push(parseInline(lines[i].replace(/^\s*\d+[.)]\s+/, "")));
-        i++;
+      const nums = [];
+      while (i < lines.length) {
+        const m = lines[i].match(/^\s*(\d+)[.)]\s+(.*)$/);
+        if (m) {
+          nums.push(parseInt(m[1], 10));
+          let text = m[2];
+          i++;
+          while (i < lines.length && lines[i].trim() && /^\s+/.test(lines[i]) && !/^\s*[-*+]\s+/.test(lines[i]) && !/^\s*\d+[.)]\s+/.test(lines[i])) { text += " " + lines[i].trim(); i++; }
+          items.push(parseInline(text));
+        } else if (!lines[i].trim()) {
+          let j = i + 1;
+          while (j < lines.length && !lines[j].trim()) j++;
+          if (j < lines.length && /^\s*\d+[.)]\s+/.test(lines[j])) { i = j; continue; }
+          break;
+        } else break;
       }
-      blocks.push({ type: "ol", items });
+      blocks.push({ type: "ol", items, nums });
       continue;
     }
 

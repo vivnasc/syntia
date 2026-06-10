@@ -110,7 +110,7 @@ function Leaf(b, key) {
     case "p": return h(View, { key }, Runs(b.runs, s.p));
     case "hr": return h(View, { key, style: s.hr });
     case "ul": return b.items.map((it, i) => h(View, { key: i, style: s.li }, [h(Text, { key: "b", style: s.bullet }, "•"), Runs(it, s.liText)]));
-    case "ol": return b.items.map((it, i) => h(View, { key: i, style: s.li }, [h(Text, { key: "b", style: s.bullet }, `${i + 1}.`), Runs(it, s.liText)]));
+    case "ol": return b.items.map((it, i) => h(View, { key: i, style: s.li }, [h(Text, { key: "b", style: s.bullet }, `${(b.nums && b.nums[i]) || i + 1}.`), Runs(it, s.liText)]));
     case "table": return Table(b, key);
     default: return null;
   }
