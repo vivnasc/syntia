@@ -8,127 +8,127 @@
       "Quarta força da psicologia"
     ],
     "correta": 3,
-    "explica": "A Psicologia Transpessoal é considerada a quarta força porque sucede e integra as três forças anteriores: psicanálise (1.ª), behaviorismo (2.ª) e humanismo (3.ª), acrescentando a dimensão espiritual e da transcendência."
+    "explica": "A Psicologia Transpessoal é designada como quarta força porque herda contribuições das três anteriores (psicanálise, behaviorismo e humanismo) e avança ao incluir a espiritualidade e a consciência expandida como dimensões legítimas do sujeito."
   },
   {
-    "p": "Qual é o equívoco de linguagem mais comum cometido em relação à psicanálise?",
+    "p": "Quais são, por ordem, as três primeiras forças da psicologia?",
     "opcoes": [
-      "Usar psicanálise como sinónimo de inconsciente",
+      "Behaviorismo, Psicanálise, Humanismo",
+      "Psicanálise, Behaviorismo, Humanismo",
+      "Humanismo, Psicanálise, Behaviorismo",
+      "Psicanálise, Humanismo, Behaviorismo"
+    ],
+    "correta": 1,
+    "explica": "A ordem histórica é: 1.ª Psicanálise (Freud), 2.ª Behaviorismo (Watson), 3.ª Psicologia Humanista. Esta sequência é fundamental para compreender como a Psicologia Transpessoal se construiu sobre as bases deixadas pelas anteriores."
+  },
+  {
+    "p": "Qual é o equívoco de linguagem mais comum relativamente à psicanálise?",
+    "opcoes": [
+      "Usar psicanálise como sinónimo de neurologia",
       "Usar psicanálise como sinónimo de psicoterapia",
-      "Usar psicanálise como sinónimo de behaviorismo",
-      "Usar psicanálise como sinónimo de humanismo"
+      "Usar psicanálise como sinónimo de comportamento",
+      "Usar psicanálise como sinónimo de espiritualidade"
     ],
     "correta": 1,
-    "explica": "Psicanálise é o construto teórico e a abordagem; psicoterapia é o trabalho clínico realizado no setting com o sujeito. São conceitos distintos que frequentemente são confundidos."
+    "explica": "Psicanálise é o construto teórico e a abordagem científica; psicoterapia é o trabalho clínico realizado no setting. Confundir os termos leva a uma compreensão imprecisa de ambos os conceitos."
   },
   {
-    "p": "Como Freud define a sexualidade na sua teoria?",
+    "p": "O que é a autorrealização na perspectiva de Abraham Maslow e da Psicologia Transpessoal?",
     "opcoes": [
-      "Como ato sexual biológico exclusivamente",
-      "Como busca de satisfação e prazer que vai do biológico ao psíquico",
-      "Como repressão de desejos inconscientes",
-      "Como mecanismo de defesa do ego"
+      "A satisfação das necessidades básicas de alimentação e segurança",
+      "O máximo desenvolvimento das potencialidades individuais e o caminho para uma consciência unificada",
+      "A capacidade de controlar o comportamento dos outros",
+      "A eliminação total do inconsciente pessoal"
     ],
     "correta": 1,
-    "explica": "Para Freud, sexualidade é a busca de satisfação e prazer em qualquer forma, biológica ou psíquica, não se reduzindo ao ato sexual biológico. Toda pulsão sexual tem fonte, força, objeto e objetivo (satisfação/prazer)."
+    "explica": "A autorrealização é o topo da pirâmide de necessidades de Maslow e representa o desenvolvimento pleno das potencialidades humanas, sendo impossível sem satisfazer as quatro necessidades anteriores e constituindo o objetivo terapêutico transpessoal."
   },
   {
-    "p": "Qual é o objeto de estudo exclusivo do behaviorismo segundo Watson?",
+    "p": "Qual é a diferença fundamental entre a teoria do conflito (Draper e White) e a posição de Stephen Jay Gould sobre a relação ciência-religião?",
     "opcoes": [
-      "O inconsciente e os processos mentais inacessíveis",
-      "O comportamento observável",
-      "A consciência e a introspecção",
-      "Os arquétipos e símbolos da mente"
-    ],
-    "correta": 1,
-    "explica": "O behaviorismo estuda exclusivamente o comportamento observável como objeto científico da psicologia. Watson deliberadamente exclui consciência, introspecção e estados internos do seu escopo."
-  },
-  {
-    "p": "O que propôs Galileu Galilei relativamente à relação entre ciência e religião?",
-    "opcoes": [
-      "Que a religião deveria desaparecer perante a ciência",
-      "Que ambas competem inevitavelmente pela verdade",
-      "Que cada uma tinha território próprio: ciência explica o 'como', religião explica o 'se'",
-      "Que ciência e religião são a mesma coisa"
+      "Draper e White defendem a coexistência; Gould defende o conflito inevitável",
+      "Draper e White defendem que religião é superior; Gould defende que ciência é superior",
+      "Draper e White defendem que competem inevitavelmente; Gould defende que podem coexistir com domínios legítimos distintos",
+      "Draper e White ignoram completamente a religião; Gould a valoriza"
     ],
     "correta": 2,
-    "explica": "Galileu propôs que à ciência caberia explicar 'como' (mecanismos, desenvolvimento); à religião caberia explicar 'se' (espiritualidade, moral). Uma proposta de coexistência com territórios separados."
+    "explica": "A teoria do conflito afirma que ciência e religião competem inevitavelmente pela autoridade sobre a realidade. Gould propõe que ambas podem coexistir, cada uma explicando aspetos distintos da experiência humana, desde que respeitem os seus limites."
   },
   {
-    "p": "Qual é a contribuição central da Gestalterapia de Fritz Perls para a Psicologia Transpessoal?",
+    "p": "O que afirma o princípio da incerteza de Heisenberg no contexto da psicologia transpessoal?",
     "opcoes": [
-      "O estudo exclusivo da mente consciente",
-      "A visão holística de que todas as partes da experiência influenciam o todo e o sujeito só pode ser compreendido no seu contexto",
-      "A separação entre corpo e mente",
-      "A negação da espiritualidade como dimensão válida"
+      "Que todos os fenômenos são incertos e não podem ser estudados",
+      "Que é impossível medir com precisão fenômenos subjetivos sem que o observador interfira no que observa",
+      "Que a ciência nunca conseguirá entender a mente humana",
+      "Que a espiritualidade é incompatível com a ciência"
     ],
     "correta": 1,
-    "explica": "Perls defendia uma perspetiva holística segundo a qual toda parte da experiência humana afeta o todo, exigindo compreender o sujeito em relação ao seu contexto sem perder de vista o sujeito inteiro."
+    "explica": "Heisenberg demonstrou que o observador interfere no fenômeno observado, invalidando o mito da neutralidade científica absoluta. Isto é fundamental para a Psicologia Transpessoal ao reconhecer a interdependência entre sujeito e realidade."
   },
   {
-    "p": "Quais são, em ordem, os cinco níveis da pirâmide de necessidades de Maslow?",
+    "p": "De acordo com David Bohm, qual é a relação entre matéria e mente?",
     "opcoes": [
-      "Segurança, fisiológica, pertença, estima, autorrealização",
-      "Fisiológica, segurança, pertença, estima, autorrealização",
-      "Autorrealização, estima, pertença, segurança, fisiológica",
-      "Pertença, fisiológica, estima, segurança, autorrealização"
+      "Matéria e mente são completamente separadas e não se influenciam",
+      "Matéria e mente são aspetos distintos de um mesmo movimento contínuo e unificado",
+      "Mente é apenas uma ilusão criada pela matéria",
+      "Matéria é um aspeto secundário comparado com a mente pura"
     ],
     "correta": 1,
-    "explica": "A pirâmide segue a ordem: (1) fisiológica, (2) segurança, (3) pertença, (4) estima, (5) autorrealização. Cada nível só é ativado quando o anterior está satisfeito."
+    "explica": "A totalidade ininterrupta de Bohm afirma que matéria e mente não são substâncias separadas, mas dois aspetos distintos de um único movimento. Isto exige uma visão holística que a Psicologia Transpessoal adopta."
   },
   {
-    "p": "O que são as couraças na bioenergética de Lowen?",
+    "p": "Qual era o nome original proposto por Stanislav Grof para a Psicologia Transpessoal e qual a sua contribuição teórica?",
     "opcoes": [
-      "Estruturas psicológicas de defesa mental",
-      "Tensões e dores musculares crónicas resultantes de aspetos psíquicos não trabalhados",
-      "Mecanismos de repressão do inconsciente",
-      "Símbolos do inconsciente coletivo"
-    ],
-    "correta": 1,
-    "explica": "Couraças são camadas de tensão muscular crónica que o corpo acumula como consequência de aspetos psíquicos não resolvidos. O corpo é um arquivo vivo da psique."
-  },
-  {
-    "p": "Qual a diferença fundamental entre individuação e individualismo em Jung?",
-    "opcoes": [
-      "Não há diferença, são sinónimos",
-      "Individuação é integração dos opostos; individualismo é centramento no eu individual",
-      "Individualismo é integração; individuação é isolamento",
-      "Ambos referem-se exclusivamente ao inconsciente coletivo"
-    ],
-    "correta": 1,
-    "explica": "Individuação é o processo psicológico de integração do consciente e inconsciente que constrói o self; individualismo é o centramento no ego pessoal. São conceitos opostos."
-  },
-  {
-    "p": "O que afirma o princípio da incerteza de Heisenberg sobre a neutralidade do investigador científico?",
-    "opcoes": [
-      "Que é totalmente possível manter neutralidade absoluta",
-      "Que é impossível medir algo subjetivo com neutralidade porque o observador interfere no fenômeno",
-      "Que o investigador deve sempre interferir propositadamente",
-      "Que a neutralidade é o aspeto mais importante da investigação"
-    ],
-    "correta": 1,
-    "explica": "Heisenberg mostrou que é impossível medir fenómenos subjetivos sem que o próprio observador interfira. A neutralidade do observador é um parâmetro ortodoxo, não uma realidade possível."
-  },
-  {
-    "p": "O que David Bohm defende com o conceito de totalidade ininterrupta?",
-    "opcoes": [
-      "Que matéria e mente são substâncias completamente separadas",
-      "Que matéria e mente são aspetos distintos de um mesmo movimento contínuo",
-      "Que apenas a matéria é real",
-      "Que a mente existe isolada do mundo físico"
-    ],
-    "correta": 1,
-    "explica": "Bohm propõe que matéria e mente são aspectos distintos de um único movimento ininterrupto, não substâncias separadas. Isto exige uma análise holística e de totalidade."
-  },
-  {
-    "p": "Qual é o objetivo terapêutico central da Psicologia Transpessoal?",
-    "opcoes": [
-      "Restaurar a normalidade comportamental do sujeito",
-      "Eliminar completamente o inconsciente",
-      "Promover o alcance de uma consciência unificada mediante a autorrealização",
-      "Aumentar a racionalidade e eliminar a emoção"
+      "Psicologia Humanística; estudo das emoções conscientes",
+      "Psicoterapia Mecanicista; foco no comportamento observável",
+      "Psicologia Transhumanística; estudo dos estados e estágios da consciência além da vigília",
+      "Psicologia Espiritual; negação completa da ciência"
     ],
     "correta": 2,
-    "explica": "A Psicologia Transpessoal visa o desenvolvimento das potencialidades do sujeito e o alcance da autorrealização através de uma consciência unificada que integra dimensões transcendentes e místicas."
+    "explica": "Grof propôs o nome Psicologia Transhumanística para designar uma abordagem que estuda a consciência em diferentes estados, incluindo aqueles além do estado de vigília ordinário, o que foi crucial para consolidar a disciplina."
+  },
+  {
+    "p": "Como Carl Rogers contribui para a Psicologia Transpessoal através da sua abordagem centrada na pessoa?",
+    "opcoes": [
+      "Negando a necessidade de terapia personalizada",
+      "Defendendo que a terapia deve estimular a tendência humana à autorrealização, privilegiando as experiências subjetivas do indivíduo",
+      "Eliminando completamente a dimensão espiritual do processo terapêutico",
+      "Propondo que todos os pacientes devem seguir o mesmo protocolo terapêutico"
+    ],
+    "correta": 1,
+    "explica": "Rogers enfatiza a tendência natural do ser humano para se realizar e a importância das experiências subjetivas. Esta perspectiva é fundamental para a Psicologia Transpessoal, que valoriza o potencial único e a dimensão espiritual de cada indivíduo."
+  },
+  {
+    "p": "O que propõe a causação descendente no contexto da física quântica e da Psicologia Transpessoal?",
+    "opcoes": [
+      "Que o universo controla completamente o comportamento humano",
+      "Que a matéria é a única realidade e a mente é ilusória",
+      "Que a mente humana é fonte causal, e ao expandir a consciência, o sujeito atua como canal da consciência cósmica",
+      "Que a ciência nunca poderá estudar a consciência"
+    ],
+    "correta": 2,
+    "explica": "A causação descendente rompe com o determinismo material ao afirmar que a mente humana é uma fonte causal ativa. Quando o sujeito expande a sua autoconsciência, actua como canal da consciência cósmica, harmonizando natureza e vida."
+  },
+  {
+    "p": "Quais são os três níveis ou corpos que constituem o ser humano segundo a síntese entre física quântica e Psicologia Transpessoal?",
+    "opcoes": [
+      "Corpo consciente, corpo inconsciente e corpo coletivo",
+      "Corpo comportamental, corpo emocional e corpo racional",
+      "Corpo mental, corpo físico e corpo vital",
+      "Corpo individual, corpo social e corpo universal"
+    ],
+    "correta": 2,
+    "explica": "A visão integrada reconhece três níveis vibratórios: o corpo mental (dimensão cognitiva), o corpo físico (dimensão material) e o corpo vital (dimensão espiritual/cósmica). Esta trilogia é essencial para compreender o ser humano de forma holística."
+  },
+  {
+    "p": "Qual é o objetivo final da Psicologia Transpessoal em termos de desenvolvimento da consciência?",
+    "opcoes": [
+      "Eliminar completamente as emoções negativas",
+      "Desenvolver a capacidade de controlar outras pessoas",
+      "Alcançar uma consciência unificada e a autorrealização através da expansão da autoconsciência para além do estado de vigília ordinário",
+      "Negar a existência do mundo físico"
+    ],
+    "correta": 2,
+    "explica": "O objetivo transpessoal é promover o alcance de uma visão de totalidade da consciência de forma unificada, o que implica a expansão da autoconsciência e a transformação harmoniosa dos vários níveis do ser humano, levando à autorrealização no sentido maslowiano."
   }
 ]
