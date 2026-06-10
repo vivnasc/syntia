@@ -1,0 +1,134 @@
+[
+  {
+    "p": "Segundo a OMS (1988), qual é a definição de espiritualidade incluída no conceito multidimensional de saúde?",
+    "opcoes": [
+      "O conjunto de emoções e convicções de natureza não material, com a suposição de que há mais no viver do que pode ser percebido ou plenamente compreendido",
+      "A prática regular de rituais e cerimónias religiosas organizadas institucionalmente",
+      "A ausência total de sofrimento e de preocupações existenciais",
+      "A crença exclusiva numa única religião e no cumprimento dos seus dogmas"
+    ],
+    "correta": 0,
+    "explica": "A OMS define espiritualidade como o conjunto de emoções e convicções de natureza não material, reconhecendo que há dimensões da vida humana que vão além do que pode ser percebido materialmente. Esta é uma definição ampla que não se limita a religiões específicas."
+  },
+  {
+    "p": "Qual é a diferença fundamental entre espiritualidade e religião, conforme apresentado no material?",
+    "opcoes": [
+      "Espiritualidade é uma experiência interior não ligada a nenhuma crença específica, enquanto religião é uma instituição com doutrinas, ritos e normas",
+      "Espiritualidade é sinónimo de religião e os dois termos podem ser usados indistintamente",
+      "Religião é mais ampla que espiritualidade e abrange todas as formas de vivência do sagrado",
+      "Espiritualidade refere-se apenas a práticas meditativas, enquanto religião refere-se a crenças estruturadas"
+    ],
+    "correta": 0,
+    "explica": "O material diferencia claramente: espiritualidade é uma experiência interior e subjetiva, enquanto religião é uma instituição com elementos doutrinários, rituais e normas específicas. Uma pessoa pode ser espiritual sem aderir a uma religião organizada."
+  },
+  {
+    "p": "Para Freud, qual é o conceito-chave que está na origem do sentimento religioso?",
+    "opcoes": [
+      "O desamparo (Hilflosigkeit), condição constitucional do ser humano",
+      "A busca de poder e controlo sobre a natureza",
+      "A necessidade biológica de reprodução e sobrevivência",
+      "A pressão social exercida pelas instituições sobre os indivíduos"
+    ],
+    "correta": 0,
+    "explica": "Freud defende que o desamparo constitucional do ser humano — manifesto como falta, vazio e ameaça — está na origem do sentimento religioso. A crença numa potência superior onipotente funciona como resposta a essa angústia do desamparo."
+  },
+  {
+    "p": "De acordo com o modelo de Aquino (2005), quantos domínios compõem a atitude religiosa?",
+    "opcoes": [
+      "Quatro: conhecimento, comportamento, sentimento e corporeidade religiosa",
+      "Três: cognitivo, afetivo e comportamental",
+      "Cinco: intelectual, emocional, físico, moral e social",
+      "Dois: interno (crenças) e externo (práticas)"
+    ],
+    "correta": 0,
+    "explica": "Aquino identifica quatro domínios da atitude religiosa: conhecimento religioso (doutrinas e escrituras), comportamento religioso (normas e práticas), sentimento religioso (emoções e afetos) e corporeidade religiosa (expressão física da fé). Baseou-se nos três componentes da atitude em psicologia social, expandindo-os com a dimensão corporal."
+  },
+  {
+    "p": "No modelo P-E-N (Big Three) de Eysenck, o que significa a letra 'P'?",
+    "opcoes": [
+      "Psicoticismo, padrão marcado por agressividade, frieza e falta de empatia",
+      "Personalidade, a organização geral dos traços do indivíduo",
+      "Prudência, caracterizada por cautela e planeamento cuidadoso",
+      "Psicanálise, a orientação teórica de Eysenck"
+    ],
+    "correta": 0,
+    "explica": "P representa Psicoticismo no modelo de Eysenck. Trata-se de um padrão que inclui agressividade, hostilidade, egocentrismo, frieza, impulsividade, falta de empatia e antissociabilidade. Altos níveis correlacionam-se com maior vulnerabilidade à psicose, mas não equivalem a ela."
+  },
+  {
+    "p": "Qual é a explicação biológica que Eysenck oferece para a diferença entre extrovertidos e introvertidos?",
+    "opcoes": [
+      "Extrovertidos têm baixos níveis de excitação cortical e procuram estimulação externa; introvertidos têm altos níveis e evitam estimulação adicional",
+      "Introvertidos têm cérebros maiores e mais desenvolvidos que os extrovertidos",
+      "Os extrovertidos usam mais o hemisfério cerebral direito, enquanto introvertidos usam mais o esquerdo",
+      "Extrovertidos têm níveis mais altos de oxigénio no sangue, permitindo maior atividade"
+    ],
+    "correta": 0,
+    "explica": "Eysenck propõe que a diferença se baseia em níveis de excitação cortical: extrovertidos com níveis baixos buscam estimulação no exterior; introvertidos com níveis altos evitam estimulação adicional. Esta é uma explicação biológica central do seu modelo."
+  },
+  {
+    "p": "O modelo Big Five (OCEAN) é atualmente considerado o mais utilizado nas pesquisas sobre personalidade. Qual é a razão principal para isso?",
+    "opcoes": [
+      "Ser abrangente e replicável transculturalmente, com evidências robustas em múltiplos países e instrumentos",
+      "Ter sido criado por um único autor de grande prestígio internacional",
+      "Ser o modelo mais antigo e tradicional na história da psicologia",
+      "Ser o mais fácil de usar e não requerer formação especializada para interpretação"
+    ],
+    "correta": 0,
+    "explica": "O Big Five é predominante porque é replicável: os cinco fatores foram encontrados independentemente do país, dos instrumentos de medição e dos sujeitos avaliados. Esta replicabilidade e robustez científica é o principal motivo da sua prevalência nas investigações."
+  },
+  {
+    "p": "Quantas facetas tem cada fator do modelo Big Five, e qual é o total de facetas no modelo?",
+    "opcoes": [
+      "Seis facetas por fator, totalizando 30 facetas",
+      "Três facetas por fator, totalizando 15 facetas",
+      "Dez facetas por fator, totalizando 50 facetas",
+      "Quatro facetas por fator, totalizando 20 facetas"
+    ],
+    "correta": 0,
+    "explica": "Cada um dos cinco fatores do Big Five subdivide-se em seis facetas inter-relacionadas, permitindo uma descrição mais fina e específica da personalidade. Isto resulta em 30 facetas no total (5 × 6)."
+  },
+  {
+    "p": "Qual das seguintes opções descreve corretamente a diferença entre traço e tipo no modelo de Eysenck?",
+    "opcoes": [
+      "Traço é uma predisposição a responder de modo semelhante a diferentes estímulos; tipo é um grupo de traços correlacionados, com maior inclusividade",
+      "Traço refere-se ao temperamento; tipo refere-se ao caráter",
+      "Traço é permanente; tipo é modificável através da aprendizagem",
+      "Traço é biológico; tipo é socialmente construído"
+    ],
+    "correta": 0,
+    "explica": "A diferença reside na inclusividade: o traço é uma predisposição singular; o tipo é um agrupamento de vários traços correlacionados, representando um nível hierárquico superior. Ambos têm base biológica no modelo de Eysenck."
+  },
+  {
+    "p": "No modelo Big Five, qual das seguintes facetas pertence ao fator Conscienciosidade?",
+    "opcoes": [
+      "Autodisciplina: automotivação e ausência de procrastinação",
+      "Gregarismo: necessidade constante de companhia",
+      "Estética: amor pela música, poesia e artes",
+      "Sensibilidade: compaixão e empatia"
+    ],
+    "correta": 0,
+    "explica": "Autodisciplina é uma das seis facetas de Conscienciosidade, caracterizando pessoas que se automotiviamo e não procrastinam. As outras opções pertencem a outros fatores: Gregarismo (Extroversão), Estética (Abertura) e Sensibilidade (Amabilidade)."
+  },
+  {
+    "p": "Segundo Lancetti e Amarante (2006), como se define uma mente saudável?",
+    "opcoes": [
+      "Um movimento contínuo do indivíduo na busca do bem-estar e de modos de vida sustentáveis diante das adversidades, não equivalendo à mera ausência de doenças",
+      "O estado de ausência total de sintomas psicológicos ou psiquiátricos",
+      "A capacidade de se conformar perfeitamente às normas sociais e culturais da comunidade",
+      "A obtenção de sucesso profissional e financeiro estável"
+    ],
+    "correta": 0,
+    "explica": "Lancetti e Amarante definem mente saudável como um processo dinâmico de busca contínua de bem-estar e de adaptação construtiva às adversidades, ampliando a visão tradicional que a definia apenas como ausência de doença. Este conceito integra-se com o modelo biopsicossocioespiritual."
+  },
+  {
+    "p": "Qual é a principal distinção entre motivação intrínseca e motivação extrínseca, conforme apresentado no contexto da faceta Abertura à Experiência?",
+    "opcoes": [
+      "Motivação intrínseca vem de dentro (interesse genuíno); motivação extrínseca vem de fora (recompensa, prémio, reconhecimento)",
+      "Motivação intrínseca é mais fraca que a extrínseca",
+      "Motivação extrínseca é sempre mais saudável que a intrínseca",
+      "Não existe diferença real entre os dois tipos de motivação"
+    ],
+    "correta": 0,
+    "explica": "A distinção é fundamental: na Abertura à Experiência, especificamente, a motivação intrínseca caracteriza indivíduos com interesse genuíno em experiências diversas por si próprio, não por ganho externo. A motivação extrínseca depende de recompensas ou reconhecimento do exterior."
+  }
+]
