@@ -478,10 +478,83 @@ function separarBlocos(saida) {
 // Usado quando a Action é disparada pelo upload da PWA. O MP3 vem de fora do
 // repositório (ex.: /tmp) e não é comitado — só os textos gerados o são.
 // ---------------------------------------------------------------------------
+// Pede ao Claude para extrair, de uma transcrição, ideias de conteúdo para a
+// criadora se inspirar: gancho, estrutura, temas e frases fortes. NÃO copia nem
+// reproduz o vídeo original — sintetiza aprendizagens para conteúdo próprio.
+async function gerarIdeiasConteudo(transcricao) {
+  const content = [{
+    type: "text",
+    text:
+      "A seguir está a TRANSCRIÇÃO de um vídeo (ex.: um Reel do Instagram) que uma criadora de conteúdo guardou para se inspirar. " +
+      "Analisa-a e devolve, em português de Portugal e em markdown, um guia de inspiração para ela criar conteúdo PRÓPRIO (não é para copiar o vídeo):\n\n" +
+      "## Sobre o que é\nUma frase a resumir o tema central.\n\n" +
+      "## Gancho (hook)\nComo o vídeo prende a atenção nos primeiros segundos, e 2-3 variações de gancho que ela poderia usar.\n\n" +
+      "## Estrutura\nOs passos/momentos do vídeo, em tópicos curtos (como está construído).\n\n" +
+      "## Temas e ângulos\n3 a 6 ideias de ângulos ou temas que ela pode desenvolver à sua maneira.\n\n" +
+      "## Frases fortes\nAs frases mais marcantes ditas no vídeo (entre aspas), úteis como ponto de partida.\n\n" +
+      "## Ideias de legenda / CTA\n2-3 sugestões de legenda ou chamada à ação.\n\n" +
+      "Não inventes factos que não estejam na transcrição. Evita travessões longos.\n\n" +
+      "=== TRANSCRIÇÃO ===\n" + transcricao,
+  }];
+  const resp = await fetchRetry("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "x-api-key": ANTHROPIC_API_KEY,
+      "anthropic-version": "2023-06-01",
+      "content-type": "application/json",
+    },
+    body: JSON.stringify({ model: CLAUDE_MODEL, max_tokens: 3000, messages: [{ role: "user", content }] }),
+  });
+  if (!resp.ok) throw new Error(`Claude falhou ao gerar ideias (${resp.status}): ${await resp.text()}`);
+  const data = await resp.json();
+  return data.content.map((b) => (b.type === "text" ? b.text : "")).join("\n").trim();
+}
+
+// Processa um ficheiro do espaço "Inspiração": transcreve e extrai ideias.
+async function processarInspiracao(ficheiroPath, filename) {
+  const ext = path.extname(filename).toLowerCase();
+  const nomeBase = path.basename(filename, path.extname(filename)) || "video";
+  const transDir = path.join("inspiracao", "transcricoes");
+  const ideiasDir = path.join("inspiracao", "ideias");
+  fs.mkdirSync(transDir, { recursive: true });
+  fs.mkdirSync(ideiasDir, { recursive: true });
+
+  const txtPath = path.join(transDir, `${nomeBase}.txt`);
+  const ideiasPath = path.join(ideiasDir, `${nomeBase}.md`);
+  if (fs.existsSync(txtPath) && fs.existsSync(ideiasPath)) {
+    console.log(`[inspiracao] ${nomeBase} já processado, salto.`);
+    return;
+  }
+
+  console.log(`[inspiracao] A obter o texto de ${filename} (${ext || "?"})...`);
+  const texto = fs.existsSync(txtPath)
+    ? fs.readFileSync(txtPath, "utf-8")
+    : await textoFonteDe(ficheiroPath, ext);
+  if (!texto || !texto.trim()) {
+    throw new Error(`Sem texto utilizável em ${filename} (vídeo sem fala? áudio vazio?).`);
+  }
+  fs.writeFileSync(txtPath, texto, "utf-8");
+
+  console.log(`[inspiracao] A extrair ideias de conteúdo com o Claude...`);
+  const ideias = await gerarIdeiasConteudo(texto);
+  fs.writeFileSync(ideiasPath, ideias, "utf-8");
+  console.log(`[inspiracao] ${nomeBase} concluído.`);
+}
+
 async function processarIngest() {
   const ficheiroPath = process.env.INGEST_AUDIO_PATH;
   const area = process.env.INGEST_AREA || "";
   const filename = process.env.INGEST_FILENAME || path.basename(ficheiroPath || "");
+
+  // Inspiração: espaço à parte dos cursos. Transcreve o vídeo/áudio e extrai
+  // ideias de conteúdo. Não gera síntese/flashcards/produto.
+  if (process.env.INGEST_MODO === "inspiracao") {
+    if (!ficheiroPath || !fs.existsSync(ficheiroPath)) {
+      throw new Error(`Ficheiro não encontrado em ${ficheiroPath}`);
+    }
+    await processarInspiracao(ficheiroPath, filename);
+    return;
+  }
 
   if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
     throw new Error(`Área inválida: "${area}"`);

@@ -90,6 +90,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add cursos/ disciplina-partilhada/
+          git add inspiracao/ 2>/dev/null || true
           git reset -q -- ':(glob)**/_audio/**' 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "Nada de novo para processar."

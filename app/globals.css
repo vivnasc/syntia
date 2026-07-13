@@ -616,3 +616,16 @@ select.campo { appearance: none; cursor: pointer; }
 }
 .dest-confirma b { color: var(--gold-soft); font-weight: 600; }
 .dest-falta { font-size: 13.5px; color: var(--corpo); }
+
+/* Espaço de Inspiração (transcrições + ideias de conteúdo) */
+.insp-card {
+  border: 1px solid var(--line-strong);
+  border-radius: 12px;
+  background: var(--card);
+  padding: 16px 18px;
+  margin-bottom: 14px;
+}
+.insp-titulo { margin: 0 0 8px; font-size: 16px; }
+.insp-ideias .md { font-size: 14.5px; }
+.painel-corpo { font-size: 13.5px; color: var(--corpo); padding: 4px 0 8px; }
+.painel-corpo p { white-space: pre-wrap; }
