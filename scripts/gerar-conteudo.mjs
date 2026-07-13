@@ -391,12 +391,37 @@ function main() {
     partilhada = { id: "disciplina-partilhada", titulo, inicio: "2026-05-28", fim: "2026-09-05", materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(partDir)) };
   }
 
-  const conteudo = { geradoEm: new Date().toISOString(), temas: TEMAS, cursos, partilhada, banco };
+  const conteudo = { geradoEm: new Date().toISOString(), temas: TEMAS, cursos, partilhada, banco, inspiracao: lerInspiracao() };
   fs.writeFileSync(OUT_JSON, JSON.stringify(conteudo, null, 2), "utf-8");
 
   const nCad = cursos.reduce((s, c) => s + c.cadeiras.length, 0);
   const nAulas = cursos.reduce((s, c) => s + c.cadeiras.reduce((n, k) => n + k.aulas.length, 0), 0) + (partilhada?.aulas.length || 0);
   console.log(`conteudo.json: ${cursos.length} curso(s), ${nCad} cadeira(s), ${nAulas} aula(s), ${banco.length} item(ns) de produto.`);
+}
+
+// Espaço de Inspiração: transcrições + ideias de conteúdo de vídeos guardados
+// para inspirar conteúdo próprio. Fica fora dos cursos.
+function lerInspiracao() {
+  const base = path.join(ROOT, "inspiracao");
+  const transDir = path.join(base, "transcricoes");
+  const ideiasDir = path.join(base, "ideias");
+  if (!isDir(transDir) && !isDir(ideiasDir)) return [];
+  const nomes = new Set();
+  if (isDir(transDir)) for (const f of fs.readdirSync(transDir)) { const m = f.match(/^(.+)\.txt$/i); if (m) nomes.add(m[1]); }
+  if (isDir(ideiasDir)) for (const f of fs.readdirSync(ideiasDir)) { const m = f.match(/^(.+)\.md$/i); if (m) nomes.add(m[1]); }
+  const itens = [];
+  for (const nome of nomes) {
+    const tPath = path.join(transDir, `${nome}.txt`);
+    const iPath = path.join(ideiasDir, `${nome}.md`);
+    itens.push({
+      nome,
+      titulo: prettify(nome),
+      transcricao: fs.existsSync(tPath) ? lerTxt(tPath) : "",
+      ideias: fs.existsSync(iPath) ? lerTxt(iPath) : "",
+    });
+  }
+  itens.sort((a, b) => a.nome.localeCompare(b.nome));
+  return itens;
 }
 
 main();
