@@ -19,17 +19,19 @@ export async function POST(request) {
   } catch {
     return Response.json({ error: "Pedido inválido." }, { status: 400 });
   }
-  const { url, curso, cadeira, filename, modo, unidade, arquivos } = payload || {};
+  const { url, curso, cadeira, filename, modo, unidade, arquivos, legenda } = payload || {};
   const modoFinal =
     modo === "material" ? "material"
     : modo === "consolidar" ? "consolidar"
     : modo === "mover" ? "mover"
     : modo === "inspiracao" ? "inspiracao"
+    : modo === "inspiracao-legenda" ? "inspiracao-legenda"
     : "aula";
   const consolidar = modoFinal === "consolidar";
   const mover = modoFinal === "mover";
   const inspiracao = modoFinal === "inspiracao";
-  const semFicheiro = consolidar || mover;
+  const inspiracaoLegenda = modoFinal === "inspiracao-legenda";
+  const semFicheiro = consolidar || mover || inspiracaoLegenda;
 
   const token = process.env.GITHUB_DISPATCH_TOKEN;
   if (!token) {
@@ -49,13 +51,22 @@ export async function POST(request) {
     if (!EXT_OK.test(nomeFicheiro)) {
       return Response.json({ error: "Tipo de ficheiro não suportado (usa MP3, PDF ou txt)." }, { status: 400 });
     }
+  } else if (inspiracaoLegenda) {
+    // Só legenda: usa o nome do vídeo já transcrito (sem ficheiro).
+    nomeFicheiro = sanitizarNome(filename);
+    if (!nomeFicheiro) {
+      return Response.json({ error: "Falta o nome do vídeo." }, { status: 400 });
+    }
+    if (!legenda || !String(legenda).trim()) {
+      return Response.json({ error: "Cola a legenda do post." }, { status: 400 });
+    }
   }
 
   // Constrói o caminho de destino (disciplina), validando contra o programa.
   let areaDir;
   let destinoTitulo;
   const partilhada = getPartilhada();
-  if (inspiracao) {
+  if (inspiracao || inspiracaoLegenda) {
     // Espaço de inspiração: fora dos cursos, sem validação de programa.
     areaDir = "inspiracao";
     destinoTitulo = "Inspiração";
@@ -95,6 +106,7 @@ export async function POST(request) {
           modo: modoFinal,
           unidade: consolidar || mover ? String(unidade || "") : "",
           arquivos: mover ? JSON.stringify(arquivos.map(String)) : "",
+          legenda: (inspiracao || inspiracaoLegenda) ? String(legenda || "").slice(0, 8000) : "",
         },
       }),
     }

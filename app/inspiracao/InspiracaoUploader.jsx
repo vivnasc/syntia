@@ -12,6 +12,7 @@ const supa = SUPA_URL && SUPA_ANON ? createClient(SUPA_URL, SUPA_ANON) : null;
 
 export default function InspiracaoUploader() {
   const [itens, setItens] = useState([]); // { file, status: fila|enviar|feito|erro, erro }
+  const [legenda, setLegenda] = useState("");
   const [correr, setCorrer] = useState(false);
   const [arrastar, setArrastar] = useState(false);
   const [aviso, setAviso] = useState("");
@@ -61,7 +62,7 @@ export default function InspiracaoUploader() {
         const resp = await fetch("/api/ingest", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ url: prep.publicUrl, filename: file.name, modo: "inspiracao" }),
+          body: JSON.stringify({ url: prep.publicUrl, filename: file.name, modo: "inspiracao", legenda: legenda.trim() }),
         });
         const data = await resp.json().catch(() => ({}));
         if (!resp.ok) throw new Error(data.error || `processar (${resp.status})`);
@@ -96,6 +97,20 @@ export default function InspiracaoUploader() {
           onChange={(e) => juntar(e.target.files)}
         />
       </div>
+
+      <label className="lead" style={{ margin: 0, display: "block" }}>
+        Legenda original <span style={{ color: "var(--ink-soft)", fontWeight: 400 }}>(opcional — cola aqui a legenda do post; torna as ideias mais completas)</span>
+        <textarea
+          value={legenda}
+          onChange={(e) => setLegenda(e.target.value)}
+          className="campo"
+          rows={3}
+          placeholder="Ex.: a legenda/descrição que acompanha o Reel…"
+          disabled={correr}
+          style={{ resize: "vertical", fontFamily: "inherit" }}
+        />
+      </label>
+      <div className="hint">Aplica-se aos vídeos deste envio — se cada Reel tiver legenda diferente, envia um de cada vez.</div>
 
       {aviso && <div style={{ color: "var(--ink-soft)", fontSize: 13 }}>{aviso}</div>}
 

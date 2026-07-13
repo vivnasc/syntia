@@ -405,6 +405,7 @@ function lerInspiracao() {
   const base = path.join(ROOT, "inspiracao");
   const transDir = path.join(base, "transcricoes");
   const ideiasDir = path.join(base, "ideias");
+  const legDir = path.join(base, "legendas");
   if (!isDir(transDir) && !isDir(ideiasDir)) return [];
   const nomes = new Set();
   if (isDir(transDir)) for (const f of fs.readdirSync(transDir)) { const m = f.match(/^(.+)\.txt$/i); if (m) nomes.add(m[1]); }
@@ -413,11 +414,13 @@ function lerInspiracao() {
   for (const nome of nomes) {
     const tPath = path.join(transDir, `${nome}.txt`);
     const iPath = path.join(ideiasDir, `${nome}.md`);
+    const lPath = path.join(legDir, `${nome}.txt`);
     itens.push({
       nome,
       titulo: prettify(nome),
       transcricao: fs.existsSync(tPath) ? lerTxt(tPath) : "",
       ideias: fs.existsSync(iPath) ? lerTxt(iPath) : "",
+      legenda: fs.existsSync(lPath) ? lerTxt(lPath) : "",
     });
   }
   itens.sort((a, b) => a.nome.localeCompare(b.nome));
