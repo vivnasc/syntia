@@ -1,0 +1,134 @@
+[
+  {
+    "p": "Qual é a principal crítica dirigida à Psicologia Transpessoal segundo as aulas apresentadas?",
+    "opcoes": [
+      "A confusão entre Psicologia Transpessoal e espiritismo, por trabalhar a espiritualidade como dimensão do sujeito",
+      "O facto de não utilizar métodos científicos rigorosos em investigação",
+      "A impossibilidade de ser aplicada em contextos clínicos reais",
+      "A falta de formação adequada dos profissionais que a praticam"
+    ],
+    "correta": 0,
+    "explica": "A aula destaca que a confusão entre Psicologia Transpessoal e espiritismo é a crítica central, pois profissionais que não reconhecem a espiritualidade como factor de saúde rejeitam a abordagem sem a examinar com rigor."
+  },
+  {
+    "p": "Quais são os quatro pilares básicos da Psicologia Transpessoal, descritos como campos energéticos?",
+    "opcoes": [
+      "Físico, emocional, mental e espiritual",
+      "Consciente, inconsciente, pré-consciente e supraconsciência",
+      "Biológico, psicológico, social e cultural",
+      "Racional, irracional, instintivo e transcendental"
+    ],
+    "correta": 0,
+    "explica": "A aula explica que os quatro pilares fundamentam a cientificidade da teoria: corpo (físico), emocional, mental e espiritual, permitindo uma leitura holística do sujeito."
+  },
+  {
+    "p": "O que é a PNPIC e quantos procedimentos de práticas integrativas o SUS oferece actualmente de forma gratuita?",
+    "opcoes": [
+      "Política Nacional de Práticas Integrativas e Complementares; 29 procedimentos",
+      "Programa Nacional de Psicologia Integral e Clínica; 15 procedimentos",
+      "Política Nacional de Prevenção de Intoxicações e Crises; 8 procedimentos",
+      "Programa de Normalização de Práticas Integrativas Científicas; 35 procedimentos"
+    ],
+    "correta": 0,
+    "explica": "A aula especifica que a PNPIC é a política pública do SUS que autoriza 29 procedimentos de práticas integrativas e complementares, oferecidos gratuitamente a partir da atenção básica."
+  },
+  {
+    "p": "Qual é o principal contra-argumento da professora à crítica de sincretismo dirigida à Psicologia Transpessoal?",
+    "opcoes": [
+      "Nenhuma teoria psicológica nasceu com um corpo teórico fechado; a psicanálise começou no estudo da hipnose",
+      "O sincretismo é uma característica positiva que enriquece a teoria",
+      "A Psicologia Transpessoal possui um corpo teórico original desde a sua fundação",
+      "As críticas de sincretismo não têm relevância científica"
+    ],
+    "correta": 0,
+    "explica": "A aula argumenta que todas as teorias psicológicas, incluindo a psicanálise, se constituíram a partir de múltiplos saberes; Freud evoluiu da hipnose para a associação livre, desmontando o critério duplo aplicado apenas à Psicologia Transpessoal."
+  },
+  {
+    "p": "Qual é o fundamento da negação do Conselho Federal de Psicologia à Psicologia Transpessoal?",
+    "opcoes": [
+      "O critério de que só é ciência legítima o que nasceu em laboratório com testes em animais e mensuração de comportamentos",
+      "A impossibilidade de integrar dimensões espirituais numa abordagem científica",
+      "A falta de aplicabilidade clínica comprovada",
+      "A ausência de fundamentação teórica sólida"
+    ],
+    "correta": 0,
+    "explica": "A aula aponta que o CFP nega a Psicologia Transpessoal porque ela não cumpre o critério de origem laboratorial, mesmo argumento que nunca foi exigido à psicanálise."
+  },
+  {
+    "p": "Como a Psicologia Transpessoal distingue espiritualidade de religião?",
+    "opcoes": [
+      "A espiritualidade é uma dimensão constitutiva do ser humano independente de crença religiosa, ligada ao propósito e à consciência",
+      "A espiritualidade é sinónimo de religião organizada",
+      "A espiritualidade é apenas um aspecto secundário da abordagem",
+      "Não existe distinção entre os dois conceitos na teoria"
+    ],
+    "correta": 0,
+    "explica": "A aula esclarece que espiritualidade não é religião, mas uma dimensão do ser que integra corpo, alma e mente, influenciando a formação da consciência, independentemente de crenças religiosas específicas."
+  },
+  {
+    "p": "O que significa autorrealização na perspectiva da Psicologia Transpessoal baseada em Maslow?",
+    "opcoes": [
+      "Todo o sujeito é autorrealizado por natureza, porque a evolução está inscrita no DNA humano",
+      "Apenas alguns sujeitos conseguem atingir a autorrealização após anos de terapia",
+      "A autorrealização é um objetivo exclusivamente material e profissional",
+      "A autorrealização depende da classe social e educação do sujeito"
+    ],
+    "correta": 0,
+    "explica": "A aula apresenta a concepção de que a autorrealização é o destino natural inscrito no DNA; representa o ponto mais elevado da pirâmide de Maslow e coincide com a manifestação da consciência como expressão evolutiva e espiritual."
+  },
+  {
+    "p": "Quais são os meios reconhecidos pela Psicologia Transpessoal para promover estados modificados de consciência?",
+    "opcoes": [
+      "Hipnose, meditação, transe xamânico, êxtase e substâncias psicodélicas",
+      "Apenas meditação formal e práticas religiosas tradicionais",
+      "Medicação psiquiátrica e terapia convencional",
+      "Exercício físico intenso e restrição alimentar"
+    ],
+    "correta": 0,
+    "explica": "A aula apresenta estes meios como comprovados cientificamente de expansão da consciência, desmistificando inclusive a hipnose como capacidade de autoconcentração do sujeito."
+  },
+  {
+    "p": "O que é normose, tal como apresentado na aula sobre contemporaneidade?",
+    "opcoes": [
+      "Crença colectiva assente no dualismo que gera distorção na percepção da realidade e normaliza comportamentos abusivos",
+      "Um transtorno mental específico caracterizado por normalização de sintomas",
+      "Uma prática terapêutica baseada em valores tradicionais",
+      "Um conjunto de normas éticas para profissionais de saúde"
+    ],
+    "correta": 0,
+    "explica": "A aula define normose como crença em separatividade (corpo/mente/espírito; objectivo/subjectivo) que distorce a realidade e, nas organizações, normaliza comportamentos colectivos abusivos como bullying e violência."
+  },
+  {
+    "p": "Como a Psicologia Transpessoal define o sujeito holístico ou integral?",
+    "opcoes": [
+      "Como ser constituído pela tríade corpo, mente e alma, entendidas como indivisíveis e de igual relevância",
+      "Como ser que consegue integrar aspectos conscientes e inconscientes apenas",
+      "Como indivíduo que atingiu sucesso profissional e material",
+      "Como pessoa que pratica religião de forma consistente"
+    ],
+    "correta": 0,
+    "explica": "A aula explica que o sujeito integral é aquele que integra corpo, mente e espiritualidade de forma equilibrada; nenhuma dimensão pode ser sobreposta às outras sem comprometer o desenvolvimento integral."
+  },
+  {
+    "p": "Qual é o papel de 22 no filme Soul, na perspectiva da aula sobre Psicologia Transpessoal?",
+    "opcoes": [
+      "Representar uma alma sem propósito descoberto que ilustra a ausência de propósito e a recusa da experiência terrena",
+      "Personificar uma deidade que guia Joe em sua jornada espiritual",
+      "Exemplificar uma vida de sucesso e realização plena",
+      "Demonstrar as consequências da falta de educação formal"
+    ],
+    "correta": 0,
+    "explica": "A aula apresenta 22 como metáfora de uma alma conformada sem propósito; Joe é convidado a tutoriá-la para descobrir a sua 'faísca', ilustrando a transformação através da conexão e da abertura ao outro."
+  },
+  {
+    "p": "De que forma a Psicologia Transpessoal pode ser aplicada em contextos organizacionais, segundo a aula?",
+    "opcoes": [
+      "Promovendo a ruptura do dualismo entre objectividade e subjectividade, criando espaços colaborativos que substituem a cultura competitiva",
+      "Simplesmente implementando práticas de meditação obrigatória nos espaços de trabalho",
+      "Substituindo todos os profissionais por terapeutas transpessoais",
+      "Focando exclusivamente na produtividade material e financeira"
+    ],
+    "correta": 0,
+    "explica": "A aula identifica que a aplicação organizacional passa por compreender a subjectividade como parte integral das organizações, transformando a cultura de competitividade em espaços colaborativos e humanizados."
+  }
+]

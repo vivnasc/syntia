@@ -1,134 +1,134 @@
 [
   {
-    "p": "Qual é a principal crítica de Maslow que origina a Psicologia Transpessoal?",
+    "p": "Qual é o conceito-chave que distingue a Psicologia Transpessoal das correntes anteriores (psicanálise, behaviorismo e humanismo)?",
     "opcoes": [
-      "A psicanálise e o behaviorismo fragmentavam o sujeito; a psicologia humanista não respondia ao entendimento do 'homem todo'",
-      "A psicologia humanista era a única abordagem correta e deveria ser mantida sem alterações",
-      "O behaviorismo era a única forma válida de estudar a consciência humana",
-      "A psicanálise era demasiado focada na espiritualidade e negligenciava o comportamento observable"
-    ],
-    "correta": 0,
-    "explica": "Maslow criticava que nenhuma das três correntes anteriores (psicanálise, behaviorismo, humanista) conseguia explicar o ser humano de forma integral, levando ao surgimento da Transpessoal como quarta força."
-  },
-  {
-    "p": "De acordo com Theodore Roszak, qual era o principal mecanismo de cooptação da contracultura pelo capitalismo?",
-    "opcoes": [
-      "A supressão violenta dos movimentos sociais pela polícia",
-      "Os meios de comunicação de massa utilizados como instrumento de controlo, vulgarizando conquistas sociais",
-      "A ausência total de financiamento para atividades culturais",
-      "A proibição legal de protestos públicos"
+      "O estudo fragmentado do comportamento observável",
+      "A integração holística e a expansão da consciência através da modificação qualitativa da percepção",
+      "A exclusiva focalização na patologia mental e nos traumas infantis",
+      "A rejeição completa de qualquer dimensão espiritual ou subjetiva"
     ],
     "correta": 1,
-    "explica": "Roszak argumentava que os meios de comunicação de massa vulgarizavam e simplificavam os movimentos de contracultura, transformando-os em produtos de consumo e esvaziando seu potencial crítico."
+    "explica": "A Psicologia Transpessoal, como quarta força, diferencia-se por estudar a consciência de forma holística, integrando dimensões biológicas, psíquicas, sociais e espirituais, recusando a fragmentação das abordagens anteriores."
   },
   {
-    "p": "Qual é a principal diferença entre o caminho da borboleta e o caminho da serpente na cartografia da consciência?",
+    "p": "Segundo Theodor Roszak, o que caracteriza essencialmente a contracultura?",
     "opcoes": [
-      "O caminho da borboleta é superficial; o caminho da serpente é profundo",
-      "O caminho da borboleta implica transformação genuína e interna; o caminho da serpente é apenas troca de máscaras sem mudança interior",
-      "Ambos são idênticos, apenas nomeados de forma diferente",
-      "O caminho da serpente leva à consciência cósmica; o da borboleta não"
+      "Um movimento puramente artístico e estético sem importância política",
+      "Uma oposição à cultura tecnocrata, burocrática e capitalista com leitura holística e cosmológica",
+      "Uma aceitação acrítica dos valores capitalistas modernos",
+      "Uma rejeição de qualquer forma de organização social estruturada"
     ],
     "correta": 1,
-    "explica": "A borboleta representa transformação profunda de dentro para fora (crise da crisálida); a serpente representa muda superficial de comportamentos sem transformação interna real, análogo à descamação de pele."
+    "explica": "Roszak define a contracultura como movimento de oposição à cultura tecnocrata e capitalista, com proposta de resistência holística, não meramente como rebeldia estética."
   },
   {
-    "p": "Segundo Stanislav Grof, qual é a distinção principal entre o nível biográfico e o nível transpessoal?",
+    "p": "O que significa 'cooptação' no contexto da contracultura e da Psicologia Transpessoal?",
     "opcoes": [
-      "O nível biográfico estuda apenas o comportamento observável",
-      "O nível biográfico refere-se a experiências conscientes e inconscientes marcantes da vida individual; o transpessoal refere-se a experiências que extrapolam o nível normal da consciência",
-      "O nível transpessoal é apenas uma construção teórica sem aplicação prática",
-      "Não há distinção entre os dois níveis"
+      "A colaboração harmoniosa entre movimentos sociais e o mercado capitalista",
+      "O processo pelo qual o capitalismo absorve movimentos de resistência, transformando-os em produtos de consumo e esvaziando seu potencial crítico",
+      "A transformação voluntária dos jovens em consumidores conscientes",
+      "A eliminação completa dos movimentos de contracultura pelo Estado"
     ],
     "correta": 1,
-    "explica": "A cartografia de Grof em três níveis diferencia as experiências individuais marcantes (biográfico) das experiências que transcendem a consciência normal (transpessoal)."
+    "explica": "A aula explica que a cooptação é o mecanismo histórico pelo qual o capitalismo se apropria de construções críticas, tornando-as instrumentos de controlo, exemplificado pela simplificação mercadológica da contracultura."
   },
   {
-    "p": "Qual o significado de 'reencarnação' na teoria de Robert Rolfe, conforme apresentado na aula?",
+    "p": "Na cartografia da consciência, qual é a principal diferença entre o 'caminho da borboleta' e o 'caminho da serpente'?",
     "opcoes": [
-      "Vidas anteriores no sentido espírita tradicional",
-      "Permitir-se, compreender e expandir o próprio eu, acumulando experiências que promovem o desenvolvimento da consciência",
-      "Um conceito religioso que não se aplica à psicologia",
-      "Uma fase de sono profundo sem significado psicológico"
+      "O caminho da borboleta é mais rápido, enquanto o da serpente é mais lento",
+      "O caminho da borboleta implica transformação genuína e interna, enquanto o da serpente é mudança superficial de comportamento sem transformação de essência",
+      "O caminho da serpente é mais eficaz para a terapia transpessoal",
+      "Ambos os caminhos levam ao mesmo resultado de desenvolvimento da consciência"
     ],
     "correta": 1,
-    "explica": "Rolfe utiliza 'reencarnação' não no sentido espírita, mas como a capacidade contínua de expansão do eu ao longo da vida através da acumulação de experiências transformadoras."
+    "explica": "A aula apresenta estes arquétipos como dois modos distintos de desenvolvimento: a borboleta representa a crise da crisálida (transformação profunda de dentro para fora), enquanto a serpente representa a muda de pele (mudança apenas aparente)."
   },
   {
-    "p": "Qual foi a inovação criada por John Lilly para estudar a expansão da consciência?",
+    "p": "Segundo Stanislav Grof, qual é a estrutura dos três níveis da cartografia da consciência?",
     "opcoes": [
-      "A prática de meditação zen tradicional",
-      "O tanque de privação sensorial, que isolava sensorialmente o sujeito para induzir expansão da consciência",
-      "A utilização exclusiva de hipnose clínica",
-      "Um sistema de terapia grupal intensa"
+      "Apenas nível pessoal e nível inconsciente",
+      "Nível biográfico, nível perinatal e nível transpessoal",
+      "Nível racional, nível emocional e nível corporal",
+      "Nível consciente, nível pré-consciente e nível inconsciente clássico"
     ],
     "correta": 1,
-    "explica": "Lilly criou o tanque de privação sensorial como instrumento para isolar o sujeito sensorialmente e facilitar a expansão da consciência pelo contacto com sensações internas intensificadas."
+    "explica": "Grof propõe três níveis interativos: o biográfico (experiências marcantes), o perinatal (experiências traumáticas desde o nascimento) e o transpessoal (que extrapola a consciência normal)."
   },
   {
-    "p": "De acordo com Ken Wilber, o que é a 'falácia pré-trans'?",
+    "p": "Qual é o princípio imperativo central que rege a cartografia da consciência de Robert Rolfe?",
     "opcoes": [
-      "A confusão entre o pré-pessoal (estados infantis, românticos) e o transpessoal (estados espirituais avançados)",
-      "Uma corrente filosófica válida que Wilber propõe",
-      "A incapacidade de distinguir entre espírito e matéria",
-      "Uma fase da psicanálise de Freud que Wilber aceita plenamente"
-    ],
-    "correta": 0,
-    "explica": "Wilber identifica a falácia pré-trans como um erro cometido nas primeiras fases da sua obra, confundindo estados primitivos com espirituais avançados. Reconhece-a como erro da sua 'fase romântica'."
-  },
-  {
-    "p": "Qual é o princípio central que rege a cartografia da consciência de Robert Rolfe?",
-    "opcoes": [
-      "O medo como motor de transformação",
-      "O amor como princípio imperativo: agir com o outro como gostaríamos que agissem connosco",
-      "A rejeição total das relações sociais",
-      "A acumulação de riqueza material"
+      "A eficiência económica e a produtividade material",
+      "O amor como motor de desenvolvimento: agir com o outro como se gostaria de ser tratado",
+      "A rejeição total de qualquer ligação com a dimensão espiritual",
+      "A supremacia da razão sobre o sentimento"
     ],
     "correta": 1,
-    "explica": "Rolfe defende que o nível de consciência desenvolvida mede-se pela capacidade de tratar o outro como se gostaria de ser tratado, sendo o amor o princípio fundamental que orienta a evolução da consciência."
+    "explica": "Rolfe defende que a consciência se desenvolve a partir do princípio do amor, sendo sinal de consciência desenvolvida quando o sujeito age com o outro conforme gostaria de ser tratado."
   },
   {
-    "p": "Qual é o modelo de esferas evolutivas sucessivas proposto por Ken Wilber?",
+    "p": "Quais são os cinco estágios de desenvolvimento da consciência segundo Robert Rolfe?",
     "opcoes": [
-      "Apenas matéria e espírito, sem níveis intermédios",
-      "Matéria → vida → mente → alma → espírito, onde cada camada inclui e transcende a anterior",
-      "Espírito → alma → mente → vida → matéria, em ordem inversa",
-      "Um único nível de consciência sem variação"
+      "Infância, adolescência, idade adulta, velhice e morte",
+      "Sono sem sonho, sono com sonho, sono acordado, transcendência do eu e consciência cósmica",
+      "Nível físico, nível emocional, nível mental, nível social e nível espiritual",
+      "Desejo, medo, esperança, realização e plenitude"
     ],
     "correta": 1,
-    "explica": "Wilber propõe cinco esferas evolutivas que correspondem a física, biologia, psicologia, teologia e misticismo, onde cada nível absorve e supera o anterior, não o elimina."
+    "explica": "Rolfe propõe cinco estágios baseados nos níveis de sono: partindo do inconsciente automático até à consciência cósmica de plenitude, cada um representando um grau de desenvolvimento."
   },
   {
-    "p": "Qual é a síntese paradigmática da cartografia da consciência de Robert Rolfe?",
+    "p": "Qual foi a principal contribuição de John Lilly para a compreensão da consciência?",
     "opcoes": [
-      "A rejeição completa das emoções em favor da racionalidade pura",
-      "O desenvolvimento da consciência dá-se a partir da perfeita identificação do conhecimento com o sentimento, tendo como resposta a conquista do eu mais profundo em sintonia com a consciência cósmica",
-      "A consciência é imutável e não pode ser desenvolvida",
-      "Apenas o conhecimento intelectual importa para o desenvolvimento pessoal"
+      "A rejeição completa de qualquer substância psicoativa no estudo da consciência",
+      "O desenvolvimento do tanque de privação sensorial como ferramenta para explorar estados de consciência, e a criação das Curvas de Lilly para mapear níveis energéticos",
+      "A afirmação de que a consciência é apenas um epifenómeno sem importância",
+      "A defesa de que apenas a meditação oriental é método válido"
     ],
     "correta": 1,
-    "explica": "A síntese de Rolfe articula a integração entre conhecimento e sentimento como base para a evolução da consciência, culminando na consciência cósmica e na descoberta do eu profundo."
+    "explica": "Lilly criou o tanque de privação sensorial e usou substâncias psicodélicas para estudar a expansão da consciência, desenvolvendo as Curvas de Lilly como mapa dos níveis energéticos atingíveis."
   },
   {
-    "p": "Qual era o objetivo último de John Lilly para a humanidade através dos estudos da consciência?",
+    "p": "Na teoria de Ken Wilber, o que significa a 'falácia pré-trans'?",
     "opcoes": [
-      "Manter o controlo sobre os sujeitos através de substâncias psicoativas",
-      "Que os seres humanos atingissem regularmente os estados mais elevados de consciência, criando um mundo governado com alegria e eficiência, assente no equilíbrio entre homem, natureza e universo",
-      "Eliminar a necessidade de dormir",
-      "Criar uma sociedade baseada apenas na razão científica"
+      "A impossibilidade de qualquer desenvolvimento humano para além do pessoal",
+      "O erro de confundir o pré-pessoal (estados infantis, românticos) com o transpessoal (estados espirituais avançados)",
+      "Uma fase permanente do desenvolvimento da consciência",
+      "A incompatibilidade absoluta entre ciência e espiritualidade"
     ],
     "correta": 1,
-    "explica": "Lilly acreditava que o acesso regular aos estados elevados de consciência era essencial para a sobrevivência humana e para um mundo equilibrado entre homem e natureza."
+    "explica": "Wilber identifica a falácia pré-trans como erro que ele próprio cometeu nas fases iniciais da sua teoria, confundindo o pré-pessoal com o transpessoal, errro que depois supera."
   },
   {
-    "p": "Como Freud e Jung divergem fundamentalmente na interpretação dos estados espirituais?",
+    "p": "Como Wilber descreve a sequência das esferas evolutivas da consciência?",
     "opcoes": [
-      "Ambos concordam que estados espirituais são epifenómenos",
-      "Freud trata-os como epifenómenos sem efeito próprio; Jung atribui-lhes transpessoalidade, fundamentando a teoria dos arquétipos e inconsciente coletivo",
-      "Ambos rejeitam completamente a existência de estados espirituais",
-      "Freud é o único que reconhece a importância da espiritualidade"
+      "De forma linear e desconectada, sem que uma camada influencie a seguinte",
+      "Matéria, vida, mente, alma e espírito, onde cada esfera inclui e transcende a anterior",
+      "Apenas espírito, ignorando completamente as dimensões materiais",
+      "Apenas mente, descartando qualquer dimensão corporal ou espiritual"
     ],
     "correta": 1,
-    "explica": "A diferença fundamental é que Freud considera estados espirituais como fenómenos acidentais de estados infantis, enquanto Jung reconhece uma dimensão genuinamente transpessoal na psique humana."
+    "explica": "Wilber propõe esferas evolutivas sucessivas (matéria → vida → mente → alma → espírito) onde cada camada absorve e supera a anterior, não a eliminando, mas integrando-a."
+  },
+  {
+    "p": "O que são os 'quatro quadrantes' de Ken Wilber e qual a sua função na cartografia da consciência?",
+    "opcoes": [
+      "Apenas diferentes períodos históricos da civilização ocidental",
+      "Eu (interior individual), nós (interior coletivo), isto (exterior individual) e istos (exterior coletivo), representando as quatro perspectivas a partir das quais a consciência se manifesta e pode ser compreendida",
+      "Quatro técnicas diferentes de meditação oriental",
+      "Divisões geográficas do planeta relacionadas com níveis de consciência"
+    ],
+    "correta": 1,
+    "explica": "Os quatro quadrantes são o modelo de Wilber para explicar que qualquer totalidade se manifesta a partir destas quatro perspectivas, permitindo análise multidimensional da consciência."
+  },
+  {
+    "p": "Qual é a relação entre a Psicologia Transpessoal e o movimento da contracultura, conforme apresentado nas aulas?",
+    "opcoes": [
+      "Não existe qualquer relação entre ambos os movimentos",
+      "A contracultura fornece o contexto político-económico que torna possível o surgimento da Psicologia Transpessoal como proposta de ruptura com o modelo tecnocrata dominante",
+      "A Psicologia Transpessoal precede e inspira a contracultura",
+      "A contracultura e a Psicologia Transpessoal são expressões artísticas sem conteúdo teórico"
+    ],
+    "correta": 1,
+    "explica": "As aulas estabelecem que a contracultura, teorizando por Roszak como ruptura ao tecnocratismo, constitui o solo histórico que contextualiza e possibilita o surgimento da Psicologia Transpessoal."
   }
 ]

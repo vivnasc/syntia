@@ -1,0 +1,134 @@
+[
+  {
+    "p": "Qual é a definição de saúde segundo a OMS que inclui a dimensão espiritual?",
+    "opcoes": [
+      "Saúde é a ausência completa de doença física e mental.",
+      "Saúde é o bem-estar físico, mental, social e espiritual, definindo-se espiritualidade como o conjunto de emoções e convicções de natureza não material.",
+      "Saúde é exclusivamente um estado de equilíbrio biopsicossocial sem componentes transcendentes.",
+      "Saúde é apenas o funcionamento adequado dos sistemas nervoso e endócrino."
+    ],
+    "correta": 1,
+    "explica": "A OMS integrou a dimensão espiritual em 1988, definindo espiritualidade como emoções e convicções não materiais, expandindo o modelo biopsicossocial para biopsicossocioespiritual."
+  },
+  {
+    "p": "Qual é a diferença fundamental entre espiritualidade e religião, conforme o material?",
+    "opcoes": [
+      "Espiritualidade e religião são conceitos idênticos e podem ser usados indistintamente.",
+      "Espiritualidade é a experiência interior não ligada a nenhuma crença específica; religião é uma instituição com doutrinas, ritos e normas.",
+      "Espiritualidade é mais superficial que religião, que possui componentes mais profundos.",
+      "Religião é apenas um comportamento social, enquanto espiritualidade é sempre inconsciente."
+    ],
+    "correta": 1,
+    "explica": "O material estabelece claramente que espiritualidade refere-se à dimensão interior transcendente, enquanto religião é a institucionalização com doutrinas e rituais específicos."
+  },
+  {
+    "p": "De acordo com Freud, qual é a origem do sentimento religioso?",
+    "opcoes": [
+      "A necessidade de poder político e social.",
+      "O desamparo (Hilflosigkeit) constitucional do ser humano, a dependência do outro na infância transferida para crença numa potência superior.",
+      "A educação formal e a transmissão de valores culturais.",
+      "A ilusão colectiva criada pelos líderes religiosos para controlar populações."
+    ],
+    "correta": 1,
+    "explica": "Freud identifica o desamparo constitucional como origem do sentimento religioso, mecanismo de defesa contra a angústia existencial."
+  },
+  {
+    "p": "Qual é o foco central das quatro dimensões da atitude religiosa propostas por Aquino (2005)?",
+    "opcoes": [
+      "Apenas comportamentos observáveis nas cerimónias religiosas.",
+      "Conhecimento, comportamento, sentimento e corporeidade religiosa — uma abordagem multidimensional da religiosidade.",
+      "Exclusivamente o conhecimento doutrinal das religiões.",
+      "Apenas a expressão emocional vivida nos templos."
+    ],
+    "correta": 1,
+    "explica": "Aquino (2005) propõe quatro domínios integrados: conhecimento, comportamento, sentimento e corporeidade, operacionalizando o conceito de atitude religiosa."
+  },
+  {
+    "p": "No modelo P-E-N de Eysenck, o que o fator Psicoticismo NÃO representa?",
+    "opcoes": [
+      "Agressividade e hostilidade interpessoal.",
+      "Falta de empatia e egocentrismo.",
+      "Sociabilidade, assertividade e cordialidade.",
+      "Frieza emocional e comportamento antissocial."
+    ],
+    "correta": 2,
+    "explica": "Sociabilidade e cordialidade são características do polo oposto — baixo psicoticismo e alta extroversão. O psicoticismo refere-se a agressividade, frieza e falta de empatia."
+  },
+  {
+    "p": "Qual é a base biológica postulada por Eysenck para explicar a Extroversão?",
+    "opcoes": [
+      "Elevados níveis de excitação cortical que levam a evitar estimulação.",
+      "Baixos níveis de excitação cortical que levam à busca de estimulação externa.",
+      "Excesso de atividade do sistema parassimpático.",
+      "Desequilíbrio absoluto dos neurotransmissores cerebrais."
+    ],
+    "correta": 1,
+    "explica": "Eysenck defende que extrovertidos têm baixos níveis de excitação cortical, promovendo a busca de estímulos externos para compensar."
+  },
+  {
+    "p": "Qual é a principal diferença entre o modelo P-E-N (Big Three) de Eysenck e o modelo Big Five?",
+    "opcoes": [
+      "O Big Three tem base genética, o Big Five não.",
+      "O Big Three tem três fatores; o Big Five tem cinco, tendo acrescentado abertura à experiência, amabilidade e conscienciosidade.",
+      "O Big Three é mais recente e mais preciso que o Big Five.",
+      "Não há diferenças relevantes entre os dois modelos."
+    ],
+    "correta": 1,
+    "explica": "O Big Five expande o modelo de Eysenck com dois novos fatores: Abertura à Experiência e Amabilidade, além de redefinir Conscienciosidade."
+  },
+  {
+    "p": "O que caracteriza uma pessoa com alto score em Abertura à Experiência no modelo Big Five?",
+    "opcoes": [
+      "Preferência por rotina, conservadorismo e valores tradicionais fixos.",
+      "Flexibilidade, criatividade, curiosidade intelectual e interesse intrínseco em experiências diversas.",
+      "Agressividade e falta de empatia com novas perspectivas.",
+      "Dificuldade em concentrar-se em atividades que requerem imaginação."
+    ],
+    "correta": 1,
+    "explica": "Abertura à Experiência mede curiosidade, imaginação, flexibilidade e motivação intrínseca por experiências variadas e conhecimento novo."
+  },
+  {
+    "p": "Qual é a relação entre Neuroticismo e o sistema nervoso simpático?",
+    "opcoes": [
+      "Não existe relação; são conceitos completamente independentes.",
+      "Elevado neuroticismo está associado a alta atividade do sistema simpático (luta ou fuga), resultando em baixo limiar de ativação emocional.",
+      "Neuroticismo indica deficiência completa do sistema simpático.",
+      "O sistema simpático suprime todas as reações de neuroticismo."
+    ],
+    "correta": 1,
+    "explica": "O material estabelece que o neuroticismo é influenciado pelo sistema nervoso simpático, responsável pela resposta de luta ou fuga, criando baixo limiar de ativação."
+  },
+  {
+    "p": "O que são as facetas no modelo Big Five e qual é o número total?",
+    "opcoes": [
+      "São tipos de personalidade; há 5 no total, uma para cada fator.",
+      "São subdivisões de cada fator; há 30 no total (6 facetas por fator), permitindo descrição mais refinada da personalidade.",
+      "São instrumentos de medição; há 10 no total, dois para cada fator.",
+      "São categorias obsoletas que Eysenck utilizava; o Big Five não as considera."
+    ],
+    "correta": 1,
+    "explica": "Cada fator do Big Five subdivide-se em 6 facetas inter-relacionadas, totalizando 30 facetas que permitem maior especificidade na avaliação."
+  },
+  {
+    "p": "Qual das seguintes NÃO é uma faceta do fator Conscienciosidade?",
+    "opcoes": [
+      "Competência e ordem.",
+      "Senso de dever e esforço por realizações.",
+      "Fantasia e estética.",
+      "Autodisciplina e ponderação."
+    ],
+    "correta": 2,
+    "explica": "Fantasia e estética são facetas do fator Abertura à Experiência, não de Conscienciosidade. As facetas de Conscienciosidade são: competência, ordem, senso de dever, esforço por realizações, autodisciplina e ponderação."
+  },
+  {
+    "p": "Como o material diferencia Amabilidade de Conscienciosidade como fatores de personalidade?",
+    "opcoes": [
+      "Amabilidade descreve autodisciplina; Conscienciosidade descreve comportamentos pró-sociais.",
+      "Amabilidade refere-se a comportamentos pró-sociais e calor humano; Conscienciosidade refere-se a responsabilidade, organização e autodisciplina.",
+      "Não há diferenças relevantes; são nomes alternativos para o mesmo conceito.",
+      "Amabilidade é obsoleta no modelo atual; Conscienciosidade é o único fator de interesse social."
+    ],
+    "correta": 1,
+    "explica": "Amabilidade mede tendências pró-sociais (generosidade, empatia); Conscienciosidade mede autodisciplina e senso de dever (organização, responsabilidade)."
+  }
+]

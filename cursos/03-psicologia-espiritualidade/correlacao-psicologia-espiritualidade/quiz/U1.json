@@ -1,0 +1,134 @@
+[
+  {
+    "p": "De acordo com Belo (2008), qual é a afirmação central sobre a espiritualidade no contexto universal?",
+    "opcoes": [
+      "A espiritualidade é exclusiva de culturas ocidentais desenvolvidas",
+      "Nunca existiu um ser humano, em qualquer cultura, desprovido de espiritualidade, embora ela se manifeste de formas singulares",
+      "A espiritualidade é um conceito recente inventado pela psicologia moderna",
+      "A espiritualidade é uma característica apenas das pessoas religiosas"
+    ],
+    "correta": 1,
+    "explica": "Belo (2008) afirma a universalidade da espiritualidade mas reconhece o seu caráter singular em cada pessoa. Esta é uma afirmação-chave sobre a natureza humana."
+  },
+  {
+    "p": "Qual é a principal distinção entre espiritualidade e religião, segundo a metáfora do filtro de café apresentada na aula?",
+    "opcoes": [
+      "A espiritualidade é o pó do café e a religião é o funil",
+      "A espiritualidade é o funil largo (instância superior), a religiosidade é o pó do café, e cada religião é uma gota específica",
+      "A religião é mais ampla que a espiritualidade",
+      "Não existe distinção real entre estes conceitos"
+    ],
+    "correta": 1,
+    "explica": "A metáfora do filtro de café estabelece uma hierarquia clara: espiritualidade (funil largo), religiosidade (pó), religiões específicas (gotas). É a distinção conceptual fundamental da aula 1."
+  },
+  {
+    "p": "Segundo Ferdinand Röhr, em quantas dimensões básicas se divide o ser humano e qual delas pertence ao campo transcendental?",
+    "opcoes": [
+      "Três dimensões; a mental é transcendental",
+      "Quatro dimensões; a emocional é transcendental",
+      "Cinco dimensões; a espiritual é transcendental",
+      "Seis dimensões; a estético-artística é transcendental"
+    ],
+    "correta": 2,
+    "explica": "As cinco dimensões são física, sensorial, emocional, mental e espiritual. Apenas a espiritual pertence ao campo transcendental; as outras quatro pertencem ao imanente."
+  },
+  {
+    "p": "O que significa a afirmação de que as dimensões do ser humano são interdependentes, segundo o material?",
+    "opcoes": [
+      "Cada dimensão funciona completamente isolada das outras",
+      "A interferência em qualquer dimensão afeta necessariamente todas as outras",
+      "Apenas a dimensão física interfere com as outras",
+      "As dimensões são independentes mas colaboram ocasionalmente"
+    ],
+    "correta": 1,
+    "explica": "Röhr (2010) afirma explicitamente que existe interdependência e relação hierárquica entre as dimensões. Este é um conceito-chave de toda a teoria."
+  },
+  {
+    "p": "Qual é a diferença entre sensação e percepção, conforme apresentado na aula sobre dimensões básicas?",
+    "opcoes": [
+      "Sensação e percepção são sinónimos que designam a mesma coisa",
+      "Sensação é o estímulo captado; percepção é a interpretação consciente desse estímulo pelo cérebro",
+      "Sensação ocorre apenas visualmente; percepção ocorre nos outros sentidos",
+      "Percepção é mais rápida que a sensação"
+    ],
+    "correta": 1,
+    "explica": "A aula distingue claramente: sensação é o estímulo (pode existir sem consciência), percepção é a interpretação consciente. A adaptação sensorial exemplifica isto."
+  },
+  {
+    "p": "O que é adaptação sensorial, exemplificado na aula com o colar no pescoço?",
+    "opcoes": [
+      "É a capacidade de adaptar a visão a diferentes iluminações",
+      "É o processo pelo qual o organismo habitua um estímulo contínuo e deixa de o perceber conscientemente",
+      "É a melhoria gradual da capacidade sensorial com o treino",
+      "É a incapacidade de sentir qualquer estímulo"
+    ],
+    "correta": 1,
+    "explica": "A adaptação sensorial é um fenómeno em que o organismo cessa de perceber conscientemente um estímulo contínuo. O colar, o barulho do frigorífico e a ferida no pé são exemplos dados na aula."
+  },
+  {
+    "p": "Segundo a professora, qual é a principal razão pela qual a visão cartesiana (que separa corpo e mente) é inadequada?",
+    "opcoes": [
+      "Porque não existem estudos que a suportem",
+      "Porque o ser humano é um todo integrado de múltiplas dimensões interdependentes, não separáveis",
+      "Porque a mente é mais importante que o corpo",
+      "Porque o corpo não influencia a mente"
+    ],
+    "correta": 1,
+    "explica": "A perspetiva multidimensional e holística integra todas as dimensões como um todo, rejeitando a separação cartesiana. Esta é uma premissa fundamental da disciplina."
+  },
+  {
+    "p": "Como Carl Jung entendia as experiências espirituais em relação à saúde psicológica?",
+    "opcoes": [
+      "Como sinais de doença mental que devem ser tratados",
+      "Como experiências sem relação com a psicologia",
+      "Como manifestações de uma experiência psicologicamente saudável",
+      "Como alucinações que indicam psicose"
+    ],
+    "correta": 2,
+    "explica": "Jung inverteu a tradição patologizante ao considerar as experiências espirituais como manifestações de saúde psicológica, contrariando a visão do DSM-III."
+  },
+  {
+    "p": "Qual era a classificação dada pelo DSM-III às vivências de cunho espiritual?",
+    "opcoes": [
+      "Manifestações normais de desenvolvimento psicológico",
+      "Episódio psicótico e psicose borderline",
+      "Experiências religiosas legítimas e saudáveis",
+      "Fenómenos paranormais comprovados"
+    ],
+    "correta": 1,
+    "explica": "O DSM-III patologizava vivências espirituais como episódio psicótico. O DSM-IV representou um avanço ao incluir fenómenos religiosos como categoria própria."
+  },
+  {
+    "p": "Segundo Piedmont (1999), quantos pilares fundamentam a transcendência espiritual como fator de personalidade?",
+    "opcoes": [
+      "Um pilar: a crença religiosa",
+      "Dois pilares: conectividade e alegria",
+      "Três pilares: conectividade com a raça humana, universalidade e sentimentos de alegria resultantes do encontro com o transcendente",
+      "Cinco pilares: os mesmos do Big Five"
+    ],
+    "correta": 2,
+    "explica": "Piedmont estabelece explicitamente três pilares da transcendência espiritual, demonstrando que é uma dimensão independente do Big Five."
+  },
+  {
+    "p": "No modelo de Cloninger, Svrakic e Przybeck (1993), qual é a principal diferença entre temperamento e caráter?",
+    "opcoes": [
+      "O temperamento é aprendido socialmente; o caráter é hereditário",
+      "O temperamento tem base hereditária; o caráter está ligado ao aprendizado social e ao autoconceito",
+      "Não existe diferença entre temperamento e caráter",
+      "O caráter é apenas biológico; o temperamento é apenas social"
+    ],
+    "correta": 1,
+    "explica": "O modelo de Cloninger distingue explicitamente o temperamento (base genética) do caráter (base social), incluindo a autotranscendência no caráter."
+  },
+  {
+    "p": "Qual é a dimensão de caráter no modelo de Cloninger que se associa especificamente à espiritualidade?",
+    "opcoes": [
+      "Busca pelo novo",
+      "Evitação de sofrimento",
+      "Autotranscendência",
+      "Dependência de recompensas"
+    ],
+    "correta": 2,
+    "explica": "A autotranscendência é a dimensão de caráter que se liga à espiritualidade, referindo-se à sensação de fazer parte do universo e da identificação com algo além do self individual."
+  }
+]

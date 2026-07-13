@@ -1,0 +1,134 @@
+[
+  {
+    "p": "Qual é a definição de espiritualidade segundo Koenig, McCullough e Larson (2001)?",
+    "opcoes": [
+      "Um sistema organizado de crenças, práticas e rituais que facilita o acesso ao sagrado",
+      "A busca pessoal para compreensão das questões relacionadas à finitude, ao sentido da vida e às relações com o sagrado ou transcendente",
+      "A extensão em que um indivíduo acredita, segue e pratica uma religião específica",
+      "Um conjunto de emoções e convicções de natureza não material que nega a existência do transcendente"
+    ],
+    "correta": 1,
+    "explica": "A opção B define espiritualidade como uma busca pessoal que não pressupõe necessariamente religião ou religiosidade, podendo existir de forma autónoma. As outras opções definem religião (A), religiosidade (C) ou mal-interpretam a espiritualidade (D)."
+  },
+  {
+    "p": "De acordo com Wulff (1997), qual das seguintes posturas do psicólogo é considerada mais ética e coerente na prática clínica?",
+    "opcoes": [
+      "Negação literal: rejeitar completamente as afirmações religiosas do paciente",
+      "Afirmação literal: induzir o paciente a partilhar as crenças religiosas do terapeuta",
+      "Interpretação redutiva: explicar o fenómeno religioso exclusivamente através de categorias psicológicas",
+      "Interpretação restauradora: acolher a experiência religiosa como real, com análise crítica e humildade epistemológica"
+    ],
+    "correta": 3,
+    "explica": "A interpretação restauradora respeita a experiência do paciente como real e específica, mantém abertura e análise crítica sem reduzir nem impor crenças. As outras três categorias são problemáticas: negam, induzem ou reduzem indevidamente a dimensão espiritual."
+  },
+  {
+    "p": "Qual é o modelo de saúde que a psicologia contemporânea procura contemplar segundo os objetivos de aprendizagem?",
+    "opcoes": [
+      "Modelo apenas biológico, que explica todas as doenças por factores genéticos e neurológicos",
+      "Modelo biopsicossocial que exclui a dimensão espiritual como não científica",
+      "Modelo biopsicossocial espiritual que integra as dimensões biológica, psicológica, social, espiritual e ambiental",
+      "Modelo que privilegia a espiritualidade acima de todas as outras dimensões"
+    ],
+    "correta": 2,
+    "explica": "O modelo biopsicossocial espiritual integra todas as cinco dimensões de forma interdependente, sem hierarquizar nenhuma. Este é o modelo proposto pela OMS desde 1948 e reforçado pela disciplina."
+  },
+  {
+    "p": "O que significa o psicólogo ser um 'facilitador' em relação à dimensão espiritual do paciente?",
+    "opcoes": [
+      "Impor as suas próprias crenças religiosas para guiar o paciente no caminho correto",
+      "Criar condições para que o paciente aceda e utilize os seus próprios recursos espirituais sem indução ou julgamento",
+      "Ignorar completamente a espiritualidade do paciente mantendo neutralidade total",
+      "Fornecer respostas teológicas e religiosas como parte do tratamento psicológico"
+    ],
+    "correta": 1,
+    "explica": "Um facilitador reconhece a dimensão espiritual como parte integrante do processo terapêutico e cria espaço para que emerja, sem invadir nem negligenciar essa esfera. Não é detentor do saber e não impõe crenças."
+  },
+  {
+    "p": "Qual é a hierarquia conceptual entre religião, religiosidade e espiritualidade, segundo a metáfora do funil apresentada nas aulas?",
+    "opcoes": [
+      "Religião (mais ampla) contém religiosidade (intermédio) que contém espiritualidade (mais específica)",
+      "Espiritualidade (mais ampla) contém religiosidade (intermédio) que contém religião (mais específica)",
+      "Religiosidade é o conceito mais abrangente e contém religião e espiritualidade",
+      "Os três conceitos são equivalentes e podem ser usados como sinónimos na prática clínica"
+    ],
+    "correta": 1,
+    "explica": "A espiritualidade é o conceito mais amplo (topo do funil): busca de sentido que não pressupõe religião. A religiosidade é o intermédio: o quanto alguém vive essa busca de forma mais definida. A religião é a base: sistema organizado específico."
+  },
+  {
+    "p": "De acordo com Koenig (2005), qual foi a mudança histórica nas políticas de saúde mental em relação à religião?",
+    "opcoes": [
+      "Até ao século XX a religião era vista positivamente; após esse período passou a ser considerada nociva",
+      "Até ao século XX a religião era vista como possível causadora de neuroses; a partir do século XXI passa a ser considerada fator positivo",
+      "A religião sempre foi ignorada completamente pelas políticas de saúde mental",
+      "A religião nunca teve relevância clínica comprovada cientificamente"
+    ],
+    "correta": 1,
+    "explica": "Koenig (2005) documenta a inversão: a religião deixa de ser vista como causa de doença mental e passa a ser reconhecida como potencial fator protetor, especialmente a partir do século XXI com evidências científicas."
+  },
+  {
+    "p": "Qual das seguintes afirmações sobre o questionário FICA está correcta?",
+    "opcoes": [
+      "É um instrumento diagnóstico para identificar transtornos religiosos ou espirituais",
+      "Suas quatro dimensões são: Fé/crença, Importância/influência, Comunidade e Ação no tratamento",
+      "Foi desenvolvido por Anandarajah e Hight em 2001",
+      "É recomendado apenas para pacientes que praticam religiões organizadas"
+    ],
+    "correta": 1,
+    "explica": "O FICA (Puchalski e Romer, 2000) organiza-se nestas quatro dimensões e serve para anamnese espiritual sem intenção diagnóstica. A opção C descreve o HOPE, não o FICA."
+  },
+  {
+    "p": "Segundo o material estudado, qual é o maior desafio no diálogo entre psicologia e espiritualidade?",
+    "opcoes": [
+      "Convencer os pacientes a abandonar crenças religiosas prejudiciais",
+      "Manter o rigor científico da psicologia sem negligenciar a dimensão de mistério que o campo religioso exige",
+      "Provar cientificamente que Deus existe ou não existe",
+      "Substituir o tratamento psicológico por práticas espirituais"
+    ],
+    "correta": 1,
+    "explica": "O grande desafio é equilibrar o rigor científico com a profundidade e o mistério inerentes à experiência espiritual, sem sacrificar nenhum dos lados e sem reducionismos."
+  },
+  {
+    "p": "Como a espiritualidade pode funcionar como fator protetivo da saúde mental, de acordo com as aulas?",
+    "opcoes": [
+      "Eliminando completamente as emoções negativas do paciente",
+      "Oferecendo sentido de vida, rede de apoio comunitário e regulação emocional durante o tratamento",
+      "Substituindo a necessidade de intervenção psicológica ou psiquiátrica",
+      "Tornando o paciente imune a qualquer forma de sofrimento psicológico"
+    ],
+    "correta": 1,
+    "explica": "A espiritualidade como fator protetivo funciona através de mecanismos como sentido existencial, suporte comunitário e estratégias de coping emocional, complementando (não substituindo) o tratamento clínico."
+  },
+  {
+    "p": "O que significa a afirmação de que 'compreender não é sinónimo de explicar' no contexto da espiritualidade?",
+    "opcoes": [
+      "O psicólogo não precisa compreender a experiência espiritual do paciente",
+      "O psicólogo pode compreender que o paciente tem uma vivência espiritual, mas não cabe reduzir essa experiência a explicações exclusivamente psicológicas",
+      "O psicólogo deve explicar completamente todos os fenómenos espirituais",
+      "A espiritualidade não é passível de qualquer forma de compreensão científica"
+    ],
+    "correta": 1,
+    "explica": "Compreender respeita a profundidade e especificidade da experiência espiritual. Explicar unicamente pelo viés psicológico ignoraria dimensões essenciais do ser humano e constituiria reducionismo."
+  },
+  {
+    "p": "Qual das seguintes violações ao Código de Ética do Profissional Psicólogo é mencionada como relacionada com a postura de afirmação literal?",
+    "opcoes": [
+      "Tentar compreender a dimensão espiritual do paciente de forma respeitosa",
+      "Induzir as convicções religiosas do profissional no exercício das suas funções profissionais",
+      "Fazer perguntas abertas sobre a importância da espiritualidade para o paciente",
+      "Reconhecer a espiritualidade como parte integrante da relação terapêutica"
+    ],
+    "correta": 1,
+    "explica": "O artigo 2.º do Código de Ética veda ao psicólogo induzir convicções religiosas, filosóficas ou morais no exercício profissional. A postura de afirmação literal infringe directamente este princípio."
+  },
+  {
+    "p": "De acordo com as aulas, qual é a função das cinco dimensões do modelo biopsicossocial espiritual?",
+    "opcoes": [
+      "Funcionam de forma isolada e independente, cada uma explica um aspecto separado da pessoa",
+      "Interagem de forma sistémica e dinâmica, sendo interdependentes na compreensão do ser humano",
+      "A dimensão espiritual é mais importante que as outras e deve ser tratada em primeiro lugar",
+      "Apenas as dimensões biológica e psicológica têm relevância científica comprovada"
+    ],
+    "correta": 1,
+    "explica": "As cinco dimensões funcionam de forma integrada e interdependente. Uma alteração numa dimensão repercute nas outras de modo contínuo e recíproco, criando um sistema dinâmico."
+  }
+]
