@@ -44,6 +44,10 @@ on:
         description: 'JSON com os ficheiros da aula a mover (modo mover)'
         required: false
         default: ''
+      legenda:
+        description: 'Legenda original do post (modo inspiracao / inspiracao-legenda)'
+        required: false
+        default: ''
 
 # Não usamos um grupo de concorrência único: queremos que vários envios
 # simultâneos corram em paralelo (um grupo único cancelava os que ficavam em
@@ -83,6 +87,7 @@ jobs:
           INGEST_MODO: ${{ github.event.inputs.modo }}
           INGEST_UNIDADE: ${{ github.event.inputs.unidade }}
           INGEST_ARQUIVOS: ${{ github.event.inputs.arquivos }}
+          INGEST_LEGENDA: ${{ github.event.inputs.legenda }}
         run: node scripts/processar.mjs
 
       - name: Commit dos resultados (só os textos, nunca o áudio)

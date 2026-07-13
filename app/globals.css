@@ -629,3 +629,12 @@ select.campo { appearance: none; cursor: pointer; }
 .insp-ideias .md { font-size: 14.5px; }
 .painel-corpo { font-size: 13.5px; color: var(--corpo); padding: 4px 0 8px; }
 .painel-corpo p { white-space: pre-wrap; }
+
+/* Inspiração — topo do cartão + botão exportar MD */
+.insp-topo { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.btn-mini {
+  font-size: 12.5px; padding: 5px 10px; border-radius: 8px;
+  border: 1px solid var(--line-strong); background: var(--card-2);
+  color: var(--corpo); cursor: pointer; white-space: nowrap;
+}
+.btn-mini:hover { border-color: var(--gold); color: var(--gold-soft); }

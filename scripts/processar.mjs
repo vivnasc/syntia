@@ -481,21 +481,25 @@ function separarBlocos(saida) {
 // Pede ao Claude para extrair, de uma transcrição, ideias de conteúdo para a
 // criadora se inspirar: gancho, estrutura, temas e frases fortes. NÃO copia nem
 // reproduz o vídeo original — sintetiza aprendizagens para conteúdo próprio.
-async function gerarIdeiasConteudo(transcricao) {
-  const content = [{
-    type: "text",
-    text:
-      "A seguir está a TRANSCRIÇÃO de um vídeo (ex.: um Reel do Instagram) que uma criadora de conteúdo guardou para se inspirar. " +
-      "Analisa-a e devolve, em português de Portugal e em markdown, um guia de inspiração para ela criar conteúdo PRÓPRIO (não é para copiar o vídeo):\n\n" +
-      "## Sobre o que é\nUma frase a resumir o tema central.\n\n" +
-      "## Gancho (hook)\nComo o vídeo prende a atenção nos primeiros segundos, e 2-3 variações de gancho que ela poderia usar.\n\n" +
-      "## Estrutura\nOs passos/momentos do vídeo, em tópicos curtos (como está construído).\n\n" +
-      "## Temas e ângulos\n3 a 6 ideias de ângulos ou temas que ela pode desenvolver à sua maneira.\n\n" +
-      "## Frases fortes\nAs frases mais marcantes ditas no vídeo (entre aspas), úteis como ponto de partida.\n\n" +
-      "## Ideias de legenda / CTA\n2-3 sugestões de legenda ou chamada à ação.\n\n" +
-      "Não inventes factos que não estejam na transcrição. Evita travessões longos.\n\n" +
-      "=== TRANSCRIÇÃO ===\n" + transcricao,
-  }];
+async function gerarIdeiasConteudo(transcricao, legenda = "") {
+  const temLegenda = !!(legenda && legenda.trim());
+  const promptLegenda = temLegenda
+    ? "Tens acesso à LEGENDA ORIGINAL do post, por isso analisa o vídeo E a legenda em conjunto para uma visão completa. Na secção de legenda/CTA, propõe melhorias e 2-3 variações a partir da legenda real (não inventes uma do zero).\n\n"
+    : "Não tens a legenda do post; na secção de legenda/CTA, sugere 2-3 hipóteses de legenda/chamada à ação.\n\n";
+  const text =
+    "A seguir está o material de um vídeo (ex.: um Reel do Instagram) que uma criadora de conteúdo guardou para se inspirar. " +
+    "Analisa-o e devolve, em português de Portugal e em markdown, um guia de inspiração para ela criar conteúdo PRÓPRIO (não é para copiar o vídeo):\n\n" +
+    promptLegenda +
+    "## Sobre o que é\nUma frase a resumir o tema central.\n\n" +
+    "## Gancho (hook)\nComo o vídeo prende a atenção nos primeiros segundos, e 2-3 variações de gancho que ela poderia usar.\n\n" +
+    "## Estrutura\nOs passos/momentos do vídeo, em tópicos curtos (como está construído).\n\n" +
+    "## Temas e ângulos\n3 a 6 ideias de ângulos ou temas que ela pode desenvolver à sua maneira.\n\n" +
+    "## Frases fortes\nAs frases mais marcantes (entre aspas), da transcrição ou da legenda, úteis como ponto de partida.\n\n" +
+    "## Ideias de legenda / CTA\nConforme indicado acima.\n\n" +
+    "Não inventes factos que não estejam no material. Evita travessões longos.\n\n" +
+    "=== TRANSCRIÇÃO (fala do vídeo) ===\n" + transcricao +
+    (temLegenda ? "\n\n=== LEGENDA ORIGINAL DO POST ===\n" + legenda.trim() : "");
+  const content = [{ type: "text", text }];
   const resp = await fetchRetry("https://api.anthropic.com/v1/messages", {
     method: "POST",
     headers: {
@@ -510,8 +514,16 @@ async function gerarIdeiasConteudo(transcricao) {
   return data.content.map((b) => (b.type === "text" ? b.text : "")).join("\n").trim();
 }
 
+// Guarda a legenda original de um vídeo de inspiração, se fornecida.
+function guardarLegenda(nomeBase, legenda) {
+  if (!legenda || !legenda.trim()) return;
+  const legDir = path.join("inspiracao", "legendas");
+  fs.mkdirSync(legDir, { recursive: true });
+  fs.writeFileSync(path.join(legDir, `${nomeBase}.txt`), legenda.trim(), "utf-8");
+}
+
 // Processa um ficheiro do espaço "Inspiração": transcreve e extrai ideias.
-async function processarInspiracao(ficheiroPath, filename) {
+async function processarInspiracao(ficheiroPath, filename, legenda = "") {
   const ext = path.extname(filename).toLowerCase();
   const nomeBase = path.basename(filename, path.extname(filename)) || "video";
   const transDir = path.join("inspiracao", "transcricoes");
@@ -521,7 +533,7 @@ async function processarInspiracao(ficheiroPath, filename) {
 
   const txtPath = path.join(transDir, `${nomeBase}.txt`);
   const ideiasPath = path.join(ideiasDir, `${nomeBase}.md`);
-  if (fs.existsSync(txtPath) && fs.existsSync(ideiasPath)) {
+  if (fs.existsSync(txtPath) && fs.existsSync(ideiasPath) && !(legenda && legenda.trim())) {
     console.log(`[inspiracao] ${nomeBase} já processado, salto.`);
     return;
   }
@@ -534,11 +546,28 @@ async function processarInspiracao(ficheiroPath, filename) {
     throw new Error(`Sem texto utilizável em ${filename} (vídeo sem fala? áudio vazio?).`);
   }
   fs.writeFileSync(txtPath, texto, "utf-8");
+  guardarLegenda(nomeBase, legenda);
 
-  console.log(`[inspiracao] A extrair ideias de conteúdo com o Claude...`);
-  const ideias = await gerarIdeiasConteudo(texto);
+  console.log(`[inspiracao] A extrair ideias de conteúdo com o Claude${legenda && legenda.trim() ? " (com legenda)" : ""}...`);
+  const ideias = await gerarIdeiasConteudo(texto, legenda);
   fs.writeFileSync(ideiasPath, ideias, "utf-8");
   console.log(`[inspiracao] ${nomeBase} concluído.`);
+}
+
+// Junta a legenda a um vídeo JÁ transcrito e regenera as ideias, sem reenviar.
+async function reprocessarInspiracaoLegenda(nome, legenda) {
+  const nomeBase = path.basename(String(nome), path.extname(String(nome))) || "video";
+  const txtPath = path.join("inspiracao", "transcricoes", `${nomeBase}.txt`);
+  if (!fs.existsSync(txtPath)) {
+    throw new Error(`Sem transcrição para "${nomeBase}" — envia o vídeo primeiro.`);
+  }
+  const texto = fs.readFileSync(txtPath, "utf-8");
+  guardarLegenda(nomeBase, legenda);
+  console.log(`[inspiracao] A regenerar ideias de ${nomeBase} com a legenda...`);
+  const ideias = await gerarIdeiasConteudo(texto, legenda);
+  fs.mkdirSync(path.join("inspiracao", "ideias"), { recursive: true });
+  fs.writeFileSync(path.join("inspiracao", "ideias", `${nomeBase}.md`), ideias, "utf-8");
+  console.log(`[inspiracao] ${nomeBase} atualizado com legenda.`);
 }
 
 async function processarIngest() {
@@ -552,7 +581,14 @@ async function processarIngest() {
     if (!ficheiroPath || !fs.existsSync(ficheiroPath)) {
       throw new Error(`Ficheiro não encontrado em ${ficheiroPath}`);
     }
-    await processarInspiracao(ficheiroPath, filename);
+    await processarInspiracao(ficheiroPath, filename, process.env.INGEST_LEGENDA || "");
+    return;
+  }
+
+  // Inspiração — só legenda: junta a legenda a um vídeo já transcrito e
+  // regenera as ideias com a visão completa do post (sem reenviar o vídeo).
+  if (process.env.INGEST_MODO === "inspiracao-legenda") {
+    await reprocessarInspiracaoLegenda(filename, process.env.INGEST_LEGENDA || "");
     return;
   }
 

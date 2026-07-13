@@ -1,6 +1,6 @@
 import Link from "next/link";
-import Markdown from "../Markdown";
 import InspiracaoUploader from "./InspiracaoUploader";
+import InspiracaoItem from "./InspiracaoItem";
 import { getInspiracao } from "../../lib/conteudo";
 
 export const metadata = { title: "Inspiração — SyntIA" };
@@ -30,26 +30,7 @@ export default function InspiracaoPage() {
       ) : (
         <div className="list">
           {itens.map((it) => (
-            <section key={it.nome} className="insp-card">
-              <h3 className="insp-titulo">{it.titulo}</h3>
-
-              {it.ideias ? (
-                <div className="insp-ideias">
-                  <Markdown>{it.ideias}</Markdown>
-                </div>
-              ) : (
-                <p className="empty">A gerar ideias… (atualiza daqui a uns minutos)</p>
-              )}
-
-              {it.transcricao && (
-                <details className="painel-uni">
-                  <summary>📝 Ver transcrição completa</summary>
-                  <div className="painel-corpo">
-                    <p style={{ whiteSpace: "pre-wrap" }}>{it.transcricao}</p>
-                  </div>
-                </details>
-              )}
-            </section>
+            <InspiracaoItem key={it.nome} item={it} />
           ))}
         </div>
       )}
