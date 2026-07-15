@@ -1,0 +1,134 @@
+[
+  {
+    "p": "Segundo Howard Gardner, como deve ser compreendido o conceito de inteligência?",
+    "opcoes": [
+      "Como uma capacidade única e mensurável apenas através de testes de QI",
+      "Como a habilidade de resolver problemas e elaborar produtos relevantes num determinado ambiente cultural",
+      "Como a capacidade exclusivamente intelectual de raciocínio lógico-matemático",
+      "Como um traço inato que não pode ser desenvolvido ou moldado pela cultura"
+    ],
+    "correta": 1,
+    "explica": "Gardner define inteligência como a capacidade de solucionar problemas e elaborar produtos relevantes num contexto cultural específico, abrangendo múltiplas formas de inteligência, não apenas a intelectual."
+  },
+  {
+    "p": "Qual é a mudança central que a teoria das inteligências múltiplas de Gardner introduz no conceito de inteligência?",
+    "opcoes": [
+      "Reduz a inteligência a uma única medida numérica de QI",
+      "Desloca a pergunta de 'quanto a pessoa é inteligente' para 'como a pessoa é inteligente'",
+      "Elimina a importância da inteligência intelectual nas escolas",
+      "Propõe que apenas algumas pessoas possuem inteligência verdadeira"
+    ],
+    "correta": 1,
+    "explica": "A mudança paradigmática é passar de uma visão única e quantificável para uma compreensão plural e qualitativa das múltiplas formas de inteligência."
+  },
+  {
+    "p": "De acordo com o material, quais são as quatro dimensões trabalhadas na Unidade III por sua relação com qualidade de vida?",
+    "opcoes": [
+      "Lógico-matemática, linguística, espacial e musical",
+      "Profissional, familiar, social e política",
+      "Física, intelectual, emocional e espiritual",
+      "Biológica, psicológica, ambiental e económica"
+    ],
+    "correta": 2,
+    "explica": "As quatro inteligências foco da unidade são física, intelectual, emocional e espiritual, por serem as mais diretamente relacionadas com qualidade de vida e bem-estar espiritual."
+  },
+  {
+    "p": "O que representa a quadrinidade no Processo Hoffman criado em 1967?",
+    "opcoes": [
+      "Um modelo de quatro fases sequenciais do desenvolvimento humano",
+      "Uma estrutura que compreende o ser humano a partir de quatro aspectos interdependentes: corpo, emoções, intelecto e eu espiritual",
+      "Um programa de educação escolar para crianças",
+      "Uma técnica de meditação budista específica"
+    ],
+    "correta": 1,
+    "explica": "A quadrinidade é um modelo estrutural criado por Bob Hoffman que integra quatro dimensões interdependentes do eu, formando um sistema interactivo."
+  },
+  {
+    "p": "Qual é a relação entre autoconhecimento e integração das inteligências, segundo a aula?",
+    "opcoes": [
+      "O autoconhecimento é opcional e não afecta o desenvolvimento das inteligências",
+      "O autoconhecimento é o primeiro passo para identificar como se está em cada dimensão e evoluir",
+      "As inteligências se desenvolvem automaticamente sem necessidade de autoconhecimento",
+      "O autoconhecimento só é importante para a inteligência emocional"
+    ],
+    "correta": 1,
+    "explica": "Sem autoconhecimento, não é possível avaliar o estado em cada dimensão nem criar um plano de melhoria para alcançar a plenitude e integração."
+  },
+  {
+    "p": "De acordo com Emmons (2000), citado no material, como é definida a inteligência espiritual?",
+    "opcoes": [
+      "Como a capacidade de seguir rigorosamente uma religião específica",
+      "Como o uso adaptativo da informação espiritual para facilitar a vida quotidiana e resolver problemas",
+      "Como uma habilidade rara que apenas algumas pessoas possuem",
+      "Como a capacidade de rejeitar todas as práticas religiosas"
+    ],
+    "correta": 1,
+    "explica": "Emmons define inteligência espiritual como o uso adaptativo da informação espiritual para facilitar a vida quotidiana, resolver problemas e realizar propósitos."
+  },
+  {
+    "p": "O que é o Eu superior, segundo o material da Unidade III?",
+    "opcoes": [
+      "Uma estrutura de poder hierárquico do ego sobre as emoções",
+      "A verdadeira essência do indivíduo em contacto directo com a dimensão espiritual, buscando equilíbrio com todas as outras dimensões",
+      "Um estado mental atingível apenas através de religião institucionalizada",
+      "Uma ficção psicológica que não existe realmente"
+    ],
+    "correta": 1,
+    "explica": "O Eu superior é a essência mais profunda e verdadeira de cada pessoa, em contacto directo com a dimensão espiritual, buscando sempre equilíbrio com as outras dimensões."
+  },
+  {
+    "p": "Qual é a diferença fundamental entre espiritualidade e religiosidade, conforme apresentado no material?",
+    "opcoes": [
+      "São palavras sinónimas que significam a mesma coisa",
+      "Espiritualidade é exclusivamente religiosa e religiosidade é secular",
+      "Espiritualidade é uma dimensão mais ampla que pode incluir ou não religiosidade; são conceitos independentes",
+      "Religiosidade é apenas uma questão pessoal sem relação com espiritualidade"
+    ],
+    "correta": 2,
+    "explica": "A distinção central é que espiritualidade pode existir sem religiosidade e vice-versa; são dimensões independentes, embora possam coexistir."
+  },
+  {
+    "p": "Qual é a prática central apresentada para estabelecer contacto com o Eu superior, segundo a aula?",
+    "opcoes": [
+      "Apenas a participação em rituais religiosos",
+      "Meditação, mindfulness, silêncio, mantras e práticas contemplativas que trazem a pessoa ao momento presente",
+      "Aquisição de conhecimento intelectual através de leitura",
+      "Actividade física intensa e competitiva"
+    ],
+    "correta": 1,
+    "explica": "A meditação, mindfulness e outras práticas contemplativas são apresentadas como as principais formas de aceder ao Eu superior, permitindo sair do controlo do ego."
+  },
+  {
+    "p": "De acordo com Daniel Goleman, citado no material, o que distingue a meditação de outras formas de relaxamento?",
+    "opcoes": [
+      "A meditação é mais fácil e requer menos tempo",
+      "A meditação treina a capacidade de prestar atenção, e esse efeito persiste para além da sessão",
+      "A meditação é apenas relaxamento físico sem efeitos mentais",
+      "Não existe diferença significativa entre meditação e outras técnicas de relaxamento"
+    ],
+    "correta": 1,
+    "explica": "Goleman defende que a meditação, diferentemente de outras técnicas, aguça a atenção de forma duradoura, com efeitos que se manifestam ao longo do dia nas relações e decisões."
+  },
+  {
+    "p": "Qual é o papel do autoconhecimento no contexto do Modelo do Observador, segundo a aula?",
+    "opcoes": [
+      "O autoconhecimento não tem relevância no modelo do observador",
+      "O autoconhecimento permite identificar os modelos mentais que determinam como se interpreta o ambiente e, consequentemente, os resultados obtidos",
+      "O autoconhecimento é apenas para fins narcisistas",
+      "O modelo do observador não considera a subjectividade humana"
+    ],
+    "correta": 1,
+    "explica": "O autoconhecimento é essencial para identificar e modificar os modelos mentais e crenças que filtram a realidade e geram as ações e resultados."
+  },
+  {
+    "p": "Segundo as aulas, qual é o objectivo final do trabalho com as quatro inteligências?",
+    "opcoes": [
+      "Desenvolver apenas a inteligência intelectual para melhor desempenho académico",
+      "Atingir a plenitude e qualidade de vida através da integração equilibrada e harmoniosa de todas as dimensões",
+      "Negligenciar a dimensão espiritual em favor da racional",
+      "Estabelecer uma hierarquia clara entre as quatro inteligências"
+    ],
+    "correta": 1,
+    "explica": "O objectivo central é alcançar a plenitude e qualidade de vida através da integração e equilíbrio de todas as quatro dimensões — física, intelectual, emocional e espiritual — de forma simultânea."
+  }
+]

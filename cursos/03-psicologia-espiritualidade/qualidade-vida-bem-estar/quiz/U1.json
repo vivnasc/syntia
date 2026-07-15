@@ -1,0 +1,134 @@
+[
+  {
+    "p": "Qual é a definição de qualidade de vida segundo a OMS/WHOQOL (1995)?",
+    "opcoes": [
+      "A ausência total de doença e a capacidade de desempenho físico máximo",
+      "A percepção do indivíduo de sua inserção na vida, no contexto da cultura e sistemas de valores nos quais ele vive e em relação aos seus objetivos, expectativas, padrões e preocupações",
+      "O equilíbrio perfeito entre bem-estar físico e mental, sem considerar fatores culturais",
+      "A acumulação de bens materiais e a realização de todas as ambições pessoais"
+    ],
+    "correta": 1,
+    "explica": "A definição da OMS/WHOQOL é exatamente essa, sublinhou-se a sua natureza subjetiva e dependência do contexto cultural de cada pessoa."
+  },
+  {
+    "p": "Quais são as cinco dimensões do bem-estar apresentadas no modelo da disciplina?",
+    "opcoes": [
+      "Física, mental, emocional, profissional e social",
+      "Biológica, psicológica, intelectual, espiritual e vocacional",
+      "Física, mental, psicológica, social e espiritual",
+      "Corporal, cognitiva, afetiva, relacional e transcendental"
+    ],
+    "correta": 2,
+    "explica": "A aula P2 define explicitamente estas cinco dimensões como o modelo multidimensional de bem-estar trabalhado na disciplina."
+  },
+  {
+    "p": "Qual a diferença principal entre bem-estar mental e bem-estar psicológico?",
+    "opcoes": [
+      "O mental refere-se ao corpo e o psicológico à mente",
+      "O mental diz respeito ao equilíbrio emocional quotidiano e o psicológico envolve o funcionamento positivo, autoaceitação, propósito de vida e crescimento pessoal",
+      "O psicológico é superficial enquanto o mental é profundo",
+      "Não há diferença significativa entre os dois conceitos"
+    ],
+    "correta": 1,
+    "explica": "A aula P2 sublinha que o mental é a administração de emoções (gerir stresse, tristeza), enquanto o psicológico é mais profundo e envolve a relação consigo mesmo e o funcionamento positivo global."
+  },
+  {
+    "p": "O que é locus de controle interno?",
+    "opcoes": [
+      "A crença de que os resultados dependem de fatores externos como sorte ou outras pessoas",
+      "A capacidade de controlar as emoções dos outros",
+      "A crença de que as conquistas e resultados dependem dos próprios esforços e competências",
+      "A habilidade de impor a própria vontade sobre os demais"
+    ],
+    "correta": 2,
+    "explica": "A aula P3 define locus interno como a expectativa pessoal de que as conquistas são controladas pelos próprios esforços e competências, em contraste com locus externo."
+  },
+  {
+    "p": "Qual é o papel do bem-estar espiritual em contexto de adoecimento, segundo as pesquisas citadas na aula?",
+    "opcoes": [
+      "Apenas proporciona conforto psicológico sem afetar a saúde clínica",
+      "Funciona como proteção contra o desespero, fonte de paz, suporte à aceitação da doença e promotor de segurança e esperança",
+      "Substitui a necessidade de tratamento médico adequado",
+      "É irrelevante para a qualidade de vida de pessoas com doença crónica"
+    ],
+    "correta": 1,
+    "explica": "A aula P6 apresenta claramente que o bem-estar espiritual funciona como estratégia de enfrentamento em contexto de adoecimento, apoiando múltiplas dimensões da pessoa."
+  },
+  {
+    "p": "Como a aula distingue espiritualidade de religiosidade?",
+    "opcoes": [
+      "São sinónimos absolutos e significam exatamente a mesma coisa",
+      "Espiritualidade é mais fraca que religiosidade",
+      "Espiritualidade é a relação com o sentido e o transcendente, independente de religião; religiosidade é a prática organizada dentro de uma tradição religiosa específica",
+      "Religiosidade é um conceito moderno enquanto espiritualidade é antigo"
+    ],
+    "correta": 2,
+    "explica": "Esta distinção é central na disciplina. A aula P4 e P5 reafirmam que espiritualidade não exige religião, enquanto religiosidade implica adesão a uma crença religiosa específica."
+  },
+  {
+    "p": "Qual foi a proposta da Assembleia Mundial de Saúde em 1998 relativamente ao conceito de saúde?",
+    "opcoes": [
+      "Eliminar completamente a dimensão mental da definição de saúde",
+      "Incluir a dimensão espiritual e substituir 'completo' por 'dinâmico' na definição de saúde",
+      "Reduzir a saúde apenas à ausência de doença",
+      "Separar de forma definitiva a saúde mental da saúde física"
+    ],
+    "correta": 1,
+    "explica": "A aula P5 apresenta a proposta de 1998: 'estado dinâmico completo de bem-estar físico, mental, espiritual e social'. Embora não tenha sido aprovada formalmente, consolidou o reconhecimento da dimensão espiritual."
+  },
+  {
+    "p": "O que define o princípio da beneficência na bioética?",
+    "opcoes": [
+      "Fazer o bem sem considerar as necessidades reais do paciente",
+      "Procurar o bem-estar máximo do paciente considerando-o na sua totalidade: física, psicológica, social e espiritualmente",
+      "Apenas tratar a doença, ignorando outras dimensões da pessoa",
+      "Permitir ao paciente fazer sempre o que deseja, mesmo que prejudicial"
+    ],
+    "correta": 1,
+    "explica": "A aula P2 da Unidade II define beneficência como procurar o bem do paciente na sua totalidade, reconhecendo e considerando todas as suas dimensões."
+  },
+  {
+    "p": "Em que situações o médico NÃO pode invocar objeção de consciência, segundo o Código de Ética Médica do Brasil?",
+    "opcoes": [
+      "Sempre que pessoalmente discorde da decisão do paciente",
+      "Quando considere que o procedimento é tecnicamente difícil",
+      "Em casos de urgência ou emergência, ou quando a recusa possa trazer danos à saúde do paciente",
+      "Quando o paciente tiver crenças religiosas fortes"
+    ],
+    "correta": 2,
+    "explica": "A aula P2 da Unidade II cita explicitamente o Código de Ética Médica do Brasil: a objeção cede em urgência/emergência ou risco de dano ao paciente."
+  },
+  {
+    "p": "Qual é a característica distintiva da bioética em relação à ética, moral e deontologia?",
+    "opcoes": [
+      "É menos importante que as outras disciplinas",
+      "É problematizadora e evolutiva, não oferecendo respostas fixas mas enfrentando dilemas complexos",
+      "É apenas aplicável em contextos hospitalares",
+      "Substitui completamente os outros campos do conhecimento ético"
+    ],
+    "correta": 1,
+    "explica": "A fórmula da aula P1 da Unidade II é precisa: 'O que na ética é estudado, na moral praticado, na deontologia obrigado, na bioética é problematizado.'"
+  },
+  {
+    "p": "Como a investigação de Berkeley e Harvard (Dr. Matt Bradshaw) relacionou espiritualidade e saúde mental?",
+    "opcoes": [
+      "Não encontrou qualquer relação entre espiritualidade e bem-estar",
+      "Pessoas com experiências espirituais diárias apresentavam melhor bem-estar, melhor capacidade de lidar com problemas e menos sintomas depressivos, mesmo com o mesmo nível de estresse",
+      "A espiritualidade só funciona para pessoas religiosas",
+      "Descobriu que a espiritualidade piora a saúde mental em contextos de estresse"
+    ],
+    "correta": 1,
+    "explica": "A aula P4 apresenta detalhadamente este estudo com 2.795 voluntários durante 14 dias, destacando a conclusão-chave de Bradshaw sobre duas pessoas com igual estresse."
+  },
+  {
+    "p": "No estudo de caso da Testemunha de Jeová que recusa transfusão, qual é o conflito principal entre princípios da bioética?",
+    "opcoes": [
+      "Apenas entre justiça e beneficência",
+      "Entre beneficência (fazer o bem clinicamente) e autonomia (respeitar a liberdade de decisão do doente informado)",
+      "Exclusivamente uma questão de não maleficência",
+      "Não existe conflito real, apenas desobediência do paciente"
+    ],
+    "correta": 1,
+    "explica": "O caso de estudo final da Unidade I ilustra precisamente este conflito central: o dever de beneficência do médico colide com o direito de autonomia do paciente consciente e informado."
+  }
+]

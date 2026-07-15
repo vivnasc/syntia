@@ -1,0 +1,134 @@
+[
+  {
+    "p": "Quais são os três pilares da psicologia positiva propostos por Seligman e Csikszentmihalyi?",
+    "opcoes": [
+      "Experiência subjectiva, características individuais e forças pessoais, instituições e comunidades",
+      "Bem-estar subjectivo, felicidade e satisfação com a vida",
+      "Emoções positivas, engajamento e relacionamentos positivos",
+      "Talentos, sabedoria e valores pessoais"
+    ],
+    "correta": 0,
+    "explica": "Os três pilares são estruturantes da psicologia positiva: o primeiro abrange bem-estar passado, presente e futuro; o segundo engloba atributos como espiritualidade e talentos; o terceiro centra-se em virtudes cívicas e colectivas."
+  },
+  {
+    "p": "O que distingue a religiosidade da espiritualidade, segundo o material da disciplina?",
+    "opcoes": [
+      "A religiosidade é prática institucional organizada; a espiritualidade é busca pessoal de significado e propósito de vida, independente de religião formal",
+      "A religiosidade é mais ampla; a espiritualidade está limitada ao contexto religioso",
+      "A espiritualidade requer crença em Deus; a religiosidade não",
+      "Ambas são sinónimos e não existem diferenças significativas"
+    ],
+    "correta": 0,
+    "explica": "Segundo Calvetti, Muller e Nunes (2007) e Faria e Seidl (2005), religiosidade envolve engajamento a instituição organizada com crenças e práticas definidas, enquanto espiritualidade diz respeito a questões de significado da vida independentemente de religião formal."
+  },
+  {
+    "p": "O que é o modelo PERMA de Seligman?",
+    "opcoes": [
+      "Cinco elementos do bem-estar: Emoções positivas, Engajamento, Relacionamentos, Propósito e Realização",
+      "Quatro dimensões da saúde: biológica, psicológica, social e espiritual",
+      "Três pilares da psicologia positiva centrados em virtudes pessoais",
+      "Um instrumento para medir felicidade subjectiva"
+    ],
+    "correta": 0,
+    "explica": "PERMA é o acrónimo dos cinco elementos que Seligman identifica como essenciais para o bem-estar. Cada elemento é algo que o indivíduo procura pelo seu próprio bem, não como meio para outra coisa."
+  },
+  {
+    "p": "Qual é o principal objetivo da psicoterapia positiva (PPT) segundo Rashid e Seligman?",
+    "opcoes": [
+      "A valorização do bem-estar como meio de aliviar sintomas, integrando forças com fraquezas",
+      "Eliminar completamente os sintomas através de técnicas de relaxamento",
+      "Substituir a abordagem tradicional de tratamento clínico",
+      "Focar exclusivamente nas emoções positivas ignorando o sofrimento"
+    ],
+    "correta": 0,
+    "explica": "A PPT é descrita como reorientação terapêutica que integra sintomas com forças, riscos com recursos, pesares com esperanças, complementando (não substituindo) a abordagem tradicional de 'consertar o que está errado'."
+  },
+  {
+    "p": "Quais são os três componentes da autocompaixão segundo Kristin Neff?",
+    "opcoes": [
+      "Autobondade, reconhecimento da condição humana partilhada e mindfulness",
+      "Eliminação de pensamentos negativos, aumento de confiança pessoal e prática religiosa",
+      "Perdão, esperança e realização de objectivos pessoais",
+      "Isolamento emocional, rejeição da negatividade e foco exclusivo no positivo"
+    ],
+    "correta": 0,
+    "explica": "Neff define que a autocompaixão envolve: (1) ser gentil consigo mesmo, (2) reconhecer que sofrimento e limitação são universais, e (3) estar presente com consciência equilibrada no momento difícil."
+  },
+  {
+    "p": "O que é o mindfulness, segundo a definição apresentada na disciplina?",
+    "opcoes": [
+      "A consciência que surge quando se presta atenção intencional ao momento presente, com consciência, presença e não julgamento",
+      "Uma prática religiosa de meditação associada a crenças espirituais",
+      "A eliminação completa de pensamentos e emoções negativas através da concentração",
+      "Uma técnica de visualização para alcançar estados de felicidade permanente"
+    ],
+    "correta": 0,
+    "explica": "Kabat-Zinn define mindfulness como atenção plena baseada em três pilares: consciência (reconhecer sentimentos e pensamentos), presença (foco no momento actual) e não julgamento (observar sem avaliar)."
+  },
+  {
+    "p": "De acordo com a pesquisa no CAPS apresentada na aula, que benefício apresentaram os utentes com crença no divino?",
+    "opcoes": [
+      "Melhor autorregulação dos sintomas, melhor funcionamento social, menor consumo de medicação e maior qualidade de vida",
+      "Cura completa de transtornos psiquiátricos sem necessidade de medicação",
+      "Eliminação imediata de pensamentos negativos e sofrimento emocional",
+      "Maior isolamento social e dependência de práticas religiosas"
+    ],
+    "correta": 0,
+    "explica": "A pesquisa mostrou que pacientes amparados por crença no divino apresentavam melhor saúde mental, funcionamento social e qualidade de vida, demonstrando religiosidade como fator protector."
+  },
+  {
+    "p": "O que é o instrumento VIA (Values in Action) e como é utilizado na psicoterapia positiva?",
+    "opcoes": [
+      "Um instrumento que identifica forças de carácter, preenchido pela própria pessoa e por pessoas do seu círculo para revelar forças não autopercebidas",
+      "Um teste para medir o grau de depressão e ansiedade do cliente",
+      "Um questionário sobre crenças religiosas e práticas espirituais",
+      "Uma escala para avaliar a severidade de sintomas psicopatológicos"
+    ],
+    "correta": 0,
+    "explica": "O VIA é instrumento central da psicologia positiva que identifica traços positivos. Ao ser preenchido também por familiares e colegas, revela forças que o indivíduo não reconhece em si mesmo, servindo como ponto de partida terapêutico."
+  },
+  {
+    "p": "Qual é a relação entre mindfulness e autocompaixão, segundo Neff e Germer (2019)?",
+    "opcoes": [
+      "A autocompaixão emerge do âmago do mindfulness: mindfulness abre ao sofrimento com consciência amorosa; autocompaixão acrescenta gentileza consigo mesmo, formando presença calorosa nos momentos difíceis",
+      "Mindfulness e autocompaixão são práticas completamente independentes sem qualquer conexão",
+      "A autocompaixão substitui a necessidade de praticar mindfulness",
+      "O mindfulness é uma forma de autocompaixão mas sem consciência plenamente presente"
+    ],
+    "correta": 0,
+    "explica": "Segundo Neff e Germer, as duas práticas são interdependentes: mindfulness proporciona a atenção equilibrada ao sofrimento, enquanto autocompaixão adiciona a gentileza pessoal — juntas criam um estado de presença calorosa e conectada."
+  },
+  {
+    "p": "O que Dalgalarrondo afirma sobre o papel da religião em momentos de dor e sofrimento profundos?",
+    "opcoes": [
+      "A religião ajuda na ressignificação do momento, promove visão otimista e com sentido, e favorece apoio social e coesão entre pessoas",
+      "A religião agrava o sofrimento emocional ao impor culpa e arrependimento",
+      "A religião é irrelevante para a saúde mental em contextos de dor",
+      "A religião substitui completamente a necessidade de intervenção psicológica profissional"
+    ],
+    "correta": 0,
+    "explica": "Dalgalarrondo defende que a religião é relevante em fases de sofrimento profundo porque oferece significado, otimismo, esperança e apoio social — sendo um factor protector importante para a saúde mental."
+  },
+  {
+    "p": "Qual é a principal diferença entre a abordagem tradicional e a psicoterapia positiva no tratamento clínico?",
+    "opcoes": [
+      "A abordagem tradicional foca em 'consertar o que está errado'; a PPT complementa isto com 'construir o que é forte', integrando sintomas e forças",
+      "A abordagem tradicional trata sintomas; a PPT ignora completamente a doença",
+      "A PPT substitui completamente a medicação e terapia tradicional",
+      "Não existem diferenças significativas entre as duas abordagens"
+    ],
+    "correta": 0,
+    "explica": "A PPT é descrita como reorientação terapêutica complementar que integra o trabalho com sintomas com a mobilização de forças, recursos e bem-estar — não substitui, mas complementa a abordagem curativa tradicional."
+  },
+  {
+    "p": "O que revelou o estudo transversal com doutorandos de Pelotas sobre bem-estar espiritual e religioso?",
+    "opcoes": [
+      "Os maiores índices de bem-estar espiritual foram encontrados em quem tem religião, pratica regularmente e frequenta actividades, não apenas em quem declara ter religião",
+      "Ter uma religião declarada é suficiente para garantir bem-estar espiritual elevado",
+      "O conhecimento académico elimina completamente a religiosidade dos doutorandos",
+      "O bem-estar espiritual não tem qualquer relação com a prática religiosa"
+    ],
+    "correta": 0,
+    "explica": "O estudo mostrou que a frequência e prática regular, não apenas a crença declarada, são factores determinantes para bem-estar espiritual elevado, contradizindo a ideia de incompatibilidade entre conhecimento científico e religiosidade."
+  }
+]
