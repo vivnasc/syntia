@@ -426,6 +426,9 @@ function main() {
     geradoEm: conteudo.geradoEm,
     fonte: "Syntia · pós-graduações (Transpessoal, Constelação Sistémica, Psicologia e Espiritualidade, Desenvolvimento Pessoal)",
     materias,
+    // Conceitos-chave por curso, no formato do lib/infografico/cursos.ts do
+    // viviannepag — extraídos das aulas reais, para deixarem de ser à mão.
+    conceitosCurso: conceitosPorCurso(),
     banco: banco.map((b) => ({ temas: b.temas, produto: b.produto, ideia: b.ideia, texto: b.texto, curso: b.cursoTitulo || b.curso, cadeira: b.areaTitulo || b.cadeira })),
   };
   fs.mkdirSync(path.join(ROOT, "public"), { recursive: true });
@@ -434,6 +437,54 @@ function main() {
   const nCad = cursos.reduce((s, c) => s + c.cadeiras.length, 0);
   const nAulas = cursos.reduce((s, c) => s + c.cadeiras.reduce((n, k) => n + k.aulas.length, 0), 0) + (partilhada?.aulas.length || 0);
   console.log(`conteudo.json: ${cursos.length} curso(s), ${nCad} cadeira(s), ${nAulas} aula(s), ${banco.length} item(ns) de produto.`);
+}
+
+// Extrai os "conceitos-chave" de uma síntese (os termos a negrito na secção de
+// conceitos), para alimentar o saber dos cursos do viviannepag (lib/infografico/
+// cursos.ts) sem os escrever à mão.
+function conceitosDeSintese(md) {
+  const out = [];
+  let dentro = false;
+  for (const l of (md || "").split(/\r?\n/)) {
+    if (/^#{1,6}\s.*conceitos?[-\s]?chave/i.test(l)) { dentro = true; continue; }
+    if (dentro && (/^#{1,6}\s/.test(l) || /^═══/.test(l))) dentro = false;
+    if (!dentro) continue;
+    const m = l.match(/^\s*(?:[-*]\s*)?\*\*(.+?)\*\*/);
+    if (!m) continue;
+    let t = m[1].replace(/:\s*$/, "").replace(/\s*\([^)]*\)\s*$/, "").trim();
+    if (t.length >= 3 && t.length <= 60 && !/^\d+[.)]/.test(t)) out.push(t);
+  }
+  return out;
+}
+function conceitosDoCurso(cadeiraDirs) {
+  const vistos = new Set();
+  const conceitos = [];
+  for (const dir of cadeiraDirs) {
+    const sdir = path.join(dir, "sinteses");
+    if (!isDir(sdir)) continue;
+    for (const f of fs.readdirSync(sdir).sort()) {
+      if (!f.endsWith(".md")) continue;
+      for (const c of conceitosDeSintese(lerTxt(path.join(sdir, f)))) {
+        const k = c.toLowerCase();
+        if (!vistos.has(k)) { vistos.add(k); conceitos.push(c); }
+      }
+    }
+  }
+  return conceitos;
+}
+// Mapeia os 4 cursos do viviannepag para as pastas da Syntia.
+function conceitosPorCurso() {
+  const cadeirasDe = (cursoId) => {
+    const base = path.join(ROOT, "cursos", cursoId);
+    if (!isDir(base)) return [];
+    return fs.readdirSync(base).map((d) => path.join(base, d)).filter((p) => isDir(p) && path.basename(p) !== "_material");
+  };
+  return {
+    transpessoal: conceitosDoCurso(cadeirasDe("02-psicologia-transpessoal")),
+    constelacao: conceitosDoCurso(cadeirasDe("01-constelacao-sistemica")),
+    espiritualidade: conceitosDoCurso(cadeirasDe("03-psicologia-espiritualidade")),
+    desenvolvimento: conceitosDoCurso([path.join(ROOT, "disciplina-partilhada")]),
+  };
 }
 
 // Espaço de Inspiração: transcrições + ideias de conteúdo de vídeos guardados

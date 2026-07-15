@@ -1,0 +1,70 @@
+name: Sincronizar conceitos → viviannepag
+
+# A cada aula nova (quando as sínteses mudam no main), regenera os conceitos dos
+# cursos a partir do saber.json e escreve-os SOZINHO no viviannepag
+# (lib/infografico/cursos.ts). Zero cliques: a ligação corre sempre para sempre.
+#
+# Requisito ÚNICO (uma vez): criar o secret VIVIANNEPAG_TOKEN — um GitHub token
+# (fine-grained ou clássico) com permissão de escrever conteúdo no repo
+# vivnasc/viviannepag. Depois disto, nunca mais tens de fazer nada.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'cursos/**/sinteses/**'
+      - 'disciplina-partilhada/**/sinteses/**'
+      - 'scripts/gerar-cursos-viviannepag.mjs'
+      - 'scripts/gerar-conteudo.mjs'
+  workflow_dispatch:
+
+concurrency:
+  group: sync-viviannepag
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout da Syntia
+        uses: actions/checkout@v4
+
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Regenerar o saber.json e o cursos.ts
+        run: |
+          node scripts/gerar-conteudo.mjs
+          node scripts/gerar-cursos-viviannepag.mjs public/saber.json > /tmp/cursos.ts
+          echo "Conceitos gerados:"; grep -c "^      '" /tmp/cursos.ts || true
+
+      - name: Escrever no viviannepag (só se houver token e mudança)
+        env:
+          TOKEN: ${{ secrets.VIVIANNEPAG_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "Sem VIVIANNEPAG_TOKEN — salto o push (cria o secret para ligar)."
+            exit 0
+          fi
+          git clone --depth 1 "https://x-access-token:${TOKEN}@github.com/vivnasc/viviannepag.git" vp
+          DEST="vp/lib/infografico/cursos.ts"
+          mkdir -p "$(dirname "$DEST")"
+          cp /tmp/cursos.ts "$DEST"
+          cd vp
+          if git diff --quiet -- lib/infografico/cursos.ts; then
+            echo "Conceitos já iguais — nada a fazer."
+            exit 0
+          fi
+          git config user.name "syntia-bot"
+          git config user.email "syntia-bot@users.noreply.github.com"
+          git add lib/infografico/cursos.ts
+          git commit -m "Conceitos dos cursos atualizados a partir da Syntia (automático)"
+          for n in 1 2 3 4; do
+            git push origin HEAD:main && { echo "push ok"; exit 0; }
+            echo "push falhou ($n), rebase e tento de novo…"
+            git pull --rebase -X ours origin main || true
+            sleep $((RANDOM % 4 + 2))
+          done
+          echo "push falhou após várias tentativas"; exit 1
