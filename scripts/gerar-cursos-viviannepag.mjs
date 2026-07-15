@@ -9,6 +9,9 @@
 //    (fallback embutido) — nunca apaga o que já tens.
 //
 // Uso: node scripts/gerar-cursos-viviannepag.mjs <caminho-saber.json> > cursos.ts
+//
+// Ligação ATIVA: o secret VIVIANNEPAG_TOKEN está criado, por isso a Action já
+// escreve o cursos.ts no viviannepag a cada aula nova (sem intervenção manual).
 
 import fs from "node:fs";
 
