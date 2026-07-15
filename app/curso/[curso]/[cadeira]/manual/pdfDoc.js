@@ -10,7 +10,7 @@
 
 import React from "react";
 import { Document, Page, Text, View, StyleSheet } from "@react-pdf/renderer";
-import { parseMarkdown } from "./mdToPdf.js";
+import { parseMarkdown, sanitizarPdf } from "./mdToPdf.js";
 
 const h = React.createElement;
 
@@ -41,6 +41,9 @@ const s = StyleSheet.create({
   h2bar: { flexDirection: "row", alignItems: "center", marginTop: 12, marginBottom: 6 },
   h2tick: { width: 4, height: 14, backgroundColor: GOLD, marginRight: 7, borderRadius: 2 },
   h2text: { fontFamily: "Helvetica-Bold", fontSize: 12.5 },
+  // Cabeçalho de secção (nível 2) como Text simples — cor de destaque em vez de
+  // barra/caixa (Views estilizadas rebentam o layout em certas quebras de página).
+  h2head: { fontFamily: "Helvetica-Bold", fontSize: 12.5, color: GOLD, marginTop: 13, marginBottom: 4 },
 
   // Texto
   p: { marginBottom: 6, textAlign: "justify" },
@@ -172,45 +175,27 @@ function renderNode(node, prefix) {
   const titleText = node.runs.map((r) => r.text).join("");
   const kids = renderChildren(node.children, prefix);
 
-  // Uma caixa com fundo só serve para conteúdo CURTO: o react-pdf não parte
-  // caixas com fundo entre páginas, por isso uma caixa alta salta inteira e
-  // deixa um buraco. Se tiver sub-secções, ou se o conteúdo for longo, o título
-  // vira uma faixa de cabeçalho e o conteúdo flui solto a seguir (parte bem).
-  // Caixa contida só para conteúdo mesmo curto (1-2 blocos, poucas linhas).
-  // Tudo o resto flui — senão a caixa fica alta, não parte, e salta a página.
-  const hasChildSection = node.children.some((c) => c.kind === "section");
-  const flui = hasChildSection || node.children.length > 1 || estLines(node) > 3;
-
-  // Caixa de destaque (callout).
+  // Cabeçalhos são SEMPRE elementos Text (nunca Views com fundo/barra): as
+  // caixas/barras estilizadas rebentam o layout do react-pdf em certas quebras
+  // de página ("unsupported number: …e+21"). A hierarquia é dada por tamanho,
+  // cor e etiqueta; o conteúdo flui sempre a seguir e parte naturalmente.
+  // Destaque (callout): etiqueta em maiúsculas + título, ambos na cor do tema.
   if (kw) {
-    const label = h(Text, { key: "l", style: [s.calloutLabel, { color: kw.fg }] }, kw.label);
-    const title = h(Text, { key: "t", style: s.cardTitle }, titleText);
-    if (flui) {
-      // longo/com sub-secções -> faixa de cabeçalho (marcada como cabeçalho) +
-      // conteúdo a fluir. A colagem é feita no fim, em glueHeads.
-      const head = h(View, { key: "hd", __head: true, style: [s.calloutHead, { backgroundColor: kw.bg, borderLeftColor: kw.bar }] }, [label, title]);
-      return [head, ...kids];
-    }
-    // curto -> caixa contida atómica (marcada __box: na colagem é tratada como
-    // indivisível, logo cola-se ao cabeçalho que a precede).
-    return h(View, { __box: true, style: [s.callout, { backgroundColor: kw.bg, borderLeftColor: kw.bar }], minPresenceAhead: 24 }, [label, title, ...kids]);
+    return [
+      h(Text, { key: "l", __head: true, style: [s.calloutLabel, { color: kw.fg }] }, kw.label),
+      h(Text, { key: "t", __head: true, style: [s.cardTitle, { color: kw.fg }] }, titleText),
+      ...kids,
+    ];
   }
 
-  // Conceito (nível 3+) com corpo -> cartão.
+  // Conceito (nível 3+) com corpo -> título de cartão (texto).
   if (node.level >= 3 && node.children.length) {
-    const title = h(Text, { key: "t", style: s.cardTitle }, titleText);
-    if (flui) {
-      const head = h(View, { key: "hd", __head: true, style: s.h2bar }, [h(View, { key: "k", style: s.h2tick }), h(Text, { key: "x", style: s.h2text }, titleText)]);
-      return [head, ...kids];
-    }
-    return h(View, { __box: true, style: s.card, minPresenceAhead: 24 }, [title, ...kids]);
+    return [h(Text, { key: "t", __head: true, style: s.cardTitle }, titleText), ...kids];
   }
 
-  // Secção (níveis 1 e 2): só o cabeçalho (marcado); o conteúdo flui a seguir.
-  const bar = node.level === 2
-    ? h(View, { key: "hb", __head: true, style: s.h2bar }, [h(View, { key: "t", style: s.h2tick }), h(Text, { key: "x", style: s.h2text }, titleText)])
-    : h(View, { key: "hb", __head: true, style: { marginTop: 10 } }, Runs(node.runs, s.h1));
-  return [bar, ...kids];
+  // Secção (níveis 1 e 2): cabeçalho em texto; o conteúdo flui a seguir.
+  const style = node.level === 2 ? s.h2head : s.h1;
+  return [h(Text, { key: "hb", __head: true, style }, titleText), ...kids];
 }
 
 // Cola cada SEQUÊNCIA de cabeçalhos seguidos num bloco que não parte, com uma
@@ -286,7 +271,7 @@ export function buildManualDocument({ curso, cadeira, unidades, hoje }) {
       (u.aulas && u.aulas.length) ? h(View, { key: "ab", style: s.aulaBox }, u.aulas.map((a, i) =>
         h(View, { key: i, style: s.aulaItem }, [
           h(Text, { key: 1, style: s.aulaNum }, `${i + 1}.`),
-          h(Text, { key: 2, style: s.aulaText }, [a.titulo, a.flashcards ? h(Text, { key: "m", style: s.aulaMeta }, `   ·   ${a.flashcards} flashcards`) : null]),
+          h(Text, { key: 2, style: s.aulaText }, [sanitizarPdf(a.titulo), a.flashcards ? h(Text, { key: "m", style: s.aulaMeta }, `   ·   ${a.flashcards} flashcards`) : null]),
         ]))) : null,
 
       h(View, { key: "fr", style: s.footRule, fixed: true }),
