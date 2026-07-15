@@ -104,11 +104,27 @@ function itemUtil(texto) {
 
 // Deriva a que PRODUTO (repo) a ideia pertence. Olha primeiro a "Ideia
 // concreta" (onde o entregável é nomeado), depois o texto todo.
+// Mapeia uma ideia para o universo de produto REAL (jul 2026). Fonte: o
+// ecossistema-produto.md. O Método VS foi abolido; FreeMe/Infonte/SyncHim são
+// COLEÇÕES de produto (não contas). Ver contexto/ecossistema-produto.md.
 function matchProduto(s) {
-  if (/synchim|synchin/i.test(s)) return "SyncHim";
-  if (/free ?me/i.test(s)) return "FreeMe";
-  if (/infonte|sete ecos/i.test(s)) return "Infonte";
-  if (/ebook|guia|cole[cç][aã]o|cole[cç][õo]es|\blivro|\bloja\b|universo/i.test(s)) return "Livros";
+  const t = (s || "").toLowerCase();
+  // Abolido — nunca é produto vivo (não está à venda).
+  if (/m[eé]todo\s*vs|sete\s*v[ée]us|7\s*v[ée]us|ver[.\s]?soltar|vir[.\s]?soltar|viver[.\s]?soltar/.test(t)) return "Outro";
+  // As 7 coleções (universos de produto) — por nome.
+  if (/synchim|synchin/.test(t)) return "SyncHim";
+  if (/free\s?me/.test(t)) return "FreeMe Mãe";
+  if (/infonte/.test(t)) return "Infonte";
+  if (/prosperidade/.test(t)) return "Prosperidade";
+  if (/perten[çc]a/.test(t)) return "Pertença";
+  if (/cole[cç][ãa]o\s+for[çc]a|universo\s+for[çc]a/.test(t)) return "Força";
+  if (/voca[çc][ãa]o/.test(t)) return "Trabalho";
+  // As 3 portas / livros-pilar.
+  if (/desencaixe|limiar|sete\s*faces|7\s*faces|grande\s*transi[çc][ãa]o|a\s*transi[çc][ãa]o|o\s*medo\b/.test(t)) return "Livros";
+  // Avulsos e genéricos.
+  if (/\bguias?\b/.test(t)) return "Guias";
+  if (/\bebooks?\b/.test(t)) return "Ebooks";
+  if (/cole[cç][ãa]o|cole[cç][õo]es|universo|\bloja\b|\blivro\b/.test(t)) return "Livros";
   return null;
 }
 function derivarProduto(texto) {
@@ -393,6 +409,27 @@ function main() {
 
   const conteudo = { geradoEm: new Date().toISOString(), temas: TEMAS, cursos, partilhada, banco, inspiracao: lerInspiracao() };
   fs.writeFileSync(OUT_JSON, JSON.stringify(conteudo, null, 2), "utf-8");
+
+  // saber.json — a PONTE: artefacto público e enxuto que o repo dos produtos vai
+  // buscar (SABER = cadeiras + ideias de produto). Servido em /saber.json.
+  const materias = [...cursos, ...(partilhada ? [{ titulo: partilhada.titulo, cadeiras: [{ ...partilhada }] }] : [])]
+    .map((c) => ({
+      curso: c.titulo,
+      cadeiras: (c.cadeiras || []).filter((k) => (k.unidades || []).some((u) => u.aulas?.length || u.objetivos || u.resumo))
+        .map((k) => ({
+          cadeira: k.titulo,
+          unidades: (k.unidades || []).filter((u) => u.aulas?.length || u.objetivos || u.resumo)
+            .map((u) => ({ n: u.n, objetivos: u.objetivos || "", resumo: u.resumo || "", aulas: (u.aulas || []).map((a) => a.titulo) })),
+        })),
+    })).filter((c) => c.cadeiras.length);
+  const saber = {
+    geradoEm: conteudo.geradoEm,
+    fonte: "Syntia · pós-graduações (Transpessoal, Constelação Sistémica, Psicologia e Espiritualidade, Desenvolvimento Pessoal)",
+    materias,
+    banco: banco.map((b) => ({ temas: b.temas, produto: b.produto, ideia: b.ideia, texto: b.texto, curso: b.cursoTitulo || b.curso, cadeira: b.areaTitulo || b.cadeira })),
+  };
+  fs.mkdirSync(path.join(ROOT, "public"), { recursive: true });
+  fs.writeFileSync(path.join(ROOT, "public", "saber.json"), JSON.stringify(saber, null, 2), "utf-8");
 
   const nCad = cursos.reduce((s, c) => s + c.cadeiras.length, 0);
   const nAulas = cursos.reduce((s, c) => s + c.cadeiras.reduce((n, k) => n + k.aulas.length, 0), 0) + (partilhada?.aulas.length || 0);
