@@ -10,8 +10,9 @@
 //
 // Uso: node scripts/gerar-cursos-viviannepag.mjs <caminho-saber.json> > cursos.ts
 //
-// Ligação ATIVA: o secret VIVIANNEPAG_TOKEN está criado, por isso a Action já
-// escreve o cursos.ts no viviannepag a cada aula nova (sem intervenção manual).
+// Ligação ATIVA: o secret VIVIANNEPAG_TOKEN está criado no repo syntia (Actions),
+// por isso a Action já escreve o cursos.ts no viviannepag a cada aula nova, sem
+// qualquer intervenção manual.
 
 import fs from "node:fs";
 

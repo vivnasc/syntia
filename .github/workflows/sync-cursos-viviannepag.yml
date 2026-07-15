@@ -45,9 +45,10 @@ jobs:
           TOKEN: ${{ secrets.VIVIANNEPAG_TOKEN }}
         run: |
           if [ -z "$TOKEN" ]; then
-            echo "Sem VIVIANNEPAG_TOKEN — salto o push (cria o secret para ligar)."
+            echo "Sem VIVIANNEPAG_TOKEN — salto o push (cria o secret em syntia → Settings → Secrets → Actions)."
             exit 0
           fi
+          echo "Token presente (${#TOKEN} caracteres). A escrever no viviannepag…"
           git clone --depth 1 "https://x-access-token:${TOKEN}@github.com/vivnasc/viviannepag.git" vp
           DEST="vp/lib/infografico/cursos.ts"
           mkdir -p "$(dirname "$DEST")"
