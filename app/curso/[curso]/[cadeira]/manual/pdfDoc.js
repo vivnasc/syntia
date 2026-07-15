@@ -187,9 +187,14 @@ function renderNode(node, prefix) {
   // cor e etiqueta; o conteúdo flui sempre a seguir e parte naturalmente.
   // Destaque (callout): etiqueta em maiúsculas + título, ambos na cor do tema.
   if (kw) {
+<<<<<<< HEAD
     const labelStyle = SAFE ? [s.calloutLabel, { color: kw.fg }] : [s.calloutLabel, { color: kw.fg, backgroundColor: kw.bg }];
     return [
       h(Text, { key: "l", __head: true, style: labelStyle }, kw.label),
+=======
+    return [
+      h(Text, { key: "l", __head: true, style: [s.calloutLabel, { color: kw.fg }] }, kw.label),
+>>>>>>> origin/main
       h(Text, { key: "t", __head: true, style: [s.cardTitle, { color: kw.fg }] }, titleText),
       ...kids,
     ];
@@ -201,7 +206,11 @@ function renderNode(node, prefix) {
   }
 
   // Secção (níveis 1 e 2): cabeçalho em texto; o conteúdo flui a seguir.
+<<<<<<< HEAD
   const style = node.level === 2 ? (SAFE ? s.h2plain : s.h2head) : s.h1;
+=======
+  const style = node.level === 2 ? s.h2head : s.h1;
+>>>>>>> origin/main
   return [h(Text, { key: "hb", __head: true, style }, titleText), ...kids];
 }
 
