@@ -14,6 +14,11 @@ import { parseMarkdown, sanitizarPdf } from "./mdToPdf.js";
 
 const h = React.createElement;
 
+// Modo seguro: cabeçalhos 100% planos (sem fundo/barra/pílula). É a rede de
+// segurança — se a versão bonita rebentar num conteúdo específico, o cliente
+// volta a gerar com safe:true e o PDF sai à mesma (ver ManualPDF.jsx).
+let SAFE = false;
+
 const INK = "#1a1a1a", SOFT = "#555555", GOLD = "#6b4f1d", LINE = "#cfc7b8";
 
 const s = StyleSheet.create({
@@ -43,7 +48,8 @@ const s = StyleSheet.create({
   h2text: { fontFamily: "Helvetica-Bold", fontSize: 12.5 },
   // Cabeçalho de secção (nível 2) como Text simples — cor de destaque em vez de
   // barra/caixa (Views estilizadas rebentam o layout em certas quebras de página).
-  h2head: { fontFamily: "Helvetica-Bold", fontSize: 12.5, color: GOLD, marginTop: 13, marginBottom: 4 },
+  h2head: { fontFamily: "Helvetica-Bold", fontSize: 12.5, color: GOLD, borderLeftWidth: 3, borderLeftColor: GOLD, paddingLeft: 8, marginTop: 13, marginBottom: 5 },
+  h2plain: { fontFamily: "Helvetica-Bold", fontSize: 12.5, color: GOLD, marginTop: 13, marginBottom: 5 },
 
   // Texto
   p: { marginBottom: 6, textAlign: "justify" },
@@ -59,7 +65,7 @@ const s = StyleSheet.create({
 
   // Caixa de destaque (callout)
   callout: { borderRadius: 5, padding: 10, marginVertical: 9, borderLeftWidth: 4 },
-  calloutLabel: { fontFamily: "Helvetica-Bold", fontSize: 8, letterSpacing: 1, textTransform: "uppercase", marginBottom: 5 },
+  calloutLabel: { fontFamily: "Helvetica-Bold", fontSize: 8, letterSpacing: 1, textTransform: "uppercase", paddingVertical: 2, paddingHorizontal: 6, borderRadius: 3, marginTop: 10, marginBottom: 4 },
   // Faixa de cabeçalho para destaques/conceitos que contêm sub-caixas (em vez
   // de embrulhar tudo numa caixa gigante que não parte e deixa buracos).
   calloutHead: { borderRadius: 5, borderLeftWidth: 4, paddingVertical: 7, paddingHorizontal: 10, marginTop: 12, marginBottom: 5 },
@@ -181,8 +187,9 @@ function renderNode(node, prefix) {
   // cor e etiqueta; o conteúdo flui sempre a seguir e parte naturalmente.
   // Destaque (callout): etiqueta em maiúsculas + título, ambos na cor do tema.
   if (kw) {
+    const labelStyle = SAFE ? [s.calloutLabel, { color: kw.fg }] : [s.calloutLabel, { color: kw.fg, backgroundColor: kw.bg }];
     return [
-      h(Text, { key: "l", __head: true, style: [s.calloutLabel, { color: kw.fg }] }, kw.label),
+      h(Text, { key: "l", __head: true, style: labelStyle }, kw.label),
       h(Text, { key: "t", __head: true, style: [s.cardTitle, { color: kw.fg }] }, titleText),
       ...kids,
     ];
@@ -194,7 +201,7 @@ function renderNode(node, prefix) {
   }
 
   // Secção (níveis 1 e 2): cabeçalho em texto; o conteúdo flui a seguir.
-  const style = node.level === 2 ? s.h2head : s.h1;
+  const style = node.level === 2 ? (SAFE ? s.h2plain : s.h2head) : s.h1;
   return [h(Text, { key: "hb", __head: true, style }, titleText), ...kids];
 }
 
@@ -227,7 +234,8 @@ function Markdown(md, prefix) {
   return glueHeads(renderChildren(nest(parseMarkdown(md)), prefix));
 }
 
-export function buildManualDocument({ curso, cadeira, unidades, hoje }) {
+export function buildManualDocument({ curso, cadeira, unidades, hoje, safe = false }) {
+  SAFE = !!safe;
   return h(Document, { title: `${cadeira.titulo} — Manual`, author: "SyntIA" }, [
     // Capa
     h(Page, { key: "cap", size: "A4", style: s.page }, h(View, { style: s.cover }, [
