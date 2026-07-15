@@ -1,0 +1,86 @@
+{
+  "geradoEm": "2026-07-15",
+  "fonte": "viviannedossantos.com — catálogo (jul 2026, do Levantamento)",
+  "livros": [
+    { "id": "os-7-sinais-de-desencaixe", "titulo": "Os 7 Sinais de Desencaixe", "preco": "€14", "precoAntigo": "€19", "porta": "O Limiar", "nota": "Livro ~50 mil palavras. O equilíbrio entre pertença e autenticidade." },
+    { "id": "as-sete-faces-do-medo", "titulo": "As Sete Faces do Medo", "preco": "$17", "porta": "O Medo", "nota": "Como o medo construiu escolhas, relações e vidas." },
+    { "id": "a-grande-transicao", "titulo": "A Grande Transição", "preco": "$27", "porta": "A Transição", "nota": "Introdução às Ciências da Consciência Emergente." }
+  ],
+  "ebooksFundadores": [
+    { "slug": "ebook-01-culpa", "titulo": "A culpa não é boa conselheira", "preco": "€7" },
+    { "slug": "ebook-02-herdaste", "titulo": "O que herdaste sem saber", "preco": "€7" },
+    { "slug": "ebook-03-quemes", "titulo": "Quem és para além do que fazes", "preco": "€7" },
+    { "slug": "ebook-04-sentido", "titulo": "O sentido que procuras", "preco": "€7" },
+    { "slug": "ebook-05-escuro", "titulo": "Atravessar o escuro", "preco": "€7" },
+    { "slug": "ebook-06-no-casal", "titulo": "O nó invisível do casal", "preco": "€7" },
+    { "slug": "ebook-07-sonho", "titulo": "Nem todo o sonho que carregas nasceu em ti", "preco": "€7" },
+    { "slug": "ebook-08-voz", "titulo": "De quem é esta voz?", "preco": "€7" }
+  ],
+  "guias": [
+    { "slug": "guia-01-meu", "titulo": "O que é meu, o que não é meu", "preco": "€5" },
+    { "slug": "guia-02-frases", "titulo": "7 frases para dizer não sem culpa", "preco": "€5" },
+    { "slug": "guia-03-presenca", "titulo": "Práticas de presença para o dia a dia", "preco": "€5" },
+    { "slug": "guia-04-mente", "titulo": "Esvaziar a mente em 3 passos", "preco": "€5" },
+    { "slug": "guia-05-luto", "titulo": "Ritual para o luto que ninguém vê", "preco": "€5" },
+    { "slug": "guia-06-perguntas", "titulo": "As 5 perguntas antes de uma discussão", "preco": "€5" },
+    { "slug": "guia-07-teu", "titulo": "O que é mesmo teu", "preco": "€5" },
+    { "slug": "guia-08-culpa", "titulo": "A culpa que não tem origem", "preco": "€5" },
+    { "slug": "guia-09-meta", "titulo": "De quem é esta meta?", "preco": "€5" },
+    { "slug": "guia-10-receber", "titulo": "Aprender a receber", "preco": "€5" },
+    { "slug": "guia-11-intensidade", "titulo": "Amor ou intensidade?", "preco": "€5" },
+    { "slug": "guia-12-lugar", "titulo": "O teu lugar à mesa", "preco": "€5" },
+    { "slug": "guia-13-guarda", "titulo": "Baixar a guarda em segurança", "preco": "€5" },
+    { "slug": "guia-14-parar", "titulo": "Quem és quando paras", "preco": "€5" }
+  ],
+  "colecoes": [
+    { "id": "freeme-mae", "titulo": "FreeMe Mãe", "tema": "maternidade", "sobre": "as feridas da maternidade (culpa, herança invisível, limites, dizer basta)", "ebooks": [
+      { "slug": "mae-01", "titulo": "Amar sem carregar" }, { "slug": "mae-02", "titulo": "A mãe que ficou" }, { "slug": "mae-03", "titulo": "A mãe que salva" }, { "slug": "mae-04", "titulo": "Amar e dizer basta" }, { "slug": "mae-05", "titulo": "A mãe que quis unir" }, { "slug": "mae-06", "titulo": "A mãe que cumpriu" }, { "slug": "mae-07", "titulo": "A mãe solo" }, { "slug": "mae-08", "titulo": "A mãe que não sentiu" }, { "slug": "mae-09", "titulo": "A mãe que criou à distância" }, { "slug": "mae-10", "titulo": "A mãe arrependida" }, { "slug": "mae-11", "titulo": "A mãe que teme pesar" }
+    ] },
+    { "id": "infonte", "titulo": "Infonte", "tema": "identidade/propósito", "sobre": "quem és para além do que fazes", "ebooks": [
+      { "slug": "inf-01", "titulo": "A mulher que nunca chega" }, { "slug": "inf-02", "titulo": "A mulher que persegue a próxima montanha" }, { "slug": "inf-03", "titulo": "A mulher que chegou e sentiu pouco" }, { "slug": "inf-04", "titulo": "A mulher que herdou uma vida" }, { "slug": "inf-05", "titulo": "A mulher que tem medo do próprio tamanho" }, { "slug": "inf-06", "titulo": "A mulher que não se autoriza a ganhar mais" }
+    ] },
+    { "id": "prosperidade", "titulo": "Prosperidade", "tema": "prosperidade", "sobre": "a relação com o valor (receber, merecer, cobrar)", "ebooks": [
+      { "slug": "pros-01", "titulo": "A mulher que paga para pertencer" }, { "slug": "pros-02", "titulo": "A mulher que tem medo de dever" }, { "slug": "pros-03", "titulo": "A mulher que transforma valor em trabalho" }, { "slug": "pros-04", "titulo": "A mulher que herdou a escassez" }, { "slug": "pros-05", "titulo": "A mulher que tem medo de receber" }, { "slug": "pros-06", "titulo": "A mulher que não consegue cobrar" }, { "slug": "pros-07", "titulo": "A mulher que não pode ter mais do que os outros" }
+    ] },
+    { "id": "synchim", "titulo": "SyncHim", "tema": "amor", "sobre": "a vinculação amorosa (perder-se quando se ama)", "ebooks": [
+      { "slug": "syn-01", "titulo": "A mulher que ama a ausência" }, { "slug": "syn-02", "titulo": "A mulher que se torna indispensável" }, { "slug": "syn-03", "titulo": "A mulher que desaparece no amor" }, { "slug": "syn-04", "titulo": "A mulher que espera ser escolhida" }, { "slug": "syn-05", "titulo": "A mulher que ama o potencial" }, { "slug": "syn-06", "titulo": "A mulher que nunca baixa a guarda" }, { "slug": "syn-07", "titulo": "A mulher que confunde intensidade com amor" }
+    ] },
+    { "id": "pertenca", "titulo": "Pertença", "tema": "pertença", "sobre": "família, lugar, ser escolhida", "ebooks": [
+      { "slug": "per-01", "titulo": "A pessoa que carrega a família" }, { "slug": "per-02", "titulo": "A pessoa que faz a ponte" }, { "slug": "per-03", "titulo": "A escolhida que carrega o que a família lhe entregou" }, { "slug": "per-04", "titulo": "A pessoa que ficou responsável cedo demais" }, { "slug": "per-05", "titulo": "A pessoa que não pertence em lado nenhum" }, { "slug": "per-06", "titulo": "A pessoa que nunca dá trabalho" }, { "slug": "per-07", "titulo": "A pessoa que mantém toda a gente ligada" }
+    ] },
+    { "id": "forca", "titulo": "Força", "tema": "corpo/sobrevivência", "sobre": "sobrevivência, o escuro, o luto invisível", "ebooks": [
+      { "slug": "for-01", "titulo": "A mulher que não pode falhar" }, { "slug": "for-02", "titulo": "A mulher que nunca pede" }, { "slug": "for-03", "titulo": "A mulher que não incomoda" }, { "slug": "for-04", "titulo": "A mulher que se tornou forte demais" }, { "slug": "for-05", "titulo": "A mulher que vive em modo sobrevivência" }, { "slug": "for-06", "titulo": "A mulher que não sabe receber ajuda" }
+    ] },
+    { "id": "trabalho-vocacao", "titulo": "Trabalho e Vocação", "tema": "trabalho", "sobre": "o valor pela produção", "ebooks": [
+      { "slug": "tra-01", "titulo": "A mulher que se tornou indispensável" }, { "slug": "tra-02", "titulo": "A mulher que não ocupa a cadeira" }, { "slug": "tra-03", "titulo": "A mulher que carrega a empresa" }, { "slug": "tra-04", "titulo": "A mulher que tem medo de ser vista" }, { "slug": "tra-05", "titulo": "A mulher que confunde exaustão com mérito" }, { "slug": "tra-06", "titulo": "A mulher que trabalha para merecer" }
+    ] }
+  ],
+  "packs": [
+    { "id": "pack-freeme-mae", "titulo": "Pack FreeMe Mãe", "preco": "€40", "precoAntigo": "€106" },
+    { "id": "pack-infonte", "titulo": "Pack Infonte", "preco": "€35", "precoAntigo": "€90" },
+    { "id": "pack-prosperidade", "titulo": "Pack Prosperidade" },
+    { "id": "pack-synchim", "titulo": "Pack SyncHim" },
+    { "id": "pack-pertenca", "titulo": "Pack Pertença" },
+    { "id": "pack-forca", "titulo": "Pack Força" },
+    { "id": "pack-trabalho-vocacao", "titulo": "Pack Trabalho e Vocação" },
+    { "id": "pack-tudo", "titulo": "Pack Tudo (catálogo inteiro)" }
+  ],
+  "contas": [
+    { "handle": "@vivianne.dos.santos", "papel": "conta-mãe (PT) — onde a mae.cine publica", "vende": false },
+    { "handle": "@viviannewrites", "papel": "conta-mãe (EN)", "vende": false },
+    { "handle": "@veu.a.veu", "papel": "didática (ensina, não vende)", "vende": false },
+    { "handle": "@soulab.studio", "papel": "laboratório (PT)", "vende": false },
+    { "handle": "@soulab_en", "papel": "laboratório (EN)", "vende": false },
+    { "handle": "@thesevenfacesoffear", "papel": "porta O Medo (EN)", "vende": true },
+    { "handle": "@assetefacesdomedo", "papel": "porta O Medo (PT)", "vende": true },
+    { "handle": "@theopenthreshold", "papel": "porta O Limiar (EN)", "vende": true },
+    { "handle": "@portadolimiar", "papel": "porta O Limiar (PT)", "vende": true },
+    { "handle": "@thegreat_transition", "papel": "porta A Transição (EN)", "vende": true },
+    { "handle": "@agrandetransicao", "papel": "porta A Transição (PT)", "vende": true }
+  ],
+  "abolidos": {
+    "produtos": ["metodo-vs", "os-sete-veus", "ver.soltar", "vir.soltar", "viver.soltar"],
+    "contas": ["synchim", "freeme", "infonte", "loranne", "ancient", "escola"],
+    "nota": "FreeMe/Infonte/SyncHim foram abolidos como CONTAS de Instagram, mas continuam vivos como COLEÇÕES de produto (ver 'colecoes')."
+  }
+}
