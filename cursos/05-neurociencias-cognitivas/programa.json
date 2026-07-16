@@ -1,0 +1,91 @@
+{
+  "curso": "Neurociências Cognitivas e Processos Psicológicos",
+  "area": "Saúde",
+  "disciplinas": [
+    {
+      "id": "desenvolvimento-profissional",
+      "titulo": "Desenvolvimento Profissional",
+      "ementa": [
+        "Liderança e autoconhecimento",
+        "Comunicação eficaz",
+        "Empreendedorismo e inovação",
+        "Propósito e ética"
+      ]
+    },
+    {
+      "id": "neurociencia-cognicao-emocao",
+      "titulo": "Neurociência da Cognição e da Emoção",
+      "ementa": [
+        "Sistemas cognitivos e seu funcionamento",
+        "Bases psicológicas e neurais do cérebro",
+        "Distúrbios mentais e neurológicos",
+        "Neurociência da aprendizagem"
+      ]
+    },
+    {
+      "id": "a-neuropsicologia",
+      "titulo": "A Neuropsicologia",
+      "ementa": [
+        "Cognição social e funções executivas",
+        "Inteligência e psicometria",
+        "Reabilitação neuropsicológica",
+        "Transtornos globais do desenvolvimento (CID / DSM)"
+      ]
+    },
+    {
+      "id": "bases-neuropsicologicas-desenvolvimento-psicomotor",
+      "titulo": "Bases Neuropsicológicas do Desenvolvimento Psicomotor",
+      "ementa": [
+        "Neurociência e psicomotricidade",
+        "Teoria neuropsicológica de Luria",
+        "Ontogénese da motricidade",
+        "Avaliação psicomotora"
+      ]
+    },
+    {
+      "id": "psicofarmacologia",
+      "titulo": "Psicofarmacologia",
+      "ementa": [
+        "Farmacologia clínica dos transtornos psiquiátricos",
+        "Farmacoterapia",
+        "Protocolos e planeamento terapêutico"
+      ]
+    },
+    {
+      "id": "neurociencias-comunicacao-linguagem",
+      "titulo": "Neurociências - Comunicação e Linguagem",
+      "ementa": [
+        "Processamento e aquisição de linguagem",
+        "Neurolinguística e distúrbios de linguagem",
+        "Fundamentos neurobiológicos da linguagem"
+      ]
+    },
+    {
+      "id": "psicolinguistica-experimental",
+      "titulo": "Psicolinguística Experimental",
+      "ementa": [
+        "Processamento linguístico",
+        "Défices relacionados à linguagem",
+        "Métodos experimentais"
+      ]
+    },
+    {
+      "id": "psicobiologia",
+      "titulo": "Psicobiologia",
+      "ementa": [
+        "Fundamentos psicobiológicos da emoção, atenção e memória",
+        "Bases biológicas dos transtornos emocionais",
+        "Paradigmas experimentais"
+      ]
+    },
+    {
+      "id": "processos-psicologicos-basicos",
+      "titulo": "Processos Psicológicos Básicos e seus Fundamentos",
+      "ementa": [
+        "Relações entre cérebro e comportamento",
+        "Neuroanatomia e neurofisiologia",
+        "Sensação, perceção, atenção e memória"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "curso": "Neuropsicanálise",
+  "area": "Saúde",
+  "disciplinas": [
+    {
+      "id": "desenvolvimento-profissional",
+      "titulo": "Desenvolvimento Profissional",
+      "ementa": [
+        "Liderança",
+        "Comunicação",
+        "Empreendedorismo e inovação",
+        "Propósito e ética"
+      ]
+    },
+    {
+      "id": "contribuicoes-neuropsicologia-equipe-interdisciplinar",
+      "titulo": "Contribuições da Neuropsicologia à Equipe Interdisciplinar",
+      "ementa": [
+        "Formação da neuropsicologia como campo científico",
+        "Campos de estudo da neuropsicologia",
+        "Neuropsicologia hospitalar e na educação",
+        "Neuropsicologia no esporte e forense"
+      ]
+    },
+    {
+      "id": "patologias-sistema-nervoso-central",
+      "titulo": "Patologias do Sistema Nervoso Central",
+      "ementa": [
+        "Paralisia cerebral e escleroses",
+        "Transtornos neurocognitivos (AVC, Alzheimer, Parkinson)",
+        "Transtornos do desenvolvimento (TDAH, TEA)",
+        "Transtornos específicos da aprendizagem"
+      ]
+    },
+    {
+      "id": "neuroanatomia-neurofisiologia",
+      "titulo": "Neuroanatomia e Neurofisiologia",
+      "ementa": [
+        "Organização do sistema nervoso",
+        "Estruturas cerebrais e funções",
+        "Fisiologia do neurónio e da sinapse"
+      ]
+    },
+    {
+      "id": "psicanalise-freud-klein",
+      "titulo": "Psicanálise para Sigmund Freud e Melanie Klein",
+      "ementa": [
+        "Fundamentos da psicanálise freudiana",
+        "O aparelho psíquico",
+        "Melanie Klein e as relações de objeto",
+        "Desenvolvimento emocional primitivo"
+      ]
+    },
+    {
+      "id": "avaliacao-neuropsicologica",
+      "titulo": "Avaliação Neuropsicológica",
+      "ementa": [
+        "Instrumentos e testes",
+        "Funções cognitivas avaliadas",
+        "Interpretação e laudo"
+      ]
+    },
+    {
+      "id": "psicanalise-e-neurociencias",
+      "titulo": "Psicanálise e as Neurociências",
+      "ementa": [
+        "A ponte entre psicanálise e neurociência",
+        "Freud neurologista e o Projeto",
+        "Afeto, memória e inconsciente à luz do cérebro"
+      ]
+    },
+    {
+      "id": "bases-neurologicas-psicose-neurose",
+      "titulo": "Bases Neurológicas da Psicose e da Neurose: Visão Psicanalítica",
+      "ementa": [
+        "Neurose e psicose na visão psicanalítica",
+        "Correlatos neurológicos",
+        "Sintoma, sentido e processo terapêutico"
+      ]
+    }
+  ]
+}

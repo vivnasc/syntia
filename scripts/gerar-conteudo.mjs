@@ -206,6 +206,19 @@ function lerPrograma(cursoDir) {
   }
 }
 
+// Título do curso: usa o campo "curso" do programa.json se existir; senão
+// deriva do nome da pasta (prettify).
+function tituloDoCurso(cursoDir, cursoId) {
+  const p = path.join(cursoDir, "programa.json");
+  if (existe(p)) {
+    try {
+      const t = JSON.parse(fs.readFileSync(p, "utf-8")).curso;
+      if (t && typeof t === "string") return t.trim();
+    } catch { /* ignora */ }
+  }
+  return prettify(cursoId);
+}
+
 // "U1_Aula05_Historico_Geral_dos_Sistemas_P2" → unidade 1
 function unidadeDe(nome) {
   const m = nome.match(/^U(\d+)/i);
@@ -361,7 +374,7 @@ function main() {
     for (const cursoId of fs.readdirSync(cursosDir).sort()) {
       const cursoDir = path.join(cursosDir, cursoId);
       if (!isDir(cursoDir)) continue;
-      const cursoTitulo = prettify(cursoId);
+      const cursoTitulo = tituloDoCurso(cursoDir, cursoId);
       const materiaisCurso = copiarMaterial(path.join(cursoDir, "_material"), `${cursoId}/__curso`);
 
       // As cadeiras (disciplinas) vêm do programa.json — currículo completo,
