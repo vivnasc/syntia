@@ -1,0 +1,96 @@
+{
+  "curso": "Neurociências do Desenvolvimento Humano",
+  "area": "Saúde",
+  "disciplinas": [
+    {
+      "id": "desenvolvimento-pessoal",
+      "titulo": "Desenvolvimento Pessoal e Profissional nas Carreiras da Saúde",
+      "partilhada": true,
+      "ementa": [
+        "Inteligência emocional",
+        "Desenvolvimento de competências e habilidades profissionais",
+        "Trabalho em saúde",
+        "Saúde mental do trabalhador da saúde (burnout)"
+      ]
+    },
+    {
+      "id": "neuroanatomia-funcional",
+      "titulo": "Neuroanatomia Funcional",
+      "ementa": [
+        "Organização do sistema nervoso e tipos celulares",
+        "Estruturas do cérebro e núcleos da base",
+        "Tronco encefálico, cerebelo e medula espinal",
+        "Sistema límbico, vias sensoriais e motoras, vascularização"
+      ]
+    },
+    {
+      "id": "evolucao-das-neurociencias",
+      "titulo": "Evolução das Neurociências",
+      "ementa": [
+        "Antiguidade clássica e Idade Média",
+        "Localização cortical e transmissão sináptica",
+        "Cognição, aprendizado e memória",
+        "Novos avanços nas neurociências"
+      ]
+    },
+    {
+      "id": "embriologia-fisiologia-sistema-nervoso",
+      "titulo": "Embriologia e Fisiologia do Sistema Nervoso",
+      "ementa": [
+        "Embriologia do sistema nervoso",
+        "Fisiologia do neurónio e da sinapse",
+        "Neurotransmissores e neuromoduladores",
+        "Plasticidade do sistema nervoso"
+      ]
+    },
+    {
+      "id": "cerebro-do-aprendiz",
+      "titulo": "O Cérebro do Aprendiz",
+      "ementa": [
+        "Bases neurais da aprendizagem",
+        "Memória e consolidação",
+        "Atenção e motivação",
+        "Neurociência aplicada à educação"
+      ]
+    },
+    {
+      "id": "cerebro-crianca-adolescente",
+      "titulo": "O Cérebro da Criança e do Adolescente",
+      "ementa": [
+        "Neurodesenvolvimento infantil",
+        "Desenvolvimento do cérebro adolescente",
+        "Comportamento e regulação emocional",
+        "Janelas de desenvolvimento"
+      ]
+    },
+    {
+      "id": "doencas-neurologicas-criancas-adolescentes",
+      "titulo": "Doenças Neurológicas em Crianças e Adolescentes",
+      "ementa": [
+        "Transtornos do neurodesenvolvimento",
+        "Principais quadros na infância e adolescência",
+        "Sinais de alerta e encaminhamento"
+      ]
+    },
+    {
+      "id": "cerebro-adulto-idoso",
+      "titulo": "O Cérebro do Adulto e do Idoso",
+      "ementa": [
+        "Cérebro adulto e maturidade",
+        "Envelhecimento cerebral",
+        "Cognição ao longo da vida",
+        "Reserva cognitiva"
+      ]
+    },
+    {
+      "id": "doencas-neurodegenerativas-idosos",
+      "titulo": "Doenças Neurodegenerativas de Idosos",
+      "ementa": [
+        "Demências e doença de Alzheimer",
+        "Doença de Parkinson",
+        "Outras neurodegenerações",
+        "Qualidade de vida e cuidado"
+      ]
+    }
+  ]
+}
