@@ -38,18 +38,39 @@ for (const id of IDS) {
   const corpo = lista.slice(0, CAP).map((x) => `      '${esc(x)}',`).join("\n");
 
   // Encontra o bloco do curso pelo id e substitui só o array de conceitos desse
-  // bloco (do 'conceitos: [' até ao primeiro '],'). O 'descricao' é uma string
-  // de aspas simples que não contém '],', por isso o não-guloso é seguro.
+  // bloco (do 'conceitos: [' até ao ']' de fecho). Tolerante ao espaçamento
+  // (uma linha ou várias). Os conceitos não contêm ']', por isso o não-guloso
+  // pára no fecho certo; o 'descricao' é string de aspas simples, sem ']'.
   const re = new RegExp(
-    `(id:\\s*'${id}'[\\s\\S]*?conceitos:\\s*\\[\\n)([\\s\\S]*?)(\\n[ \\t]*\\],)`
+    `(id:\\s*'${id}'[\\s\\S]*?conceitos:\\s*\\[)([\\s\\S]*?)(\\])`
   );
   if (!re.test(texto)) {
     process.stderr.write(`! ${id}: bloco não encontrado no ficheiro — não mexo\n`);
     continue;
   }
-  texto = texto.replace(re, (_m, ini, _antigo, fim) => `${ini}${corpo}${fim}`);
+  texto = texto.replace(re, (_m, ini, _antigo, fim) => `${ini}\n${corpo}\n    ${fim}`);
   trocados++;
   process.stderr.write(`✓ ${id}: ${Math.min(lista.length, CAP)} conceitos atualizados\n`);
+}
+
+// Rede de segurança: se a função conceitosDosCursos não existir no ficheiro
+// (ex.: uma versão anterior do robô apagou-a), repõe-na. 15+ motores importam-na;
+// sem ela o build parte. É idempotente — só entra quando falta.
+if (!/conceitosDosCursos/.test(texto)) {
+  const FN = [
+    "",
+    "// Cerebro academico: TODA a biblioteca de conceitos das 4 pos-graduacoes,",
+    "// rotulada por curso. Injetada como profundidade nos motores (nunca a superficie).",
+    "// (_seed/_n mantidos por compatibilidade; ja nao se amostra, injeta-se tudo.)",
+    "export function conceitosDosCursos(_seed = 0, _n = 0): string {",
+    "  return CURSOS",
+    "    .map((c) => `${c.nome}: ${c.conceitos.join(' · ')}`)",
+    "    .join('\\n');",
+    "}",
+    "",
+  ].join("\n");
+  texto = texto.replace(/\s*$/, "\n") + FN;
+  process.stderr.write("+ conceitosDosCursos estava em falta — repus a função\n");
 }
 
 process.stderr.write(`\nCursos atualizados: ${trocados}/${IDS.length}\n`);
