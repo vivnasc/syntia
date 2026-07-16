@@ -73,8 +73,11 @@ jobs:
             echo "Conceitos já iguais — nada a fazer."
             exit 0
           fi
-          git config user.name "syntia-bot"
-          git config user.email "syntia-bot@users.noreply.github.com"
+          # Commita com a identidade da Vivianne (não um bot) para o Vercel
+          # autorizar o deploy de produção (deploys de autores externos ficam
+          # "Blocked"). O push continua a ser feito com o VIVIANNEPAG_TOKEN.
+          git config user.name "vivnasc"
+          git config user.email "61882995+vivnasc@users.noreply.github.com"
           git add lib/infografico/cursos.ts
           git commit -m "Conceitos dos cursos atualizados a partir da Syntia (automático)"
           for n in 1 2 3 4; do
