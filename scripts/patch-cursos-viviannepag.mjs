@@ -15,8 +15,32 @@
 
 import fs from "node:fs";
 
-const MIN = 8;    // mínimo de conceitos da Syntia para substituir (senão mantém)
-const CAP = 200;  // teto de segurança (a app injeta a biblioteca toda; sem cortar de facto)
+const MIN = 8;         // mínimo de conceitos para substituir (senão mantém o atual)
+const CAP = Infinity;  // sem teto: injeta-se a biblioteca toda (custo é ~cêntimos/mês)
+
+// Constelação: a matéria carregada mistura conceitos reais de constelação
+// (Ordens do Amor, Emaranhamento, Pertencimento…) com ruído de administração
+// (OSM, administração científica, teoria burocrática) que veio nas mesmas aulas.
+// Estratégia:
+//  - se NÃO houver sinais de constelação, usa a lista à mão (MAO_CONSTELACAO);
+//  - se houver, mantém os conceitos da Syntia mas TIRA o ruído de OSM (LIXO)
+//    e reforça com o vocabulário de Hellinger que faltar.
+const SINAIS_CONSTELACAO = /hellinger|ordens do amor|lealdad|perten|constela|sist[eé]mica familiar|campo morfogen|parentifica|emaranha/i;
+const LIXO_CONSTELACAO = /organograma|fluxograma|formul[áa]rio|\bosm\b|administra[çc]|burocr|revolu[çc][ãa]o industrial|estrutura organizacional|[áa]reas funcionais|fun[çc][õo]es administrativ|escola das rela[çc]|teoria cl[áa]ssica|teoria comportamental|\blayout\b|reorganiza|^\s*organiza[çc][ãa]o\s*$|^\s*m[ée]todo\s*$/i;
+const MAO_CONSTELACAO = [
+  "As Ordens do Amor",
+  "O direito de pertencer",
+  "Dar e receber em equilíbrio",
+  "Lealdades invisíveis",
+  "O campo morfogenético",
+  "Parentificação: ser mãe da mãe",
+  "O sintoma como amor",
+  "Amor cego vs amor consciente",
+  "Segredos e excluídos do sistema",
+  "Emaranhamentos transgeracionais",
+  "Hierarquia e ordem de chegada",
+  "Frases de solução (frases que curam)",
+];
 
 const cursosPath = process.argv[2];
 const saberPath = process.argv[3] || "public/saber.json";
@@ -30,9 +54,25 @@ const IDS = ["transpessoal", "constelacao", "espiritualidade", "desenvolvimento"
 
 let trocados = 0;
 for (const id of IDS) {
-  const lista = Array.isArray(cc[id]) ? cc[id] : [];
+  let lista = Array.isArray(cc[id]) ? cc[id] : [];
+
+  // Constelação: limpar o ruído de OSM e garantir o vocabulário de Hellinger.
+  if (id === "constelacao") {
+    if (!lista.some((x) => SINAIS_CONSTELACAO.test(x))) {
+      process.stderr.write("~ constelacao: sem sinais de constelação — uso a lista à mão até chegarem as aulas de Hellinger\n");
+      lista = MAO_CONSTELACAO;
+    } else {
+      const limpa = lista.filter((x) => !LIXO_CONSTELACAO.test(x));
+      const vistos = new Set(limpa.map((s) => s.toLowerCase()));
+      const reforco = MAO_CONSTELACAO.filter((h) => !vistos.has(h.toLowerCase()));
+      const removidos = lista.length - limpa.length;
+      lista = [...limpa, ...reforco];
+      process.stderr.write(`~ constelacao: removi ${removidos} termos de OSM/administração e reforcei com ${reforco.length} de Hellinger\n`);
+    }
+  }
+
   if (lista.length < MIN) {
-    process.stderr.write(`- ${id}: só ${lista.length} conceitos da Syntia (< ${MIN}) — mantenho o que já lá está\n`);
+    process.stderr.write(`- ${id}: só ${lista.length} conceitos (< ${MIN}) — mantenho o que já lá está\n`);
     continue;
   }
   const corpo = lista.slice(0, CAP).map((x) => `      '${esc(x)}',`).join("\n");
