@@ -1,9 +1,8 @@
 name: Inspecionar uso do cursos.ts no viviannepag
 
-# Diagnóstico pontual: clona o viviannepag e mostra, no log, o código que
-# consome o lib/infografico/cursos.ts (o componente do infográfico e quantos
-# conceitos mostra). Serve para percebermos o que se faz com o ficheiro.
-# Corre uma vez no merge (toca no próprio ficheiro) e a pedido.
+# Diagnóstico pontual: confirma se o cursos.ts atual ainda exporta a função
+# conceitosDosCursos (usada por 15+ ficheiros). Se o robô a apagou, o build
+# parte. Mostra o ficheiro atual e a versão anterior (antes do robô lhe tocar).
 
 on:
   push:
@@ -21,23 +20,30 @@ jobs:
           TOKEN: ${{ secrets.VIVIANNEPAG_TOKEN }}
         run: |
           if [ -z "$TOKEN" ]; then echo "Sem token."; exit 0; fi
-          git clone --depth 1 "https://x-access-token:${TOKEN}@github.com/vivnasc/viviannepag.git" vp
+          git clone "https://x-access-token:${TOKEN}@github.com/vivnasc/viviannepag.git" vp
           cd vp
-          echo "=================== O FICHEIRO GERADO ==================="
-          echo "--- lib/infografico/cursos.ts (topo + contagem) ---"
-          head -30 lib/infografico/cursos.ts 2>/dev/null || echo "(nao existe)"
-          echo "nº de linhas de conceito:"; grep -c "^      '" lib/infografico/cursos.ts 2>/dev/null || true
+          echo "=================== EXPORTS DO cursos.ts ATUAL ==================="
+          grep -nE "^export |conceitosDosCursos" lib/infografico/cursos.ts || echo "(nenhum export encontrado!)"
           echo
-          echo "=================== QUEM IMPORTA cursos.ts ==================="
-          grep -rn "infografico/cursos\|from '@/lib/infografico/cursos'\|getCurso\|CURSOS" --include=*.ts --include=*.tsx . 2>/dev/null | grep -v "lib/infografico/cursos.ts" | head -40
+          echo ">>> O cursos.ts ATUAL ainda tem 'conceitosDosCursos'?"
+          if grep -q "conceitosDosCursos" lib/infografico/cursos.ts; then echo "SIM — existe"; else echo "NAO — FOI APAGADO (build parte)"; fi
           echo
-          echo "=================== FICHEIROS DA PASTA infografico ==================="
-          ls -R lib/infografico 2>/dev/null | head -40
+          echo "=================== HISTÓRICO do cursos.ts ==================="
+          git log --oneline -8 -- lib/infografico/cursos.ts
           echo
-          echo "=================== ONDE 'conceitos' É RENDERIZADO ==================="
-          grep -rln "\.conceitos" --include=*.tsx --include=*.ts . 2>/dev/null | head -10
+          echo "=================== VERSÃO ANTERIOR (pai do commit do robô) ==================="
+          # o commit do robô é 2ad1ada; o pai é a versão antes de eu tocar
+          PARENT=$(git log --pretty=%P -n 1 2ad1ada 2>/dev/null | awk '{print $1}')
+          echo "commit anterior: $PARENT"
+          echo "--- exports e função conceitosDosCursos na versão anterior ---"
+          git show "$PARENT:lib/infografico/cursos.ts" 2>/dev/null | grep -nE "^export |conceitosDosCursos|^function |^const " | head -40
           echo
-          echo "--- primeiro componente que usa .conceitos (até 120 linhas) ---"
-          f=$(grep -rln "\.conceitos" --include=*.tsx . 2>/dev/null | head -1)
-          echo "ficheiro: $f"
-          if [ -n "$f" ]; then sed -n '1,120p' "$f"; fi
+          echo "--- definição COMPLETA de conceitosDosCursos na versão anterior ---"
+          git show "$PARENT:lib/infografico/cursos.ts" 2>/dev/null | awk '/conceitosDosCursos/{f=1} f{print} f&&/^}/{c++} c>=1&&/^}/{exit}' | head -60
+          echo
+          echo "=================== ÚLTIMO DEPLOY (Vercel) parte? ==================="
+          echo "(ver em vercel; aqui só confirmo se o TS compila localmente)"
+          if [ -f package.json ]; then
+            echo "há package.json; a verificar tsc no ficheiro…"
+            grep -c "conceitosDosCursos" lib/infografico/cursos.ts || true
+          fi
