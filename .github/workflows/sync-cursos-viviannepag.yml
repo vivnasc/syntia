@@ -54,13 +54,19 @@ jobs:
             echo "!! $DEST não existe no viviannepag — aborto sem tocar em nada."
             exit 1
           fi
-          # Edita SÓ as listas de conceitos no ficheiro existente (preserva o resto).
+          # Edita as listas de conceitos e cria cursos novos, in-place (preserva o resto).
           node scripts/patch-cursos-viviannepag.mjs "$DEST" public/saber.json > /tmp/cursos.ts
-          # Segurança: só aceita o resultado se a conceitosDosCursos continuar lá.
-          if ! grep -q "conceitosDosCursos" /tmp/cursos.ts; then
-            echo "!! resultado sem conceitosDosCursos — recuso escrever (protejo o build)."
-            exit 1
-          fi
+          # Trava de segurança: recuso escrever se algo essencial se partir.
+          #  1) conceitosDosCursos tem de continuar lá (15+ motores importam-na);
+          #  2) chavetas e parênteses retos têm de ficar equilibrados.
+          node -e '
+            const t = require("fs").readFileSync("/tmp/cursos.ts","utf8");
+            const bal = (a,b) => (t.split(a).length === t.split(b).length);
+            if (!/conceitosDosCursos/.test(t)) { console.error("sem conceitosDosCursos"); process.exit(1); }
+            if (!bal("{","}") || !bal("[","]")) { console.error("estrutura desequilibrada"); process.exit(1); }
+            if (!/export const CURSOS/.test(t)) { console.error("sem CURSOS"); process.exit(1); }
+            console.log("verificacao de seguranca: OK");
+          ' || { echo "!! resultado inseguro — recuso escrever (protejo o build)."; exit 1; }
           cp /tmp/cursos.ts "$DEST"
           cd vp
           if git diff --quiet -- lib/infografico/cursos.ts; then
