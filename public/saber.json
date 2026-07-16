@@ -1,6 +1,6 @@
 {
-  "geradoEm": "2026-07-16T07:39:33.350Z",
-  "fonte": "Syntia · pós-graduações (Transpessoal, Constelação Sistémica, Psicologia e Espiritualidade, Desenvolvimento Pessoal)",
+  "geradoEm": "2026-07-16T08:26:01.610Z",
+  "fonte": "Syntia · pós-graduações",
   "materias": [
     {
       "curso": "Constelação Familiar Sistémica",
@@ -444,25 +444,8 @@
       "Feedback",
       "Família como sistema",
       "Família aberta vs. fechada",
-      "Organização",
-      "Método",
-      "OSM",
-      "Organogramas, formulários, fluxogramas",
-      "Objetivos do OSM",
-      "Funções administrativas/operacionais",
-      "Áreas funcionais",
-      "Organização e reorganização",
-      "Estrutura organizacional",
-      "Layout",
-      "Revolução Industrial como ponto de partida",
-      "Administração Científica",
-      "Teoria Clássica",
-      "Teoria Burocrática",
-      "Escola das Relações Humanas",
-      "Teoria Comportamental",
       "Teoria dos Sistemas",
       "Teoria da Contingência",
-      "Paradigma positivista na administração",
       "Teoria das Relações Humanas",
       "Escola Comportamental",
       "Variáveis enfatizadas por cada escola",
@@ -524,7 +507,19 @@
       "Bonecos e âncoras",
       "Ressignificação",
       "Autoconhecimento",
-      "Ordem familiar restaurada"
+      "Ordem familiar restaurada",
+      "As Ordens do Amor",
+      "O direito de pertencer",
+      "Dar e receber em equilíbrio",
+      "Lealdades invisíveis",
+      "O campo morfogenético",
+      "Parentificação: ser mãe da mãe",
+      "O sintoma como amor",
+      "Amor cego vs amor consciente",
+      "Segredos e excluídos do sistema",
+      "Emaranhamentos transgeracionais",
+      "Hierarquia e ordem de chegada",
+      "Frases de solução (frases que curam)"
     ],
     "espiritualidade": [
       "Espiritualidade",
@@ -982,7 +977,47 @@
       "Autocompaixão como pilar do bem-estar",
       "Qualidade de vida como construção diária"
     ],
-    "desenvolvimento": []
+    "desenvolvimento": [],
+    "neuro-desenvolvimento": [],
+    "neuro-cognitivas": [],
+    "neuropsicanalise": []
+  },
+  "cursosMeta": {
+    "transpessoal": {
+      "nome": "Psicologia Transpessoal",
+      "descricao": "Bio · psíquico · social · espiritual. Oriente e Ocidente em diálogo.",
+      "mundo": "escola"
+    },
+    "constelacao": {
+      "nome": "Constelação Familiar Sistémica",
+      "descricao": "Bert Hellinger e as Ordens do Amor. A pessoa dentro dos seus sistemas.",
+      "mundo": "synchim"
+    },
+    "espiritualidade": {
+      "nome": "Psicologia e Espiritualidade",
+      "descricao": "Espiritualidade como sentido, propósito e qualidade de vida.",
+      "mundo": "autora"
+    },
+    "desenvolvimento": {
+      "nome": "Desenvolvimento Pessoal e Profissional",
+      "descricao": "Cadeira comum: carreira, comunicação e saúde do cuidador.",
+      "mundo": "infonte"
+    },
+    "neuro-desenvolvimento": {
+      "nome": "Neurociências do Desenvolvimento Humano",
+      "descricao": "Como o cérebro se desenvolve e envelhece: infância, adolescência, adulto, idoso.",
+      "mundo": "freeme"
+    },
+    "neuro-cognitivas": {
+      "nome": "Neurociências Cognitivas e Processos Psicológicos",
+      "descricao": "Bases biológicas da cognição, emoção, atenção, memória e linguagem.",
+      "mundo": "escola"
+    },
+    "neuropsicanalise": {
+      "nome": "Neuropsicanálise",
+      "descricao": "A ponte entre a psicanálise e o cérebro: afeto, memória e inconsciente.",
+      "mundo": "autora"
+    }
   },
   "banco": [
     {

@@ -435,13 +435,17 @@ function main() {
             .map((u) => ({ n: u.n, objetivos: u.objetivos || "", resumo: u.resumo || "", aulas: (u.aulas || []).map((a) => a.titulo) })),
         })),
     })).filter((c) => c.cadeiras.length);
+  const { conceitosCurso, cursosMeta } = conceitosPorCurso();
   const saber = {
     geradoEm: conteudo.geradoEm,
-    fonte: "Syntia · pós-graduações (Transpessoal, Constelação Sistémica, Psicologia e Espiritualidade, Desenvolvimento Pessoal)",
+    fonte: "Syntia · pós-graduações",
     materias,
     // Conceitos-chave por curso, no formato do lib/infografico/cursos.ts do
     // viviannepag — extraídos das aulas reais, para deixarem de ser à mão.
-    conceitosCurso: conceitosPorCurso(),
+    conceitosCurso,
+    // Metadados de cada curso (nome/descrição/paleta) para o robô poder CRIAR
+    // entradas novas no viviannepag sozinho quando um curso novo ganha conteúdo.
+    cursosMeta,
     banco: banco.map((b) => ({ temas: b.temas, produto: b.produto, ideia: b.ideia, texto: b.texto, curso: b.cursoTitulo || b.curso, cadeira: b.areaTitulo || b.cadeira })),
   };
   fs.mkdirSync(path.join(ROOT, "public"), { recursive: true });
@@ -485,19 +489,93 @@ function conceitosDoCurso(cadeiraDirs) {
   }
   return conceitos;
 }
-// Mapeia os 4 cursos do viviannepag para as pastas da Syntia.
+// ────────────────────────────────────────────────────────────────────────────
+// PONTE Syntia → viviannepag (conceitos dos cursos), GENÉRICA e AUTÓNOMA.
+//
+// Cada curso da Syntia mapeia para um curso do viviannepag (id/nome/paleta) e,
+// se precisar, para um FILTRO de domínio (limpar ruído fora da marca). Cursos
+// novos que não estejam na lista entram na mesma, com valores derivados do
+// próprio curso — a ponte deteta-os sozinha, sem ninguém tocar no código.
+//
+// Paletas válidas no viviannepag (type Mundo): freeme | infonte | synchim |
+// escola | autora.
+const MUNDOS = ["freeme", "infonte", "synchim", "escola", "autora"];
+const CURSOS_PONTE = [
+  { slug: "02-psicologia-transpessoal", key: "transpessoal", nome: "Psicologia Transpessoal", descricao: "Bio · psíquico · social · espiritual. Oriente e Ocidente em diálogo.", mundo: "escola", filtro: null },
+  { slug: "01-constelacao-sistemica", key: "constelacao", nome: "Constelação Familiar Sistémica", descricao: "Bert Hellinger e as Ordens do Amor. A pessoa dentro dos seus sistemas.", mundo: "synchim", filtro: "constelacao" },
+  { slug: "03-psicologia-espiritualidade", key: "espiritualidade", nome: "Psicologia e Espiritualidade", descricao: "Espiritualidade como sentido, propósito e qualidade de vida.", mundo: "autora", filtro: null },
+  { slug: "__partilhada", key: "desenvolvimento", nome: "Desenvolvimento Pessoal e Profissional", descricao: "Cadeira comum: carreira, comunicação e saúde do cuidador.", mundo: "infonte", filtro: null },
+  { slug: "04-neurociencias-desenvolvimento-humano", key: "neuro-desenvolvimento", nome: "Neurociências do Desenvolvimento Humano", descricao: "Como o cérebro se desenvolve e envelhece: infância, adolescência, adulto, idoso.", mundo: "freeme", filtro: "neuro" },
+  { slug: "05-neurociencias-cognitivas", key: "neuro-cognitivas", nome: "Neurociências Cognitivas e Processos Psicológicos", descricao: "Bases biológicas da cognição, emoção, atenção, memória e linguagem.", mundo: "escola", filtro: "neuro" },
+  { slug: "06-neuropsicanalise", key: "neuropsicanalise", nome: "Neuropsicanálise", descricao: "A ponte entre a psicanálise e o cérebro: afeto, memória e inconsciente.", mundo: "autora", filtro: "neuro" },
+];
+
+// Filtros de domínio: tiram o ruído que não é da marca e reforçam o essencial.
+const SINAIS_CONSTELACAO = /hellinger|ordens do amor|lealdad|perten|constela|sist[eé]mica familiar|campo morfogen|parentifica|emaranha/i;
+const LIXO_CONSTELACAO = /organograma|fluxograma|formul[áa]rio|\bosm\b|administra[çc]|burocr|revolu[çc][ãa]o industrial|estrutura organizacional|[áa]reas funcionais|fun[çc][õo]es administrativ|escola das rela[çc]|teoria cl[áa]ssica|teoria comportamental|\blayout\b|reorganiza|^\s*organiza[çc][ãa]o\s*$|^\s*m[ée]todo\s*$/i;
+const MAO_CONSTELACAO = [
+  "As Ordens do Amor", "O direito de pertencer", "Dar e receber em equilíbrio",
+  "Lealdades invisíveis", "O campo morfogenético", "Parentificação: ser mãe da mãe",
+  "O sintoma como amor", "Amor cego vs amor consciente", "Segredos e excluídos do sistema",
+  "Emaranhamentos transgeracionais", "Hierarquia e ordem de chegada", "Frases de solução (frases que curam)",
+];
+// Neurociências: tira a parte clínico-médica (farmacologia, patologia, diagnóstico)
+// que não é a voz da marca; mantém a neurobiologia útil (plasticidade, emoção,
+// memória, desenvolvimento, vínculo, aprendizagem).
+const LIXO_NEURO = /psicofarmac|farmacolog|f[áa]rmaco|posologia|\bdose\b|medicament|antidepress|neurol[ée]ptic|ansiol[íi]tic|cid-?\s?10|dsm|diagn[óo]stic|\blaudo\b|reabilita[çc]|transtorno neurocognitivo|alzheimer|parkinson|huntington|escleros|epilepsia|\bavc\b|hidrocefalia|paralisia cerebral|demência|patolog|psiquiátric|esclerose|tumor|les[ãa]o cerebral traum/i;
+
+function aplicarFiltro(id, lista) {
+  if (id === "constelacao") {
+    if (!lista.some((x) => SINAIS_CONSTELACAO.test(x))) return MAO_CONSTELACAO;
+    const limpa = lista.filter((x) => !LIXO_CONSTELACAO.test(x));
+    const vistos = new Set(limpa.map((s) => s.toLowerCase()));
+    return [...limpa, ...MAO_CONSTELACAO.filter((h) => !vistos.has(h.toLowerCase()))];
+  }
+  if (id === "neuro") return lista.filter((x) => !LIXO_NEURO.test(x));
+  return lista;
+}
+
+const cadeirasDe = (cursoSlug) => {
+  if (cursoSlug === "__partilhada") return [path.join(ROOT, "disciplina-partilhada")];
+  const base = path.join(ROOT, "cursos", cursoSlug);
+  if (!isDir(base)) return [];
+  return fs.readdirSync(base).map((d) => path.join(base, d)).filter((p) => isDir(p) && path.basename(p) !== "_material");
+};
+
+// Gera conceitos + metadados por curso para o viviannepag. Percorre a config
+// e ACRESCENTA qualquer curso novo em cursos/ que ainda não esteja mapeado,
+// para a ponte funcionar sem editar código.
 function conceitosPorCurso() {
-  const cadeirasDe = (cursoId) => {
-    const base = path.join(ROOT, "cursos", cursoId);
-    if (!isDir(base)) return [];
-    return fs.readdirSync(base).map((d) => path.join(base, d)).filter((p) => isDir(p) && path.basename(p) !== "_material");
-  };
-  return {
-    transpessoal: conceitosDoCurso(cadeirasDe("02-psicologia-transpessoal")),
-    constelacao: conceitosDoCurso(cadeirasDe("01-constelacao-sistemica")),
-    espiritualidade: conceitosDoCurso(cadeirasDe("03-psicologia-espiritualidade")),
-    desenvolvimento: conceitosDoCurso([path.join(ROOT, "disciplina-partilhada")]),
-  };
+  const conceitosCurso = {};
+  const cursosMeta = {};
+  const jaMapeados = new Set(CURSOS_PONTE.map((c) => c.slug));
+  const config = [...CURSOS_PONTE];
+
+  // Cursos novos (pastas em cursos/ fora da config) entram com valores derivados.
+  const cursosDir = path.join(ROOT, "cursos");
+  if (isDir(cursosDir)) {
+    let i = 0;
+    for (const slug of fs.readdirSync(cursosDir).sort()) {
+      if (jaMapeados.has(slug) || slug.startsWith(".")) continue;
+      if (!isDir(path.join(cursosDir, slug))) continue;
+      config.push({
+        slug,
+        key: slug.replace(/^\d+[-_]/, ""),
+        nome: tituloDoCurso(path.join(cursosDir, slug), slug),
+        descricao: "",
+        mundo: MUNDOS[i++ % MUNDOS.length],
+        filtro: null,
+      });
+    }
+  }
+
+  for (const c of config) {
+    const brutos = conceitosDoCurso(cadeirasDe(c.slug));
+    const filtrados = c.filtro ? aplicarFiltro(c.filtro === "neuro" ? "neuro" : c.key, brutos) : brutos;
+    conceitosCurso[c.key] = filtrados;
+    cursosMeta[c.key] = { nome: c.nome, descricao: c.descricao, mundo: c.mundo };
+  }
+  return { conceitosCurso, cursosMeta };
 }
 
 // Espaço de Inspiração: transcrições + ideias de conteúdo de vídeos guardados
