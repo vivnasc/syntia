@@ -1,0 +1,43 @@
+name: Inspecionar uso do cursos.ts no viviannepag
+
+# Diagnóstico pontual: clona o viviannepag e mostra, no log, o código que
+# consome o lib/infografico/cursos.ts (o componente do infográfico e quantos
+# conceitos mostra). Serve para percebermos o que se faz com o ficheiro.
+# Corre uma vez no merge (toca no próprio ficheiro) e a pedido.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/inspecionar-viviannepag.yml'
+  workflow_dispatch:
+
+jobs:
+  inspecionar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar o viviannepag e inspecionar
+        env:
+          TOKEN: ${{ secrets.VIVIANNEPAG_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then echo "Sem token."; exit 0; fi
+          git clone --depth 1 "https://x-access-token:${TOKEN}@github.com/vivnasc/viviannepag.git" vp
+          cd vp
+          echo "=================== O FICHEIRO GERADO ==================="
+          echo "--- lib/infografico/cursos.ts (topo + contagem) ---"
+          head -30 lib/infografico/cursos.ts 2>/dev/null || echo "(nao existe)"
+          echo "nº de linhas de conceito:"; grep -c "^      '" lib/infografico/cursos.ts 2>/dev/null || true
+          echo
+          echo "=================== QUEM IMPORTA cursos.ts ==================="
+          grep -rn "infografico/cursos\|from '@/lib/infografico/cursos'\|getCurso\|CURSOS" --include=*.ts --include=*.tsx . 2>/dev/null | grep -v "lib/infografico/cursos.ts" | head -40
+          echo
+          echo "=================== FICHEIROS DA PASTA infografico ==================="
+          ls -R lib/infografico 2>/dev/null | head -40
+          echo
+          echo "=================== ONDE 'conceitos' É RENDERIZADO ==================="
+          grep -rln "\.conceitos" --include=*.tsx --include=*.ts . 2>/dev/null | head -10
+          echo
+          echo "--- primeiro componente que usa .conceitos (até 120 linhas) ---"
+          f=$(grep -rln "\.conceitos" --include=*.tsx . 2>/dev/null | head -1)
+          echo "ficheiro: $f"
+          if [ -n "$f" ]; then sed -n '1,120p' "$f"; fi
