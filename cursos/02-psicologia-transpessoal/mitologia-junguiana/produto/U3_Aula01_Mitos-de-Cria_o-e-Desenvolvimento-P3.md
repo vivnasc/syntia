@@ -1,0 +1,30 @@
+═══ BLOCO C — PRODUTO ═══
+
+[maternidade] **Coleção FreeMe Mãe (ebooks mae-01 a mae-11)** — A aula valida o eixo central de toda a coleção: os padrões herdados sem escolha são estruturas míticas coletivas que o sujeito incorpora como verdade sem precisar de prova.
+Ideia: num dos ebooks da coleção (ex.: mae-04 *A mãe que amar e dizer basta* ou mae-06 *A mãe que cumpriu*), abrir com a frase-chave da aula — "o mito é a primeira forma de dar significado" — para nomear o mecanismo: a mãe não está a ser "boa mãe", está a repetir o ritual do mito que herdou. A linguagem de "ritual" e "repetição dos atos desde o princípio dos tempos" é exatamente o que explica a compulsão de repetição materna sem apelar a jargão clínico pesado.
+
+[maternidade] **mae.cine (@vivianne.dos.santos / @viviannewrites)** — A aula fornece ciência com consequência (Jung, Malinowski, Lévy-Bruhl) para um reel ou carrossel no registo da Telma: faca na abertura, prova científica, confronto terno.
+Ideia de reel (PT-BR, «você»): Abertura faca — "Você não escolheu esse padrão. Você recebeu ele como verdade." Desenvolve: Malinowski mostrou que sem o mito, as sociedades não se organizam — e a sua família também não. O que você repete como "é assim que se faz" é um ritual. O ritual é o mito em ação. Fecho no ciclo quebrado: "Quando você vê o mito, pode parar de repeti-lo. Isso se chama #acabaemmim." CTA: GUARDAR.
+
+[identidade] **Coleção Infonte (ebooks inf-01 a inf-06)** — A aula aprofunda o mecanismo central de toda a coleção: a mulher que persegue a próxima montanha ou que nunca chega está a viver um mito coletivo sobre o que é "sucesso" e "mérito", aceite por fé, sem nunca o questionar.
+Ideia: no ebook inf-02 (*A mulher que persegue a próxima montanha*) ou inf-05 (*A mulher que tem medo do próprio tamanho*), usar a distinção da aula entre a função do mito (adaptar psicologicamente, não explicar a realidade) para nomear o que acontece: ela não persegue a montanha porque quer — persegue porque o mito coletivo do capitalismo diz que "acumular = bem-estar". A pandemia (citada na aula) já mostrou que esse mito tem pés de barro.
+
+[identidade] **veu.a.veu** — A aula pertence à jornada das 13 semanas da conta didática, especificamente à etapa das Heranças (semana em que se trabalha o que se recebeu sem escolher).
+Ideia de carrossel gouache (personagem Nina ou Avó Alice): "O que acreditas sobre ti mesma sem nunca te teres perguntado de onde veio essa crença?" — cada slide nomeia uma "verdade herdada" (sobre ser mãe, sobre merecer, sobre trabalhar para ter valor) e chama-lhe pelo nome da aula: um mito. Sem jargão clínico, sem autores na imagem. A pergunta condutora da conta: "Como é que este mito te protegeu — e do que é que já não te protege?" CTA: GUARDAR.
+
+[prosperidade] **Coleção Prosperidade (ebooks pros-01 a pros-07)** — A aula valida diretamente o núcleo desta coleção: a crença de que "acumular bens = bem-estar e sucesso" é explicitamente nomeada na aula como um mito moderno do capitalismo, aceite por fé coletiva sem prova.
+Ideia: no ebook pros-04 (*A mulher que herdou a escassez*) ou pros-07 (*A mulher que não pode ter mais do que os outros*), usar a estrutura da aula para nomear o paradoxo: ela tem medo de receber/cobrar/ter mais porque o mito familiar diz que "ter demais é perigoso" — e ao mesmo tempo o mito capitalista diz que "ter mais é o objetivo". Dois mitos em colisão dentro da mesma pessoa. A aula dá a linguagem exata para o nomear sem psicologismo.
+
+[amor] **Coleção SyncHim (ebooks syn-01 a syn-07)** — A aula sustenta a ideia de que a mulher que "ama o potencial" ou "confunde intensidade com amor" está a viver um mito amoroso coletivo — aceite por fé, não provado, mas orientador de toda a conduta relacional.
+Ideia: no ebook syn-05 (*A mulher que ama o potencial*) ou syn-07 (*A mulher que confunde intensidade com amor*), abrir com a definição da aula: "O mito apresenta-se como verdade que não admite constatação." Aplicar: o romantismo e o amor intenso são mitos coletivos — não são falsos, mas são modelos que adaptam psicologicamente, não que descrevem a realidade. Ela não está apaixonada pelo homem; está a viver o mito que lhe disseram que era o amor.
+
+[oportunidade] **Novo:** mini-guia ou reel série "Os mitos que carregas sem saber" — para a mae.cine ou veu.a.veu, uma série de 5 a 7 peças em que cada uma nomeia um mito moderno específico (o mito da boa mãe, o mito do sucesso, o mito do amor intenso, o mito da força, o mito da escassez) com a estrutura da aula: o que é o mito, de onde vem, o que te faz repetir, como podes ver. Público: mulheres adultas que nunca associaram os seus padrões automáticos a "mitos coletivos" — a entrada pela palavra "mito" é surpreendente e desmobilizadora do racional, exatamente porque a aula mostra que o mito não precisa de prova para governar o comportamento. Porquê agora: a linguagem de "mito" está a emergir no mainstream (mitologia grega em redes sociais, arquétipos em TikTok) — usar o saber académico para entrar nessa conversa com autoridade diferenciadora é uma janela de oportunidade real.
+
+---
+
+═══ NOTAS ═══
+
+1. Vários segmentos da transcrição têm quebras de frase e palavras truncadas (ex.: "doites" por "noites"; "dil b" por "dilúvio bíblico"; "tamb s criadas s regidas"; "fun n exatamente"). O sentido é recuperável pelo contexto e pelo material escrito, mas indicam falhas de transcrição automática.
+2. A professora menciona "Bauman" e o conceito de liquidez, mas não desenvolve a citação — fica como referência solta, sem definição formal na aula.
+3. A referência ao "mitogema" logo corrigida para "mitologema" no início da aula é uma hesitação da professora, não um conceito novo — não foi considerada no Bloco B.
+4. A aula termina de forma ligeiramente abrupta ("Essa foi a nossa aula sobre mito, sobre desenvolvimento sustentável... E o desenvolvimento também. Os mitos..."), sugerindo que a gravação pode ter sido cortada antes do fecho completo.
