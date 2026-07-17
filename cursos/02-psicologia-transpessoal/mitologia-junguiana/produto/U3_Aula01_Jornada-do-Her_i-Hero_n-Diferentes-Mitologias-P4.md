@@ -1,0 +1,31 @@
+═══ BLOCO C — PRODUTO ═══
+
+[maternidade] **FreeMe Mãe — ebooks `mae-04 Amar e dizer basta` · `mae-07 A mãe solo` · `mae-11 A mãe que teme pesar`**
+A aula valida o núcleo destes ebooks: a mulher em sobrecarga permanente que romantiza a exaustão e não se autoriza a parar está a viver, de forma inconsciente, um padrão arquetípico de guerreira sem descanso. Ideia concreta para **mae.cine**: reel/carrossel com abertura-faca — «A mulher que não para de lutar não é forte. Está presa num mito que ninguém lhe pediu permissão para instalar.» — desenvolve o ângulo de que a sobrecarga não é uma escolha consciente mas um padrão herdado/vivido (ciência como prova: o mito como fenómeno psíquico, Jung); fecha no ciclo que pode acabar. CTA: GUARDAR.
+
+[identidade] **Infonte — ebooks `inf-01 A mulher que nunca chega` · `inf-05 A mulher que tem medo do próprio tamanho`**
+A aula aprofunda estes ebooks: a estrutura do mito do herói — fraqueza inicial, ascensão, falibilidade perante o orgulho, declínio — mapeia com precisão o padrão da mulher que chega e sente pouco, ou que recua antes do topo. A função das figuras tutelares (o que compensa a fraqueza do herói) pode ser trabalhada como o papel da terapia, da mentoria ou da comunidade no percurso de identidade. Ideia concreta: capítulo novo em `inf-01` ou `inf-05` — «O mito que estás a viver» — que convida a leitora a identificar em qual fase da jornada do herói se encontra (na fraqueza inicial? na ascensão? no declínio por orgulho?) e o que isso revela sobre o padrão que repete.
+
+[amor] **SyncHim — ebooks `syn-03 A mulher que desaparece no amor` · `syn-06 A mulher que nunca baixa a guarda`**
+A aula valida um ângulo ainda não explorado explicitamente nestes ebooks: a mulher que vive o mito das Amazonas inconscientemente pode, ao mesmo tempo, desejar intimidade — e o conflito entre os dois cria o padrão de nunca baixar a guarda ou desaparecer quando finalmente se entrega (compensação do mito). Ideia concreta para **veu.a.veu** (gouache, sem CTA de venda): carrossel com o elenco fixo — Nina a perceber que a sua dificuldade em confiar não é «feitio», é um mito que herdou. Legenda explica o conceito de mito vivido na linguagem simples da conta, sem jargão; autores apenas na legenda.
+
+[identidade] **Ebook fundador `ebook-02-herdaste` — O que herdaste sem saber**
+A aula oferece um enquadramento mítico direto para este ebook: o mito não é apenas herança cultural, é um padrão psíquico que se instala sem permissão e organiza comportamentos, escolhas e relações. Ideia concreta: acrescentar ao ebook (ou a uma futura segunda edição) uma secção — «O mito que herdaste» — que apresenta a ideia de mito vivido e convida o leitor a identificar qual narrativa arquetípica organiza o seu padrão principal.
+
+[identidade] **Guia `guia-07-teu` — O que é mesmo teu · `guia-09-meta` — De quem é esta meta?**
+A aula valida a premissa central destes guias: muitas das metas, lutas e padrões que uma pessoa carrega não nasceram nela — nasceram num mito coletivo ou familiar que ela absorveu. Ideia concreta para **soulab** (exploração/símbolo, tom escuro/lunar): post de observação — «Antes de te perguntares se é a tua meta, pergunta-te: de que mito ela vem?» — sem ensinar, apenas propor a hipótese. Visual próprio do soulab; zero mistura com veu.a.veu.
+
+[pertença] **Coleção Pertença — ebooks `per-01 A pessoa que carrega a família` · `per-04 A pessoa que ficou responsável cedo demais`**
+O mito do herói na sua dimensão de «nascimento especial + responsabilidade precoce + sacrifício pelo grupo» ressoa diretamente com o padrão do parentificado e do que carrega a família. A aula valida que este padrão tem uma estrutura mítica universal — o que é clinicamente relevante e editorialmente poderoso. Ideia concreta: post para **mae.cine** — «Você não nasceu responsável. Foi escolhida para o mito» — abre com a estrutura do herói (nascimento especial, força sobre-humana, sacrifício), vira a lógica: e se a criança que cresceu depressa demais não foi forte, foi colocada num papel que não era dela? CTA: GUARDAR.
+
+[oportunidade] **Novo:** mini-guia ou ebook «Qual mito estás a viver?» — ferramenta de auto-diagnóstico (€5-7) para qualquer mulher que queira identificar qual padrão arquetípico organiza os seus comportamentos relacionais ou profissionais; assenta nos mitos trabalhados nas aulas (Amazonas, herói, grande mãe) e conecta cada mito a um ou mais ebooks profundos das coleções existentes — funciona como porta de entrada qualificada para todo o catálogo. Para quem: mulheres adultas que já reconhecem que repetem padrões mas não sabem nomear o quê. Porquê agora: o catálogo tem 50 ebooks profundos e 7 coleções — um produto de entrada que ajuda a pessoa a escolher por onde começar resolve um problema real de paralisia de escolha e aumenta a conversão de toda a loja.
+
+---
+
+═══ NOTAS ═══
+
+1. **Partes truncadas na transcrição:** Há vários segmentos com corte abrupto de palavras, indicando falhas de transcrição por voz — por exemplo: «para ser consideradas algu naquela sociedade Na verdade elas n queriam se submeter a esse r porque era como se fosse uma fun»; «mostrando uma grande capacidade de luta e de autossufici Ent essa paciente»; «a fraqueza inicial do herói é contrabalançada pelo aparecimento de poderosas seguras tutelares ou guardiãs, nas quais permitido realizar tarefas sobre que poderiam ser imposs». O sentido é recuperável pelo contexto e pelo material escrito da unidade, mas as palavras exatas não ficaram registadas.
+
+2. **Nome da cidade das Amazonas:** Na transcrição oral surge «Temesira» e no material escrito «Themyscira» (quadrinhos) e «Termodonte» (rio). São referências consistentes entre si; sem falha de conteúdo, apenas variação de pronúncia na transcrição.
+
+3. **Referência incompleta ao «outro exemplo»:** A aula introduz o exemplo da reforma na Igreja Católica e da Revolução Francesa como instâncias de mitos de origem, mas a ligação ao mito do herói especificamente fica implícita — a professora usa-os para ilustrar a função política e social do mito, não o esquema narrativo do herói em si. Não é uma falha; é uma opção pedagógica, mas pode confundir quem tente mapear estes exemplos à estrutura do herói.
