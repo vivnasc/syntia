@@ -17,6 +17,9 @@
 // Uso: node scripts/patch-cursos-viviannepag.mjs <cursos.ts existente> <saber.json>
 //      (escreve o ficheiro atualizado no stdout; diagnóstico no stderr)
 
+// Nota: o processamento de aulas dispara este robô automaticamente (o push feito
+// com o GITHUB_TOKEN não dispara workflows por si, por isso o processar.yml faz
+// um workflow_dispatch explícito no fim). Assim o cérebro atualiza a cada aula.
 import fs from "node:fs";
 
 const MIN = 8;         // mínimo de conceitos para um curso entrar/atualizar
