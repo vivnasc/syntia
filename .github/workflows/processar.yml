@@ -55,6 +55,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # para disparar o robô de sync (workflow_dispatch) no fim
 
 jobs:
   processar:
@@ -91,6 +92,7 @@ jobs:
         run: node scripts/processar.mjs
 
       - name: Commit dos resultados (só os textos, nunca o áudio)
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -99,16 +101,37 @@ jobs:
           git reset -q -- ':(glob)**/_audio/**' 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "Nada de novo para processar."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m "Processamento automático de aulas"
           # Vários runs podem fazer push ao mesmo tempo: rebase + retry.
           for n in 1 2 3 4 5 6 7 8; do
             if git push origin HEAD:main; then
-              echo "push ok (tentativa $n)"; exit 0
+              echo "push ok (tentativa $n)"
+              echo "pushed=true" >> "$GITHUB_OUTPUT"
+              exit 0
             fi
             echo "push falhou (tentativa $n), a rebasear..."
             git pull --rebase -X ours origin main || true
             sleep $((RANDOM % 5 + 2))
           done
           echo "push falhou após várias tentativas"; exit 1
+
+      # Um push feito com o GITHUB_TOKEN NÃO dispara outros workflows (regra do
+      # GitHub). Por isso, quando há aulas novas, disparamos aqui explicitamente
+      # o robô que atualiza os conceitos no viviannepag. O workflow_dispatch é a
+      # exceção que o GITHUB_TOKEN pode disparar.
+      - name: Atualizar o cérebro do viviannepag
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "A disparar a sincronização de conceitos → viviannepag…"
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/sync-cursos-viviannepag.yml/dispatches" \
+            -d '{"ref":"main"}' \
+            && echo "robô de sync disparado" \
+            || echo "não consegui disparar o sync (não é fatal; segue no próximo push)"
