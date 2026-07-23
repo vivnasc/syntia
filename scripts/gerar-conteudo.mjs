@@ -589,6 +589,11 @@ function lerInspiracao() {
   const nomes = new Set();
   if (isDir(transDir)) for (const f of fs.readdirSync(transDir)) { const m = f.match(/^(.+)\.txt$/i); if (m) nomes.add(m[1]); }
   if (isDir(ideiasDir)) for (const f of fs.readdirSync(ideiasDir)) { const m = f.match(/^(.+)\.md$/i); if (m) nomes.add(m[1]); }
+  // Datas de cada item (carimbadas no processamento; ver inspiracao/datas.json).
+  let datas = {};
+  const datasPath = path.join(base, "datas.json");
+  if (fs.existsSync(datasPath)) { try { datas = JSON.parse(fs.readFileSync(datasPath, "utf-8")) || {}; } catch { datas = {}; } }
+
   const itens = [];
   for (const nome of nomes) {
     const tPath = path.join(transDir, `${nome}.txt`);
@@ -597,12 +602,19 @@ function lerInspiracao() {
     itens.push({
       nome,
       titulo: prettify(nome),
+      data: datas[nome] || "",
       transcricao: fs.existsSync(tPath) ? lerTxt(tPath) : "",
       ideias: fs.existsSync(iPath) ? lerTxt(iPath) : "",
       legenda: fs.existsSync(lPath) ? lerTxt(lPath) : "",
     });
   }
-  itens.sort((a, b) => a.nome.localeCompare(b.nome));
+  // Mais recente primeiro (por data; sem data vai para o fim, desempate por nome).
+  itens.sort((a, b) => {
+    if (a.data && b.data) return b.data.localeCompare(a.data);
+    if (a.data) return -1;
+    if (b.data) return 1;
+    return a.nome.localeCompare(b.nome);
+  });
   return itens;
 }
 

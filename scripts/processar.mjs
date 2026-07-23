@@ -522,6 +522,19 @@ function guardarLegenda(nomeBase, legenda) {
   fs.writeFileSync(path.join(legDir, `${nomeBase}.txt`), legenda.trim(), "utf-8");
 }
 
+// Carimba a data do item de inspiração (primeira vez que é visto), para a
+// página poder ordenar por "mais recente primeiro". Não sobrescreve a data
+// original se já existir.
+function carimbarDataInspiracao(nomeBase) {
+  const p = path.join("inspiracao", "datas.json");
+  let datas = {};
+  if (fs.existsSync(p)) { try { datas = JSON.parse(fs.readFileSync(p, "utf-8")) || {}; } catch { datas = {}; } }
+  if (!datas[nomeBase]) {
+    datas[nomeBase] = new Date().toISOString();
+    fs.writeFileSync(p, JSON.stringify(datas, null, 2), "utf-8");
+  }
+}
+
 // Processa um ficheiro do espaço "Inspiração": transcreve e extrai ideias.
 async function processarInspiracao(ficheiroPath, filename, legenda = "") {
   const ext = path.extname(filename).toLowerCase();
@@ -546,6 +559,7 @@ async function processarInspiracao(ficheiroPath, filename, legenda = "") {
     throw new Error(`Sem texto utilizável em ${filename} (vídeo sem fala? áudio vazio?).`);
   }
   fs.writeFileSync(txtPath, texto, "utf-8");
+  carimbarDataInspiracao(nomeBase);
   guardarLegenda(nomeBase, legenda);
 
   console.log(`[inspiracao] A extrair ideias de conteúdo com o Claude${legenda && legenda.trim() ? " (com legenda)" : ""}...`);

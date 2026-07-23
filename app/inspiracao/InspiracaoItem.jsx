@@ -44,7 +44,14 @@ export default function InspiracaoItem({ item }) {
   return (
     <section className="insp-card">
       <div className="insp-topo">
-        <h3 className="insp-titulo">{item.titulo}</h3>
+        <div>
+          <h3 className="insp-titulo">{item.titulo}</h3>
+          {item.data && (
+            <span className="footer" style={{ opacity: 0.6 }}>
+              {new Date(item.data).toLocaleDateString("pt-PT", { day: "2-digit", month: "2-digit", year: "numeric" })}
+            </span>
+          )}
+        </div>
         <button className="btn-mini" onClick={exportarMd} title="Descarregar este estudo em Markdown">⬇ Exportar MD</button>
       </div>
 
