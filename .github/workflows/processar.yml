@@ -94,8 +94,11 @@ jobs:
       - name: Commit dos resultados (só os textos, nunca o áudio)
         id: commit
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Commita com a identidade da Vivianne (não github-actions[bot]) para o
+          # Vercel autorizar o deploy de produção do site — assim cada aula/vídeo
+          # processado reconstrói o site e aparece logo (Inspiração, cadeiras…).
+          git config user.name "vivnasc"
+          git config user.email "61882995+vivnasc@users.noreply.github.com"
           git add cursos/ disciplina-partilhada/
           git add inspiracao/ 2>/dev/null || true
           git reset -q -- ':(glob)**/_audio/**' 2>/dev/null || true
