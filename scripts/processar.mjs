@@ -584,6 +584,79 @@ async function reprocessarInspiracaoLegenda(nome, legenda) {
   console.log(`[inspiracao] ${nomeBase} atualizado com legenda.`);
 }
 
+// ─── Reuniões ────────────────────────────────────────────────────────────────
+// Espaço à parte (fora dos cursos): transcreve uma reunião gravada e faz um
+// resumo executivo. NÃO gera conceitos nem alimenta o cérebro do viviannepag.
+
+// Carimba a data de um item (primeira vez que é visto), para ordenar por
+// "mais recente primeiro". Genérico: recebe a pasta base (ex.: "reunioes").
+function carimbarData(area, nomeBase) {
+  const p = path.join(area, "datas.json");
+  let datas = {};
+  if (fs.existsSync(p)) { try { datas = JSON.parse(fs.readFileSync(p, "utf-8")) || {}; } catch { datas = {}; } }
+  if (!datas[nomeBase]) {
+    datas[nomeBase] = new Date().toISOString();
+    fs.writeFileSync(p, JSON.stringify(datas, null, 2), "utf-8");
+  }
+}
+
+// Pede ao Claude um resumo fiel da reunião (nada inventado).
+async function gerarResumoReuniao(transcricao) {
+  const text =
+    "A seguir está a transcrição de uma reunião gravada. Resume-a em português de Portugal, em markdown, " +
+    "de forma clara e FIEL — não inventes nada que não esteja na transcrição. Usa esta estrutura:\n\n" +
+    "## Resumo\nUm parágrafo curto com o essencial da reunião.\n\n" +
+    "## Pontos principais\nOs temas discutidos, em tópicos curtos.\n\n" +
+    "## Decisões\nO que ficou decidido. Se nada foi decidido, escreve 'Nada registado'.\n\n" +
+    "## Ações e próximos passos\nTarefas a fazer, com o responsável quando for mencionado " +
+    "(formato: - [quem] o quê). Se não houver, escreve 'Nada registado'.\n\n" +
+    "## Questões em aberto\nDúvidas ou temas por resolver (se houver).\n\n" +
+    "Evita travessões longos.\n\n" +
+    "=== TRANSCRIÇÃO DA REUNIÃO ===\n" + transcricao;
+  const resp = await fetchRetry("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "x-api-key": ANTHROPIC_API_KEY,
+      "anthropic-version": "2023-06-01",
+      "content-type": "application/json",
+    },
+    body: JSON.stringify({ model: CLAUDE_MODEL, max_tokens: 3000, messages: [{ role: "user", content: [{ type: "text", text }] }] }),
+  });
+  if (!resp.ok) throw new Error(`Claude falhou ao resumir a reunião (${resp.status}): ${await resp.text()}`);
+  const data = await resp.json();
+  return data.content.map((b) => (b.type === "text" ? b.text : "")).join("\n").trim();
+}
+
+// Processa uma reunião: transcreve e resume.
+async function processarReuniao(ficheiroPath, filename) {
+  const ext = path.extname(filename).toLowerCase();
+  const nomeBase = path.basename(filename, path.extname(filename)) || "reuniao";
+  const transDir = path.join("reunioes", "transcricoes");
+  const resumosDir = path.join("reunioes", "resumos");
+  fs.mkdirSync(transDir, { recursive: true });
+  fs.mkdirSync(resumosDir, { recursive: true });
+
+  const txtPath = path.join(transDir, `${nomeBase}.txt`);
+  const resumoPath = path.join(resumosDir, `${nomeBase}.md`);
+  if (fs.existsSync(txtPath) && fs.existsSync(resumoPath)) {
+    console.log(`[reuniao] ${nomeBase} já processado, salto.`);
+    return;
+  }
+
+  console.log(`[reuniao] A obter o texto de ${filename} (${ext || "?"})...`);
+  const texto = fs.existsSync(txtPath) ? fs.readFileSync(txtPath, "utf-8") : await textoFonteDe(ficheiroPath, ext);
+  if (!texto || !texto.trim()) {
+    throw new Error(`Sem texto utilizável em ${filename} (gravação sem fala? áudio vazio?).`);
+  }
+  fs.writeFileSync(txtPath, texto, "utf-8");
+  carimbarData("reunioes", nomeBase);
+
+  console.log(`[reuniao] A resumir com o Claude...`);
+  const resumo = await gerarResumoReuniao(texto);
+  fs.writeFileSync(resumoPath, resumo, "utf-8");
+  console.log(`[reuniao] ${nomeBase} concluído.`);
+}
+
 async function processarIngest() {
   const ficheiroPath = process.env.INGEST_AUDIO_PATH;
   const area = process.env.INGEST_AREA || "";
@@ -603,6 +676,16 @@ async function processarIngest() {
   // regenera as ideias com a visão completa do post (sem reenviar o vídeo).
   if (process.env.INGEST_MODO === "inspiracao-legenda") {
     await reprocessarInspiracaoLegenda(filename, process.env.INGEST_LEGENDA || "");
+    return;
+  }
+
+  // Reuniões: espaço à parte dos cursos. Transcreve a gravação e faz um resumo
+  // executivo. Não gera conceitos nem alimenta o cérebro do viviannepag.
+  if (process.env.INGEST_MODO === "reuniao") {
+    if (!ficheiroPath || !fs.existsSync(ficheiroPath)) {
+      throw new Error(`Ficheiro não encontrado em ${ficheiroPath}`);
+    }
+    await processarReuniao(ficheiroPath, filename);
     return;
   }
 

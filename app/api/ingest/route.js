@@ -26,11 +26,13 @@ export async function POST(request) {
     : modo === "mover" ? "mover"
     : modo === "inspiracao" ? "inspiracao"
     : modo === "inspiracao-legenda" ? "inspiracao-legenda"
+    : modo === "reuniao" ? "reuniao"
     : "aula";
   const consolidar = modoFinal === "consolidar";
   const mover = modoFinal === "mover";
   const inspiracao = modoFinal === "inspiracao";
   const inspiracaoLegenda = modoFinal === "inspiracao-legenda";
+  const reuniao = modoFinal === "reuniao";
   const semFicheiro = consolidar || mover || inspiracaoLegenda;
 
   const token = process.env.GITHUB_DISPATCH_TOKEN;
@@ -70,6 +72,10 @@ export async function POST(request) {
     // Espaço de inspiração: fora dos cursos, sem validação de programa.
     areaDir = "inspiracao";
     destinoTitulo = "Inspiração";
+  } else if (reuniao) {
+    // Espaço de reuniões: fora dos cursos, sem validação de programa.
+    areaDir = "reunioes";
+    destinoTitulo = "Reunião";
   } else if (partilhada && curso === partilhada.id) {
     areaDir = "disciplina-partilhada";
     destinoTitulo = partilhada.titulo;

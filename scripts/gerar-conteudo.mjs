@@ -420,7 +420,7 @@ function main() {
     partilhada = { id: "disciplina-partilhada", titulo, inicio: "2026-05-28", fim: "2026-09-05", materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(partDir)) };
   }
 
-  const conteudo = { geradoEm: new Date().toISOString(), temas: TEMAS, cursos, partilhada, banco, inspiracao: lerInspiracao() };
+  const conteudo = { geradoEm: new Date().toISOString(), temas: TEMAS, cursos, partilhada, banco, inspiracao: lerInspiracao(), reunioes: lerReunioes() };
   fs.writeFileSync(OUT_JSON, JSON.stringify(conteudo, null, 2), "utf-8");
 
   // saber.json — a PONTE: artefacto público e enxuto que o repo dos produtos vai
@@ -609,6 +609,42 @@ function lerInspiracao() {
     });
   }
   // Mais recente primeiro (por data; sem data vai para o fim, desempate por nome).
+  itens.sort((a, b) => {
+    if (a.data && b.data) return b.data.localeCompare(a.data);
+    if (a.data) return -1;
+    if (b.data) return 1;
+    return a.nome.localeCompare(b.nome);
+  });
+  return itens;
+}
+
+// Espaço de Reuniões: transcrições + resumos de reuniões gravadas. Fica FORA dos
+// cursos e nunca entra no saber.json — não alimenta o cérebro do viviannepag.
+function lerReunioes() {
+  const base = path.join(ROOT, "reunioes");
+  const transDir = path.join(base, "transcricoes");
+  const resumosDir = path.join(base, "resumos");
+  if (!isDir(transDir) && !isDir(resumosDir)) return [];
+  const nomes = new Set();
+  if (isDir(transDir)) for (const f of fs.readdirSync(transDir)) { const m = f.match(/^(.+)\.txt$/i); if (m) nomes.add(m[1]); }
+  if (isDir(resumosDir)) for (const f of fs.readdirSync(resumosDir)) { const m = f.match(/^(.+)\.md$/i); if (m) nomes.add(m[1]); }
+
+  let datas = {};
+  const datasPath = path.join(base, "datas.json");
+  if (fs.existsSync(datasPath)) { try { datas = JSON.parse(fs.readFileSync(datasPath, "utf-8")) || {}; } catch { datas = {}; } }
+
+  const itens = [];
+  for (const nome of nomes) {
+    const tPath = path.join(transDir, `${nome}.txt`);
+    const rPath = path.join(resumosDir, `${nome}.md`);
+    itens.push({
+      nome,
+      titulo: prettify(nome),
+      data: datas[nome] || "",
+      transcricao: fs.existsSync(tPath) ? lerTxt(tPath) : "",
+      resumo: fs.existsSync(rPath) ? lerTxt(rPath) : "",
+    });
+  }
   itens.sort((a, b) => {
     if (a.data && b.data) return b.data.localeCompare(a.data);
     if (a.data) return -1;
