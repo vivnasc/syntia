@@ -1,0 +1,378 @@
+PARADIGMAS EXPERIMENTAIS NA INVESTIGAÇÃO DA ATENÇÃO E MEMÓRIA
+UNIDADE 4 | CAPÍTULO 1Partes
+
+
+Bem vindo!
+Neste capítulo estudaremos
+SISTEMAS E PROCESSOS DA ATENÇÃO E DA MEMÓRIA
+
+Memória de Trabalho
+
+O subconjunto de modelos baseados em estado que tem sido mais formalizado é aquele
+pertencente à memória de trabalho da informação para a qual existe uma representação
+semântica na memória em longo prazo (D'ESPOSITO; POSTLE, 2015).
+No talvez mais conhecido dos modelos baseados no estado, são descritos dois estados
+distintos: um estado pequeno, limitado por capacidade, chamado de foco de atenção e um
+estado mais expansivo, chamado de a parte ativada de memória em longo prazo (conhecida
+como memória em longo prazo ativada) (D'ESPOSITO; POSTLE, 2015).
+Neste modelo, o foco de atenção corresponde a aproximadamente quatro pedaços de
+informação que se podem armazenar na memória de trabalho a qualquer momento usando
+o controle atencional de cima para baixo (D'ESPOSITO; POSTLE, 2015).
+Quando a atenção muda posteriormente para outras informações, os itens que antes
+estavam na transição do foco de atenção passam para a memória em longo prazo ativada.
+A memória em longo prazo ativada não possui limite de capacidade, mas é suscetível a
+efeitos de decaimento e interferência temporais (D'ESPOSITO; POSTLE, 2015).
+Uma variante deste modelo de dois níveis foi proposta na teoria de três componentes
+embutidos. Nesta teoria, os quatro itens do foco de atenção são reformulados como uma
+região de acesso direto a partir da qual um foco de atenção mais restrita pode selecionar
+informações de maneira eficiente (D'ESPOSITO; POSTLE, 2015).
+Os limites de capacidade, por si só, não existem para nenhum desses dois estados
+hipotéticos na memória de trabalho. Em vez disso, a quantidade de informação que pode
+ser retida na região de acesso direto e no foco de atenção é limitada apenas pela
+interferência das ligações entre os recursos do objeto que estão sendo retidos na memória
+de trabalho (D'ESPOSITO; POSTLE, 2015).
+Um terceiro modelo postula dois estados de memória: um foco de atenção com um limite de
+capacidade estrito de um item e memória em longo prazo, no qual todos os itens existem ao
+longo de um continuum gradual de “força de memória”, com memória de um item caindo em
+função de quão recentemente foi no foco de atenção e do qual todos os itens são
+igualmente acessíveis (D'ESPOSITO; POSTLE, 2015).
+Recrutamento Sensório-motor
+A premissa básica dos modelos de recrutamento sensório-motor da memória de trabalho é
+que os sistemas e representações envolvidos na percepção da informação também podem
+contribuir para a retenção em curto prazo dessa informação (D'ESPOSITO; POSTLE, 2015).
+Um exemplo paradigmático inicial de tais modelos é o do ensaio baseado em atenção,
+segundo o qual uma localização no espaço pode ser mantida na memória de trabalho
+através da alocação encoberta de atenção àquele local (D'ESPOSITO; POSTLE, 2015).
+Para outros domínios de informação sensorial, tais como frequência espacial visualmente
+percebida, contraste, orientação ou movimento, evidência comportamental indica que cada
+um é retido de uma maneira altamente específica ao estímulo, isso é explicado de maneira
+mais parcimoniosa como a ativação persistente das próprias representações sensoriais
+(D'ESPOSITO; POSTLE, 2015).
+Limites de capacidade de memória de trabalho visual
+Um foco de investigação intensiva para modelos de recrutamento sensório-motor tem sido
+os fatores que explicam as limitações de capacidade. Grande parte deste trabalho seguiu os
+experimentos com uma tarefa de detecção de mudanças na qual uma matriz de quadrados
+
+coloridos é apresentada por algumas centenas de milissegundos, seguida por um breve
+atraso em branco, seguido por um arranjo de sondas contendo o mesmo número de itens,
+mas apresentando um item em uma cor diferente em metade dos testes (D'ESPOSITO;
+POSTLE, 2015).
+Ao aplicar uma fórmula algébrica simples aos resultados, os pesquisadores estimaram que
+os sujeitos tinham uma capacidade visual entre três e quatro itens. Eles descobriram que a
+capacidade de um indivíduo não mudou com o número de recursos usados para
+individualizar objetos, através de objetos definidos por conjunções de quatro características
+(D'ESPOSITO; POSTLE, 2015).
+Esta observação levou-os à hipótese de que a capacidade visual é limitada por um número
+finito de slots hipotéticos, cada um capaz de armazenar uma representação de objeto,
+independentemente da complexidade de qualquer objeto único (D'ESPOSITO; POSTLE,
+2015).
+Mecanismos neurais
+Pode-se considerar um mecanismo – o processo pelo qual algo acontece – em muitos
+níveis de detalhe. Numerosos mecanismos neurais podem suportar a retenção de
+informações em curto prazo na memória de trabalho, e muitos provavelmente operam em
+paralelo (D'ESPOSITO; POSTLE, 2015).
+Plausibilidade neural
+Modelos baseados em estado de memória de trabalho ganharam destaque nos últimos
+anos porque a pesquisa em neurociência cognitiva indica que eles acomodam bem os
+dados neurais (D'ESPOSITO; POSTLE, 2015).
+Eles têm sido particularmente bem-sucedidos desde que os pesquisadores começaram a
+aplicar técnicas de análise multivariada de padrões em dados de neuroimagem funcional
+humana (D'ESPOSITO; POSTLE, 2015).
+Memória de trabalho no nível dos sistemas
+A memória de trabalho não deriva de um sistema discreto, como a visão e o controle motor
+(D'ESPOSITO; POSTLE, 2015).
+Em vez disso, a memória operacional é uma propriedade do cérebro que sustenta a
+realização bem-sucedida de objetivos comportamentais que estão sendo executados por
+qualquer um dos vários sistemas, incluindo os sistemas sensoriais, os que fundamentam a
+memória semântica e episódica e os sistemas motores (D'ESPOSITO; POSTLE, 2015).
+Representações hierárquicas no córtex pré-frontal.
+A natureza do código neural dentro do córtex pré-frontal ainda deve ser muito
+discutida. Alguns apresentaram a ideia de que a atividade persistente no córtex pré-frontal
+representa características sensoriais da informação mantida na memória de trabalho
+(D'ESPOSITO; POSTLE, 2015).
+De fato, nas literaturas de sistemas e neurociência cognitiva, pode-se ver que a
+popularidade variável dos modelos de representação de estímulo do córtex pré-frontal tem
+seguido muito de perto o modelo multicomponente da memória de trabalho (D'ESPOSITO;
+POSTLE, 2015).
+
+Tem havido maior ênfase no fato de que o córtex pré-frontal na verdade exibe, na melhor
+das hipóteses, seletividade grosseira para itens e características mantidas na memória de
+trabalho (D'ESPOSITO; POSTLE, 2015).
+Além disso, a atividade do período de atraso do córtex pré-frontal pode representar uma
+ampla gama de variáveis de tarefas que não estão diretamente relacionadas aos estímulos
+a serem lembrados (D'ESPOSITO; POSTLE, 2015).
+Por exemplo, neurônios do córtex pré-frontal lateral registrados em macacos exibem
+preferências diferenciais para regras de tarefa, respostas motoras contingentes e
+mapeamentos estímulo-resposta (D'ESPOSITO; POSTLE, 2015).
+Sinalização
+O córtex pré-frontal tem sido implicado há muito tempo como fonte de sinais de cima para
+baixo que podem influenciar o processamento em outras regiões cerebrais corticais e
+subcorticais (D'ESPOSITO; POSTLE, 2015).
+Um tipo de sinal de cima para baixo do córtex pré-frontal provavelmente fornece um
+feedback direto às regiões corticais posteriores que processam a entrada sensorial recebida
+de uma modalidade particular (por exemplo, visual ou auditivo) (D'ESPOSITO; POSTLE,
+2015).
+Por exemplo, quando uma pessoa está olhando para uma multidão de pessoas, a cena
+visual apresentada à retina pode incluir uma vasta gama de informações visuais
+(D'ESPOSITO; POSTLE, 2015).
+Conectividade
+Outro mecanismo crítico para a memória de trabalho é a sincronização da atividade entre
+regiões cerebrais distribuídas. Como a metodologia disponível é limitada tanto em animais
+quanto em humanos, poucos estudos até o momento foram capazes de avaliar se e como
+os neurônios e regiões cerebrais se comunicam e interagem para suportar a memória de
+trabalho (D'ESPOSITO; POSTLE, 2015).
+Neuromoduladores
+Em muitos modelos de cognição, os neuromoduladores, como dopamina, serotonina,
+noradrenalina ou acetilcolina desempenham um papel limitado, se algum papel for
+desempenhado (D'ESPOSITO; POSTLE, 2015).
+No entanto, dado que os neurônios neuromodulatórios do tronco cerebral enviam projeções
+para todas as áreas do cérebro, a sua influência na função cognitiva é inquestionável
+(D'ESPOSITO; POSTLE, 2015).
+Memória Semântica
+A centralidade da memória semântica no comportamento humano
+Os cérebros humanos adquirem e usam conceitos com uma facilidade tão aparente que a
+neurobiologia desse processo complexo parece ter sido tomada como garantida (BINDER;
+DESAI, 2011).
+Embora os filósofos tenham intrigado durante séculos a natureza dos conceitos, a memória
+semântica tornou-se um tópico de estudo formal na ciência cognitiva apenas recentemente
+(BINDER; DESAI, 2011).
+
+Esta história é notável, dado que a memória semântica é uma das nossas características
+humanas mais definidoras, abrangendo todo o conhecimento declarativo que adquirimos
+sobre o mundo (BINDER; DESAI, 2011).
+Uma pequena lista de exemplos inclui:
+»
+
+Associações entre conceitos.
+
+»
+
+Categorias e suas bases.
+
+»
+
+Conhecimento de causas e efeitos.
+
+»
+
+Conhecimentos de como as pessoas se comporta.
+
+»
+
+Crenças.
+
+»
+
+Nomes e atributos das ações.
+
+»
+
+Nomes e atributos físicos de todos os objetos.
+
+»
+
+Conhecimento de eventos históricos.
+
+»
+
+Opiniões.
+
+»
+
+Origem e história dos objetos.
+
+»
+
+Todos os conceitos abstratos e seus nomes.
+
+Também notável é a variedade de atividades cognitivas cotidianas que dependem dessa
+extensa reserva de conhecimento. Um exemplo comum é o reconhecimento e o uso de
+objetos, que tem sido o foco de muitos trabalhos teóricos e empíricos sobre a memória
+semântica (BINDER; DESAI, 2011).
+Reconhecimento e uso de objetos, no entanto, é uma capacidade compartilhada por muitos
+animais não humanos que interagem com fontes de alimento, constroem estruturas simples
+ou usam ferramentas simples (BINDER; DESAI, 2011).
+Mais singularmente humana é a capacidade de representar conceitos na forma de
+linguagem, o que permite não apenas a disseminação do conhecimento conceitual em uma
+forma simbólica abstrata, mas também um mecanismo cognitivo para a manipulação,
+associação e combinação fluida e flexível de conceitos (BINDER; DESAI, 2011).
+Assim, os humanos usam o conhecimento conceitual para muito mais do que simplesmente
+interagir com objetos. Toda a cultura humana, incluindo ciência, literatura, instituições
+sociais, religião e arte é construída a partir do conhecimento conceitual (BINDER; DESAI,
+2011).
+Não raciocinamos, planejamos o futuro ou nos lembramos do passado sem conteúdo
+conceitual – todas essas atividades dependem da ativação de conceitos armazenados na
+memória semântica (BINDER; DESAI, 2011).
+O estudo científico dos processos de memória semântica humana tem sido limitado no
+passado tanto por um foco relativamente restrito no conhecimento de objetos quanto por
+uma tradição experimental que enfatiza a atividade cerebral dirigida por estímulos. Os
+cérebros humanos estão ocupados a maior parte do dia com raciocínio, planejamento e
+lembrança (BINDER; DESAI, 2011).
+Essa atividade altamente conceitual não precisa ser desencadeada por estímulos no
+ambiente imediato – tudo isso pode ser feito, e geralmente é, na privacidade da própria
+mente (BINDER; DESAI, 2011).
+Juntamente com insights recentes obtidos a partir de estudos de pacientes com perda de
+memória semântica, os dados de imagem funcional estão convergindo rapidamente para
+um novo modelo anatômico dos sistemas cerebrais envolvidos nesses processos. Dada a
+centralidade da memória semântica para o comportamento humano e a cultura humana, o
+significado dessas descobertas dificilmente pode ser exagerado (BINDER; DESAI, 2011).
+Processamento semântico
+Uma questão importante no estudo da memória semântica diz respeito à natureza das
+representações conceituais. Esforços foram realizados no último século para desenvolver a
+inteligência artificial focada na representação do conhecimento na forma de símbolos
+abstratos (BINDER; DESAI, 2011).
+Essa abordagem levou a novas e poderosas técnicas para representação e manipulação de
+informações (por exemplo, redes semânticas, listas de recursos, ontologias, esquemas)
+(BINDER; DESAI, 2011).
+Avanços nesta área usaram técnicas de aprendizado de máquina junto com entradas
+verbais massivas para criar uma rede simbólica probabilística altamente flexível que pode
+responder a questões gerais em um formato de linguagem natural (BINDER; DESAI, 2011).
+
+Cientistas interessados em cérebros humanos, por outro lado, há muito tempo presumem
+que o cérebro representa conceitos pelo menos parcialmente na forma de experiências
+sensoriais e motoras (BINDER; DESAI, 2011).
+Neurologistas do século XIX, por exemplo, descreveram um "campo conceitual"
+amplamente distribuído no cérebro, no qual as imagens visuais, auditivas, táteis e motoras
+associadas a um conceito foram ativadas no processo de compreensão da palavra
+(BINDER; DESAI, 2011).
+Uma grande vantagem de tal teoria sobre uma representação puramente simbólica é que
+ela fornece um mecanismo parcimonioso e biologicamente plausível para a aprendizagem
+conceitual (BINDER; DESAI, 2011).
+Ao longo de muitas experiências similares com entidades da mesma categoria, uma
+representação sensorial ou motora idealizada da entidade se desenvolve por generalização
+através de exemplares únicos e reativação ou 'simulação' dessas representações
+específicas de modalidade formam a base da recuperação do conceito (BINDER; DESAI,
+2011).
+Compreensão
+A ideia de que as experiências sensoriais e motoras formam a base do conhecimento
+conceitual tem uma longa história em filosofia, psicologia e neurociência. Nos últimos anos,
+esta proposta ganhou nova força sob a rubrica da cognição "corporificada" ou "situada",
+apoiada por numerosos estudos de neuroimagem e comportamentais (BINDER; DESAI,
+2011)
+Vários conceitos de ação de endereço mostram que o processamento de linguagem
+relacionada à ação ativa as regiões do cérebro envolvidas na execução e no planejamento
+de ações (BINDER; DESAI, 2011).
+Processamento de conceito de movimento, som, cor, olfato e gustativo também foram
+abordados e também tendem a mostrar ativação em ou perto de regiões que processam
+essas modalidades perceptivas (BINDER; DESAI, 2011).
+
+Um modelo neuroanatômico
+
+A Figura 21 mostra um modelo neuroanatômico de memória semântica proposto por Binder
+e Desai (2011), consistente com uma ampla gama de dados disponíveis. Representações
+específicas de modalidade, localizadas perto de redes sensoriais, motoras e emocionais
+correspondentes desenvolvem-se como resultado da experiência com entidades e eventos
+no ambiente externo e interno.
+
+Essas representações codificam configurações espaciais e temporais recorrentes de
+representações modais de nível inferior. Embora descritos como algo modulares, vemos
+esses sistemas como um continuum interativo de conjuntos neurais ordenados
+hierarquicamente, suportando representações progressivamente mais combinatórias e
+idealizadas (BINDER; DESAI, 2011).
+Esses sistemas correspondem às zonas de convergência locais e aos sistemas de símbolos
+perceptuais unimodais. Além da entrada de baixo para cima em sua modalidade associada,
+eles recebem uma variedade de entradas de baixo para cima de outros sistemas modais e
+de atenção. Eles são modais no sentido de que a informação que eles representam é um
+análogo de sua entrada de baixo para cima (BINDER; DESAI, 2011).
+
+1
+Sistemas e processos da atenção e da memória
+Memória Emocional
+Eventos emocionais frequentemente alcançam um status privilegiado na memória. Os
+neurocientistas cognitivos começaram a elucidar os mecanismos psicológicos e neurais
+subjacentes às vantagens da retenção emocional no cérebro humano (LABAR; CABEZA,
+2006).
+A amígdala é uma estrutura cerebral que media diretamente aspectos da aprendizagem
+emocional e facilita as operações de memória em outras regiões, incluindo o hipocampo e o
+córtex pré-frontal (LABAR; CABEZA, 2006).
+
+As interações emoção-memória ocorrem em vários estágios do processamento de
+informações, desde a codificação inicial e consolidação de rastreamentos de memória até a
+recuperação em longo prazo (LABAR; CABEZA, 2006).
+Labar e Cabeza (2006) fizeram um estudo que buscou revisar vários métodos de
+neurociência cognitiva e afetiva, incluindo estudos de pacientes com danos no lobo
+temporal medial, manipulações neuro-hormonais e imagens funcionais cerebrais.
+Os pontos chaves deste estudo mostram que:
+Clique sobre os itens abaixo:
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+4
+
+
+
+5
+
+
+
+6
+
+
+
+7
+
+
+
+8
+
+
+
+9
+
+
+
+10
+
+» A codificação de eventos emocionalmente excitantes recruta a atividade da amígdala e
+provoca maiores interações funcionais entre a amígdala e as regiões da memória do lobo
+temporal medial, que resultam em memória de longo prazo aprimorada (LABAR; CABEZA,
+2006).
+Memória Episódica
+A memória episódica é um sistema neurocognitivo (cérebro/mente), singularmente diferente
+de outros sistemas de memória, que permite que os seres humanos se lembrem de
+experiências passadas (BUCKNER et al., 2000; TULVING, 2002).
+A noção de memória episódica foi proposta pela primeira vez há cerca de 30 anos. Naquela
+época, foi definido em termos de materiais e tarefas. Subsequentemente, foi refinado e
+elaborado em termos de ideias como o eu, o tempo subjetivo e a consciência autonoética
+(BUCKNER et al., 2000; TULVING, 2002).
+As três pistas – senso de tempo subjetivo, consciência autonômica e self – apontam para
+três componentes centrais de um sistema neurocognitivo (mente/cérebro) que possibilita a
+viagem mental no tempo (BUCKNER et al., 2000; TULVING, 2002).
+Este sistema (hipotético) é chamado de memória episódica. Como a psicologia, a memória
+episódica tem um longo passado, mas uma breve história (BUCKNER et al., 2000;
+TULVING, 2002).
+O conceito foi proposto pela primeira vez há cerca de 30 anos, mas mudou drasticamente
+desde então e agora chegou a um estágio em que se pode refletir sobre isso como uma
+verdadeira maravilha da natureza (BUCKNER et al., 2000; TULVING, 2002).
+
+Hoje pensamos na memória episódica como um dos principais sistemas de memória
+neurocognitiva que são definidos em termos de suas funções especiais (o que o sistema faz
+ou produz) e propriedades (como o fazem) (BUCKNER et al., 2000; TULVING, 2002).
+Compartilha muitas características com a memória semântica, da qual ela cresceu, mas
+também possui características que a memória semântica não possui (BUCKNER et al.,
+2000; TULVING, 2002).
+A memória episódica é um sistema de memória recentemente desenvolvido, de
+desenvolvimento tardio e que se deteriora precocemente, mais vulnerável que outros
+sistemas de memória à disfunção neuronal e, provavelmente, exclusivo aos seres humanos.
+(BUCKNER et al., 2000; TULVING, 2002)
+Torna possível o tempo mental viajar através do tempo subjetivo, do presente para o
+passado, permitindo assim que a pessoa reexperimente, através da consciência
+autonômica, as próprias experiências anteriores. Suas operações exigem, mas vão além, o
+sistema de memória semântica (BUCKNER et al., 2000; TULVING, 2002).
+Recuperar informação da memória episódica (recordação ou recordação consciente) é
+contingente ao estabelecimento de um conjunto mental especial, apelidado de “modo de
+recuperação” episódico (BUCKNER et al., 2000; TULVING, 2002).
+A memória episódica é auxiliada por uma rede amplamente distribuída de regiões cerebrais
+corticais e subcorticais que se sobrepõem, mas também se estende além das redes que
+servem outros sistemas de memória (BUCKNER et al., 2000; TULVING, 2002).
