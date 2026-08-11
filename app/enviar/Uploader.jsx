@@ -3,7 +3,7 @@ import { useRef, useState } from "react";
 import { createClient } from "@supabase/supabase-js";
 
 const BUCKET = "aulas";
-const EXT_OK = /\.(mp3|m4a|wav|mp4|aac|ogg|flac|webm|pdf|txt|md)$/i;
+const EXT_OK = /\.(mp3|m4a|wav|mp4|aac|ogg|flac|webm|pdf|docx|txt|md)$/i;
 const unidadeDe = (nome) => {
   const m = nome.match(/^U(\d+)/i);
   return m ? `U${m[1]}` : null;
@@ -161,7 +161,7 @@ export default function Uploader({ cursos, partilhada }) {
           ref={inputRef}
           type="file"
           multiple
-          accept="audio/*,.mp3,.m4a,.wav,.aac,.ogg,.flac,.pdf,.txt,.md"
+          accept="audio/*,.mp3,.m4a,.wav,.aac,.ogg,.flac,.pdf,.docx,.txt,.md"
           style={{ display: "none" }}
           onChange={(e) => juntar(e.target.files)}
         />
