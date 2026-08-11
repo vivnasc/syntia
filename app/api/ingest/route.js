@@ -5,7 +5,7 @@
 // O token do GitHub vive só aqui, no servidor — nunca chega ao browser.
 import { getCursos, getPartilhada } from "../../../lib/conteudo";
 
-const EXT_OK = /\.(mp3|m4a|wav|mp4|aac|ogg|flac|webm|pdf|txt|md)$/i;
+const EXT_OK = /\.(mp3|m4a|wav|mp4|aac|ogg|flac|webm|pdf|docx|txt|md)$/i;
 
 function sanitizarNome(nome) {
   const base = String(nome || "").split(/[\\/]/).pop() || "";

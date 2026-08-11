@@ -208,8 +208,32 @@ function extrairTextoPdf(caminho) {
 async function textoFonteDe(caminho, ext) {
   if (AUDIO_EXT.includes(ext)) return transcrever(caminho);
   if (ext === ".pdf") return extrairTextoPdf(caminho);
+  if (ext === ".docx") return extrairTextoDocx(caminho);
   if (TEXTO_EXT.includes(ext)) return fs.readFileSync(caminho, "utf-8").trim();
   throw new Error(`Tipo de ficheiro não suportado: ${ext}`);
+}
+
+// Extrai o texto de um .docx (Word). Um .docx é um zip; o texto vive em
+// word/document.xml. Descompactamos essa entrada e limpamos as tags XML.
+function extrairTextoDocx(caminho) {
+  let xml;
+  try {
+    xml = execFileSync("unzip", ["-p", caminho, "word/document.xml"], {
+      maxBuffer: 64 * 1024 * 1024,
+    }).toString("utf-8");
+  } catch (e) {
+    throw new Error(`Leitura do .docx falhou (unzip): ${e.message}`);
+  }
+  const txt = xml
+    .replace(/<\/w:p>/gi, "\n")            // fim de parágrafo -> nova linha
+    .replace(/<w:br\b[^>]*\/?>/gi, "\n")   // quebras de linha
+    .replace(/<w:tab\b[^>]*\/?>/gi, "\t")  // tabs
+    .replace(/<[^>]+>/g, "")                // remove as restantes tags
+    .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&apos;/g, "'");
+  const limpo = txt.replace(/[ \t]+\n/g, "\n").replace(/\n{3,}/g, "\n\n").trim();
+  if (!limpo) throw new Error("O .docx não tinha texto extraível (documento vazio?).");
+  return limpo;
 }
 
 async function transcrever(caminhoAudio) {
