@@ -1,0 +1,22 @@
+═══ BLOCO C — PRODUTO ═══
+
+[oportunidade] **Novo:** a aula abre dados epidemiológicos muito concretos sobre depressão em mulheres brasileiras (até 20% ao longo da vida, faixa 30–59 anos, zona urbana, pressão social como fator) que são exactamente o perfil da audiência da mae.cine. Um reel ou carrossel com o ângulo «a ciência confirma: não é fraqueza, é carga» — usando os dados da PNS e da OMS como prova científica — para o movimento «Acaba em Mim», no registo faca-primeiro-terno-depois da Telma. Abre também a pergunta: quantas mulheres neste grupo estão a confundir exaustão crónica/modo sobrevivência com depressão? Isso pode alimentar uma sequência de conteúdo para a coleção **Força** (for-05 «A mulher que vive em modo sobrevivência»).
+
+[maternidade] **FreeMe Mãe** — a aula valida que a depressão pode surgir associada a doenças crónicas e a contextos de pressão prolongada, o que aprofunda o terreno emocional dos ebooks mae-08 («A mãe que não sentiu») e mae-10 («A mãe arrependida»), onde o anedonia e o distanciamento afetivo são centrais. Ideia concreta: num carrossel para a mae.cine, o ângulo «quando a mãe não sentiu nada — e nunca soube porquê» usando a diferença entre depressão pós-parto não diagnosticada e "frieza" moral, com ciência como prova.
+
+[identidade] **Infonte** (coleção) — a aula descreve a baixa autoestima, a ideia de culpa e a perda de prazer como sintomas depressivos; estes espelham directamente os padrões de inf-01 («A mulher que nunca chega») e inf-03 («A mulher que chegou e sentiu pouco» — anedonia após conquista). Ideia concreta: no veu.a.veu, um episódio gouache com Nina ou Teresa onde «sentir pouco depois de chegar» é nomeado e distinguido de ingratidão — usando linguagem de neurobiologia simplificada, sem diagnóstico, dentro da matéria de heranças e sentido.
+
+[prosperidade] **Prosperidade** (coleção) — a aula refere que a depressão é mais prevalente em pessoas com escolaridade sem instrução/fundamental e também superior, e está ligada a pressão social sobre o que se deve conquistar. Isso toca pros-06 («A mulher que não consegue cobrar») e pros-07 («A mulher que não pode ter mais do que os outros»), onde a culpa e a baixa autoestima são o motor invisível. Ideia concreta: ebook ou guia que explore «a culpa de ganhar quando estás a desaparecer por dentro» — ligando o dado epidemiológico à herança de escassez.
+
+[força] **Força** (coleção) — a epidemiologia da depressão em modo crónico e a noção de «tempo vivido com incapacitação» ressoa directamente em for-05 («A mulher que vive em modo sobrevivência») e for-04 («A mulher que se tornou forte demais»). A distinção clínica entre episódio depressivo e «ser assim» é exactamente o que falta a muitas mulheres que normalizaram o estado de baixa energia. Ideia concreta: no soulab, uma peça de exploração simbólica — «o que distingue cansaço da alma de depressão?» — no registo lunar/observação, sem diagnóstico, abrindo a pergunta sem responder.
+
+[oportunidade] **Novo:** a distinção entre transtorno depressivo recorrente e transtorno afetivo bipolar, explicada de forma acessível, raramente aparece em conteúdo de psicologia popular dirigido a mulheres. Há audiência real para um guia prático — não clínico — do tipo «os dois tipos de escuro: como reconhecer o que é o teu». Para quem? Mulheres que já foram diagnosticadas ou suspeitam, e não percebem por que «ora estão ótimas, ora desaparecem». Porquê agora? Porque o tema bipolaridade está a crescer nas buscas e há muito pouco conteúdo feminino e não-estigmatizante sobre isso.
+
+---
+
+═══ NOTAS ═══
+
+- Há várias passagens com transcrição truncada ou mal captada: «transtorno de apetite vulnerável» (mencionado duas vezes no fim) parece ser um erro de transcrição — provavelmente «transtorno depressivo recorrente» e «transtorno afetivo bipolar», que já tinham sido descritos. Não foi possível confirmar.
+- A expressão «a gente t falando» e outras frases cortadas a meio (ex.: «ent gasta», «ao longo da vida 12%») indicam falhas de captura de áudio; o sentido foi recuperado pelo contexto, mas as cifras exactas devem ser verificadas na fonte original.
+- O artigo de base («Depressão e doença bipolar na infância e na adolescência») não tem autoria citada na transcrição — convém identificar para efeitos de avaliação.
+- A aula anuncia três temas para as próximas aulas (neurobiologia, diagnóstico e tratamento) mas esta cobre apenas a epidemiologia; o restante virá nas aulas seguintes.
