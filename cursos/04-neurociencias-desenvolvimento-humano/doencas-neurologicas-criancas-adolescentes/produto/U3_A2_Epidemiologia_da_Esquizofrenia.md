@@ -1,0 +1,16 @@
+═══ BLOCO C — PRODUTO ═══
+
+[oportunidade] **Novo:** conteúdo sobre estigma e padrões familiares herdados em torno da doença mental grave — a aula expõe como o estigma da esquizofrenia faz com que famílias escondam, isolem e não procurem ajuda, perpetuando ciclos de silêncio transgeracional. Existe aqui um ângulo forte para a conta **mae.cine** (movimento «Acaba em Mim» / «Quebra-Ciclos»): não sobre esquizofrenia em si, mas sobre o padrão familiar de «guardar o segredo», de «não falar nisto», de isolar em vez de acolher — e como esse padrão se transmite. Para quem: filhas e netos de pessoas com doença mental não tratada, que cresceram com vergonha, silêncio e confusão. Porquê agora: o tema «saúde mental na família» está no pico de relevância e este ângulo — herança do silêncio em torno da doença mental — não está a ser explorado com este grau de especificidade nos produtos atuais.
+
+[maternidade] **Coleção FreeMe Mãe (mae-02 «A mãe que ficou» / mae-08 «A mãe que não sentiu»)** — a aula valida que crianças com esquizofrenia são frequentemente afastadas da escola e do convívio social, e que as mães ficam sozinhas a gerir o estigma e o isolamento. Ideia concreta: num reel ou carrossel para mae.cine, usar o ângulo «a mãe que aprendeu a esconder» — como a vergonha da doença mental de um filho (ou de um familiar) se torna um padrão silencioso que ela transmite. Voz: faca na abertura («você foi ensinada a esconder o que não se explica»), ciência como prova (esquizofrenia afeta 2 milhões no Brasil; o estigma impede o tratamento), fechamento no ciclo quebrado (isto acaba em mim — eu escolho acolher).
+
+[oportunidade] **Novo:** guia prático «O que fazer quando a família não fala» — para pessoas que cresceram com um familiar com doença mental não diagnosticada ou não tratada (onde o silêncio e o rótulo informal de «doido» substituíram o acolhimento). A aula mostra que o subdiagnóstico e o estigma histórico são reais e documentados. Um guia de €5 neste formato encaixaria na linha dos guias práticos existentes e tocaria diretamente no público das «quebra-ciclos» — pessoas que querem nomear o que viveram e parar de o repetir.
+
+---
+
+═══ NOTAS ═══
+
+- Há várias passagens com transcrição claramente truncada ou corrompida (caracteres em falta, frases cortadas). Exemplos: «Ent vamos pensar aqui Eu sempre chamo a aten para esse lado que 2 milh de pessoas muita coisa muita gente n E h um estigma fort em rela a pessoas com esquizofrenia n» — o conteúdo é recuperável pelo contexto, mas a literalidade está perdida. Nenhuma citação direta foi retirada dessas passagens.
+- Os dois artigos recomendados pela professora não têm autores identificados na transcrição. Não foi possível incluí-los com rigor no Bloco B.
+- A professora anuncia que as próximas aulas cobrirão neurobiologia e diagnóstico/tratamento — esta aula é deliberadamente introdutória e epidemiológica, sem aprofundar mecanismos clínicos.
+- A referência a «a gente viu aqui» e «que eu vou compartilhar na tela» indica que havia material visual projetado que não está transcrito.
