@@ -1,0 +1,20 @@
+═══ BLOCO C — PRODUTO ═══
+
+[oportunidade] **Novo:** série de conteúdo ou ebook sobre "o que fica no corpo quando a criança não foi vista a tempo" — para mães de crianças com diagnóstico tardio ou sem diagnóstico. A aula valida que o atraso de desenvolvimento é frequentemente subdiagnosticado ou mal nomeado, e que isso tem consequências reais para a criança e para quem cuida. O público (mães em culpa por não terem identificado antes, mães de crianças prematuras com sequelas) sobrepõe-se diretamente à tribo "Quebra-Ciclos" da mae.cine e ao universo FreeMe Mãe. A oportunidade é tratar a culpa materna associada ao diagnóstico tardio ou à sobrevivência de um bebê prematuro com sequelas — um ângulo ainda não explorado no catálogo atual.
+
+[maternidade] **FreeMe Mãe (coleção) — ebooks `mae-08 A mãe que não sentiu` e `mae-09 A mãe que criou à distância`:** A aula valida que a morbidade pós-sobrevivência de bebês prematuros cria uma experiência materna específica — a mãe que esteve presente mas não conseguiu "estar" emocionalmente, ou que criou à distância (incubadora, internamentos prolongados). Ideia concreta: capítulo ou secção dentro destes ebooks sobre a culpa de "não ter sentido" a ligação durante um período de sobrevivência médica intensa; usar os dados epidemiológicos do paradoxo (prevalência cai, morbidade sobe) como pano de fundo científico para legitimar a experiência desta mãe.
+
+[maternidade] **mae.cine (@vivianne.dos.santos / @viviannewrites):** A aula fornece dados científicos duros (OMS: 10% da população com deficiência; 200 milhões de crianças em risco; paradoxo da sobrevivência) que funcionam como "faca" de abertura no formato Telma Abrahão. Ideia concreta para reel ou carrossel em PT-BR: abertura com o dado do paradoxo ("a medicina salvou o seu filho — e ninguém lhe disse o que vem a seguir"), desenvolver a tensão entre sobrevida e morbidade, fechar no padrão que se repete ("você aprende a ser forte porque não há outra opção — e isso fica") com CTA GUARDAR. Respeita a voz "ciência com consequência, confrontador primeiro e terno depois".
+
+[maternidade] **Guia `guia-08-culpa` (A culpa que não tem origem):** A aula aponta que a imprecisão dos termos de diagnóstico deixa muitas mães sem nome para o que vivem — e sem nome, a culpa não tem origem identificável. Este guia pode incorporar esse ângulo: a culpa de não ter reconhecido o atraso, de não ter agido mais cedo, de não saber nomear o que se passa com o filho.
+
+[oportunidade] **Novo:** conteúdo ou guia sobre "heranças invisíveis do sistema de saúde" — para mulheres cujos filhos, irmãos ou elas próprias foram bebês prematuros ou de risco e carregam, sem saber, padrões moldados por essa experiência (hipervigilância, dificuldade em pedir ajuda, sensação de "nunca ser suficiente"). Cruza com a coleção **Força** (`for-04 A mulher que se tornou forte demais`, `for-05 A mulher que vive em modo sobrevivência`) e com a coleção **Pertença** (`per-04 A pessoa que ficou responsável cedo demais`). A aula oferece o substrato científico (morbidade do neurodesenvolvimento, intervenção precoce) para legitimar este território.
+
+---
+
+═══ NOTAS ═══
+
+- Há vários momentos de transcrição truncada ou com frases incompletas (assinalados com espaços e letras soltas no texto original, ex.: "preval de crian", "sobreviv de beb", "situa paradoxal t"). O conteúdo foi recuperável pelo contexto, mas alguns números ou termos específicos podem não estar exatos.
+- O código CID mencionado na aula oscila entre "E84" e "F84". Pelo contexto (transtornos mentais e do comportamento) e pela literatura, o correto é **F84**. A transcrição provavelmente registou um erro de pronúncia ou de OCR.
+- A aula menciona "transtorno com hipersinesia associado a retardo mental e a movimentos estereotipados" — a palavra correta é provavelmente **hipercinesia** (ou hiperatividade), não "hipersinesia". Assinalado para verificação.
+- A aula é introdutória e epidemiológica; as aulas seguintes (neurobiologia e diagnóstico/tratamento) provavelmente fornecerão material mais aplicável ao produto.
