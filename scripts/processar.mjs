@@ -42,8 +42,11 @@ const TEXTO_EXT = [".txt", ".md"];
 const LIMITE_BYTES = 24 * 1024 * 1024;
 const SEGUNDOS_POR_TROCO = 1200; // 20 min por troço quando é preciso dividir
 
-// Limite de segurança para o material de referência enviado ao Claude.
-const LIMITE_MATERIAL_BYTES = 28 * 1024 * 1024;
+// Teto do TEXTO de apostila enviado ao Claude por aula (em caracteres).
+// Enviamos texto extraído (pdftotext), não o PDF-imagem, para não pagar tokens
+// de visão por página — a principal causa de custo alto no processamento.
+const LIMITE_TEXTO_MATERIAL = 60000; // ~15k tokens por apostila
+const LIMITE_TEXTO_TOTAL = 120000;   // teto somando todas as apostilas de uma aula
 
 // ---------------------------------------------------------------------------
 // Utilidades
@@ -252,7 +255,8 @@ async function transcrever(caminhoAudio) {
 }
 
 // ---------------------------------------------------------------------------
-// PDFs de referência → blocos "document" para o Claude (com prompt caching)
+// Apostilas de referência → blocos de TEXTO (pdftotext), não PDF-imagem, para
+// cortar tokens de visão. Com prompt caching e teto de tamanho.
 // ---------------------------------------------------------------------------
 function carregarMaterial(materialDir) {
   if (!fs.existsSync(materialDir)) return [];
@@ -263,24 +267,24 @@ function carregarMaterial(materialDir) {
   const blocos = [];
   let total = 0;
   for (const nome of pdfs) {
+    if (total >= LIMITE_TEXTO_TOTAL) { console.log(`    (material ${nome} ignorado: já atingido o teto de contexto)`); break; }
     const caminho = path.join(materialDir, nome);
-    const tamanho = fs.statSync(caminho).size;
-    if (total + tamanho > LIMITE_MATERIAL_BYTES) {
-      console.log(`    (material ${nome} ignorado: excede limite de contexto)`);
+    // Enviamos o TEXTO da apostila, não o PDF-imagem: o PDF como "document"
+    // conta tokens de visão por página (caríssimo em apostilas grandes/scan).
+    let texto = "";
+    try {
+      texto = execFileSync("pdftotext", ["-enc", "UTF-8", "-nopgbrk", caminho, "-"], { maxBuffer: 128 * 1024 * 1024 }).toString("utf-8");
+    } catch {
+      console.log(`    (material ${nome} ignorado: pdftotext falhou)`);
       continue;
     }
-    total += tamanho;
-    blocos.push({
-      type: "document",
-      title: nome,
-      source: {
-        type: "base64",
-        media_type: "application/pdf",
-        data: fs.readFileSync(caminho).toString("base64"),
-      },
-    });
+    texto = texto.replace(/[ \t]+\n/g, "\n").replace(/\n{3,}/g, "\n\n").trim();
+    if (!texto) { console.log(`    (material ${nome} sem texto extraível — ignorado)`); continue; }
+    if (texto.length > LIMITE_TEXTO_MATERIAL) texto = texto.slice(0, LIMITE_TEXTO_MATERIAL) + "\n\n[...apostila truncada por tamanho...]";
+    total += texto.length;
+    blocos.push({ type: "text", text: `=== APOSTILA: ${nome} ===\n${texto}` });
   }
-  // Cacheia o material para que aulas seguintes do mesmo curso não voltem a pagá-lo.
+  // Cacheia o material para que aulas seguintes da mesma unidade não voltem a pagá-lo.
   if (blocos.length) blocos[blocos.length - 1].cache_control = { type: "ephemeral" };
   return blocos;
 }
