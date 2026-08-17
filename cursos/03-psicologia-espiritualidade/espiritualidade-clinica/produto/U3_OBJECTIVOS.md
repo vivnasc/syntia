@@ -1,0 +1,17 @@
+# BLOCO C — PRODUTO
+
+[oportunidade] **Novo — série de conteúdo "Os três andares da inteligência" para mae.cine (@vivianne.dos.santos):** a estrutura QI → QE → QS (razão → emoção → sentido) é um mapa simples e poderoso para explicar, em linguagem acessível, por que há pessoas que são inteligentes e emocionalmente hábeis mas continuam a repetir padrões — porque o terceiro andar (sentido, valores herdados, para quê) ainda não foi tocado. Para o público brasileiro de "você", mulheres que já fizeram terapia e trabalho emocional mas sentem que algo ainda não encaixou. É um ângulo de entrada científico-comparativo que abre caminho para os produtos das coleções sem nomear diretamente espiritualidade. Reel de abertura com a estrutura "não é falta de inteligência, não é falta de emoção — é o terceiro andar que ainda não ligaste."
+
+[oportunidade] **Novo — ebook fundador ou ebook profundo para a coleção infonte:** "A mulher que chegou e sentiu pouco" (`inf-03`) pode ser aprofundada com o conceito de QS — chegou com QI alto, trabalhou o QE, mas nunca desenvolveu a camada de sentido (QS). O ebook pode estruturar-se em torno da pergunta "para quê é que chegaste?" como habilidade essencial da inteligência espiritual aplicada à identidade e ao propósito. Alimenta diretamente a coleção infonte sem precisar de linguagem espiritual explícita.
+
+[sentido] **Coleção Pertença / coleção Trabalho e Vocação** — a ideia de que o QS é educável e tem aplicação profissional valida a premissa dos ebooks `tra-05 A mulher que confunde exaustão com mérito` e `tra-06 A mulher que trabalha para merecer`: quando o "para quê" (QS) não está desenvolvido, o trabalho torna-se o único eixo de valor — e a exaustão é confundida com prova de mérito. Ideia concreta: carrossel para veu.a.veu com linguagem gouache e personagem Nina, mostrando os três andares (razão → emoção → sentido) e a pergunta "o que fazes quando o terceiro andar está apagado?", sem CTA de venda, optimizado para GUARDAR.
+
+[sentido] **ebook-04-sentido — "O sentido que procuras" (€7):** a aula valida directamente a premissa deste ebook fundador — a inteligência espiritual é, na sua essência, a capacidade de orientação pelo sentido. O ebook pode referenciar (sem jargão académico) que o sentido não é um luxo emocional: é uma forma de inteligência tão real como o QI, e que pode ser cultivada. Frase de ancoragem para a página de produto: "Não é que te falte razão. Não é que te faltes emoção. É que ninguém te ensinou a usar o terceiro andar."
+
+---
+
+# NOTAS
+
+**Falha de transcrição / limitação crítica:** O texto enviado não é a aula — é apenas a checklist de verificação de objetivos que aparece no final de uma unidade. O conteúdo expositivo (definições, autores citados, modelos explicados, habilidades listadas, exemplos dados) não está disponível neste excerto. Todo o Bloco A e Bloco B foram construídos exclusivamente a partir dos três enunciados de objetivos visíveis. Há um risco real de os flashcards e perguntas de avaliação estarem incompletos ou descontextualizados em relação ao que a aula efectivamente desenvolveu.
+
+**Recomendação:** enviar o conteúdo completo da unidade (transcrição dos vídeos ou texto expositivo) para uma análise fiel. Os autores que a apostila associa a este tema (Viktor Frankl, no contexto de sentido e logoterapia) não aparecem neste excerto e não foram introduzidos nos blocos por não constarem do texto enviado.
