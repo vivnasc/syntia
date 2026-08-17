@@ -1,0 +1,23 @@
+# BLOCO C — PRODUTO
+
+[oportunidade] **Novo: ebook ou guia "O adoecimento que não tem nome"** — a aula articula com precisão o ciclo globalização → valores desintegradores → adoecimento espiritual → vazio existencial → angústia. Este encadeamento tem aplicação directa na entrada de qualquer coleção (especialmente Força e Pertença), mas a framing específica de "adoecimento espiritual que se manifesta como vazio" ainda não existe como produto autónomo no catálogo. Para mulheres que chegam a descrever o que sentem como "falta de sentido" ou "não saber quem sou". O ângulo é novo porque não é nem saúde mental clínica nem espiritualidade religiosa: é exactamente o intervalo entre as duas que a aula nomeia.
+
+[sentido] **ebook-04-sentido "O sentido que procuras"** — a aula valida directamente a premissa deste ebook: o vazio existencial como busca incessante por preenchimento que nunca chega. Ideia concreta para mae.cine: reel de abertura com faca — "Você não está cansada. Você está vazia. E isso é diferente." — termina com o ciclo descrito na aula (busca → não preenchimento → angústia) e CTA GUARDAR.
+
+[identidade] **Coleção Infonte** — a aula descreve o adoecimento espiritual como perda de referências e de sentido de quem se é; este é exactamente o território da Infonte ("quem és para além do que fazes"). A ideia de que valores desintegradores criam uma identidade fragmentada aprofunda os ebooks `inf-04 A mulher que herdou uma vida` e `inf-05 A mulher que tem medo do próprio tamanho`. Ideia para mae.cine: carrossel "5 sinais de que você está vivendo a vida de outra pessoa" com ancoragem científica na crise da dimensão espiritual descrita na aula.
+
+[heranças] **ebook-02-herdaste "O que herdaste sem saber"** — a aula afirma que valores opostos à estrutura humana "favorecem o adoecimento global" e são transmitidos culturalmente. Isto valida a premissa deste ebook (herança invisível de padrões). Ideia para veu.a.veu: post gouache com a personagem Avó Alice — "O que a avó não resolveu, a neta carrega como vazio." — sem CTA de venda, otimiza para GUARDAR.
+
+[força/sobrevivência] **Coleção Força** — a aula descreve o ciclo de "luta e fuga" quando a espiritualidade entra em crise; este padrão espelha directamente os ebooks `for-05 A mulher que vive em modo sobrevivência` e `for-04 A mulher que se tornou forte demais`. Ideia para soulab: peça de observação — "Sobreviver tornou-se o teu modo de existir. E tu chamaste a isso força." — registo lunar, sem CTA, otimiza para GUARDAR/PARTILHAR.
+
+[pertença] **Coleção Pertença** — a aula liga o vazio existencial à perda de valores comuns e à fragmentação da identidade colectiva. Alimenta `per-05 A pessoa que não pertence em lado nenhum`. Ideia para veu.a.veu: carrossel gouache com a personagem Nina — "Quando os valores à tua volta não te reconhecem, deixas de te reconhecer a ti." — sem produto, âmbito didáctico, tema Pertença da jornada de 13 semanas.
+
+[espaço terapêutico] **Psicologia e Espiritualidade: Espaços de Atuação do Profissional** (disciplina do curso) — a aula define com precisão o princípio operacional do espaço terapêutico: acolher todas as crenças sem afirmar nenhuma. Esta definição é citável em avaliação e alimenta o saber que a Vivianne usa como autoridade. Ideia para mae.cine: reel de autoridade — "O consultório não é lugar de nenhuma religião. É lugar de todas as histórias." — com ancoragem na posição da psicologia laica e plural.
+
+---
+
+# NOTAS
+
+**Partes truncadas:** a transcrição tem várias quebras evidentes de texto, marcadas por palavras cortadas a meio ("n um apelo", "naquela pergunta", "A cren pode ser um fen", "O mistério não significa algo que n se v", "ent dando continuidade n", "Ent n brigar", etc.). Estas quebras correspondem a momentos em que o áudio falhou ou o transcritor perdeu o fio. O conteúdo em falta parece cobrir: (a) a definição de fé como fenómeno psicológico; (b) a crença como fenómeno subjetivo; (c) o detalhe do "mistério" como experiência de luz inacessível (presente na apostila mas não claramente audível na transcrição). Os blocos acima foram produzidos apenas com o que era legível; os pontos truncados não foram preenchidos com conteúdo da apostila para não ultrapassar o que a aula efectivamente diz.
+
+**Wundt:** não é nomeado na transcrição da aula; a referência presente no Bloco B (no contexto histórico da psicologia) foi retirada da apostila que serve de base à disciplina, e está identificada como tal. Se a pergunta de avaliação for especificamente sobre o que foi dito em aula, esta referência deve ser usada com cautela.
