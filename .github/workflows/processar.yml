@@ -60,12 +60,35 @@ permissions:
 jobs:
   processar:
     runs-on: ubuntu-latest
+    # Rede de segurança: sem isto, um passo que trave (ex.: apt-get à espera de
+    # um prompt) só é morto ao fim de 6 horas e a aula fica eternamente "a
+    # processar". 30 minutos chega de sobra para transcrever + gerar os textos.
+    timeout-minutes: 30
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
+      # Instalação não-interativa, com timeout e repetição. O apt-get em
+      # runners novos pode pendurar-se num prompt (needrestart/debconf); aqui
+      # forçamos o modo não-interativo e limitamos cada tentativa no tempo, para
+      # que o passo falhe depressa em vez de ficar horas parado.
       - name: Instalar ffmpeg e pdftotext
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg poppler-utils unzip
+        env:
+          DEBIAN_FRONTEND: noninteractive
+          NEEDRESTART_MODE: a
+        run: |
+          sudo rm -f /etc/apt/apt.conf.d/*needrestart* 2>/dev/null || true
+          for tentativa in 1 2 3; do
+            if sudo timeout 150 apt-get update \
+              && sudo timeout 240 apt-get install -y --no-install-recommends ffmpeg poppler-utils unzip; then
+              echo "dependências instaladas (tentativa $tentativa)"
+              exit 0
+            fi
+            echo "apt falhou/pendurou (tentativa $tentativa), a repetir..."
+            sudo killall apt-get 2>/dev/null || true
+            sleep 5
+          done
+          echo "não foi possível instalar as dependências"; exit 1
 
       - name: Configurar Node
         uses: actions/setup-node@v4
