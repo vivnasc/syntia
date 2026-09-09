@@ -86,11 +86,37 @@ export default function Uploader({ cursos, partilhada }) {
           throw new Error(`preparar: ${e?.message || e}`);
         }
 
-        // 2) envia o ficheiro direto para o Supabase
-        const up = await supa.storage.from(BUCKET).uploadToSignedUrl(prep.path, prep.token, file, {
-          contentType: file.type || "application/octet-stream",
-        });
-        if (up.error) throw new Error(`upload: ${up.error.message}`);
+        // 2) envia o ficheiro direto para o Supabase — com repetição (3x),
+        // porque falhas momentâneas de rede são normais em uploads.
+        let up = null;
+        for (let tent = 1; tent <= 3; tent++) {
+          try {
+            up = await supa.storage.from(BUCKET).uploadToSignedUrl(prep.path, prep.token, file, {
+              contentType: file.type || "application/octet-stream",
+            });
+          } catch (err) {
+            up = { error: err };
+          }
+          if (!up.error) break;
+          if (tent < 3) await new Promise((r) => setTimeout(r, 1500 * tent));
+        }
+        if (up.error) {
+          const msg = String(up.error?.message || up.error);
+          // "Failed to fetch" = o browser nem chegou ao Supabase. Em vez de
+          // adivinhar, sondamos o serviço e reportamos o que o browser viu.
+          if (/failed to fetch|networkerror|load failed/i.test(msg)) {
+            const alvo = (() => { try { return new URL(SUPA_URL).host; } catch { return "supabase"; } })();
+            let sonda;
+            try {
+              const r = await fetch(`${SUPA_URL}/storage/v1/version`, { mode: "cors" });
+              sonda = `o serviço respondeu ${r.status} — o bloqueio é só ao envio (PUT)`;
+            } catch (e2) {
+              sonda = `ligação bloqueada (${e2?.message || "sem detalhe"}) — nada passa deste browser/rede para lá`;
+            }
+            throw new Error(`upload: sem ligação a ${alvo} após 3 tentativas. Sonda: ${sonda}.`);
+          }
+          throw new Error(`upload: ${msg}`);
+        }
 
         // 3) dispara a transcrição
         const resp = await fetch("/api/ingest", {
