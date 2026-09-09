@@ -1,11 +1,14 @@
-name: Sincronizar conceitos → viviannepag
+name: Sincronizar saber → viviannepag
 
-# A cada aula nova (quando as sínteses mudam no main), atualiza os conceitos dos
-# cursos no viviannepag (lib/infografico/cursos.ts). Zero cliques.
+# A cada aula nova (quando as sínteses mudam no main), o bot leva o saber para
+# o viviannepag em DUAS camadas. Zero cliques:
 #
-# IMPORTANTE: edita o ficheiro EXISTENTE do viviannepag IN-PLACE — só troca as
-# listas de `conceitos`. Preserva tudo o resto (conceitosDosCursos, getCurso,
-# imports, comentários). Nunca reescreve o ficheiro todo, para nunca apagar nada.
+#  1) conceitos — edita lib/infografico/cursos.ts IN-PLACE (só troca as listas
+#     de `conceitos`; preserva conceitosDosCursos, getCurso, imports, tudo);
+#  2) SABER COMPLETO — reconstrói `saber/` no viviannepag com as sínteses
+#     integrais, transcrições, resumos, objetivos, produto e o saber.json,
+#     organizado por curso/cadeira, com INDICE.md (scripts/exportar-saber-
+#     completo.mjs). As sessões do viviannepag leem tudo da fonte, sem extratos.
 #
 # Requisito ÚNICO (uma vez): o secret VIVIANNEPAG_TOKEN — token com Contents:
 # Read and write no vivnasc/viviannepag. Depois disto nunca mais mexes.
@@ -17,6 +20,7 @@ on:
       - 'cursos/**/sinteses/**'
       - 'disciplina-partilhada/**/sinteses/**'
       - 'scripts/patch-cursos-viviannepag.mjs'
+      - 'scripts/exportar-saber-completo.mjs'
       - 'scripts/gerar-conteudo.mjs'
   workflow_dispatch:
 
@@ -68,9 +72,14 @@ jobs:
             console.log("verificacao de seguranca: OK");
           ' || { echo "!! resultado inseguro — recuso escrever (protejo o build)."; exit 1; }
           cp /tmp/cursos.ts "$DEST"
+          # Camada 2: o saber COMPLETO (sínteses integrais, transcrições,
+          # resumos, objetivos, produto, saber.json) → vp/saber/, com INDICE.md
+          # e a secção no CLAUDE.md do viviannepag (idempotente).
+          node scripts/exportar-saber-completo.mjs vp
           cd vp
-          if git diff --quiet -- lib/infografico/cursos.ts; then
-            echo "Conceitos já iguais — nada a fazer."
+          git add lib/infografico/cursos.ts saber/ CLAUDE.md
+          if git diff --staged --quiet; then
+            echo "Saber já igual — nada a fazer."
             exit 0
           fi
           # Commita com a identidade da Vivianne (não um bot) para o Vercel
@@ -78,8 +87,7 @@ jobs:
           # "Blocked"). O push continua a ser feito com o VIVIANNEPAG_TOKEN.
           git config user.name "vivnasc"
           git config user.email "61882995+vivnasc@users.noreply.github.com"
-          git add lib/infografico/cursos.ts
-          git commit -m "Conceitos dos cursos atualizados a partir da Syntia (automático)"
+          git commit -m "Saber dos cursos atualizado a partir da Syntia (automático)"
           for n in 1 2 3 4; do
             git push origin HEAD:main && { echo "push ok"; exit 0; }
             echo "push falhou ($n), rebase e tento de novo…"
