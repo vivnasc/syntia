@@ -685,9 +685,74 @@ async function processarReuniao(ficheiroPath, filename) {
   console.log(`[reuniao] ${nomeBase} concluído.`);
 }
 
+// ---------------------------------------------------------------------------
+// Área "auto": a Syntia decide sozinha a cadeira
+// ---------------------------------------------------------------------------
+// Monta o catálogo real de cadeiras a partir dos programa.json de cada curso.
+// Cada linha: "<caminho da área> :: <Curso> · <Cadeira> — <ementa>".
+function catalogoDeCadeiras() {
+  const linhas = [];
+  if (fs.existsSync("cursos")) {
+    for (const curso of fs.readdirSync("cursos").sort()) {
+      const prog = path.join("cursos", curso, "programa.json");
+      if (!fs.existsSync(prog)) continue;
+      let dados;
+      try { dados = JSON.parse(fs.readFileSync(prog, "utf-8")); } catch { continue; }
+      for (const d of dados.disciplinas || []) {
+        if (!d?.id) continue;
+        const ementa = Array.isArray(d.ementa) ? d.ementa.join("; ") : "";
+        linhas.push(`cursos/${curso}/${d.id} :: ${dados.curso || curso} · ${d.titulo || d.id}${ementa ? ` — ${ementa}` : ""}`);
+      }
+    }
+  }
+  if (fs.existsSync("disciplina-partilhada")) {
+    linhas.push("disciplina-partilhada :: Disciplina partilhada entre cursos");
+  }
+  return linhas;
+}
+
+// Lê o texto do ficheiro (PDF, docx, txt/md ou áudio transcrito) e pede ao
+// modelo rápido para escolher a cadeira certa entre as reais. Só aceita uma
+// área VÁLIDA — na dúvida, falha ruidosamente em vez de arquivar mal.
+// Devolve { area, texto } para o texto não ser extraído/transcrito duas vezes.
+async function classificarAreaAutomaticamente(ficheiroPath, filename) {
+  const ext = path.extname(filename).toLowerCase();
+  console.log(`[auto] A ler ${filename} para decidir a cadeira...`);
+  const texto = await textoFonteDe(ficheiroPath, ext);
+  if (!texto || !texto.trim()) {
+    throw new Error(`[auto] Sem texto utilizável em ${filename} (PDF só com imagens?) — não consigo classificar. Envia escolhendo o curso à mão.`);
+  }
+  const catalogo = catalogoDeCadeiras();
+  if (!catalogo.length) throw new Error("[auto] Sem cadeiras no catálogo (programa.json em falta).");
+  const validas = new Set(catalogo.map((l) => l.split(" :: ")[0]));
+
+  const content =
+    "Classifica um documento académico na cadeira certa de um conjunto de pós-graduações.\n" +
+    "Responde APENAS com o caminho exato da área escolhida (a parte antes de \" :: \"), sem mais nada.\n" +
+    "Se não tiveres confiança razoável em nenhuma, responde exatamente: INDECISO\n\n" +
+    "=== ÁREAS POSSÍVEIS ===\n" + catalogo.join("\n") + "\n\n" +
+    `=== NOME DO FICHEIRO ===\n${filename}\n\n` +
+    "=== INÍCIO DO DOCUMENTO ===\n" + texto.slice(0, 6000);
+
+  const resp = await fetchRetry("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: { "x-api-key": ANTHROPIC_API_KEY, "anthropic-version": "2023-06-01", "content-type": "application/json" },
+    body: JSON.stringify({ model: CLAUDE_MODEL_RAPIDO, max_tokens: 100, messages: [{ role: "user", content }] }),
+  });
+  if (!resp.ok) throw new Error(`[auto] Claude falhou a classificar (${resp.status}): ${await resp.text()}`);
+  const data = await resp.json();
+  const escolha = data.content.map((b) => (b.type === "text" ? b.text : "")).join("").trim().split("\n")[0].trim();
+  if (!validas.has(escolha)) {
+    throw new Error(`[auto] Sem confiança para classificar "${filename}" (resposta: ${escolha || "vazia"}). Envia este ficheiro escolhendo o curso à mão.`);
+  }
+  console.log(`[auto] Decidido: ${filename} → ${escolha}`);
+  return { area: escolha, texto };
+}
+
 async function processarIngest() {
   const ficheiroPath = process.env.INGEST_AUDIO_PATH;
-  const area = process.env.INGEST_AREA || "";
+  let area = process.env.INGEST_AREA || "";
+  let textoAuto = null; // texto já extraído durante a classificação "auto"
   const filename = process.env.INGEST_FILENAME || path.basename(ficheiroPath || "");
 
   // Inspiração: espaço à parte dos cursos. Transcreve o vídeo/áudio e extrai
@@ -715,6 +780,16 @@ async function processarIngest() {
     }
     await processarReuniao(ficheiroPath, filename);
     return;
+  }
+
+  // 🤖 Área "auto": a Syntia lê o documento e decide sozinha a cadeira.
+  if (area === "auto") {
+    if (!ficheiroPath || !fs.existsSync(ficheiroPath)) {
+      throw new Error(`Ficheiro não encontrado em ${ficheiroPath}`);
+    }
+    const escolha = await classificarAreaAutomaticamente(ficheiroPath, filename);
+    area = escolha.area;
+    textoAuto = escolha.texto;
   }
 
   if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
@@ -750,7 +825,7 @@ async function processarIngest() {
     const uni = (nomeBase.match(/^u(\d+)/i) || [])[1] || "0";
     const dir = path.join(area, especial);
     fs.mkdirSync(dir, { recursive: true });
-    const texto = await textoFonteDe(ficheiroPath, ext);
+    const texto = textoAuto ?? await textoFonteDe(ficheiroPath, ext);
     let saida = texto || "";
     if (especial === "objetivos" && texto) {
       const material = materialParaArea(area, uni !== "0" ? uni : undefined);
@@ -783,7 +858,7 @@ async function processarIngest() {
   console.log(`[${area}] A obter o texto de ${filename} (${ext || "?"})...`);
   const texto = fs.existsSync(txtPath)
     ? fs.readFileSync(txtPath, "utf-8")
-    : await textoFonteDe(ficheiroPath, ext);
+    : (textoAuto ?? await textoFonteDe(ficheiroPath, ext));
   if (!texto || !texto.trim()) {
     throw new Error(`Sem texto utilizável em ${filename} (PDF só com imagens? áudio vazio?).`);
   }

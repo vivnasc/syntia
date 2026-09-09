@@ -16,6 +16,9 @@ const supa = SUPA_URL && SUPA_ANON ? createClient(SUPA_URL, SUPA_ANON) : null;
 
 export default function Uploader({ cursos, partilhada }) {
   const destinos = [
+    // "auto": a Syntia lê cada ficheiro e decide sozinha o curso e a cadeira
+    // (classificação no processamento). Ideal para lotes de PDFs misturados.
+    { id: "auto", titulo: "🤖 Deixar a Syntia decidir", tipo: "auto", cadeiras: [] },
     ...cursos.map((c) => ({ ...c, tipo: "curso" })),
     ...(partilhada ? [{ id: partilhada.id, titulo: partilhada.titulo, tipo: "partilhada", cadeiras: [] }] : []),
   ];
@@ -25,6 +28,7 @@ export default function Uploader({ cursos, partilhada }) {
   const [destinoId, setDestinoId] = useState("");
   const destino = destinos.find((d) => d.id === destinoId);
   const isPart = destino?.tipo === "partilhada";
+  const isAuto = destino?.tipo === "auto";
   const cadeiras = destino?.cadeiras || [];
 
   const [cadeiraSel, setCadeiraSel] = useState("");
@@ -57,7 +61,7 @@ export default function Uploader({ cursos, partilhada }) {
 
   async function enviarTodos() {
     if (!destinoId) return setAviso("Escolhe o curso.");
-    if (!isPart && !cadeiraSel) return setAviso("Escolhe a disciplina.");
+    if (!isPart && !isAuto && !cadeiraSel) return setAviso("Escolhe a disciplina.");
     if (!itens.some((it) => it.status !== "feito")) return;
 
     setCorrer(true);
@@ -92,7 +96,7 @@ export default function Uploader({ cursos, partilhada }) {
         const resp = await fetch("/api/ingest", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ url: prep.publicUrl, curso: destinoId, cadeira: isPart ? "" : cadeiraSel, filename: file.name, modo }),
+          body: JSON.stringify({ url: prep.publicUrl, curso: destinoId, cadeira: isPart || isAuto ? "" : cadeiraSel, filename: file.name, modo }),
         });
         const data = await resp.json().catch(() => ({}));
         if (!resp.ok) throw new Error(data.error || `processar (${resp.status})`);
@@ -119,7 +123,15 @@ export default function Uploader({ cursos, partilhada }) {
         </select>
       </label>
 
-      {destino && !isPart && (
+      {isAuto && (
+        <div className="txt" style={{ fontSize: 13 }}>
+          A Syntia lê cada ficheiro e arruma-o sozinha no curso e cadeira certos.
+          Se não tiver confiança suficiente num ficheiro, esse envio falha no estado
+          e envia-lo escolhendo o curso à mão.
+        </div>
+      )}
+
+      {destino && !isPart && !isAuto && (
         <label className="lead" style={{ margin: 0 }}>
           Disciplina
           <select value={cadeiraSel} onChange={(e) => setCadeiraSel(e.target.value)} className="campo" disabled={correr}>
@@ -189,16 +201,16 @@ export default function Uploader({ cursos, partilhada }) {
         </div>
       )}
 
-      {destinoId && (isPart || cadeiraSel) ? (
+      {destinoId && (isPart || isAuto || cadeiraSel) ? (
         <div className="dest-confirma">
           A enviar para <b>{destino.titulo}</b>
-          {!isPart && <> · <b>{cadeiras.find((k) => k.id === cadeiraSel)?.titulo}</b></>}
+          {!isPart && !isAuto && <> · <b>{cadeiras.find((k) => k.id === cadeiraSel)?.titulo}</b></>}
         </div>
       ) : (
         itens.length > 0 && <div className="dest-falta">Escolhe o curso e a disciplina acima antes de enviar.</div>
       )}
 
-      <button className="btn" onClick={enviarTodos} disabled={correr || porEnviar === 0 || !destinoId || (!isPart && !cadeiraSel)}>
+      <button className="btn" onClick={enviarTodos} disabled={correr || porEnviar === 0 || !destinoId || (!isPart && !isAuto && !cadeiraSel)}>
         {correr ? "A enviar…" : porEnviar > 0 ? `Enviar ${porEnviar} ficheiro${porEnviar === 1 ? "" : "s"}` : feitos > 0 ? "Tudo enviado ✓" : "Enviar"}
       </button>
 

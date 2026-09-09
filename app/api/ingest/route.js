@@ -76,6 +76,15 @@ export async function POST(request) {
     // Espaço de reuniões: fora dos cursos, sem validação de programa.
     areaDir = "reunioes";
     destinoTitulo = "Reunião";
+  } else if (curso === "auto") {
+    // 🤖 A Syntia decide: a classificação para curso/cadeira acontece no
+    // processamento (o robô lê o texto e escolhe a cadeira certa; se não
+    // tiver confiança, o run falha e o ficheiro reenvia-se à mão).
+    if (consolidar || mover) {
+      return Response.json({ error: "Consolidar/mover não funcionam com classificação automática." }, { status: 400 });
+    }
+    areaDir = "auto";
+    destinoTitulo = "🤖 Syntia decide";
   } else if (partilhada && curso === partilhada.id) {
     areaDir = "disciplina-partilhada";
     destinoTitulo = partilhada.titulo;
