@@ -741,9 +741,12 @@ async function classificarAreaAutomaticamente(ficheiroPath, filename) {
   });
   if (!resp.ok) throw new Error(`[auto] Claude falhou a classificar (${resp.status}): ${await resp.text()}`);
   const data = await resp.json();
-  const escolha = data.content.map((b) => (b.type === "text" ? b.text : "")).join("").trim().split("\n")[0].trim();
+  // O modelo às vezes ecoa a linha inteira do catálogo ("caminho :: descrição")
+  // ou embrulha em aspas/crases — aceitamos, ficando só com o caminho.
+  const bruto = data.content.map((b) => (b.type === "text" ? b.text : "")).join("").trim().split("\n")[0].trim();
+  const escolha = bruto.split(" :: ")[0].replace(/^[`'"]+|[`'"]+$/g, "").trim();
   if (!validas.has(escolha)) {
-    throw new Error(`[auto] Sem confiança para classificar "${filename}" (resposta: ${escolha || "vazia"}). Envia este ficheiro escolhendo o curso à mão.`);
+    throw new Error(`[auto] Sem confiança para classificar "${filename}" (resposta: ${bruto || "vazia"}). Envia este ficheiro escolhendo o curso à mão.`);
   }
   console.log(`[auto] Decidido: ${filename} → ${escolha}`);
   return { area: escolha, texto };
