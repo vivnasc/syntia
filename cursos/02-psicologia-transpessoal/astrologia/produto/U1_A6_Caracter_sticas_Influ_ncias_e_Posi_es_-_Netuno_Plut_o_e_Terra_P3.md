@@ -1,0 +1,23 @@
+═══ BLOCO C — PRODUTO ═══
+
+[oportunidade] **Novo:** conteúdo sobre Plutão como mapa das obsessões e compulsões — para a conta **mae.cine** (@vivianne.dos.santos / @viviannewrites). A aula define Plutão como regente das obsessões, fobias, compulsões e do subconsciente, e diz que "quando se tem um cliente muito adoecido, é preciso ficar atento à posição de Plutão." Este ângulo — o padrão compulsivo como herança que se repete — é exactamente o nicho da mae.cine (padrões que se sabotam, heranças transgeracionais, movimento "Acaba em Mim"). Ideia: reel ou carrossel com abertura tipo faca — "Você não é fraca. Você tem um Plutão que ainda não foi visto." — seguido de ciência-como-prova (a posição de Plutão como mapa das compulsões que se repetem), fechando no ciclo quebrado. CTA: GUARDAR. Público-alvo: mulheres brasileiras que reconhecem padrões autodestrutivos mas não conseguem pará-los.
+
+[oportunidade] **Novo:** conteúdo sobre Netuno e a ilusão no amor — porta de entrada para a coleção **SyncHim**. A aula descreve Netuno como o planeta do encantamento, das ilusões e do ideal, e menciona que "pessoas manipuladoras têm um Netuno muito forte no mapa astral." Este ângulo alimenta directamente os títulos da coleção SyncHim: `syn-01 A mulher que ama a ausência`, `syn-05 A mulher que ama o potencial`, `syn-07 A mulher que confunde intensidade com amor`. Ideia: carrossel para **mae.cine** — "Não é amor. É o teu Netuno a confundir encantamento com presença." — que valide com o conceito de ilusão neptuniana e encaminhe para o ebook `syn-07`. Voz: faca na abertura, confrontador primeiro, terno depois.
+
+[maternidade] **FreeMe Mãe** (`mae-08 A mãe que não sentiu`) — a aula valida que Netuno rege as ilusões e os ideais, e que a sua acção é "sutil e gradual": exactamente a experiência da mãe que não reconhece o que sente porque o ideal de maternidade encobriu a realidade. Ideia: parágrafo ou secção no ebook `mae-08` que use a imagem neptuniana — o ideal de mãe como ilusão construída lentamente, que torna invisível o que a mãe realmente viveu.
+
+[identidade] **Infonte** (`inf-04 A mulher que herdou uma vida` / `inf-05 A mulher que tem medo do próprio tamanho`) — a aula define a posição da Terra como indicadora da "missão de vida" e liga-a à realidade consciente e ao plano prático. Este conceito aprofunda a tensão central da coleção Infonte: a mulher que persegue uma vida que não é sua (eixo Sol-Terra em oposição como metáfora do ego vs. propósito real). Ideia: num futuro ebook ou guia Infonte, usar o eixo Sol-Terra como imagem para a pergunta "quem és para além do que fazes" — o Sol como quem mostras, a Terra como o que vieste realmente fazer.
+
+[força] **Força** (`for-05 A mulher que vive em modo sobrevivência`) — a aula descreve Plutão como regente da regeneração e da degeneração, com "influência lenta e grave", e diz que a sua posição indica "onde o consultante tem a maior complexidade." Este ângulo apoia o eixo da coleção Força: a mulher que sobrevive mas não sabe como sair do modo sobrevivência porque o padrão opera nas profundidades (subconsciente, compulsão). Ideia: no ebook `for-05`, uma secção que use a imagem de Plutão — a transformação lenta que acontece quando o padrão de sobrevivência é finalmente visto, não combatido à força.
+
+---
+
+═══ NOTAS ═══
+
+1. **Transcrição com falhas evidentes:** vários segmentos têm texto claramente mal capturado ou truncado — por exemplo: *"ent qual a sua tend para iludir e iludir a si e aos outros al de mostrar onde est o seu ideal Isso muito importante"* e *"conteúdo novo esse olhar pesquisem por favor se for do interesse de voc"* e *"Plutão t O astr Michael Brown"*. Estes trechos foram interpretados pelo contexto, mas podem conter nuances perdidas.
+
+2. **Referência à Lua como satélite:** a professora menciona que a Lua é satélite e não planeta, e que o mesmo raciocínio se aplica a Plutão — mas a frase de transição está truncada (*"O mesmo acontece com Plut t"*), pelo que a ligação exacta entre os dois casos ficou parcialmente perdida na transcrição.
+
+3. **Éris e o Cinturão de Kuiper:** a professora refere-se a "Centuri de Kuiper" na transcrição, que se lê claramente como "Cinturão de Kuiper" (Kuiper Belt). Corrigido na análise.
+
+4. **Tarólogos mencionados:** a professora refere tarólogos que entendem a Terra como "escola de vida" — este é um ponto de abertura para outros sistemas de crença, mas não é desenvolvido na aula. Fica como nota de contexto, sem desenvolvimento suficiente para gerar produto.
