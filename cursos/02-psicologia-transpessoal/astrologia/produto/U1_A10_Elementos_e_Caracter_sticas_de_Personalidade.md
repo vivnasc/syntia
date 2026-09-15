@@ -1,0 +1,18 @@
+═══ BLOCO C — PRODUTO ═══
+
+[oportunidade] **Novo:** conteúdo de série para **veu.a.veu** sobre as três qualidades (cardeal / fixo / mutável) aplicadas aos padrões de cuidado — a pessoa que inicia sempre e nunca sustenta (cardeal sem fixo), a que nunca muda mesmo quando é preciso (fixo sem mutável), a que se adapta a todos menos a si (mutável sem raízes). Formato gouache, elenco das 5 personagens, sem CTA de venda. A aula fornece a estrutura das qualidades como mapa para reconhecer padrões de funcionamento emocional — útil para a jornada didática das 13 semanas (bloco Pertencer ou Heranças). Para quem: mulheres adultas cuidadoras que se reconhecem numa das três formas de estar. Porquê agora: a matéria está na pós-graduação e ainda não foi traduzida para conteúdo visual acessível nesta conta.
+
+[oportunidade] **Novo:** post/reel para **mae.cine** (@vivianne.dos.santos, PT-BR, você) usando a ressignificação da ambição da aula — «a ausência de ambição pode ser sintoma de autoestima fragilizada» — como faca de abertura ligada a padrões transgeracionais («a mulher que aprendeu que querer muito era perigoso»). A aula oferece base científica/astrológica citável como prova, no registo Telma: ciência com consequência, confrontador primeiro, terno depois. CTA: GUARDAR. Alimenta a coleção **Infonte** (identidade e propósito) e pode encaminhar para `inf-05 A mulher que tem medo do próprio tamanho` ou `inf-06 A mulher que não se autoriza a ganhar mais`.
+
+[identidade] **Infonte** (`inf-04 A mulher que herdou uma vida`) — a distinção entre signo solar (o que mostras ao mundo) e ascendente (o que és por dentro, que só se integra aos 30 anos) valida a premissa central deste ebook: a mulher que viveu a identidade que lhe foi dada, não a que é sua. Ideia concreta: numa futura edição ou nota editorial do ebook, uma linha que nomeie este desfasamento interior/exterior como ponto de partida para a pergunta «quem és para além do que te tornaste?».
+
+[pertença] **Coleção Pertença** (`per-04 A pessoa que ficou responsável cedo demais`) — os signos mutáveis são descritos na aula como os que fazem a transição, os que se adaptam ao fim de cada ciclo. Este padrão de adaptação permanente ressoa directamente com a pessoa que assumiu responsabilidade precocemente e nunca parou de se ajustar aos outros. Ideia concreta: carrossel para **soulab** (registo de observação/hipótese, visual escuro/lunar) com a hipótese «e se a tua adaptabilidade infinita não fosse um dom — fosse uma estratégia de sobrevivência?», sem nomear astrologia, apenas o padrão.
+
+---
+
+═══ NOTAS ═══
+
+- A transcrição tem várias quebras de frase e palavras cortadas (assinaladas por reticências ou frases sem sujeito), provavelmente por falhas de captação de áudio. Os conteúdos centrais são recuperáveis pelo contexto, mas algumas frases ficaram parcialmente perdidas (ex.: «Os signos mut eles correspondem ao final de cada esta», «Bom vimos os signos cardeais os fixos e agora os mut»).
+- A referência a «Mark e McIvers» é, com toda a probabilidade, «March e McEvers» (Marion March e Joan McEvers), autoras de *Curso Básico de Astrologia* — referência confirmada na apostila. A transcrição apresenta o nome com grafia alternada em dois momentos.
+- A autora «White» é referenciada repetidamente como fonte principal das três qualidades, mas não é identificada pelo nome completo nem pela obra — ficou por esclarecer na aula se se trata de Ruth White ou outra autora com esse apelido.
+- A frase sobre a ambição como possível sintoma de transtorno afetivo é apresentada como opinião da professora, não como citação direta de fonte académica identificada na aula.
