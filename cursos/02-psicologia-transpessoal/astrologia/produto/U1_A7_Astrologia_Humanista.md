@@ -1,0 +1,23 @@
+═══ BLOCO C — PRODUTO ═══
+
+---
+
+[oportunidade] **Novo:** a distinção de Rudhyar entre «conhecimento técnico» e «sabedoria» — entendida como empatia, ética e compromisso com quem recebe o feedback — é uma moldura poderosa para um conteúdo de **mae.cine** dirigido a mulheres que ajudam, orientam ou «salvam» os outros (filhas, mães, cuidadoras) sem sabedoria sobre si próprias. O ângulo: «Saberes muito sobre os outros e pouco sobre ti não é sabedoria — é sobrevivência disfarçada de competência.» Valida o território da coleção **Força** (`for-04 A mulher que se tornou forte demais`) e da coleção **Trabalho** (`tra-05 A mulher que confunde exaustão com mérito`). Formato sugerido: reel de abertura com faca («Não é falta de informação. É falta de sabedoria sobre ti.») + carrossel com a distinção técnica/sabedoria aplicada à vida quotidiana, em português do Brasil, voz «você», foto quente âmbar. CTA: GUARDAR.
+
+[identidade] **Infonte** (coleção) — a definição de Rudhyar de astrologia como «sistema de pensamento centrado na pessoa» valida o núcleo desta coleção: a pergunta «quem és para além do que fazes» é, na linguagem de Rudhyar, a pergunta humanista por excelência — a que substitui o evento pelo sujeito. Alimenta diretamente `inf-01 A mulher que nunca chega` e `inf-04 A mulher que herdou uma vida`: a astrologia humanista diz que o ponto de partida não é o que aconteceu, mas quem a pessoa é. Ideia concreta para **veu.a.veu**: carrossel gouache com a personagem Nina a descobrir que a pergunta certa não é «o que me aconteceu?» mas «quem sou eu naquilo que me aconteceu?» — sem nomear a astrologia, usando a viragem conceptual de Rudhyar como estrutura narrativa da semana de «Identidade» na jornada de 13 semanas.
+
+[heranças] **ebook-02-herdaste / ebook-07-sonho** — a ideia de Rudhyar de que o consultante carrega «material bruto» que só se torna compreensão com sabedoria humana ressoa diretamente com o ângulo destes dois ebooks fundadores (o que herdaste sem saber; nem todo o sonho que carregas nasceu em ti). Ideia para **soulab**: post de exploração (visual lunar escuro) com a hipótese «O que carregas pode não ser teu — pode ser o material bruto da tua linhagem à espera de compreensão.» Sem CTA de venda, motor próprio do laboratório, sem mistura com mae.cine.
+
+[pertença] **Pertença** (coleção) — a aula descreve a astrologia clássica como instrumento de orientação de comunidades e líderes antes de ser humanizada por Rudhyar. Essa tensão entre pertencer ao coletivo e centrar-se no individual é o coração da coleção Pertença (`per-01 A pessoa que carrega a família`, `per-05 A pessoa que não pertence em lado nenhum`). Ideia para **veu.a.veu**: carrossel gouache com a personagem Teresa a perceber que cuidou sempre do coletivo (família, grupo) sem nunca se ter perguntado o que é dela — eco da viragem de Rudhyar de «evento/coletivo» para «pessoa».
+
+---
+
+═══ NOTAS ═══
+
+1. A transcrição tem vários segmentos claramente corrompidos ou truncados, provavelmente por falha de reconhecimento de voz. Exemplos: «a astrologia humanista ela tem esse car mais hol de contribuir de uma forma mais tecnicamente assertiva mais tamb e se destaca de outras da astrologia como a astrologia cl»; «ent ele diz que a astrologia como t de compreens humana seria uma defini»; «quando o Rudiar fala da sabedoria o que você entende que eu interpreto»; «mas, continua o autor, para poder usar uma construtiva e sabiamente essas potencialidades, o astrólogo precisa ter conquistado algo mais do que a simples experi t muito embora tal conquista seja dif ou seja dif». Estes trechos foram interpretados com base no material de referência (apostila e citação de Rudhyar), mas não foram completados com certeza — qualquer avaliação deve recorrer ao texto original da apostila.
+
+2. O nome do autor é transcrito de forma inconsistente ao longo da aula: «Dani Rudiar», «Rudiart», «Rudiak», «Rudhyar». O nome correto, confirmado pelo material de referência, é **Dane Rudhyar**.
+
+3. A aula menciona as cartas de tarô de Jung como adendo, sem desenvolver o tema. Não foi incluído nos blocos por ser tangencial e incompleto na transcrição.
+
+4. A referência às influências intelectuais de Rudhyar (Nietzsche, Teosofia, Sasaki Roshi, Marc Edmund Jones) não foi explicitada na transcrição da aula — surge apenas na apostila. Não foi incluída nos flashcards como matéria da aula, apenas como contexto de referência.
