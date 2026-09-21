@@ -1,0 +1,33 @@
+═══ BLOCO C — PRODUTO ═══
+
+[sentido] **ebook-04-sentido «O sentido que procuras»** — A aula aprofunda a ideia nietzschiana de que a busca de sentido é em si um sintoma: o homem que não suporta o vazio cria ideais para preenchê-lo, e isso pode ser a raiz da sua própria divisão interior; este ebook pode trabalhar o paradoxo de que a procura desesperada de sentido é, muitas vezes, o que impede de viver. Ideia concreta para **mae.cine**: carrossel com abertura tipo faca — «Você não está perdida. Está a procurar algo que nunca foi seu para encontrar» — seguido de três painéis com ciência-como-prova (Nietzsche como diagnóstico da alma, não como teoria), fechando no ciclo: «O que acontece quando você para de procurar e começa a criar?» CTA: GUARDAR.
+
+[identidade] **Coleção infonte — «inf-02 A mulher que persegue a próxima montanha»** — A aula valida directamente este perfil: o espírito que não para de buscar, incapaz de afirmar o que já tem, é a figura que Nietzsche chama de quem não consegue transformar o «foi» num «assim eu quis». O ebook pode usar o amor fati como chave interior: não como resignação, mas como acto de potência — parar de perseguir e começar a afirmar. Ideia concreta: capítulo ou secção «O amor fati não é desistir — é finalmente chegar».
+
+[identidade] **Coleção infonte — «inf-03 A mulher que chegou e sentiu pouco»** — A aula oferece o enquadramento exacto para este perfil: a alma moralizada que projeta um ideal de si e se separa do que realmente vivencia. Quando finalmente chega, o ideal já se deslocou. O ebook pode articular isto como o mecanismo do *dividuum*: a mulher que chegou mas a parte idealizada já foi à frente. Ideia concreta para **mae.cine**: reel curto — «Você chegou. Mas a versão que você imaginou já foi embora.» com três segundos de silêncio antes do CTA SEGUIR.
+
+[heranças] **ebook-02-herdaste «O que herdaste sem saber»** — A aula valida que a moral escrava é transmitida como herança cultural: o deslocamento do juízo da origem para as intenções, a culpa, a autodivisão são padrões aprendidos e não naturais. O ebook pode trabalhar a ideia de que a culpa não é uma verdade moral — é uma herança de inversão de valores. Ideia concreta para **mae.cine**: carrossel — «A culpa que você sente pode não ser sua. Pode ser uma herança de quem aprendeu a se julgar pelas intenções, não pelos actos.» Ciência-como-prova: Nietzsche como diagnóstico do padrão transgeracional.
+
+[identidade] **guia-03-presenca «Práticas de presença para o dia a dia»** — A aula fundamenta teoricamente a necessidade de práticas de presença: o homem que não suporta o vazio do «agora» cria ideais e divisões internas. As práticas de presença são a resposta prática ao que Nietzsche descreve como horror ao vazio. O guia pode incluir uma nota introdutória que ancora a prática neste diagnóstico, sem jargão filosófico: «Quando paramos, o primeiro instinto é preencher. Este guia é para quem quer aprender a ficar.»
+
+[identidade] **Coleção infonte — «inf-05 A mulher que tem medo do próprio tamanho»** — A ideia de «torna-te o que és» e do espírito que se singulariza alimenta directamente este perfil: o medo do próprio tamanho é exactamente a recusa da singularidade, a preferência em não se destacar para não ter de afirmar o próprio destino. Ideia concreta: secção do ebook chamada «O segredo que escondes no fundo do coração» (usando a citação de Gide como espelho emocional).
+
+[força] **Coleção Força — «for-04 A mulher que se tornou forte demais»** — A aula valida que a «força» como ideal moral (aguentar, suportar, nunca fraquear) é precisamente a forma de autodivisão que Nietzsche critica: a mulher que se tornou forte demais está a viver o *dividuum* — entre o que sente e o ideal que projecta. Ideia concreta para **mae.cine**: reel — «Ser forte assim não é saúde. É a divisão que ninguém te ensinou a reconhecer.» Ciência-como-prova: o mecanismo do *dividuum* como linguagem acessível, sem o nome.
+
+[sentido] **Coleção Força — «for-05 A mulher que vive em modo sobrevivência»** — A vacuidade da vida (niilismo como estado psicológico) é a descrição exacta do modo sobrevivência: agir sem afirmar, existir sem criar sentido, preencher o vazio com tarefas. O ebook pode usar a ideia nietzschiana de «em vão» como ponto de partida: «Quando tudo o que fazes tem um propósito menos o de te pertencer.»
+
+[oportunidade] **Novo:** mini-guia ou reel série «Do *dividuum* ao indivíduo» — para **veu.a.veu** (didática, gouache, sem venda). A distinção nietzschiana entre *individuum* e *dividuum* é pedagogicamente poderosa e visualmente simples: uma personagem do elenco fixo (Nina ou Teresa) que vive partido entre o que sente e o que idealiza, numa sequência de 3 a 4 gouaches. Público: mulheres cuidadoras em burnout que reconhecerão imediatamente a divisão interior sem precisar de nenhum jargão filosófico. O potencial de GUARDAR é alto porque nomeia algo que vivem mas nunca tiveram palavra para descrever.
+
+---
+
+═══ NOTAS ═══
+
+1. **Nome de Turguéniev mal transcrito** — A transcrição regista «Tukhnievsky», que não corresponde a nenhum autor. O material escrito da apostila confirma que se trata de Ivan Turguéniev. Ponto a confirmar com a gravação original.
+
+2. **Amigo francês não identificado** — A aula menciona «um querido amigo francês» como uma das fontes do niilismo para Nietzsche, mas não dá o nome. A apostila também não o identifica. Pode ser uma referência a Paul Rée (que era franco-prussiano) ou a outro interlocutor — ponto que ficou por esclarecer.
+
+3. **Passagens truncadas** — Há várias secções com texto claramente degradado na transcrição: «esclarecido que n necess ser C para compreender C», «o efetivo atroz da responsabiliza moral dos homens por suas a uma inevit divis» e «o termo da moralidade dos costumes e da dívida». O sentido é recuperável pelo contexto e pela apostila, mas as formulações exactas ficam comprometidas.
+
+4. **Referência a Maria Bethânia** — A professora faz uma digressão para uma música de Maria Bethânia como ilustração do «não sigas por onde vai outro». A música não é identificada na transcrição e a professora indica que disponibilizará a referência depois. Não tem impacto na matéria avaliável, mas fica por confirmar.
+
+5. **Referência ao Marquês de Sade** — A professora inicia uma analogia entre a «justiça dos senhores» (punir por prazer) e o Marquês de Sade, mas interrompe com «vamos deixar aqui como reticências». O argumento fica incompleto.
