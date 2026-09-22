@@ -1,0 +1,21 @@
+═══ BLOCO C — PRODUTO ═══
+
+---
+
+[oportunidade] **Novo:** série de conteúdo para **mae.cine** sobre «o que te fez ser assim» — usar o quadro dos dez determinantes (exemplo do João) para mostrar ao público brasileiro que os padrões que se repetem não são «falhas de carácter» mas comportamentos com causas identificáveis (herança, hábito, ambiente, propaganda cultural). A faca de abertura seria: «Você não é fraca. Você tem causas.» Formato: carrossel com as etapas encadeadas, cada uma nomeando um padrão real (ex.: «cresceste a ver que dinheiro se gasta quando aparece» → «gastas antes de poupar»). Liga directamente ao movimento «Acaba em Mim» e à ideia de que quebrar o ciclo exige primeiro ver as causas. Para quem: audiência brasileira que se culpa pelos padrões repetidos mas não os vê como aprendizados determinados pelo contexto. Porquê agora: a ciência do determinismo como «prova científica» de que padrões têm origem é exactamente o tipo de autoridade que mae.cine usa — valida sem psicologizar, confronta sem acusar.
+
+[identidade] **Coleção Infonte** (ebooks profundos, universo «quem és para além do que fazes») — a aula valida que o comportamento de «perseguir a próxima montanha» ou «nunca chegar» tem determinantes identificáveis (hábito, ambiente, herança, ausência de alternativa sentida), não é uma escolha livre neutra. Ideia concreta: num ebook como `inf-02 A mulher que persegue a próxima montanha`, acrescentar uma secção que convide a leitora a listar os dez «determinantes» da sua própria corrida (o que via em casa, o que foi recompensado, o que sentia quando parava) — transformando o quadro teórico numa ferramenta de autoconhecimento prático.
+
+[prosperidade] **Coleção Prosperidade** (ebooks profundos, universo «a relação com o valor») — o argumento de que comportamentos têm causas e que a pessoa é o locus onde convergem esses determinantes (não a origem moral do problema) é o alicerce de ebooks como `pros-04 A mulher que herdou a escassez` e `pros-06 A mulher que não consegue cobrar`. Ideia concreta: abrir esses ebooks com uma distinção curta entre «escolha livre» e «padrão determinado» — não para absolver a leitora da responsabilidade de mudar, mas para separar culpa de causa, que é o movimento exacto que esses títulos prometem.
+
+[pertença] **veu.a.veu** — a aula alimenta um episódio didáctico sobre «porque é que fazemos o que fazemos mesmo quando não queremos». O ângulo, respeitando a voz gouache e o elenco fixo, seria mostrar a personagem Nina a repetir um padrão (ex.: ceder sempre nos conflitos familiares) e mapear os determinantes visíveis — sem julgamento, com a pergunta «como é que isto te protegeu?». Sem CTA de venda; o objectivo é GUARDAR. Enquadra-se na semana de «Heranças» da jornada de 13 semanas.
+
+[sombra] **soulab** — o argumento de que o comportamento tem causas que o sujeito muitas vezes não vê (determinantes inconscientes, hábitos, propaganda cultural, memória corporal) é território natural do laboratório. Ideia: uma peça de observação curta no registo escuro/lunar — «Talvez não sejas tão livre quanto pensas. Talvez sejas tão formado quanto tudo o que viveste.» — sem explicar, sem ensinar, deixando a hipótese a flutuar. Respeita o motor próprio do soulab: observação, símbolo, sem mistura com os outros perfis.
+
+---
+
+═══ NOTAS ═══
+
+A transcrição apresenta vários momentos de corte ou degravação incompleta, assinalados por frases truncadas («inviabiliza a psicologia como ci...», «não seria penalizado por suas falhas e delitos ou recompensado por suas a valorosas», «versões modernas do indeterminismo» — o texto da apostila diz «versões moderadas»). O conteúdo conceptual é, ainda assim, reconstituível com segurança a partir da apostila de referência, que foi usada para completar as definições exactas e as citações.
+
+Os autores Ogletree e Orbele (2008) e Walker (1970/1973) aparecem na apostila mas não foram mencionados na transcrição oral da aula — não foram incluídos nos flashcards, mas constam do Bloco B por estarem no material de referência oficial.
