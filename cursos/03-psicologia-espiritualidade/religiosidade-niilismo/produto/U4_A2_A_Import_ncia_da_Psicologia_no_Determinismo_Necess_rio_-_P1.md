@@ -1,0 +1,19 @@
+# BLOCO C — PRODUTO
+
+[oportunidade] **Novo:** ebook ou post para a coleção **infonte** — «O que determinou as tuas escolhas?» — A distinção entre *sentir que escolhemos livremente* e *ter poder real sobre a escolha* é exactamente o terreno onde vivem as mulheres da coleção infonte (a mulher que herdou uma vida, a que persegue a próxima montanha, a que não se autoriza a ganhar mais). A aula valida scientificamente que a sensação de liberdade não é prova de autonomia — argumento poderoso para nomear padrões herdados sem culpabilizar. Um ebook profundo `inf-04 A mulher que herdou uma vida` pode citar este quadro para explicar que as escolhas que parecem «suas» foram, em grande medida, determinadas por eventos anteriores (família, contexto, sobrevivência) — sem determinismo radical, sem retirar agência, no ponto intermédio do continuum.
+
+[corpo] **mae.cine (@vivianne.dos.santos / @viviannewrites)** — A aula fornece prova científica de que o comportamento é moldado por determinantes externos e internos (heranças, ambiente, estados internos), o que sustenta o argumento central do movimento «Acaba em Mim». Ideia de post no registo da Telma: abertura faca — «Você não escolheu repetir o padrão. O padrão escolheu por você — até você ver isso.» — seguida de explicação da diferença entre sentir-se livre e ter poder real, com CTA GUARDAR. Sustenta directamente os ebooks `ebook-02-herdaste` («O que herdaste sem saber») e `ebook-07-sonho` («Nem todo o sonho que carregas nasceu em ti»).
+
+[corpo] **veu.a.veu** — Na jornada de 13 semanas, a semana de «Heranças» ganha um episódio didático em gouache: a personagem Nina convicta de que «escolheu» a vida que tem, até perceber que o que sente como escolha foi moldado por eventos que não controla. A pergunta condutora é «do que te protege acreditar que escolheste tudo?» — no registo exacto da conta (nunca «o que há de errado em ti»). Sem CTA de venda, optimiza para GUARDAR.
+
+[corpo] **Coleção Força** — Os ebooks `for-04 A mulher que se tornou forte demais` e `for-05 A mulher que vive em modo sobrevivência` beneficiam directamente deste quadro: a força excessiva e o modo sobrevivência não são «personalidade» — são comportamentos determinados por eventos passados (ameaça, ausência, exigência precoce). A aula dá o argumento para nomear isso sem fatalismo: os determinantes existem, podem ser vistos, e ver é o início da mudança.
+
+[corpo] **Coleção Pertença** — `per-04 A pessoa que ficou responsável cedo demais` e `per-01 A pessoa que carrega a família`: a aula valida que assumir responsabilidade precoce não foi uma escolha livre — foi determinada por eventos do sistema familiar. Argumento útil para o capítulo de abertura desses ebooks, para desfazer a culpa de «ter deixado acontecer».
+
+---
+
+## NOTAS
+
+- A transcrição tem vários segmentos claramente corrompidos ou truncados (reconhecíveis pelas frases sem sujeito ou verbo, palavras cortadas a meio): «cura de uma enfermidade pela f e vontade de Deus», «efeito da organiza gerada pelo relato verbal na cl psicol», «n pode ser optado por qualquer um que se pretenda ser psic», «h proposi indeterministas menos radicais». O conteúdo foi reconstituído com base na apostila PDF, que corresponde à mesma matéria — assinalado para verificação.
+- A aula termina abruptamente com «encerramos a parte 1 do capítulo 2», sugerindo que a transcrição está incompleta. O capítulo 2 na apostila continua com as consequências do determinismo para a ciência e profissão, e com a distinção entre determinismo e fatalismo — matéria que pode constar de uma parte não transcrita.
+- Nenhum autor foi nomeado em voz alta na transcrição; a atribuição a Strapasson (2011) vem da apostila de referência, não da gravação.
