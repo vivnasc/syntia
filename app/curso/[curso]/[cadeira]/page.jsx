@@ -5,6 +5,7 @@ import Markdown from "../../../Markdown";
 import Quiz from "../../../Quiz";
 import Consolidar from "../../../Consolidar";
 import MoverAula from "../../../MoverAula";
+import Apagar from "../../../Apagar";
 
 export function generateStaticParams() {
   const out = [];
@@ -56,9 +57,13 @@ export default function CadeiraPage({ params }) {
           <div className="section-label" style={{ marginTop: 30 }}>Material de referência</div>
           <div className="materiais">
             {cadeira.materiais.filter((m) => !m.unidade).map((m) => (
-              <a key={m.ficheiro} className="mat" href={`/${m.ficheiro}`} target="_blank" rel="noreferrer">
-                <span className="ic">▤</span> {m.nome}
-              </a>
+              <span key={m.ficheiro} className="mat-wrap">
+                <a className="mat" href={`/${m.ficheiro}`} target="_blank" rel="noreferrer">
+                  <span className="ic">▤</span> {m.nome}
+                </a>
+                <Apagar curso={curso.id} cadeira={cadeira.id} tipo="material" rotulo={m.nome}
+                  arquivos={[m.ficheiro.replace(`material/${curso.id}/${cadeira.id}/`, "")]} />
+              </span>
             ))}
           </div>
         </>
@@ -105,9 +110,13 @@ export default function CadeiraPage({ params }) {
           {cadeira.materiais.filter((m) => m.unidade === u.n).length > 0 && (
             <div className="materiais" style={{ marginBottom: 10 }}>
               {cadeira.materiais.filter((m) => m.unidade === u.n).map((m) => (
-                <a key={m.ficheiro} className="mat" href={`/${m.ficheiro}`} target="_blank" rel="noreferrer">
-                  <span className="ic">▤</span> {m.nome}
-                </a>
+                <span key={m.ficheiro} className="mat-wrap">
+                  <a className="mat" href={`/${m.ficheiro}`} target="_blank" rel="noreferrer">
+                    <span className="ic">▤</span> {m.nome}
+                  </a>
+                  <Apagar curso={curso.id} cadeira={cadeira.id} tipo="material" rotulo={m.nome}
+                    arquivos={[m.ficheiro.replace(`material/${curso.id}/${cadeira.id}/`, "")]} />
+                </span>
               ))}
             </div>
           )}
@@ -125,6 +134,7 @@ export default function CadeiraPage({ params }) {
                     <span className="arrow">→</span>
                   </Link>
                   <MoverAula curso={curso.id} cadeira={cadeira.id} arquivos={aula.arquivos} unidadeAtual={aula.unidade} unidades={numerosUnidades} />
+                  <Apagar curso={curso.id} cadeira={cadeira.id} arquivos={aula.arquivos} rotulo={aula.titulo} />
                 </div>
               ))}
             </div>
@@ -143,6 +153,7 @@ export default function CadeiraPage({ params }) {
                   <span className="arrow">→</span>
                 </Link>
                 <MoverAula curso={curso.id} cadeira={cadeira.id} arquivos={aula.arquivos} unidadeAtual={aula.unidade ?? 0} unidades={numerosUnidades} />
+                <Apagar curso={curso.id} cadeira={cadeira.id} arquivos={aula.arquivos} rotulo={aula.titulo} />
               </div>
             ))}
           </div>

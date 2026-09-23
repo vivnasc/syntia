@@ -24,16 +24,19 @@ export async function POST(request) {
     modo === "material" ? "material"
     : modo === "consolidar" ? "consolidar"
     : modo === "mover" ? "mover"
+    : modo === "apagar" ? "apagar"
+    : modo === "apagar-material" ? "apagar-material"
     : modo === "inspiracao" ? "inspiracao"
     : modo === "inspiracao-legenda" ? "inspiracao-legenda"
     : modo === "reuniao" ? "reuniao"
     : "aula";
   const consolidar = modoFinal === "consolidar";
   const mover = modoFinal === "mover";
+  const apagar = modoFinal === "apagar" || modoFinal === "apagar-material";
   const inspiracao = modoFinal === "inspiracao";
   const inspiracaoLegenda = modoFinal === "inspiracao-legenda";
   const reuniao = modoFinal === "reuniao";
-  const semFicheiro = consolidar || mover || inspiracaoLegenda;
+  const semFicheiro = consolidar || mover || apagar || inspiracaoLegenda;
 
   const token = process.env.GITHUB_DISPATCH_TOKEN;
   if (!token) {
@@ -42,6 +45,9 @@ export async function POST(request) {
 
   if (mover && (!Array.isArray(arquivos) || arquivos.length === 0)) {
     return Response.json({ error: "Sem ficheiros para mover." }, { status: 400 });
+  }
+  if (apagar && (!Array.isArray(arquivos) || arquivos.length === 0)) {
+    return Response.json({ error: "Sem ficheiros para apagar." }, { status: 400 });
   }
 
   let nomeFicheiro = "";
@@ -80,8 +86,8 @@ export async function POST(request) {
     // 🤖 A Syntia decide: a classificação para curso/cadeira acontece no
     // processamento (o robô lê o texto e escolhe a cadeira certa; se não
     // tiver confiança, o run falha e o ficheiro reenvia-se à mão).
-    if (consolidar || mover) {
-      return Response.json({ error: "Consolidar/mover não funcionam com classificação automática." }, { status: 400 });
+    if (consolidar || mover || apagar) {
+      return Response.json({ error: "Consolidar/mover/apagar precisam da cadeira concreta, não da classificação automática." }, { status: 400 });
     }
     areaDir = "auto";
     destinoTitulo = "🤖 Syntia decide";

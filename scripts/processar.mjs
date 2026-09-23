@@ -914,6 +914,79 @@ function moverAula(area, arquivosJson, unidade) {
   }
 }
 
+// Apaga uma aula mal carregada: remove a síntese, o produto e a transcrição.
+// Não reprocessa nada e não mexe em mais nenhuma aula. O áudio/PDF de origem
+// vive no armazenamento, não no repo, por isso aqui só há estes três.
+function apagarAula(area, arquivosJson) {
+  if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+    throw new Error(`Área inválida: "${area}"`);
+  }
+  let arquivos;
+  try { arquivos = JSON.parse(arquivosJson); } catch { throw new Error("lista de ficheiros inválida"); }
+  if (!Array.isArray(arquivos) || !arquivos.length) throw new Error("sem ficheiros para apagar");
+
+  const subdirs = { sinteses: ".md", produto: ".md", transcricoes: ".txt" };
+  let apagados = 0;
+  for (const stem of arquivos) {
+    const base = path.basename(String(stem)); // segurança: sem caminhos
+    if (!base || base !== stem) continue;
+    for (const [sub, ext] of Object.entries(subdirs)) {
+      const alvo = path.join(area, sub, `${base}${ext}`);
+      if (fs.existsSync(alvo)) {
+        fs.rmSync(alvo);
+        apagados++;
+        console.log(`[${area}] apagado: ${sub}/${base}${ext}`);
+      }
+    }
+  }
+  if (!apagados) console.log(`[${area}] nada para apagar (já tinha sido removido?).`);
+}
+
+// Apaga material de referência (_material) carregado por engano. Os caminhos
+// vêm relativos a <area>/_material, por exemplo "U2/Apostila.pdf".
+function apagarMaterial(area, arquivosJson) {
+  if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+    throw new Error(`Área inválida: "${area}"`);
+  }
+  let arquivos;
+  try { arquivos = JSON.parse(arquivosJson); } catch { throw new Error("lista de ficheiros inválida"); }
+  if (!Array.isArray(arquivos) || !arquivos.length) throw new Error("sem ficheiros para apagar");
+
+  const raiz = path.resolve(area, "_material");
+  let apagados = 0;
+  for (const rel of arquivos) {
+    let alvo = path.resolve(raiz, String(rel));
+    // A app publica a pasta da unidade em maiúsculas (U2); no disco pode estar
+    // noutra caixa. Se o caminho exato não existir, procura sem distinguir.
+    if (!fs.existsSync(alvo)) {
+      const partes = String(rel).split("/").filter(Boolean);
+      let atual = raiz;
+      let ok = true;
+      for (const parte of partes) {
+        if (!fs.existsSync(atual)) { ok = false; break; }
+        const achado = fs.readdirSync(atual).find((n) => n.toLowerCase() === parte.toLowerCase());
+        if (!achado) { ok = false; break; }
+        atual = path.join(atual, achado);
+      }
+      if (ok) alvo = atual;
+    }
+    // Segurança: o alvo tem de ficar mesmo dentro de _material.
+    if (alvo !== raiz && !alvo.startsWith(raiz + path.sep)) {
+      console.log(`[${area}] ignorado (fora de _material): ${rel}`);
+      continue;
+    }
+    if (fs.existsSync(alvo) && fs.statSync(alvo).isFile()) {
+      fs.rmSync(alvo);
+      apagados++;
+      console.log(`[${area}] material apagado: ${path.relative(raiz, alvo)}`);
+      // Limpa a pasta da unidade se tiver ficado vazia.
+      const pai = path.dirname(alvo);
+      if (pai !== raiz && fs.existsSync(pai) && fs.readdirSync(pai).length === 0) fs.rmdirSync(pai);
+    }
+  }
+  if (!apagados) console.log(`[${area}] nada para apagar em _material.`);
+}
+
 // ---------------------------------------------------------------------------
 // Loop principal
 // ---------------------------------------------------------------------------
@@ -932,6 +1005,16 @@ async function main() {
   // Pedido de mover: muda a unidade de uma aula renomeando os seus ficheiros.
   if (process.env.INGEST_MODO === "mover") {
     moverAula(process.env.INGEST_AREA || "", process.env.INGEST_ARQUIVOS || "", process.env.INGEST_UNIDADE || "");
+    return;
+  }
+
+  // Pedido de apagar: remove uma aula mal carregada (ou material de apoio).
+  if (process.env.INGEST_MODO === "apagar") {
+    apagarAula(process.env.INGEST_AREA || "", process.env.INGEST_ARQUIVOS || "");
+    return;
+  }
+  if (process.env.INGEST_MODO === "apagar-material") {
+    apagarMaterial(process.env.INGEST_AREA || "", process.env.INGEST_ARQUIVOS || "");
     return;
   }
 
