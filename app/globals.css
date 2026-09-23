@@ -475,6 +475,24 @@ select.campo { appearance: none; cursor: pointer; }
 .mover-msg.ok { color: #81c784; }
 .mover-err { font-size: 11px; color: var(--corpo); margin-left: 6px; align-self: center; }
 
+/* ---------- Apagar (aula ou material carregado por engano) ---------- */
+.apagar { display: inline-flex; align-items: center; }
+.apagar-btn {
+  font: inherit; font-size: 13px; line-height: 1; color: var(--corpo); cursor: pointer;
+  background: var(--card); border: 1px solid var(--line); border-radius: 9px;
+  padding: 7px 10px;
+}
+.apagar-btn:hover { border-color: #c96a6a; color: #e58e8e; }
+.apagar-conf { display: inline-flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.apagar-pergunta { font-size: 12px; color: var(--corpo); }
+.apagar-sim, .apagar-nao {
+  font: inherit; font-size: 12px; cursor: pointer; border-radius: 8px;
+  padding: 5px 9px; border: 1px solid var(--line); background: var(--card);
+}
+.apagar-sim { border-color: #c96a6a; color: #e58e8e; }
+.apagar-nao { color: var(--ink-soft); }
+.mat-wrap { display: inline-flex; align-items: center; gap: 4px; }
+
 /* ---------- Seletor Aulas / Apostila ---------- */
 .modo-tabs { display: flex; gap: 8px; }
 .modo-tab {
