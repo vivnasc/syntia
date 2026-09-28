@@ -1,0 +1,15 @@
+═══ BLOCO C — PRODUTO ═══
+
+[oportunidade] **Novo:** conteúdo para **mae.cine** (@vivianne.dos.santos / @viviannewrites) ancorado na hipótese intestinal da doença de Alzheimer — a aula valida, com base neuroanatômica, que o que acontece no intestino chega ao cérebro, o que é prova científica direta para o ângulo «o corpo guarda o que a mente não processou» e para o movimento «Acaba em Mim». Ideia concreta: reel com abertura de faca («A ciência acaba de mostrar que a doença de Alzheimer pode começar no intestino — não no cérebro»), desenvolvimento rápido sobre o nervo do trato solitário e a ligação intestino-hipotálamo, fechando no padrão transgeracional: «o que a sua avó não digeriu pode estar a chegar ao seu sistema nervoso». Público: mulheres brasileiras 35-55 que acompanham saúde da mãe/avó ou têm historial familiar de demência. Porquê agora: a ligação Alzheimer-intestino está a ganhar tração mediática e dá à Vivianne autoridade científica num território onde a audiência já está sensível (cuidar de mãe com demência).
+
+[oportunidade] **Novo:** entrada de topo de funil para a coleção **FreeMe Mãe** via o ângulo do ciclo circadiano e do hipotálamo. A aula explica que o núcleo supraquiasmático é o relógio biológico central e que o hipotálamo regula sono, fome, temperatura e stress. Ideia: carrossel para **veu.a.veu** (gouache, sem CTA de venda) com a personagem Nina — «o teu corpo ainda está em modo de sobrevivência enquanto dormes» — que explica em linguagem simples como o hipotálamo em stress crónico (cuidadoras em burnout) fica preso num ciclo que não se reset. A pergunta de fecho — «de que te protege não conseguires descansar?» — encaixa no âmbito fixo da jornada (Pertencer → Heranças) sem vender nada. Porquê aqui: o público-alvo de veu.a.veu é exactamente mulheres cuidadoras em burnout, e o mecanismo neurobiológico do hipotálamo-stress-sono é matéria que a aula sustenta.
+
+---
+
+═══ NOTAS ═══
+
+1. **Transcrição com várias falhas de reconhecimento de voz:** múltiplas sequências truncadas ou com palavras cortadas, especialmente nos parágrafos sobre o hipotálamo e o nervo do trato solitário. Exemplos: «n do tr solit», «n mamilares S muitos n», «chegam atrav do n do tr colit L». O sentido foi recuperável pelo contexto, mas os termos exactos podem não estar corretos.
+2. **"Pitalum"** aparece repetidamente onde o contexto indica "tálamo" — provável artefacto fonético da transcrição automática.
+3. **Circuito de Papez:** a aula nomeia o circuito mas não cita o autor (James Papez); fica implícito. Para avaliação, convém confirmar se o material do curso exige o nome do autor.
+4. **Últimas linhas da transcrição** ("Sério, o que diz? E a explicação? Não estou a entender. Não, ver que não entendi.") parecem ser conversa paralela ou registo de áudio extra — não fazem parte do conteúdo da aula.
+5. A aula menciona que o tema da amígdala e da memória/aprendizado será desenvolvido em aulas posteriores — o conteúdo sobre essas estruturas está incompleto aqui.
