@@ -1,0 +1,24 @@
+═══ BLOCO C — PRODUTO ═══
+
+[maternidade] **FreeMe Mãe** — a aula valida biologicamente o que os ebooks da coleção descrevem em termos emocionais: o corpo envelhece, a acuidade sensorial reduz-se, e a mãe que envelhece ou que cuidou de pais a envelhecer carrega esse processo no corpo antes de o nomear na alma.
+Ideia de conteúdo para **mae.cine**: reel ou carrossel com abertura de faca — *«Você não está a exagerar. O cérebro da sua mãe mudou»* — explicando em linguagem simples (português do Brasil, «você») que o hipocampo encolhe com a idade, que a memória falha por razões físicas reais, e que isso não é fraqueza nem descuido. Usa a ciência como prova de autoridade (conforme o craft da Telma), fecha no ciclo que pode acabar: a culpa de achar que a mãe «não quis lembrar». CTA: GUARDAR / PARTILHAR. Encaminha para `mae-02 A mãe que ficou` ou `mae-11 A mãe que teme pesar`.
+
+[maternidade] **FreeMe Mãe** — o dado sobre placas amiloides presentes mesmo em envelhecimento normal aprofunda o ebook `mae-10 A mãe arrependida`: a filha adulta que interpreta os lapsos da mãe como rejeição ou desamor tem, aqui, uma base científica para ressignificar essa leitura.
+Ideia: capítulo ou caixa de contexto dentro do ebook que explique — em linguagem acessível, sem jargão clínico — que depósitos amiloides e morte celular no hipocampo acontecem em qualquer pessoa que envelhece, não são sinal de que «ela não te quis».
+
+[identidade] **infonte** (`inf-01 A mulher que nunca chega` / `inf-05 A mulher que tem medo do próprio tamanho`) — a aula mostra que a taxa metabólica basal e a capacidade cognitiva se alteram com a idade; isso valida a ideia de que o ritmo de uma mulher muda e que comparar-se com versões mais jovens de si é biologicamente injusto.
+Ideia para **veu.a.veu** (gouache, sem venda): peça didática na jornada «Heranças» com a personagem Teresa, 50 anos, que se culpa por não conseguir manter o mesmo rendimento de antes. A pergunta não é «o que há de errado em ti», mas «como é que o teu corpo está a proteger-te ao abrandar». Formato: carrossel gouache, texto na legenda com a ciência a suportar, sem CTA de venda — otimiza GUARDAR.
+
+[identidade] **infonte** — a ligação entre deterioração sensorial e cognição abre ângulo para `inf-03 A mulher que chegou e sentiu pouco`: se os sentidos embotam com a idade e com o burnout, o «sentir pouco» tem base fisiológica, não é apenas padrão psicológico.
+Ideia de post para **soulab** (registo exploratório, escuro/lunar): observação breve — *«E se o embotamento não for falta de gratidão, mas o corpo a economizar?»* — sem ensinar, sem vender, abrindo uma hipótese. Visual lunar, paleta `#1B1726` / `#ECE6F2`.
+
+[oportunidade] **Novo:** mini-guia ou guia prático «O que muda no cérebro quando envelhecemos» — para filhas adultas que cuidam de mães/pais idosos e precisam de uma linguagem simples para entender (e explicar à família) o que está a acontecer neurologicamente. Público: mulheres 35-55 na posição de cuidadoras, que compram os ebooks da coleção Pertença (`per-01`, `per-04`) e da FreeMe Mãe. Porquê agora: o envelhecimento populacional é crescente, há pouca oferta de conteúdo que faça a ponte entre neurociência acessível e a experiência emocional do cuidar. Formato sugerido: guia prático (€5, no catálogo como `guia-15-cerebro`) com linguagem do Brasil, «você», sem jargão, com aplicação directa à dinâmica familiar.
+
+---
+
+═══ NOTAS ═══
+
+- Há várias passagens com transcrição claramente truncada ou com palavras em falta, identificáveis por quebras de sintaxe: *«Al disso a gente v uma redu na percep sensorial de tato de temperatura A gente come a observar uma altera em receptores sensoriais A gente observa tamb uma susceptibilidade maior a infec»*; *«v estar tamb alterados por causa do envelhecimento Agora eu vou falar com voc ent de fato sobre altera na estrutura»*; *«buscando a na mem se eu tenho uma altera estrutural nessas regi quais podem ser as altera funcionais que eu vou observar t»*. O conteúdo foi reconstituído por contexto mas pode haver informação perdida nessas passagens.
+- A aula anuncia alterações macroscópicas para sessões futuras — não há conteúdo sobre elas nesta transcrição.
+- A referência bibliográfica mencionada no final («essa foi a referência que eu utilizei para as imagens») não é citada com autor, título ou ano — impossível identificar a fonte.
+- O termo «hipertrofia neural» é usado onde seria expectável «atrofia» (perda de volume neuronal), dado o contexto de morte celular e redução de substância branca. Pode ser erro de transcrição ou da docente; não foi corrigido, apenas assinalado.
