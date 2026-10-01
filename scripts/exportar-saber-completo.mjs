@@ -138,9 +138,11 @@ if (fs.existsSync(claudeMd)) {
       "  conceitos-chave, flashcards, definições citáveis).\n" +
       "- `saber/rota100k/produto/*.md` — o Bloco C: como cada aula se aplica aos\n" +
       "  produtos reais.\n" +
-      "- `saber/rota100k/{resumos,objetivos}/` — por módulo, quando existirem.\n\n" +
-      "Os ficheiros chamam-se `U<modulo>_<Titulo>`, por exemplo\n" +
-      "`U2_Ganchos_dos_tres_segundos.txt`.\n\n" +
+      "\nA ROTA100K **não tem módulos**: é uma lista única de aulas. Cada ficheiro\n" +
+      "chama-se pelo assunto da aula, por exemplo\n" +
+      "`Como_escolher_o_gancho_dos_primeiros_segundos.txt`. O título é dado a\n" +
+      "partir do conteúdo da gravação, por isso é descritivo e não sequencial:\n" +
+      "não contes com ordem nem com numeração.\n\n" +
       "⚠️ NÃO editar `saber/` à mão: é escrito pelo robô de sync da Syntia\n" +
       "(vivnasc/syntia) e sobrescrito a cada aula nova. Para usar o saber, lê daqui;\n" +
       "para o corrigir, corrige-se na Syntia.\n\n" +

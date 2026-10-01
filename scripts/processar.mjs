@@ -765,19 +765,23 @@ async function classificarAreaAutomaticamente(ficheiroPath, filename) {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-// Nome da aula a partir do que é DITO na gravação.
+// Título da aula a partir do CONTEÚDO da gravação.
 //
 // Gravações de ecrã (iPad, telemóvel) chegam com nomes como
-// "ScreenRecording_10-01-2026 14-32-11_1.mp4": sem módulo e sem título. Como
-// o módulo sai do prefixo U<n>_ e o título sai do resto do nome, essas aulas
-// ficariam todas iguais e sem unidade.
+// "ScreenRecording_10-01-2026 14-32-11_1.mp4". Como o título sai do nome do
+// ficheiro, essas aulas ficariam todas iguais, e não há forma de renomear
+// depois do envio.
 //
-// Aqui pedimos ao modelo rápido para ler o INÍCIO da transcrição e devolver o
-// módulo e o título, mas SÓ quando o vídeo os anuncia mesmo. Na dúvida responde
-// INDECISO e fica o nome original — nunca inventamos um título.
+// Pedimos um título ao modelo rápido a partir da transcrição. Ao contrário do
+// módulo, o título não precisa de ser anunciado em voz alta: deduz-se do que a
+// aula trata. Só desistimos quando nem isso é possível (áudio vazio, ruído).
 //
-// Não corre quando o ficheiro já traz prefixo U<n>_: nesse caso ela nomeou à
-// mão e a vontade dela ganha.
+// Não há módulo: por decisão dela, as aulas da ROTA100K ficam numa lista única,
+// sem prefixo U<n>_ e sem agrupamento por unidade.
+//
+// Não corre quando o ficheiro já traz prefixo U<n>_. Isso cobre tudo o que é da
+// pós: das 442 sínteses do repositório, só os ficheiros de objetivos não têm
+// esse prefixo, e esses nem passam por aqui.
 function limparParaNome(s) {
   return String(s || "")
     .normalize("NFD").replace(/[\u0300-\u036f]/g, "")   // tira acentos
@@ -786,54 +790,48 @@ function limparParaNome(s) {
     .slice(0, 70);
 }
 
-async function nomePelaFala(transcricao, nomeBase) {
+async function tituloPeloConteudo(transcricao, nomeBase) {
   if (/^u\d+[_-]/i.test(nomeBase)) return null;          // já nomeada à mão
-  const texto = String(transcricao || "").slice(0, 4000);
-  if (texto.trim().length < 200) return null;            // curta demais para decidir
+  const texto = String(transcricao || "").slice(0, 6000);
+  if (texto.trim().length < 200) return null;            // curta demais para titular
 
   const content =
-    "Lês o início da transcrição de uma aula gravada e dizes em que módulo ela " +
-    "está e qual é o título dela.\n\n" +
-    "REGRA CRÍTICA: só respondes se a gravação DISSER mesmo. Não deduzas o " +
-    "título a partir do assunto, não inventes, não resumas. Se o módulo ou o " +
-    "título não forem anunciados em voz alta, responde exatamente: INDECISO\n\n" +
-    "Formato da resposta, numa só linha e sem mais nada:\n" +
-    "<numero do modulo ou 0 se nao for dito>|<titulo tal como foi dito>\n\n" +
-    "Exemplos:\n" +
-    "2|Ganchos que seguram os primeiros tres segundos\n" +
-    "0|Como ler as metricas do teu perfil\n" +
-    "INDECISO\n\n" +
-    "=== INÍCIO DA TRANSCRIÇÃO ===\n" + texto;
+    "Dás um título a uma aula gravada, a partir da transcrição dela.\n\n" +
+    "REGRAS:\n" +
+    "- entre 3 e 9 palavras, em português;\n" +
+    "- diz do que a aula TRATA, concreto; nada de \"Aula 1\" nem \"Introdução\";\n" +
+    "- se a gravação anunciar um título, usa esse tal como foi dito;\n" +
+    "- sem aspas, sem pontos finais, sem numeração;\n" +
+    "- se o texto não der para perceber o assunto, responde exatamente: INDECISO\n\n" +
+    "Responde APENAS com o título, numa só linha.\n\n" +
+    "=== TRANSCRIÇÃO ===\n" + texto;
 
   let bruto = "";
   try {
     const resp = await fetchRetry("https://api.anthropic.com/v1/messages", {
       method: "POST",
       headers: { "x-api-key": ANTHROPIC_API_KEY, "anthropic-version": "2023-06-01", "content-type": "application/json" },
-      body: JSON.stringify({ model: CLAUDE_MODEL_RAPIDO, max_tokens: 120, messages: [{ role: "user", content }] }),
+      body: JSON.stringify({ model: CLAUDE_MODEL_RAPIDO, max_tokens: 60, messages: [{ role: "user", content }] }),
     });
     if (!resp.ok) throw new Error(`${resp.status}`);
     const data = await resp.json();
     bruto = data.content.map((b) => (b.type === "text" ? b.text : "")).join("").trim().split("\n")[0].trim();
   } catch (e) {
-    // Nomear é um extra: se falhar, segue com o nome original.
-    console.log(`[nome] não consegui ler o título (${e.message}) — fica "${nomeBase}".`);
+    // Titular é um extra: se falhar, segue com o nome original.
+    console.log(`[nome] não consegui titular (${e.message}) — fica "${nomeBase}".`);
     return null;
   }
 
   if (!bruto || /^INDECISO/i.test(bruto)) {
-    console.log(`[nome] a gravação não anuncia módulo/título — fica "${nomeBase}".`);
+    console.log(`[nome] sem assunto percetível — fica "${nomeBase}".`);
     return null;
   }
-  const m = bruto.replace(/^[`'"]+|[`'"]+$/g, "").match(/^(\d{1,2})\s*\|\s*(.+)$/);
-  if (!m) {
-    console.log(`[nome] resposta fora do formato ("${bruto}") — fica "${nomeBase}".`);
+  const titulo = limparParaNome(bruto.replace(/^[`'"]+|[`'"]+$/g, ""));
+  if (!titulo || titulo.length < 4) {
+    console.log(`[nome] título inutilizável ("${bruto}") — fica "${nomeBase}".`);
     return null;
   }
-  const unidade = parseInt(m[1], 10);
-  const titulo = limparParaNome(m[2]);
-  if (!titulo || titulo.length < 4) return null;
-  return unidade > 0 ? `U${unidade}_${titulo}` : titulo;
+  return titulo;
 }
 
 // Garante que o nome novo não pisa um ficheiro já existente.
@@ -962,17 +960,17 @@ async function processarIngest() {
     throw new Error(`Sem texto utilizável em ${filename} (PDF só com imagens? áudio vazio?).`);
   }
 
-  // Gravações de ecrã chegam com nomes sem módulo nem título. Se a própria
-  // gravação os anunciar, passamos a usá-los; se não, fica o nome original.
+  // Gravações de ecrã chegam com nomes sem título nenhum. Damos-lhes um a
+  // partir do conteúdo; se nem isso for possível, fica o nome original.
   if (AUDIO_EXT.includes(ext)) {
-    const sugerido = await nomePelaFala(texto, nome);
+    const sugerido = await tituloPeloConteudo(texto, nome);
     if (sugerido) {
       const livre = nomeLivre(sugerido, [
         { dir: transDir, ext: ".txt" },
         { dir: sintDir, ext: ".md" },
         { dir: prodDir, ext: ".md" },
       ]);
-      console.log(`[${area}] a gravação diz o módulo/título: "${nome}" → "${livre}"`);
+      console.log(`[${area}] título a partir do conteúdo: "${nome}" → "${livre}"`);
       nome = livre;
     }
   }
