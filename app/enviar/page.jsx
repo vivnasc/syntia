@@ -28,6 +28,12 @@ export default function EnviarPage() {
         o PDF e o txt são lidos). Se for uma cadeira nova, é criada na hora.
       </p>
       <p className="lead">
+        <b>Vídeo não: grava só o áudio.</b> A transcrição usa apenas o som, a imagem é
+        deitada fora. Uma gravação de ecrã de uma aula tem centenas de MB e demora
+        imenso a subir; o mesmo em áudio ocupa umas trinta vezes menos e chega cá
+        em segundos.
+      </p>
+      <p className="lead">
         A <b>ROTA100K</b> é o espaço fora da pós, para criação de conteúdo e audiência.
         Vive à parte dos cursos, mas passa pelo mesmo processamento e segue na mesma
         para o repositório dos produtos.

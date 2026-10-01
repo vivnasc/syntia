@@ -22,8 +22,30 @@ export async function POST(request) {
 
   const supa = createClient(url, serviceKey, { auth: { persistSession: false } });
 
-  // Cria o bucket público se ainda não existir (idempotente).
-  await supa.storage.createBucket(BUCKET, { public: true }).catch(() => {});
+  // Cria o bucket público se ainda não existir (idempotente) e tenta subir o
+  // limite de tamanho: uma gravação de ecrã tem centenas de MB e o limite por
+  // omissão do projeto é bem mais baixo do que isso. O pedido pode ser cortado
+  // pelo plano do Supabase — por isso não assumimos que resultou: a seguir
+  // perguntamos ao bucket qual é o limite que ele tem MESMO, e é esse que vai
+  // para o browser.
+  const LIMITE_PEDIDO = 5 * 1024 * 1024 * 1024; // 5 GB
+  await supa.storage.createBucket(BUCKET, { public: true, fileSizeLimit: LIMITE_PEDIDO }).catch(() => {});
+  await supa.storage.updateBucket(BUCKET, { public: true, fileSizeLimit: LIMITE_PEDIDO }).catch(() => {});
+
+  let limite = null;
+  try {
+    const { data: b } = await supa.storage.getBucket(BUCKET);
+    const bruto = b?.file_size_limit ?? b?.fileSizeLimit ?? null;
+    if (typeof bruto === "number") limite = bruto;
+    else if (typeof bruto === "string") {
+      // pode vir como "50MB"/"5GB"
+      const m = bruto.trim().match(/^([\d.]+)\s*([KMG]?B)?$/i);
+      if (m) {
+        const mult = { B: 1, KB: 1024, MB: 1024 ** 2, GB: 1024 ** 3 }[(m[2] || "B").toUpperCase()] || 1;
+        limite = Math.round(parseFloat(m[1]) * mult);
+      }
+    }
+  } catch { /* se não der para saber, o browser não bloqueia nada */ }
 
   const seguro = String(filename).split(/[\\/]/).pop()
     .replace(/\s+/g, "_")
@@ -36,5 +58,10 @@ export async function POST(request) {
   if (error) return Response.json({ error: error.message }, { status: 500 });
 
   const publicUrl = encodeURI(`${url.replace(/\/$/, "")}/storage/v1/object/public/${BUCKET}/${caminho}`);
-  return Response.json({ path: data.path, token: data.token, publicUrl });
+  // signedUrl explícito para o browser poder enviar com XHR e assim ter barra de
+  // progresso (o uploadToSignedUrl do supabase-js não reporta progresso nenhum).
+  // Construído à mão em vez de usar data.signedUrl, que muda de forma entre
+  // versões do cliente (ora relativo, ora absoluto).
+  const signedUrl = `${url.replace(/\/$/, "")}/storage/v1/object/upload/sign/${BUCKET}/${encodeURIComponent(caminho)}?token=${encodeURIComponent(data.token)}`;
+  return Response.json({ path: data.path, token: data.token, publicUrl, signedUrl, limite });
 }
