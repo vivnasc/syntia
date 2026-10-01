@@ -656,3 +656,24 @@ select.campo { appearance: none; cursor: pointer; }
   color: var(--corpo); cursor: pointer; white-space: nowrap;
 }
 .btn-mini:hover { border-color: var(--gold); color: var(--gold-soft); }
+
+/* ── Manuais para descarregar ─────────────────────────────────────────────
+   Linhas de descarga: o botão tem de ser grande e óbvio no iPad, e o nome do
+   ficheiro nunca empurra o botão para fora do ecrã (daí o wrap no telefone). */
+.dl-row {
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+  padding: 14px 16px; margin: 0 0 8px;
+  border: 1px solid var(--line); border-radius: 10px;
+}
+.dl-row .grow { flex: 1 1 240px; min-width: 0; }
+.dl-titulo { font-weight: 600; margin-bottom: 3px; }
+.dl-destaque { border-color: var(--line-strong); background: rgba(255, 255, 255, .02); }
+.dl-row .btn-manual { flex: 0 0 auto; }
+
+.dl-como {
+  margin-top: 22px; padding: 16px 18px;
+  border: 1px solid var(--line); border-radius: 10px;
+}
+.dl-como ol { margin: 10px 0 0; padding-left: 22px; }
+.dl-como li { margin: 0 0 6px; }
+.dl-nota { margin: 12px 0 0; font-size: 13px; color: var(--ink-soft); }
