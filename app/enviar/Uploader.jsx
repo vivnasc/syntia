@@ -130,6 +130,16 @@ export default function Uploader({ cursos, partilhada }) {
           throw new Error(`preparar: ${e?.message || e}`);
         }
 
+        // Falha depressa e com motivo: antes esperava-se o envio todo de um
+        // ficheiro grande demais para só no fim rebentar (ou ficar pendurado).
+        if (prep.limite && file.size > prep.limite) {
+          throw new Error(
+            `o ficheiro tem ${tamanho(file.size)} e o limite de envio é ${tamanho(prep.limite)}. ` +
+            `Grava só o áudio em vez do ecrã: a Syntia deita o vídeo fora e usa só o som, ` +
+            `por isso um áudio da mesma aula ocupa umas 30 vezes menos.`
+          );
+        }
+
         // 2) envia o ficheiro direto para o Supabase — com repetição (3x),
         // porque falhas momentâneas de rede são normais em uploads.
         const marcarProgresso = (feito, total) =>
