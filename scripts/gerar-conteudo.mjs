@@ -420,12 +420,26 @@ function main() {
     partilhada = { id: "disciplina-partilhada", titulo, inicio: "2026-05-28", fim: "2026-09-05", materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(partDir)) };
   }
 
-  const conteudo = { geradoEm: new Date().toISOString(), temas: TEMAS, cursos, partilhada, banco, inspiracao: lerInspiracao(), reunioes: lerReunioes() };
+  // ROTA100K — espaço próprio, fora dos cursos da pós: criação de conteúdo,
+  // audiência e crescimento. Tem a mesma forma de uma cadeira e, tal como a
+  // disciplina-partilhada, é lida pela ponte para o viviannepag.
+  let rota = null;
+  const rotaDir = path.join(ROOT, "rota100k");
+  if (isDir(rotaDir)) {
+    const titulo = "ROTA100K";
+    const materiais = copiarMaterial(path.join(rotaDir, "_material"), "rota100k");
+    const aulas = lerAulas(rotaDir, { curso: "rota100k", cursoTitulo: titulo, cadeira: "", areaTitulo: titulo }, banco);
+    rota = { id: "rota100k", titulo, materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(rotaDir)) };
+  }
+
+  const conteudo = { geradoEm: new Date().toISOString(), temas: TEMAS, cursos, partilhada, rota, banco, inspiracao: lerInspiracao(), reunioes: lerReunioes() };
   fs.writeFileSync(OUT_JSON, JSON.stringify(conteudo, null, 2), "utf-8");
 
   // saber.json — a PONTE: artefacto público e enxuto que o repo dos produtos vai
   // buscar (SABER = cadeiras + ideias de produto). Servido em /saber.json.
-  const materias = [...cursos, ...(partilhada ? [{ titulo: partilhada.titulo, cadeiras: [{ ...partilhada }] }] : [])]
+  const materias = [...cursos,
+    ...(partilhada ? [{ titulo: partilhada.titulo, cadeiras: [{ ...partilhada }] }] : []),
+    ...(rota ? [{ titulo: rota.titulo, cadeiras: [{ ...rota }] }] : [])]
     .map((c) => ({
       curso: c.titulo,
       cadeiras: (c.cadeiras || []).filter((k) => (k.unidades || []).some((u) => u.aulas?.length || u.objetivos || u.resumo))
@@ -452,7 +466,7 @@ function main() {
   fs.writeFileSync(path.join(ROOT, "public", "saber.json"), JSON.stringify(saber, null, 2), "utf-8");
 
   const nCad = cursos.reduce((s, c) => s + c.cadeiras.length, 0);
-  const nAulas = cursos.reduce((s, c) => s + c.cadeiras.reduce((n, k) => n + k.aulas.length, 0), 0) + (partilhada?.aulas.length || 0);
+  const nAulas = cursos.reduce((s, c) => s + c.cadeiras.reduce((n, k) => n + k.aulas.length, 0), 0) + (partilhada?.aulas.length || 0) + (rota?.aulas.length || 0);
   console.log(`conteudo.json: ${cursos.length} curso(s), ${nCad} cadeira(s), ${nAulas} aula(s), ${banco.length} item(ns) de produto.`);
 }
 
@@ -505,6 +519,7 @@ const CURSOS_PONTE = [
   { slug: "01-constelacao-sistemica", key: "constelacao", nome: "Constelação Familiar Sistémica", descricao: "Bert Hellinger e as Ordens do Amor. A pessoa dentro dos seus sistemas.", mundo: "synchim", filtro: "constelacao" },
   { slug: "03-psicologia-espiritualidade", key: "espiritualidade", nome: "Psicologia e Espiritualidade", descricao: "Espiritualidade como sentido, propósito e qualidade de vida.", mundo: "autora", filtro: null },
   { slug: "__partilhada", key: "desenvolvimento", nome: "Desenvolvimento Pessoal e Profissional", descricao: "Cadeira comum: carreira, comunicação e saúde do cuidador.", mundo: "infonte", filtro: null },
+  { slug: "__rota100k", key: "rota100k", nome: "ROTA100K", descricao: "Criação de conteúdo, audiência e crescimento. Conhecimento de negócio, não da pós.", mundo: "autora", filtro: null },
   { slug: "04-neurociencias-desenvolvimento-humano", key: "neuro-desenvolvimento", nome: "Neurociências do Desenvolvimento Humano", descricao: "Como o cérebro se desenvolve e envelhece: infância, adolescência, adulto, idoso.", mundo: "freeme", filtro: "neuro" },
   { slug: "05-neurociencias-cognitivas", key: "neuro-cognitivas", nome: "Neurociências Cognitivas e Processos Psicológicos", descricao: "Bases biológicas da cognição, emoção, atenção, memória e linguagem.", mundo: "escola", filtro: "neuro" },
   { slug: "06-neuropsicanalise", key: "neuropsicanalise", nome: "Neuropsicanálise", descricao: "A ponte entre a psicanálise e o cérebro: afeto, memória e inconsciente.", mundo: "autora", filtro: "neuro" },
@@ -537,6 +552,7 @@ function aplicarFiltro(id, lista) {
 
 const cadeirasDe = (cursoSlug) => {
   if (cursoSlug === "__partilhada") return [path.join(ROOT, "disciplina-partilhada")];
+  if (cursoSlug === "__rota100k") return [path.join(ROOT, "rota100k")];
   const base = path.join(ROOT, "cursos", cursoSlug);
   if (!isDir(base)) return [];
   return fs.readdirSync(base).map((d) => path.join(base, d)).filter((p) => isDir(p) && path.basename(p) !== "_material");

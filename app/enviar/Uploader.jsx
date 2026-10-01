@@ -21,13 +21,16 @@ export default function Uploader({ cursos, partilhada }) {
     { id: "auto", titulo: "🤖 Deixar a Syntia decidir", tipo: "auto", cadeiras: [] },
     ...cursos.map((c) => ({ ...c, tipo: "curso" })),
     ...(partilhada ? [{ id: partilhada.id, titulo: partilhada.titulo, tipo: "partilhada", cadeiras: [] }] : []),
+    // ROTA100K: espaço próprio, fora da pós. Não tem disciplinas.
+    { id: "rota100k", titulo: "🚀 ROTA100K", tipo: "raiz", cadeiras: [] },
   ];
 
   // Sem pré-seleção: obriga a escolher curso e disciplina (evita enviar para o
   // destino errado por o primeiro vir marcado por defeito).
   const [destinoId, setDestinoId] = useState("");
   const destino = destinos.find((d) => d.id === destinoId);
-  const isPart = destino?.tipo === "partilhada";
+  // Destinos sem disciplina: a partilhada e as áreas de raiz (ROTA100K).
+  const isPart = destino?.tipo === "partilhada" || destino?.tipo === "raiz";
   const isAuto = destino?.tipo === "auto";
   const cadeiras = destino?.cadeiras || [];
 

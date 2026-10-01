@@ -96,8 +96,18 @@ function listarDirs(dir) {
     .filter((p) => fs.statSync(p).isDirectory());
 }
 
+// Áreas de topo que não são cursos: vivem na raiz e valem como uma cadeira.
+// A disciplina-partilhada é comum aos cursos; a rota100k é o espaço próprio
+// de criação de conteúdo. Ambas são lidas pela ponte para o viviannepag.
+const AREAS_RAIZ = ["disciplina-partilhada", "rota100k"];
+
+// Área válida de processamento: uma cadeira de um curso ou uma área de raiz.
+const AREA_VALIDA = new RegExp(
+  `^(cursos/[\\w.-]+/[\\w.-]+|${AREAS_RAIZ.join("|")})$`
+);
+
 // Uma "cadeira" é qualquer pasta com um subdiretório _audio:
-//   cursos/<curso>/<cadeira>   ou   disciplina-partilhada
+//   cursos/<curso>/<cadeira>   ou uma das AREAS_RAIZ
 function descobrirCadeiras() {
   const out = [];
   for (const cursoDir of listarDirs("cursos")) {
@@ -107,7 +117,9 @@ function descobrirCadeiras() {
       if (fs.existsSync(path.join(cadDir, "_audio"))) out.push(cadDir);
     }
   }
-  if (fs.existsSync(path.join("disciplina-partilhada", "_audio"))) out.push("disciplina-partilhada");
+  for (const raiz of AREAS_RAIZ) {
+    if (fs.existsSync(path.join(raiz, "_audio"))) out.push(raiz);
+  }
   return out;
 }
 
@@ -752,6 +764,84 @@ async function classificarAreaAutomaticamente(ficheiroPath, filename) {
   return { area: escolha, texto };
 }
 
+// ─────────────────────────────────────────────────────────────────────────────
+// Título da aula a partir do CONTEÚDO da gravação.
+//
+// Gravações de ecrã (iPad, telemóvel) chegam com nomes como
+// "ScreenRecording_10-01-2026 14-32-11_1.mp4". Como o título sai do nome do
+// ficheiro, essas aulas ficariam todas iguais, e não há forma de renomear
+// depois do envio.
+//
+// Pedimos um título ao modelo rápido a partir da transcrição. Ao contrário do
+// módulo, o título não precisa de ser anunciado em voz alta: deduz-se do que a
+// aula trata. Só desistimos quando nem isso é possível (áudio vazio, ruído).
+//
+// Não há módulo: por decisão dela, as aulas da ROTA100K ficam numa lista única,
+// sem prefixo U<n>_ e sem agrupamento por unidade.
+//
+// Não corre quando o ficheiro já traz prefixo U<n>_. Isso cobre tudo o que é da
+// pós: das 442 sínteses do repositório, só os ficheiros de objetivos não têm
+// esse prefixo, e esses nem passam por aqui.
+function limparParaNome(s) {
+  return String(s || "")
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")   // tira acentos
+    .replace(/\s+/g, "_").replace(/[^\w.\-]+/g, "_")
+    .replace(/_+/g, "_").replace(/^[._-]+|[._-]+$/g, "") // sem pontos à cabeça: nada de ".." nem de ficheiros escondidos
+    .slice(0, 70);
+}
+
+async function tituloPeloConteudo(transcricao, nomeBase) {
+  if (/^u\d+[_-]/i.test(nomeBase)) return null;          // já nomeada à mão
+  const texto = String(transcricao || "").slice(0, 6000);
+  if (texto.trim().length < 200) return null;            // curta demais para titular
+
+  const content =
+    "Dás um título a uma aula gravada, a partir da transcrição dela.\n\n" +
+    "REGRAS:\n" +
+    "- entre 3 e 9 palavras, em português;\n" +
+    "- diz do que a aula TRATA, concreto; nada de \"Aula 1\" nem \"Introdução\";\n" +
+    "- se a gravação anunciar um título, usa esse tal como foi dito;\n" +
+    "- sem aspas, sem pontos finais, sem numeração;\n" +
+    "- se o texto não der para perceber o assunto, responde exatamente: INDECISO\n\n" +
+    "Responde APENAS com o título, numa só linha.\n\n" +
+    "=== TRANSCRIÇÃO ===\n" + texto;
+
+  let bruto = "";
+  try {
+    const resp = await fetchRetry("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: { "x-api-key": ANTHROPIC_API_KEY, "anthropic-version": "2023-06-01", "content-type": "application/json" },
+      body: JSON.stringify({ model: CLAUDE_MODEL_RAPIDO, max_tokens: 60, messages: [{ role: "user", content }] }),
+    });
+    if (!resp.ok) throw new Error(`${resp.status}`);
+    const data = await resp.json();
+    bruto = data.content.map((b) => (b.type === "text" ? b.text : "")).join("").trim().split("\n")[0].trim();
+  } catch (e) {
+    // Titular é um extra: se falhar, segue com o nome original.
+    console.log(`[nome] não consegui titular (${e.message}) — fica "${nomeBase}".`);
+    return null;
+  }
+
+  if (!bruto || /^INDECISO/i.test(bruto)) {
+    console.log(`[nome] sem assunto percetível — fica "${nomeBase}".`);
+    return null;
+  }
+  const titulo = limparParaNome(bruto.replace(/^[`'"]+|[`'"]+$/g, ""));
+  if (!titulo || titulo.length < 4) {
+    console.log(`[nome] título inutilizável ("${bruto}") — fica "${nomeBase}".`);
+    return null;
+  }
+  return titulo;
+}
+
+// Garante que o nome novo não pisa um ficheiro já existente.
+function nomeLivre(base, dirs) {
+  const ocupado = (n) => dirs.some((d) => fs.existsSync(path.join(d.dir, `${n}${d.ext}`)));
+  if (!ocupado(base)) return base;
+  for (let i = 2; i < 100; i++) if (!ocupado(`${base}_${i}`)) return `${base}_${i}`;
+  return `${base}_${Date.now()}`;
+}
+
 async function processarIngest() {
   const ficheiroPath = process.env.INGEST_AUDIO_PATH;
   let area = process.env.INGEST_AREA || "";
@@ -795,7 +885,7 @@ async function processarIngest() {
     textoAuto = escolha.texto;
   }
 
-  if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+  if (!AREA_VALIDA.test(area)) {
     throw new Error(`Área inválida: "${area}"`);
   }
   if (!ficheiroPath || !fs.existsSync(ficheiroPath)) {
@@ -845,41 +935,65 @@ async function processarIngest() {
   const prodDir = path.join(area, "produto");
   [transDir, sintDir, prodDir].forEach((d) => fs.mkdirSync(d, { recursive: true }));
 
-  const txtPath = path.join(transDir, `${nomeBase}.txt`);
-  const sintPath = path.join(sintDir, `${nomeBase}.md`);
-  const prodPath = path.join(prodDir, `${nomeBase}.md`);
+  let nome = nomeBase;
+  const caminhos = () => ({
+    txt: path.join(transDir, `${nome}.txt`),
+    sint: path.join(sintDir, `${nome}.md`),
+    prod: path.join(prodDir, `${nome}.md`),
+  });
 
-  if (fs.existsSync(txtPath) && fs.existsSync(sintPath) && fs.existsSync(prodPath)) {
-    console.log(`[${area}] ${nomeBase} já processado, salto.`);
-    return;
+  {
+    const c = caminhos();
+    if (fs.existsSync(c.txt) && fs.existsSync(c.sint) && fs.existsSync(c.prod)) {
+      console.log(`[${area}] ${nome} já processado, salto.`);
+      return;
+    }
   }
 
-  const uniAula = (nomeBase.match(/^u(\d+)/i) || [])[1];
-  const material = materialParaArea(area, uniAula);
   const rotulo = AUDIO_EXT.includes(ext) ? "TRANSCRIÇÃO DA AULA" : "TEXTO DA AULA (documento enviado)";
 
   console.log(`[${area}] A obter o texto de ${filename} (${ext || "?"})...`);
-  const texto = fs.existsSync(txtPath)
-    ? fs.readFileSync(txtPath, "utf-8")
+  const texto = fs.existsSync(caminhos().txt)
+    ? fs.readFileSync(caminhos().txt, "utf-8")
     : (textoAuto ?? await textoFonteDe(ficheiroPath, ext));
   if (!texto || !texto.trim()) {
     throw new Error(`Sem texto utilizável em ${filename} (PDF só com imagens? áudio vazio?).`);
   }
-  fs.writeFileSync(txtPath, texto, "utf-8");
+
+  // Gravações de ecrã chegam com nomes sem título nenhum. Damos-lhes um a
+  // partir do conteúdo; se nem isso for possível, fica o nome original.
+  if (AUDIO_EXT.includes(ext)) {
+    const sugerido = await tituloPeloConteudo(texto, nome);
+    if (sugerido) {
+      const livre = nomeLivre(sugerido, [
+        { dir: transDir, ext: ".txt" },
+        { dir: sintDir, ext: ".md" },
+        { dir: prodDir, ext: ".md" },
+      ]);
+      console.log(`[${area}] título a partir do conteúdo: "${nome}" → "${livre}"`);
+      nome = livre;
+    }
+  }
+
+  const uniAula = (nome.match(/^u(\d+)/i) || [])[1];
+  const material = materialParaArea(area, uniAula);
+
+  const c = caminhos();
+  fs.writeFileSync(c.txt, texto, "utf-8");
 
   console.log(`[${area}] A processar com o Claude (${material.length} PDF(s) de referência)...`);
   const saida = await processarComClaude(texto, material, rotulo);
   const { sintese, produto } = separarBlocos(saida);
-  fs.writeFileSync(sintPath, sintese, "utf-8");
-  fs.writeFileSync(prodPath, produto, "utf-8");
-  console.log(`[${area}] ${nomeBase} concluído.`);
+  fs.writeFileSync(c.sint, sintese, "utf-8");
+  fs.writeFileSync(c.prod, produto, "utf-8");
+  console.log(`[${area}] ${nome} concluído.`);
   // Nota: o Resumo e o Quiz da unidade são gerados a pedido (modo "consolidar"),
   // para não gastar 3 chamadas ao Claude por cada aula.
 }
 
 // Gera/atualiza o Resumo + Quiz de uma unidade, a pedido (botão na app).
 async function consolidarUnidade(area, unidade) {
-  if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+  if (!AREA_VALIDA.test(area)) {
     throw new Error(`Área inválida: "${area}"`);
   }
   await regenerarResumoUnidade(area, unidade);
@@ -888,7 +1002,7 @@ async function consolidarUnidade(area, unidade) {
 // Move uma aula para outra unidade: renomeia os seus ficheiros (síntese,
 // produto, transcrição) trocando o prefixo U<n>_. Sem reprocessar nada.
 function moverAula(area, arquivosJson, unidade) {
-  if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+  if (!AREA_VALIDA.test(area)) {
     throw new Error(`Área inválida: "${area}"`);
   }
   const u = parseInt(unidade, 10);
@@ -914,6 +1028,79 @@ function moverAula(area, arquivosJson, unidade) {
   }
 }
 
+// Apaga uma aula mal carregada: remove a síntese, o produto e a transcrição.
+// Não reprocessa nada e não mexe em mais nenhuma aula. O áudio/PDF de origem
+// vive no armazenamento, não no repo, por isso aqui só há estes três.
+function apagarAula(area, arquivosJson) {
+  if (!AREA_VALIDA.test(area)) {
+    throw new Error(`Área inválida: "${area}"`);
+  }
+  let arquivos;
+  try { arquivos = JSON.parse(arquivosJson); } catch { throw new Error("lista de ficheiros inválida"); }
+  if (!Array.isArray(arquivos) || !arquivos.length) throw new Error("sem ficheiros para apagar");
+
+  const subdirs = { sinteses: ".md", produto: ".md", transcricoes: ".txt" };
+  let apagados = 0;
+  for (const stem of arquivos) {
+    const base = path.basename(String(stem)); // segurança: sem caminhos
+    if (!base || base !== stem) continue;
+    for (const [sub, ext] of Object.entries(subdirs)) {
+      const alvo = path.join(area, sub, `${base}${ext}`);
+      if (fs.existsSync(alvo)) {
+        fs.rmSync(alvo);
+        apagados++;
+        console.log(`[${area}] apagado: ${sub}/${base}${ext}`);
+      }
+    }
+  }
+  if (!apagados) console.log(`[${area}] nada para apagar (já tinha sido removido?).`);
+}
+
+// Apaga material de referência (_material) carregado por engano. Os caminhos
+// vêm relativos a <area>/_material, por exemplo "U2/Apostila.pdf".
+function apagarMaterial(area, arquivosJson) {
+  if (!AREA_VALIDA.test(area)) {
+    throw new Error(`Área inválida: "${area}"`);
+  }
+  let arquivos;
+  try { arquivos = JSON.parse(arquivosJson); } catch { throw new Error("lista de ficheiros inválida"); }
+  if (!Array.isArray(arquivos) || !arquivos.length) throw new Error("sem ficheiros para apagar");
+
+  const raiz = path.resolve(area, "_material");
+  let apagados = 0;
+  for (const rel of arquivos) {
+    let alvo = path.resolve(raiz, String(rel));
+    // A app publica a pasta da unidade em maiúsculas (U2); no disco pode estar
+    // noutra caixa. Se o caminho exato não existir, procura sem distinguir.
+    if (!fs.existsSync(alvo)) {
+      const partes = String(rel).split("/").filter(Boolean);
+      let atual = raiz;
+      let ok = true;
+      for (const parte of partes) {
+        if (!fs.existsSync(atual)) { ok = false; break; }
+        const achado = fs.readdirSync(atual).find((n) => n.toLowerCase() === parte.toLowerCase());
+        if (!achado) { ok = false; break; }
+        atual = path.join(atual, achado);
+      }
+      if (ok) alvo = atual;
+    }
+    // Segurança: o alvo tem de ficar mesmo dentro de _material.
+    if (alvo !== raiz && !alvo.startsWith(raiz + path.sep)) {
+      console.log(`[${area}] ignorado (fora de _material): ${rel}`);
+      continue;
+    }
+    if (fs.existsSync(alvo) && fs.statSync(alvo).isFile()) {
+      fs.rmSync(alvo);
+      apagados++;
+      console.log(`[${area}] material apagado: ${path.relative(raiz, alvo)}`);
+      // Limpa a pasta da unidade se tiver ficado vazia.
+      const pai = path.dirname(alvo);
+      if (pai !== raiz && fs.existsSync(pai) && fs.readdirSync(pai).length === 0) fs.rmdirSync(pai);
+    }
+  }
+  if (!apagados) console.log(`[${area}] nada para apagar em _material.`);
+}
+
 // ---------------------------------------------------------------------------
 // Loop principal
 // ---------------------------------------------------------------------------
@@ -932,6 +1119,16 @@ async function main() {
   // Pedido de mover: muda a unidade de uma aula renomeando os seus ficheiros.
   if (process.env.INGEST_MODO === "mover") {
     moverAula(process.env.INGEST_AREA || "", process.env.INGEST_ARQUIVOS || "", process.env.INGEST_UNIDADE || "");
+    return;
+  }
+
+  // Pedido de apagar: remove uma aula mal carregada (ou material de apoio).
+  if (process.env.INGEST_MODO === "apagar") {
+    apagarAula(process.env.INGEST_AREA || "", process.env.INGEST_ARQUIVOS || "");
+    return;
+  }
+  if (process.env.INGEST_MODO === "apagar-material") {
+    apagarMaterial(process.env.INGEST_AREA || "", process.env.INGEST_ARQUIVOS || "");
     return;
   }
 

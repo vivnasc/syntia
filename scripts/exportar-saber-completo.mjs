@@ -22,7 +22,9 @@ if (!vp || !fs.existsSync(vp)) {
 }
 
 const PASTAS = new Set(["sinteses", "resumos", "objetivos", "produto", "transcricoes"]);
-const RAIZES = ["cursos", "disciplina-partilhada"].filter((r) => fs.existsSync(r));
+// Raízes que a ponte leva para o viviannepag. Além dos cursos da pós, as áreas
+// de topo: a disciplina-partilhada e a rota100k (criação de conteúdo).
+const RAIZES = ["cursos", "disciplina-partilhada", "rota100k"].filter((r) => fs.existsSync(r));
 const destino = path.join(vp, "saber");
 
 // 1) Reconstruir saber/ do zero.
@@ -90,30 +92,81 @@ if (fs.existsSync(cursosDir)) {
 if (fs.existsSync(path.join(destino, "disciplina-partilhada"))) {
   linhas.push("## Disciplina partilhada (`disciplina-partilhada`)", "");
 }
+const rotaDir = path.join(destino, "rota100k");
+if (fs.existsSync(rotaDir)) {
+  linhas.push(
+    "## ROTA100K  (`rota100k`)",
+    "",
+    "Espaço de criação de conteúdo e crescimento de audiência. Não é da pós:",
+    "é conhecimento de negócio, e é o que está mais perto dos produtos.",
+    `- ${contar(path.join(rotaDir, "sinteses"))} sínteses, ${contar(path.join(rotaDir, "transcricoes"))} transcrições`,
+    ""
+  );
+}
 fs.writeFileSync(path.join(destino, "INDICE.md"), linhas.join("\n"));
 
-// 3) Secção no CLAUDE.md do viviannepag (idempotente: só se ainda não existir).
+// 3) Secção no CLAUDE.md do viviannepag. Idempotente E atualizável: a secção
+// vai entre marcadores, por isso uma versão nova SUBSTITUI a antiga em vez de
+// ser ignorada (antes só se escrevia se ainda não existisse, e o texto ficava
+// congelado na primeira versão para sempre).
 const MARCA = "## 📚 SABER DOS CURSOS — fonte completa, DENTRO deste repo";
+const INI = "<!-- saber-syntia:inicio -->";
+const FIM = "<!-- saber-syntia:fim -->";
 const claudeMd = path.join(vp, "CLAUDE.md");
-if (fs.existsSync(claudeMd) && !fs.readFileSync(claudeMd, "utf-8").includes(MARCA)) {
-  fs.appendFileSync(
-    claudeMd,
-    `\n\n---\n\n${MARCA} (\`saber/\`)\n\n` +
+if (fs.existsSync(claudeMd)) {
+  const seccao =
+    `${INI}\n\n${MARCA} (\`saber/\`)\n\n` +
       "O conhecimento COMPLETO das pós-graduações dela vive neste repositório, em\n" +
       "`saber/` — não é preciso sair do repo nem adivinhar nada:\n\n" +
       "- `saber/INDICE.md` — mapa de todos os cursos e cadeiras (começa por aqui).\n" +
       "- `saber/cursos/<curso>/<cadeira>/sinteses/*.md` — **o material principal**:\n" +
       "  resumo executivo, conceitos-chave, flashcards, definições citáveis,\n" +
       "  perguntas de avaliação, por aula.\n" +
-      "- `saber/cursos/<curso>/<cadeira>/transcricoes/*.txt` — texto bruto das aulas.\n" +
+      "- `saber/cursos/<curso>/<cadeira>/transcricoes/*.txt` — **a transcrição\n" +
+      "  INTEGRAL** de cada aula, palavra por palavra, copiada byte a byte. Não é\n" +
+      "  resumo nem extrato: quando precisares do que foi mesmo dito, lê daqui.\n" +
       "- `saber/cursos/<curso>/<cadeira>/{resumos,objetivos,produto}/` — resumos de\n" +
       "  unidade, objetivos e leituras orientadas.\n" +
-      "- `saber/saber.json` — artefacto máquina (conceitos, metadados, banco de ideias).\n\n" +
+      "- `saber/saber.json` — artefacto máquina (conceitos, metadados, banco de ideias).\n" +
+      "\n### ROTA100K (`saber/rota100k/`)\n\n" +
+      "Criação de conteúdo, audiência e crescimento. **Não é da pós**: é\n" +
+      "conhecimento de negócio, e é o material mais diretamente aplicável aos\n" +
+      "produtos. Tem a mesma forma de uma cadeira, mas sem o nível do curso:\n\n" +
+      "- `saber/rota100k/transcricoes/*.txt` — **a transcrição INTEGRAL** de cada\n" +
+      "  aula gravada, palavra por palavra. É aqui que está tudo o que foi dito.\n" +
+      "- `saber/rota100k/sinteses/*.md` — síntese por aula (resumo executivo,\n" +
+      "  conceitos-chave, flashcards, definições citáveis).\n" +
+      "- `saber/rota100k/produto/*.md` — o Bloco C: como cada aula se aplica aos\n" +
+      "  produtos reais.\n" +
+      "\nA ROTA100K **não tem módulos**: é uma lista única de aulas. Cada ficheiro\n" +
+      "chama-se pelo assunto da aula, por exemplo\n" +
+      "`Como_escolher_o_gancho_dos_primeiros_segundos.txt`. O título é dado a\n" +
+      "partir do conteúdo da gravação, por isso é descritivo e não sequencial:\n" +
+      "não contes com ordem nem com numeração.\n\n" +
       "⚠️ NÃO editar `saber/` à mão: é escrito pelo robô de sync da Syntia\n" +
       "(vivnasc/syntia) e sobrescrito a cada aula nova. Para usar o saber, lê daqui;\n" +
-      "para o corrigir, corrige-se na Syntia.\n"
-  );
-  console.error("CLAUDE.md: secção do saber acrescentada.");
+      "para o corrigir, corrige-se na Syntia.\n\n" +
+      FIM + "\n";
+
+  const atual = fs.readFileSync(claudeMd, "utf-8");
+  let novo;
+  if (atual.includes(INI) && atual.includes(FIM)) {
+    // Já tem marcadores: substitui o que está entre eles.
+    novo = atual.slice(0, atual.indexOf(INI)) + seccao + atual.slice(atual.indexOf(FIM) + FIM.length);
+  } else if (atual.includes(MARCA)) {
+    // Versão antiga, sem marcadores: corta a partir do título e põe a nova.
+    novo = atual.slice(0, atual.indexOf(MARCA)).replace(/\s*---\s*$/, "\n\n---\n\n") + seccao;
+  } else {
+    novo = atual.replace(/\s*$/, "") + `\n\n---\n\n${seccao}`;
+  }
+  novo = novo.replace(/\s*$/, "\n"); // sem isto o ficheiro ganhava uma linha por
+                                      // execução e o robô commitava em todos os syncs
+  if (novo !== atual) {
+    fs.writeFileSync(claudeMd, novo, "utf-8");
+    console.error("CLAUDE.md: secção do saber escrita/atualizada.");
+  } else {
+    console.error("CLAUDE.md: secção do saber já estava igual.");
+  }
 }
 
 console.error(`saber/ reconstruído: ${copiados} ficheiros.`);

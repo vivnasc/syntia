@@ -27,6 +27,11 @@ export default function EnviarPage() {
         ideias de produto na cadeira certa daqui a alguns minutos (o áudio é transcrito,
         o PDF e o txt são lidos). Se for uma cadeira nova, é criada na hora.
       </p>
+      <p className="lead">
+        A <b>ROTA100K</b> é o espaço fora da pós, para criação de conteúdo e audiência.
+        Vive à parte dos cursos, mas passa pelo mesmo processamento e segue na mesma
+        para o repositório dos produtos.
+      </p>
 
       <Uploader cursos={cursos} partilhada={partilhada} />
 
