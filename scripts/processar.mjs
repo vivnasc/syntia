@@ -764,6 +764,86 @@ async function classificarAreaAutomaticamente(ficheiroPath, filename) {
   return { area: escolha, texto };
 }
 
+// ─────────────────────────────────────────────────────────────────────────────
+// Nome da aula a partir do que é DITO na gravação.
+//
+// Gravações de ecrã (iPad, telemóvel) chegam com nomes como
+// "ScreenRecording_10-01-2026 14-32-11_1.mp4": sem módulo e sem título. Como
+// o módulo sai do prefixo U<n>_ e o título sai do resto do nome, essas aulas
+// ficariam todas iguais e sem unidade.
+//
+// Aqui pedimos ao modelo rápido para ler o INÍCIO da transcrição e devolver o
+// módulo e o título, mas SÓ quando o vídeo os anuncia mesmo. Na dúvida responde
+// INDECISO e fica o nome original — nunca inventamos um título.
+//
+// Não corre quando o ficheiro já traz prefixo U<n>_: nesse caso ela nomeou à
+// mão e a vontade dela ganha.
+function limparParaNome(s) {
+  return String(s || "")
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")   // tira acentos
+    .replace(/\s+/g, "_").replace(/[^\w.\-]+/g, "_")
+    .replace(/_+/g, "_").replace(/^[._-]+|[._-]+$/g, "") // sem pontos à cabeça: nada de ".." nem de ficheiros escondidos
+    .slice(0, 70);
+}
+
+async function nomePelaFala(transcricao, nomeBase) {
+  if (/^u\d+[_-]/i.test(nomeBase)) return null;          // já nomeada à mão
+  const texto = String(transcricao || "").slice(0, 4000);
+  if (texto.trim().length < 200) return null;            // curta demais para decidir
+
+  const content =
+    "Lês o início da transcrição de uma aula gravada e dizes em que módulo ela " +
+    "está e qual é o título dela.\n\n" +
+    "REGRA CRÍTICA: só respondes se a gravação DISSER mesmo. Não deduzas o " +
+    "título a partir do assunto, não inventes, não resumas. Se o módulo ou o " +
+    "título não forem anunciados em voz alta, responde exatamente: INDECISO\n\n" +
+    "Formato da resposta, numa só linha e sem mais nada:\n" +
+    "<numero do modulo ou 0 se nao for dito>|<titulo tal como foi dito>\n\n" +
+    "Exemplos:\n" +
+    "2|Ganchos que seguram os primeiros tres segundos\n" +
+    "0|Como ler as metricas do teu perfil\n" +
+    "INDECISO\n\n" +
+    "=== INÍCIO DA TRANSCRIÇÃO ===\n" + texto;
+
+  let bruto = "";
+  try {
+    const resp = await fetchRetry("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: { "x-api-key": ANTHROPIC_API_KEY, "anthropic-version": "2023-06-01", "content-type": "application/json" },
+      body: JSON.stringify({ model: CLAUDE_MODEL_RAPIDO, max_tokens: 120, messages: [{ role: "user", content }] }),
+    });
+    if (!resp.ok) throw new Error(`${resp.status}`);
+    const data = await resp.json();
+    bruto = data.content.map((b) => (b.type === "text" ? b.text : "")).join("").trim().split("\n")[0].trim();
+  } catch (e) {
+    // Nomear é um extra: se falhar, segue com o nome original.
+    console.log(`[nome] não consegui ler o título (${e.message}) — fica "${nomeBase}".`);
+    return null;
+  }
+
+  if (!bruto || /^INDECISO/i.test(bruto)) {
+    console.log(`[nome] a gravação não anuncia módulo/título — fica "${nomeBase}".`);
+    return null;
+  }
+  const m = bruto.replace(/^[`'"]+|[`'"]+$/g, "").match(/^(\d{1,2})\s*\|\s*(.+)$/);
+  if (!m) {
+    console.log(`[nome] resposta fora do formato ("${bruto}") — fica "${nomeBase}".`);
+    return null;
+  }
+  const unidade = parseInt(m[1], 10);
+  const titulo = limparParaNome(m[2]);
+  if (!titulo || titulo.length < 4) return null;
+  return unidade > 0 ? `U${unidade}_${titulo}` : titulo;
+}
+
+// Garante que o nome novo não pisa um ficheiro já existente.
+function nomeLivre(base, dirs) {
+  const ocupado = (n) => dirs.some((d) => fs.existsSync(path.join(d.dir, `${n}${d.ext}`)));
+  if (!ocupado(base)) return base;
+  for (let i = 2; i < 100; i++) if (!ocupado(`${base}_${i}`)) return `${base}_${i}`;
+  return `${base}_${Date.now()}`;
+}
+
 async function processarIngest() {
   const ficheiroPath = process.env.INGEST_AUDIO_PATH;
   let area = process.env.INGEST_AREA || "";
@@ -857,34 +937,58 @@ async function processarIngest() {
   const prodDir = path.join(area, "produto");
   [transDir, sintDir, prodDir].forEach((d) => fs.mkdirSync(d, { recursive: true }));
 
-  const txtPath = path.join(transDir, `${nomeBase}.txt`);
-  const sintPath = path.join(sintDir, `${nomeBase}.md`);
-  const prodPath = path.join(prodDir, `${nomeBase}.md`);
+  let nome = nomeBase;
+  const caminhos = () => ({
+    txt: path.join(transDir, `${nome}.txt`),
+    sint: path.join(sintDir, `${nome}.md`),
+    prod: path.join(prodDir, `${nome}.md`),
+  });
 
-  if (fs.existsSync(txtPath) && fs.existsSync(sintPath) && fs.existsSync(prodPath)) {
-    console.log(`[${area}] ${nomeBase} já processado, salto.`);
-    return;
+  {
+    const c = caminhos();
+    if (fs.existsSync(c.txt) && fs.existsSync(c.sint) && fs.existsSync(c.prod)) {
+      console.log(`[${area}] ${nome} já processado, salto.`);
+      return;
+    }
   }
 
-  const uniAula = (nomeBase.match(/^u(\d+)/i) || [])[1];
-  const material = materialParaArea(area, uniAula);
   const rotulo = AUDIO_EXT.includes(ext) ? "TRANSCRIÇÃO DA AULA" : "TEXTO DA AULA (documento enviado)";
 
   console.log(`[${area}] A obter o texto de ${filename} (${ext || "?"})...`);
-  const texto = fs.existsSync(txtPath)
-    ? fs.readFileSync(txtPath, "utf-8")
+  const texto = fs.existsSync(caminhos().txt)
+    ? fs.readFileSync(caminhos().txt, "utf-8")
     : (textoAuto ?? await textoFonteDe(ficheiroPath, ext));
   if (!texto || !texto.trim()) {
     throw new Error(`Sem texto utilizável em ${filename} (PDF só com imagens? áudio vazio?).`);
   }
-  fs.writeFileSync(txtPath, texto, "utf-8");
+
+  // Gravações de ecrã chegam com nomes sem módulo nem título. Se a própria
+  // gravação os anunciar, passamos a usá-los; se não, fica o nome original.
+  if (AUDIO_EXT.includes(ext)) {
+    const sugerido = await nomePelaFala(texto, nome);
+    if (sugerido) {
+      const livre = nomeLivre(sugerido, [
+        { dir: transDir, ext: ".txt" },
+        { dir: sintDir, ext: ".md" },
+        { dir: prodDir, ext: ".md" },
+      ]);
+      console.log(`[${area}] a gravação diz o módulo/título: "${nome}" → "${livre}"`);
+      nome = livre;
+    }
+  }
+
+  const uniAula = (nome.match(/^u(\d+)/i) || [])[1];
+  const material = materialParaArea(area, uniAula);
+
+  const c = caminhos();
+  fs.writeFileSync(c.txt, texto, "utf-8");
 
   console.log(`[${area}] A processar com o Claude (${material.length} PDF(s) de referência)...`);
   const saida = await processarComClaude(texto, material, rotulo);
   const { sintese, produto } = separarBlocos(saida);
-  fs.writeFileSync(sintPath, sintese, "utf-8");
-  fs.writeFileSync(prodPath, produto, "utf-8");
-  console.log(`[${area}] ${nomeBase} concluído.`);
+  fs.writeFileSync(c.sint, sintese, "utf-8");
+  fs.writeFileSync(c.prod, produto, "utf-8");
+  console.log(`[${area}] ${nome} concluído.`);
   // Nota: o Resumo e o Quiz da unidade são gerados a pedido (modo "consolidar"),
   // para não gastar 3 chamadas ao Claude por cada aula.
 }
