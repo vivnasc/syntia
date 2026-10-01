@@ -45,7 +45,7 @@ function percorrer(dir) {
     if (st.isDirectory()) {
       if (nome === "_audio" || nome === "_material") continue;
       percorrer(rel);
-    } else if (PASTAS.has(path.basename(dir)) || nome === "programa.json") {
+    } else if (PASTAS.has(path.basename(dir)) || nome === "programa.json" || nome === "MANUAL.md") {
       copiar(rel);
     }
   }
@@ -97,6 +97,11 @@ if (fs.existsSync(rotaDir)) {
   linhas.push(
     "## ROTA100K  (`rota100k`)",
     "",
+    "**Começa por `saber/rota100k/MANUAL.md`**: compila as 20 aulas do curso por",
+    "ordem de execução, com os procedimentos e todos os números num só sítio.",
+    ""
+  );
+  linhas.push(
     "Espaço de criação de conteúdo e crescimento de audiência. Não é da pós:",
     "é conhecimento de negócio, e é o que está mais perto dos produtos.",
     `- ${contar(path.join(rotaDir, "sinteses"))} sínteses, ${contar(path.join(rotaDir, "transcricoes"))} transcrições`,
@@ -132,6 +137,9 @@ if (fs.existsSync(claudeMd)) {
       "Criação de conteúdo, audiência e crescimento. **Não é da pós**: é\n" +
       "conhecimento de negócio, e é o material mais diretamente aplicável aos\n" +
       "produtos. Tem a mesma forma de uma cadeira, mas sem o nível do curso:\n\n" +
+      "- `saber/rota100k/MANUAL.md` — **começa por aqui**: o curso inteiro\n" +
+      "  compilado por ordem de execução, com os procedimentos passo a passo, todos\n" +
+      "  os números num só sítio, e uma secção que diz o que o curso NÃO desenvolve.\n" +
       "- `saber/rota100k/transcricoes/*.txt` — **a transcrição INTEGRAL** de cada\n" +
       "  aula gravada, palavra por palavra. É aqui que está tudo o que foi dito.\n" +
       "- `saber/rota100k/sinteses/*.md` — síntese por aula (resumo executivo,\n" +
