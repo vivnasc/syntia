@@ -12,7 +12,8 @@
 // Saída:
 //   public/manual/<curso>.md                 um por curso
 //   public/manual/<curso>__<cadeira>.md      um por disciplina
-//   public/manual/tudo.md                    os seis cursos num ficheiro
+//   public/manual/rota100k.md                a ROTA100K (sem módulos, lista única)
+//   public/manual/tudo.md                    os seis cursos da pós num ficheiro
 //   lib/manuais.json                         o catálogo (a página importa daqui)
 //
 // Correm no prebuild, como o conteudo.json. São derivados do repositório:
@@ -141,6 +142,25 @@ function cadeiraMd(cadeira, nivel) {
   return out;
 }
 
+// ── A ROTA100K: uma área SEM disciplinas ──────────────────────────────────
+//
+// 🔴 1/out · Eu escrevi no PR que «a ROTA100K não tem manual possível — é matéria
+//    que nunca subiu». Era falso, e o erro foi o mesmo do viviannepag no mesmo dia:
+//    olhei para o meu clone da branch, que estava atrás. A matéria ESTÁ na main
+//    (62 ficheiros: 20 sínteses, 20 transcrições, 20 de produto e o MANUAL.md),
+//    escrita pelo robô de sync. Dizer-lhe que uma matéria dela não existe faz-lhe
+//    duvidar do trabalho que ela fez — por isso isto fica escrito aqui.
+//
+// ⚠️ E ela NÃO tem módulos: é uma lista única de aulas (está no CLAUDE.md do
+//    viviannepag). Por isso não entra como um curso com disciplinas — as unidades
+//    sobem um nível e a estrutura fica com a forma que a matéria tem de facto.
+//
+// ⚑ E fica FORA do tudo.md de propósito: esse diz «Pós-graduações» e a ROTA100K
+//    é conhecimento de negócio, não da pós. É uma distinção dela, não minha.
+function areaMd(area, nivel) {
+  return comConteudo(area).flatMap((u) => unidadeMd(u, nivel));
+}
+
 // Uma unidade só conta se trouxer ensinamento: uma síntese, um objetivo, um
 // resumo. Uma unidade com o título e mais nada enche o ficheiro e não ensina.
 function comConteudo(cadeira) {
@@ -175,20 +195,42 @@ function contar(cadeiras) {
 // Quando ela larga isto no ChatGPT ou no Gemini, o modelo não sabe o que está
 // a ler. Estas linhas dizem-lho: de quem é a matéria, de que curso, o que lá
 // está e como o usar. Sem isto, um modelo responde por cima do material dela.
-function cabecalho(titulo, subtitulo, n, indice) {
+function cabecalho(titulo, subtitulo, n, indice, origem = "pos") {
+  // 🔴 1/out · ISTO DIZIA SEMPRE «pós-graduações» E «cita a disciplina». Posto no
+  //    manual da ROTA100K, mandava o ChatGPT descrever um curso de NEGÓCIO dela
+  //    como matéria da pós e citar disciplinas que ela não tem. Um cabeçalho que
+  //    mente é pior do que nenhum: é a primeira coisa que o modelo lê, e é por
+  //    ela que ele decide o que a matéria dela é.
+  const daPos = origem === "pos";
+  // E «0 disciplinas» não se escreve: um curso sem módulos não tem zero módulos,
+  // tem outra forma. Cada contagem só aparece se existir.
+  const contagens = [
+    daPos && n.disciplinas ? `${n.disciplinas} disciplina${n.disciplinas === 1 ? "" : "s"}` : null,
+    `${n.aulas} aula${n.aulas === 1 ? "" : "s"}`,
+    n.cards ? `${n.cards} perguntas de revisão` : null,
+    n.quiz ? `${n.quiz} perguntas de avaliação` : null,
+  ].filter(Boolean);
   return [
     `# ${titulo}`,
     "",
     subtitulo,
     "",
-    `Material de estudo compilado a ${hoje()} · ${n.disciplinas} disciplina${n.disciplinas === 1 ? "" : "s"} · ` +
-      `${n.aulas} aula${n.aulas === 1 ? "" : "s"} · ${n.cards} perguntas de revisão · ${n.quiz} perguntas de avaliação.`,
+    `Material de estudo compilado a ${hoje()} · ${contagens.join(" · ")}.`,
     "",
-    "> **Para quem está a ler isto num modelo de linguagem.** Este documento é a",
-    "> matéria das pós-graduações da Vivianne Nascimento, sintetizada aula a aula",
-    "> a partir das aulas originais. Responde a partir daqui e cita a disciplina e",
-    "> a unidade de onde tiraste cada coisa. Quando a resposta não estiver neste",
-    "> documento, diz que não está em vez de a completares por fora.",
+    "> **Para quem está a ler isto num modelo de linguagem.** Este documento é",
+    daPos
+      ? "> matéria das pós-graduações da Vivianne Nascimento, sintetizada aula a aula"
+      : "> um curso da Vivianne Nascimento sobre criação de conteúdo e crescimento de",
+    daPos
+      ? "> a partir das aulas originais. Responde a partir daqui e cita a disciplina e"
+      : "> audiência, sintetizado aula a aula a partir das gravações originais. Não é",
+    daPos
+      ? "> a unidade de onde tiraste cada coisa. Quando a resposta não estiver neste"
+      : "> matéria académica. Responde a partir daqui e cita a aula de onde tiraste",
+    daPos
+      ? "> documento, diz que não está em vez de a completares por fora."
+      : "> cada coisa. Quando a resposta não estiver neste documento, diz que não está",
+    daPos ? null : "> em vez de a completares por fora.",
     "",
     "---",
     "",
@@ -202,7 +244,8 @@ function cabecalho(titulo, subtitulo, n, indice) {
 }
 
 function escrever(ficheiro, linhas) {
-  const md = linhas.join("\n").replace(/\n{4,}/g, "\n\n\n").trim() + "\n";
+  // ⚑ o cabeçalho devolve `null` nas linhas que não se aplicam àquela origem
+  const md = linhas.filter((l) => l !== null && l !== undefined).join("\n").replace(/\n{4,}/g, "\n\n\n").trim() + "\n";
   fs.writeFileSync(path.join(OUT_DIR, ficheiro), md, "utf-8");
   return Buffer.byteLength(md, "utf8");
 }
@@ -258,6 +301,27 @@ function main() {
     todoOCorpo.push(`# ${curso.titulo}`, "", ...cadeiras.flatMap((k) => cadeiraMd(k, 2)));
   }
 
+  // ── o manual da ROTA100K, se a matéria lá estiver ───────────────────────
+  let rota = null;
+  const areaRota = dados.rota;
+  if (areaRota && comConteudo(areaRota).length) {
+    const nR = contar([{ unidades: areaRota.unidades }]);
+    delete nR.disciplinas; // não tem disciplinas: seria uma a mentir
+    const unidades = comConteudo(areaRota);
+    const ficheiro = "rota100k.md";
+    const bytes = escrever(ficheiro, [
+      ...cabecalho(
+        areaRota.titulo,
+        "Manual completo do curso — a matéria inteira, aula a aula. Não tem módulos: é uma lista única.",
+        nR,
+        unidades.flatMap((u) => (u.aulas || []).map((a) => `- [${a.titulo}](#${slugAnc(a.titulo)})`)),
+        "rota",
+      ),
+      ...areaMd(areaRota, 2),
+    ]);
+    rota = { id: areaRota.id, titulo: areaRota.titulo, ficheiro, bytes, ...nR, disciplinas: [] };
+  }
+
   const nTudo = cursos.reduce(
     (a, c) => ({
       disciplinas: a.disciplinas + c.disciplinas.length,
@@ -277,11 +341,17 @@ function main() {
     ...todoOCorpo,
   ]);
 
-  const indice = { feitoEm: new Date().toISOString(), cursos, tudo: { ficheiro: "tudo.md", bytes: bytesTudo, ...nTudo } };
+  const indice = {
+    feitoEm: new Date().toISOString(),
+    cursos,
+    rota,
+    tudo: { ficheiro: "tudo.md", bytes: bytesTudo, ...nTudo },
+  };
   fs.writeFileSync(OUT_INDICE, JSON.stringify(indice, null, 2), "utf-8");
 
   const mb = (b) => (b / (1024 * 1024)).toFixed(2);
   for (const c of cursos) console.log(`manual: ${c.ficheiro.padEnd(44)} ${mb(c.bytes)} MB · ${c.aulas} aulas · ${c.disciplinas.length} disciplinas`);
+  if (rota) console.log(`manual: ${rota.ficheiro.padEnd(44)} ${mb(rota.bytes)} MB · ${rota.aulas} aulas · sem módulos`);
   console.log(`manual: tudo.md ${mb(bytesTudo)} MB · ${nTudo.aulas} aulas · ${nTudo.disciplinas} disciplinas`);
 }
 

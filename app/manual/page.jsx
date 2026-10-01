@@ -59,7 +59,25 @@ export default function ManuaisPage() {
         </p>
       </div>
 
-      <div className="section-label" style={{ marginTop: 34 }}>Tudo junto</div>
+      {manuais.rota && (
+        <>
+          {/* A ROTA100K em secção própria, e ⛔ não dentro das pós: é conhecimento de
+              negócio, ⛔ não matéria académica — é uma distinção dela. Por isso também
+              ⛔ não entra no «tudo junto». */}
+          <div className="section-label" style={{ marginTop: 34 }}>{manuais.rota.titulo}</div>
+          <Linha
+            destaque
+            titulo="O curso completo"
+            nota="criação de conteúdo e crescimento · lista única de aulas, sem módulos"
+            ficheiro={manuais.rota.ficheiro}
+            bytes={manuais.rota.bytes}
+            aulas={manuais.rota.aulas}
+            cards={manuais.rota.cards}
+          />
+        </>
+      )}
+
+      <div className="section-label" style={{ marginTop: 34 }}>Pós-graduações, tudo junto</div>
       <Linha
         destaque
         titulo="As pós-graduações todas"
@@ -96,7 +114,7 @@ export default function ManuaisPage() {
         </div>
       ))}
 
-      {cursos.length === 0 && (
+      {cursos.length === 0 && !manuais.rota && (
         <p className="empty">Ainda não há matéria sintetizada para compilar.</p>
       )}
     </>

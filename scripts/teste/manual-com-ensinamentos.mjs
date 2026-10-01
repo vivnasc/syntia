@@ -156,6 +156,54 @@ for (const c of cat.cursos || []) {
   }
 }
 
+// ── 2b. A ROTA100K — a mesma régua, e o cabeçalho que lhe diz a verdade ───
+//
+// 🔴 1/out · Eu escrevi no PR que «a ROTA100K não tem manual possível — é matéria
+//    que nunca subiu». Era falso: 62 ficheiros estavam na main (20 sínteses, 20
+//    transcrições, 20 de produto, o MANUAL.md), e eu olhei para o meu clone da
+//    branch, atrasado. É o mesmo erro do viviannepag no mesmo dia, e o custo é o
+//    mesmo: fazê-la duvidar do trabalho que ela fez.
+//
+// ⚑ Agora o manual dela existe — e mede-se pela MESMA régua dos outros, senão
+//    nascia sem portão, que é a classe de coisa que apodrece sem ninguém ver.
+t("o catálogo traz a ROTA100K", !!cat.rota?.ficheiro, JSON.stringify(Object.keys(cat)));
+if (cat.rota?.ficheiro) {
+  const r = cat.rota;
+  t("[rota100k] o ficheiro existe", fs.existsSync(path.join(DIR, r.ficheiro)));
+  if (fs.existsSync(path.join(DIR, r.ficheiro))) {
+    const md = ler(r.ficheiro);
+    t("[rota100k] o tamanho no catálogo bate com o ficheiro", Buffer.byteLength(md, "utf8") === r.bytes);
+    const porAula = md.length / Math.max(1, r.aulas);
+    t("[rota100k] tem matéria a sério por aula (≥2000 car.)", porAula >= 2000, `${Math.round(porAula)} car./aula`);
+    t("[rota100k] nenhum título passa do H6", !/^#{7,}\s/m.test(md));
+    t("[rota100k] tem índice", md.includes("## Índice"));
+    t("[rota100k] tem perguntas de revisão", md.includes("Perguntas e respostas"));
+
+    // ── O CABEÇALHO TEM DE DIZER A VERDADE SOBRE ESTA MATÉRIA. É a primeira coisa
+    //    que o ChatGPT lê, e é por ela que decide o que o material dela é. O
+    //    cabeçalho compartilhado dizia «matéria das pós-graduações» e «cita a
+    //    disciplina» — num curso de NEGÓCIO que não tem disciplina nenhuma.
+    t("[rota100k] ⛔ não se apresenta como matéria da pós", !md.includes("matéria das pós-graduações"));
+    t("[rota100k] diz que é criação de conteúdo e crescimento", md.includes("criação de conteúdo e crescimento"));
+    t("[rota100k] manda citar a AULA, ⛔ não a disciplina", md.includes("cita a aula de onde tiraste"));
+    t("[rota100k] ⛔ não escreve «0 disciplinas»", !/\b0 disciplinas\b/.test(md));
+
+    // ── a frase real, como nos cursos: é isto que um manual de títulos ⛔ não passa
+    const aulasR = (conteudo.rota?.aulas || []).filter((a) => (a.sintese || "").length > 400);
+    t("[rota100k] há aulas com síntese para medir", aulasR.length > 0, `${aulasR.length}`);
+    for (const a of [aulasR[0], aulasR[Math.floor(aulasR.length / 2)], aulasR[aulasR.length - 1]].filter(Boolean)) {
+      const frase = (a.sintese.match(/[^\n#*>|]{90,200}\./g) || [])[0];
+      if (!frase) continue;
+      t(`[rota100k] a síntese de «${a.titulo}» está no manual`, md.includes(frase.trim()), frase.trim().slice(0, 60) + "…");
+      t(`[rota100k] o título de «${a.titulo}» está no manual`, md.includes(a.titulo));
+    }
+
+    // ── e ⛔ NÃO entra no tudo.md: esse diz «Pós-graduações», e a ROTA100K é
+    //    conhecimento de negócio. A distinção é dela, ⛔ não minha.
+    t("[rota100k] ⛔ não se mistura no tudo.md das pós", !ler(cat.tudo.ficheiro).includes(`# ${r.titulo}`));
+  }
+}
+
 // ── 3. o ficheiro de tudo ─────────────────────────────────────────────────
 const tudo = ler(cat.tudo.ficheiro);
 t("tudo.md tem todos os cursos", (cat.cursos || []).every((c) => tudo.includes(`# ${c.titulo}`)));
