@@ -14,6 +14,47 @@ const SUPA_URL = process.env.NEXT_PUBLIC_SUPABASE_URL;
 const SUPA_ANON = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 const supa = SUPA_URL && SUPA_ANON ? createClient(SUPA_URL, SUPA_ANON) : null;
 
+// "412,7 MB" — para ela perceber logo porque é que um envio demora.
+function tamanho(bytes) {
+  if (!bytes && bytes !== 0) return "";
+  const u = ["B", "KB", "MB", "GB"];
+  let n = bytes, i = 0;
+  while (n >= 1024 && i < u.length - 1) { n /= 1024; i++; }
+  return `${n.toFixed(n < 10 && i > 0 ? 1 : 0)} ${u[i]}`;
+}
+
+// Envia com XHR para poder reportar progresso. O uploadToSignedUrl do
+// supabase-js não expõe progresso nenhum, e numa gravação de ecrã de centenas
+// de MB isso deixa o ecrã parado em "a enviar…" durante minutos, sem forma de
+// distinguir um envio a correr de um envio pendurado.
+// Devolve true se enviou; lança se falhou. Quem chama trata do recuo.
+function enviarComProgresso(signedUrl, file, aoProgresso) {
+  return new Promise((resolve, reject) => {
+    // O corpo tem de ser EXATAMENTE o que o supabase-js envia para um ficheiro
+    // do browser: PUT multipart com "cacheControl" e o ficheiro na chave vazia.
+    // (Confirmado no storage-js: para um Blob ele monta FormData; só para
+    // streams é que envia o corpo em bruto.) O content-type não se define à
+    // mão, senão perde-se o boundary do multipart.
+    const corpo = new FormData();
+    corpo.append("cacheControl", "3600");
+    corpo.append("", file);
+
+    const xhr = new XMLHttpRequest();
+    xhr.open("PUT", signedUrl, true);
+    xhr.setRequestHeader("x-upsert", "false");
+    xhr.upload.onprogress = (e) => {
+      if (e.lengthComputable) aoProgresso(e.loaded, e.total);
+    };
+    xhr.onload = () => {
+      if (xhr.status >= 200 && xhr.status < 300) resolve(true);
+      else reject(new Error(`${xhr.status} ${xhr.responseText || ""}`.trim()));
+    };
+    xhr.onerror = () => reject(new Error("falha de rede"));
+    xhr.onabort = () => reject(new Error("envio cancelado"));
+    xhr.send(corpo);
+  });
+}
+
 export default function Uploader({ cursos, partilhada }) {
   const destinos = [
     // "auto": a Syntia lê cada ficheiro e decide sozinha o curso e a cadeira
@@ -91,14 +132,40 @@ export default function Uploader({ cursos, partilhada }) {
 
         // 2) envia o ficheiro direto para o Supabase — com repetição (3x),
         // porque falhas momentâneas de rede são normais em uploads.
+        const marcarProgresso = (feito, total) =>
+          setItens((prev) => prev.map((it, j) => (j === i ? { ...it, feito, total } : it)));
+
         let up = null;
         for (let tent = 1; tent <= 3; tent++) {
           try {
-            up = await supa.storage.from(BUCKET).uploadToSignedUrl(prep.path, prep.token, file, {
-              contentType: file.type || "application/octet-stream",
-            });
+            if (prep.signedUrl) {
+              // caminho com barra de progresso
+              await enviarComProgresso(prep.signedUrl, file, marcarProgresso);
+            } else {
+              // servidor antigo, sem signedUrl: caminho de sempre, sem progresso
+              const r = await supa.storage.from(BUCKET).uploadToSignedUrl(prep.path, prep.token, file, {
+                contentType: file.type || "application/octet-stream",
+              });
+              if (r.error) throw r.error;
+            }
+            up = { error: null };
           } catch (err) {
             up = { error: err };
+            // Rede de segurança: se o envio com progresso falhar logo à primeira,
+            // tenta o caminho antigo antes de desistir. Assim uma mudança na API
+            // do Supabase tira a barra de progresso, não a capacidade de enviar.
+            if (tent === 1 && prep.signedUrl) {
+              try {
+                marcarProgresso(0, file.size);
+                const r = await supa.storage.from(BUCKET).uploadToSignedUrl(prep.path, prep.token, file, {
+                  contentType: file.type || "application/octet-stream",
+                });
+                if (r.error) throw r.error;
+                up = { error: null };
+              } catch (err2) {
+                up = { error: err2 };
+              }
+            }
           }
           if (!up.error) break;
           if (tent < 3) await new Promise((r) => setTimeout(r, 1500 * tent));
@@ -122,6 +189,7 @@ export default function Uploader({ cursos, partilhada }) {
         }
 
         // 3) dispara a transcrição
+        setItens((prev) => prev.map((it, j) => (j === i ? { ...it, status: "arrancar" } : it)));
         const resp = await fetch("/api/ingest", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
@@ -217,13 +285,21 @@ export default function Uploader({ cursos, partilhada }) {
               <div className="fi-linha">
                 <span className="fi-uni">{unidadeDe(it.file.name) || "—"}</span>
                 <span className="fi-nome">{it.file.name}</span>
+                <span className="fi-tam">{tamanho(it.file.size)}</span>
                 <span className="fi-estado">
                   {it.status === "fila" && (!correr ? <button className="fi-x" onClick={() => remover(i)}>remover</button> : "em fila")}
-                  {it.status === "enviar" && "a enviar…"}
+                  {it.status === "enviar" &&
+                    (it.total
+                      ? `${Math.floor((it.feito / it.total) * 100)}% · ${tamanho(it.feito)} de ${tamanho(it.total)}`
+                      : "a enviar…")}
+                  {it.status === "arrancar" && "a arrancar o processamento…"}
                   {it.status === "feito" && "✓"}
                   {it.status === "erro" && "erro"}
                 </span>
               </div>
+              {it.status === "enviar" && it.total > 0 && (
+                <div className="fi-barra"><span style={{ width: `${Math.min(100, (it.feito / it.total) * 100)}%` }} /></div>
+              )}
               {it.status === "erro" && it.erro && <div className="fi-erro">{it.erro}</div>}
             </div>
           ))}
@@ -237,6 +313,14 @@ export default function Uploader({ cursos, partilhada }) {
         </div>
       ) : (
         itens.length > 0 && <div className="dest-falta">Escolhe o curso e a disciplina acima antes de enviar.</div>
+      )}
+
+      {correr && (
+        <div className="dest-falta" style={{ borderStyle: "solid" }}>
+          Não feches nem mudes de separador enquanto a barra anda: o ficheiro sobe
+          daqui do teu iPad, por isso o envio pára se saíres desta página. Um vídeo
+          grande pode levar vários minutos.
+        </div>
       )}
 
       <button className="btn" onClick={enviarTodos} disabled={correr || porEnviar === 0 || !destinoId || (!isPart && !isAuto && !cadeiraSel)}>

@@ -36,5 +36,10 @@ export async function POST(request) {
   if (error) return Response.json({ error: error.message }, { status: 500 });
 
   const publicUrl = encodeURI(`${url.replace(/\/$/, "")}/storage/v1/object/public/${BUCKET}/${caminho}`);
-  return Response.json({ path: data.path, token: data.token, publicUrl });
+  // signedUrl explícito para o browser poder enviar com XHR e assim ter barra de
+  // progresso (o uploadToSignedUrl do supabase-js não reporta progresso nenhum).
+  // Construído à mão em vez de usar data.signedUrl, que muda de forma entre
+  // versões do cliente (ora relativo, ora absoluto).
+  const signedUrl = `${url.replace(/\/$/, "")}/storage/v1/object/upload/sign/${BUCKET}/${encodeURIComponent(caminho)}?token=${encodeURIComponent(data.token)}`;
+  return Response.json({ path: data.path, token: data.token, publicUrl, signedUrl });
 }

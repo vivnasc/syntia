@@ -656,3 +656,16 @@ select.campo { appearance: none; cursor: pointer; }
   color: var(--corpo); cursor: pointer; white-space: nowrap;
 }
 .btn-mini:hover { border-color: var(--gold); color: var(--gold-soft); }
+
+/* Fila de envio: tamanho do ficheiro e barra de progresso. Sem isto, um vídeo
+   de centenas de MB fica minutos parado em "a enviar…", sem forma de saber se
+   está a subir ou pendurado. */
+.fi-tam { font-size: 12px; color: var(--ink-dim); white-space: nowrap; }
+.fi-barra {
+  margin-top: 6px; height: 4px; border-radius: 999px;
+  background: rgba(255, 255, 255, 0.10); overflow: hidden;
+}
+.fi-barra span {
+  display: block; height: 100%; border-radius: 999px;
+  background: var(--gold-soft); transition: width .25s ease;
+}
