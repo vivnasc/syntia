@@ -105,31 +105,66 @@ if (fs.existsSync(rotaDir)) {
 }
 fs.writeFileSync(path.join(destino, "INDICE.md"), linhas.join("\n"));
 
-// 3) Secção no CLAUDE.md do viviannepag (idempotente: só se ainda não existir).
+// 3) Secção no CLAUDE.md do viviannepag. Idempotente E atualizável: a secção
+// vai entre marcadores, por isso uma versão nova SUBSTITUI a antiga em vez de
+// ser ignorada (antes só se escrevia se ainda não existisse, e o texto ficava
+// congelado na primeira versão para sempre).
 const MARCA = "## 📚 SABER DOS CURSOS — fonte completa, DENTRO deste repo";
+const INI = "<!-- saber-syntia:inicio -->";
+const FIM = "<!-- saber-syntia:fim -->";
 const claudeMd = path.join(vp, "CLAUDE.md");
-if (fs.existsSync(claudeMd) && !fs.readFileSync(claudeMd, "utf-8").includes(MARCA)) {
-  fs.appendFileSync(
-    claudeMd,
-    `\n\n---\n\n${MARCA} (\`saber/\`)\n\n` +
+if (fs.existsSync(claudeMd)) {
+  const seccao =
+    `${INI}\n\n${MARCA} (\`saber/\`)\n\n` +
       "O conhecimento COMPLETO das pós-graduações dela vive neste repositório, em\n" +
       "`saber/` — não é preciso sair do repo nem adivinhar nada:\n\n" +
       "- `saber/INDICE.md` — mapa de todos os cursos e cadeiras (começa por aqui).\n" +
       "- `saber/cursos/<curso>/<cadeira>/sinteses/*.md` — **o material principal**:\n" +
       "  resumo executivo, conceitos-chave, flashcards, definições citáveis,\n" +
       "  perguntas de avaliação, por aula.\n" +
-      "- `saber/cursos/<curso>/<cadeira>/transcricoes/*.txt` — texto bruto das aulas.\n" +
+      "- `saber/cursos/<curso>/<cadeira>/transcricoes/*.txt` — **a transcrição\n" +
+      "  INTEGRAL** de cada aula, palavra por palavra, copiada byte a byte. Não é\n" +
+      "  resumo nem extrato: quando precisares do que foi mesmo dito, lê daqui.\n" +
       "- `saber/cursos/<curso>/<cadeira>/{resumos,objetivos,produto}/` — resumos de\n" +
       "  unidade, objetivos e leituras orientadas.\n" +
       "- `saber/saber.json` — artefacto máquina (conceitos, metadados, banco de ideias).\n" +
-      "- `saber/rota100k/` — **ROTA100K**: criação de conteúdo, audiência e\n" +
-      "  crescimento. Não é da pós, é conhecimento de negócio; é o material mais\n" +
-      "  diretamente aplicável aos produtos.\n\n" +
+      "\n### ROTA100K (`saber/rota100k/`)\n\n" +
+      "Criação de conteúdo, audiência e crescimento. **Não é da pós**: é\n" +
+      "conhecimento de negócio, e é o material mais diretamente aplicável aos\n" +
+      "produtos. Tem a mesma forma de uma cadeira, mas sem o nível do curso:\n\n" +
+      "- `saber/rota100k/transcricoes/*.txt` — **a transcrição INTEGRAL** de cada\n" +
+      "  aula gravada, palavra por palavra. É aqui que está tudo o que foi dito.\n" +
+      "- `saber/rota100k/sinteses/*.md` — síntese por aula (resumo executivo,\n" +
+      "  conceitos-chave, flashcards, definições citáveis).\n" +
+      "- `saber/rota100k/produto/*.md` — o Bloco C: como cada aula se aplica aos\n" +
+      "  produtos reais.\n" +
+      "- `saber/rota100k/{resumos,objetivos}/` — por módulo, quando existirem.\n\n" +
+      "Os ficheiros chamam-se `U<modulo>_<Titulo>`, por exemplo\n" +
+      "`U2_Ganchos_dos_tres_segundos.txt`.\n\n" +
       "⚠️ NÃO editar `saber/` à mão: é escrito pelo robô de sync da Syntia\n" +
       "(vivnasc/syntia) e sobrescrito a cada aula nova. Para usar o saber, lê daqui;\n" +
-      "para o corrigir, corrige-se na Syntia.\n"
-  );
-  console.error("CLAUDE.md: secção do saber acrescentada.");
+      "para o corrigir, corrige-se na Syntia.\n\n" +
+      FIM + "\n";
+
+  const atual = fs.readFileSync(claudeMd, "utf-8");
+  let novo;
+  if (atual.includes(INI) && atual.includes(FIM)) {
+    // Já tem marcadores: substitui o que está entre eles.
+    novo = atual.slice(0, atual.indexOf(INI)) + seccao + atual.slice(atual.indexOf(FIM) + FIM.length);
+  } else if (atual.includes(MARCA)) {
+    // Versão antiga, sem marcadores: corta a partir do título e põe a nova.
+    novo = atual.slice(0, atual.indexOf(MARCA)).replace(/\s*---\s*$/, "\n\n---\n\n") + seccao;
+  } else {
+    novo = atual.replace(/\s*$/, "") + `\n\n---\n\n${seccao}`;
+  }
+  novo = novo.replace(/\s*$/, "\n"); // sem isto o ficheiro ganhava uma linha por
+                                      // execução e o robô commitava em todos os syncs
+  if (novo !== atual) {
+    fs.writeFileSync(claudeMd, novo, "utf-8");
+    console.error("CLAUDE.md: secção do saber escrita/atualizada.");
+  } else {
+    console.error("CLAUDE.md: secção do saber já estava igual.");
+  }
 }
 
 console.error(`saber/ reconstruído: ${copiados} ficheiros.`);
