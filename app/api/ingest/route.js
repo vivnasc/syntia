@@ -91,6 +91,12 @@ export async function POST(request) {
     }
     areaDir = "auto";
     destinoTitulo = "🤖 Syntia decide";
+  } else if (curso === "rota100k") {
+    // ROTA100K: espaço próprio de criação de conteúdo, fora dos cursos da pós.
+    // Ao contrário de inspiracao/reunioes, é uma raiz que a ponte lê, por isso
+    // o que entra aqui chega ao viviannepag.
+    areaDir = "rota100k";
+    destinoTitulo = "ROTA100K";
   } else if (partilhada && curso === partilhada.id) {
     areaDir = "disciplina-partilhada";
     destinoTitulo = partilhada.titulo;

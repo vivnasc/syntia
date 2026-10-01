@@ -22,7 +22,9 @@ if (!vp || !fs.existsSync(vp)) {
 }
 
 const PASTAS = new Set(["sinteses", "resumos", "objetivos", "produto", "transcricoes"]);
-const RAIZES = ["cursos", "disciplina-partilhada"].filter((r) => fs.existsSync(r));
+// Raízes que a ponte leva para o viviannepag. Além dos cursos da pós, as áreas
+// de topo: a disciplina-partilhada e a rota100k (criação de conteúdo).
+const RAIZES = ["cursos", "disciplina-partilhada", "rota100k"].filter((r) => fs.existsSync(r));
 const destino = path.join(vp, "saber");
 
 // 1) Reconstruir saber/ do zero.
@@ -90,6 +92,17 @@ if (fs.existsSync(cursosDir)) {
 if (fs.existsSync(path.join(destino, "disciplina-partilhada"))) {
   linhas.push("## Disciplina partilhada (`disciplina-partilhada`)", "");
 }
+const rotaDir = path.join(destino, "rota100k");
+if (fs.existsSync(rotaDir)) {
+  linhas.push(
+    "## ROTA100K  (`rota100k`)",
+    "",
+    "Espaço de criação de conteúdo e crescimento de audiência. Não é da pós:",
+    "é conhecimento de negócio, e é o que está mais perto dos produtos.",
+    `- ${contar(path.join(rotaDir, "sinteses"))} sínteses, ${contar(path.join(rotaDir, "transcricoes"))} transcrições`,
+    ""
+  );
+}
 fs.writeFileSync(path.join(destino, "INDICE.md"), linhas.join("\n"));
 
 // 3) Secção no CLAUDE.md do viviannepag (idempotente: só se ainda não existir).
@@ -108,7 +121,10 @@ if (fs.existsSync(claudeMd) && !fs.readFileSync(claudeMd, "utf-8").includes(MARC
       "- `saber/cursos/<curso>/<cadeira>/transcricoes/*.txt` — texto bruto das aulas.\n" +
       "- `saber/cursos/<curso>/<cadeira>/{resumos,objetivos,produto}/` — resumos de\n" +
       "  unidade, objetivos e leituras orientadas.\n" +
-      "- `saber/saber.json` — artefacto máquina (conceitos, metadados, banco de ideias).\n\n" +
+      "- `saber/saber.json` — artefacto máquina (conceitos, metadados, banco de ideias).\n" +
+      "- `saber/rota100k/` — **ROTA100K**: criação de conteúdo, audiência e\n" +
+      "  crescimento. Não é da pós, é conhecimento de negócio; é o material mais\n" +
+      "  diretamente aplicável aos produtos.\n\n" +
       "⚠️ NÃO editar `saber/` à mão: é escrito pelo robô de sync da Syntia\n" +
       "(vivnasc/syntia) e sobrescrito a cada aula nova. Para usar o saber, lê daqui;\n" +
       "para o corrigir, corrige-se na Syntia.\n"

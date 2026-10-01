@@ -96,8 +96,18 @@ function listarDirs(dir) {
     .filter((p) => fs.statSync(p).isDirectory());
 }
 
+// Áreas de topo que não são cursos: vivem na raiz e valem como uma cadeira.
+// A disciplina-partilhada é comum aos cursos; a rota100k é o espaço próprio
+// de criação de conteúdo. Ambas são lidas pela ponte para o viviannepag.
+const AREAS_RAIZ = ["disciplina-partilhada", "rota100k"];
+
+// Área válida de processamento: uma cadeira de um curso ou uma área de raiz.
+const AREA_VALIDA = new RegExp(
+  `^(cursos/[\\w.-]+/[\\w.-]+|${AREAS_RAIZ.join("|")})$`
+);
+
 // Uma "cadeira" é qualquer pasta com um subdiretório _audio:
-//   cursos/<curso>/<cadeira>   ou   disciplina-partilhada
+//   cursos/<curso>/<cadeira>   ou uma das AREAS_RAIZ
 function descobrirCadeiras() {
   const out = [];
   for (const cursoDir of listarDirs("cursos")) {
@@ -107,7 +117,9 @@ function descobrirCadeiras() {
       if (fs.existsSync(path.join(cadDir, "_audio"))) out.push(cadDir);
     }
   }
-  if (fs.existsSync(path.join("disciplina-partilhada", "_audio"))) out.push("disciplina-partilhada");
+  for (const raiz of AREAS_RAIZ) {
+    if (fs.existsSync(path.join(raiz, "_audio"))) out.push(raiz);
+  }
   return out;
 }
 
@@ -795,7 +807,7 @@ async function processarIngest() {
     textoAuto = escolha.texto;
   }
 
-  if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+  if (!AREA_VALIDA.test(area)) {
     throw new Error(`Área inválida: "${area}"`);
   }
   if (!ficheiroPath || !fs.existsSync(ficheiroPath)) {
@@ -879,7 +891,7 @@ async function processarIngest() {
 
 // Gera/atualiza o Resumo + Quiz de uma unidade, a pedido (botão na app).
 async function consolidarUnidade(area, unidade) {
-  if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+  if (!AREA_VALIDA.test(area)) {
     throw new Error(`Área inválida: "${area}"`);
   }
   await regenerarResumoUnidade(area, unidade);
@@ -888,7 +900,7 @@ async function consolidarUnidade(area, unidade) {
 // Move uma aula para outra unidade: renomeia os seus ficheiros (síntese,
 // produto, transcrição) trocando o prefixo U<n>_. Sem reprocessar nada.
 function moverAula(area, arquivosJson, unidade) {
-  if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+  if (!AREA_VALIDA.test(area)) {
     throw new Error(`Área inválida: "${area}"`);
   }
   const u = parseInt(unidade, 10);
@@ -918,7 +930,7 @@ function moverAula(area, arquivosJson, unidade) {
 // Não reprocessa nada e não mexe em mais nenhuma aula. O áudio/PDF de origem
 // vive no armazenamento, não no repo, por isso aqui só há estes três.
 function apagarAula(area, arquivosJson) {
-  if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+  if (!AREA_VALIDA.test(area)) {
     throw new Error(`Área inválida: "${area}"`);
   }
   let arquivos;
@@ -945,7 +957,7 @@ function apagarAula(area, arquivosJson) {
 // Apaga material de referência (_material) carregado por engano. Os caminhos
 // vêm relativos a <area>/_material, por exemplo "U2/Apostila.pdf".
 function apagarMaterial(area, arquivosJson) {
-  if (!/^(cursos\/[\w.-]+\/[\w.-]+|disciplina-partilhada)$/.test(area)) {
+  if (!AREA_VALIDA.test(area)) {
     throw new Error(`Área inválida: "${area}"`);
   }
   let arquivos;
