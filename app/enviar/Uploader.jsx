@@ -28,7 +28,7 @@ function tamanho(bytes) {
 // de MB isso deixa o ecrã parado em "a enviar…" durante minutos, sem forma de
 // distinguir um envio a correr de um envio pendurado.
 // Devolve true se enviou; lança se falhou. Quem chama trata do recuo.
-function enviarComProgresso(signedUrl, file, aoProgresso) {
+function enviarComProgresso(signedUrl, file, aoProgresso, apikey) {
   return new Promise((resolve, reject) => {
     // O corpo tem de ser EXATAMENTE o que o supabase-js envia para um ficheiro
     // do browser: PUT multipart com "cacheControl" e o ficheiro na chave vazia.
@@ -42,6 +42,14 @@ function enviarComProgresso(signedUrl, file, aoProgresso) {
     const xhr = new XMLHttpRequest();
     xhr.open("PUT", signedUrl, true);
     xhr.setRequestHeader("x-upsert", "false");
+    // O portal do Supabase recusa QUALQUER pedido sem apikey. O supabase-js
+    // junta-a sozinho a tudo o que envia (vive no this.headers do cliente), e
+    // foi isso que faltou aqui: o ficheiro subia inteiro e só no fim é que era
+    // recusado. A chave é a anónima, que já vai no código da página.
+    if (apikey) {
+      xhr.setRequestHeader("apikey", apikey);
+      xhr.setRequestHeader("authorization", `Bearer ${apikey}`);
+    }
     xhr.upload.onprogress = (e) => {
       if (e.lengthComputable) aoProgresso(e.loaded, e.total);
     };
@@ -150,7 +158,7 @@ export default function Uploader({ cursos, partilhada }) {
           try {
             if (prep.signedUrl) {
               // caminho com barra de progresso
-              await enviarComProgresso(prep.signedUrl, file, marcarProgresso);
+              await enviarComProgresso(prep.signedUrl, file, marcarProgresso, SUPA_ANON);
             } else {
               // servidor antigo, sem signedUrl: caminho de sempre, sem progresso
               const r = await supa.storage.from(BUCKET).uploadToSignedUrl(prep.path, prep.token, file, {
@@ -166,7 +174,11 @@ export default function Uploader({ cursos, partilhada }) {
             // do Supabase tira a barra de progresso, não a capacidade de enviar.
             if (tent === 1 && prep.signedUrl) {
               try {
-                marcarProgresso(0, file.size);
+                // Antes isto repunha a barra a 0 sem explicação nenhuma e parecia
+                // que o envio tinha recomeçado do nada. Agora diz-se o que é.
+                setItens((prev) => prev.map((it, j) => (j === i
+                  ? { ...it, status: "repetir", feito: 0, total: 0, erro: String(err?.message || err) }
+                  : it)));
                 const r = await supa.storage.from(BUCKET).uploadToSignedUrl(prep.path, prep.token, file, {
                   contentType: file.type || "application/octet-stream",
                 });
@@ -302,6 +314,7 @@ export default function Uploader({ cursos, partilhada }) {
                     (it.total
                       ? `${Math.floor((it.feito / it.total) * 100)}% · ${tamanho(it.feito)} de ${tamanho(it.total)}`
                       : "a enviar…")}
+                  {it.status === "repetir" && "o primeiro caminho falhou · a repetir por outro…"}
                   {it.status === "arrancar" && "a arrancar o processamento…"}
                   {it.status === "feito" && "✓"}
                   {it.status === "erro" && "erro"}
@@ -310,7 +323,9 @@ export default function Uploader({ cursos, partilhada }) {
               {it.status === "enviar" && it.total > 0 && (
                 <div className="fi-barra"><span style={{ width: `${Math.min(100, (it.feito / it.total) * 100)}%` }} /></div>
               )}
-              {it.status === "erro" && it.erro && <div className="fi-erro">{it.erro}</div>}
+              {(it.status === "erro" || it.status === "repetir") && it.erro && (
+                <div className="fi-erro">{it.erro}</div>
+              )}
             </div>
           ))}
         </div>
