@@ -3,7 +3,24 @@ import { useRef, useState } from "react";
 import { createClient } from "@supabase/supabase-js";
 
 const BUCKET = "aulas";
-const EXT_OK = /\.(mp3|m4a|wav|mp4|aac|ogg|flac|webm|pdf|docx|txt|md)$/i;
+const EXT_OK = /\.(mp3|m4a|wav|mp4|aac|ogg|flac|webm|mov|m4v|pdf|docx|txt|md)$/i;
+// Vídeo: entra, mas é um engano caro. A Syntia só ouve a FALA — a imagem não
+// serve para nada aqui. Uma aula de 10 min: ~1 GB em vídeo, ~5 MB em áudio.
+// (1/out: ela arrastou 15 gravações de ecrã de 1,07 GB; a caixa dizia "MP3, PDF
+// ou txt" e o filtro aceitava .mp4 em silêncio. Começou 15 GB sem ninguém a
+// avisar, e ao fim de 5 minutos ainda ia no primeiro.)
+const EXT_VIDEO = /\.(mp4|webm|mov|m4v)$/i;
+const MB = (bytes) => bytes / 1024 / 1024;
+const tamanho = (mb) => (mb >= 1024 ? `${(mb / 1024).toFixed(1)} GB` : `${Math.round(mb)} MB`);
+// Estimativa honesta a 20 Mbps de upload (um valor comum em casa). Serve para
+// ela VER o que está a começar, não para prometer rapidez.
+const horas = (mb) => (mb * 8) / 20 / 3600;
+const tempo = (mb) => {
+  const h = horas(mb);
+  if (h < 1 / 60) return `${Math.max(1, Math.round(h * 3600))} s`;
+  if (h < 1) return `${Math.round(h * 60)} min`;
+  return `${h.toFixed(1)} h`;
+};
 const unidadeDe = (nome) => {
   const m = nome.match(/^U(\d+)/i);
   return m ? `U${m[1]}` : null;
@@ -54,8 +71,25 @@ export default function Uploader({ cursos, partilhada }) {
       if (EXT_OK.test(f.name)) novos.push({ file: f, status: "fila", erro: "" });
       else ignorados++;
     }
-    setAviso(ignorados ? `${ignorados} ficheiro(s) ignorado(s) (só MP3, PDF ou txt).` : "");
     setItens((prev) => [...prev, ...novos]);
+
+    // O aviso diz o que está mesmo a acontecer, ANTES de ela carregar em enviar.
+    // Um ficheiro de vídeo não é "mais um ficheiro": é 200 vezes mais bytes para
+    // exactamente o mesmo texto, e a diferença são horas de espera.
+    const partes = [];
+    if (ignorados) partes.push(`${ignorados} ficheiro(s) ignorado(s) (formato que a Syntia não lê).`);
+    const videos = novos.filter((n) => EXT_VIDEO.test(n.file.name));
+    if (videos.length) {
+      const mbVideo = videos.reduce((t, n) => t + MB(n.file.size), 0);
+      partes.push(
+        `${videos.length} são VÍDEO (${tamanho(mbVideo)}, cerca de ${tempo(mbVideo)} a enviar). `
+        + `A Syntia só ouve a FALA — a imagem não entra na síntese. `
+        + `A MESMA aula em áudio ocupa cerca de ${tamanho(mbVideo / videos.length / 200)} em vez de ${tamanho(mbVideo / videos.length)}, `
+        + `e a síntese sai exactamente igual. `
+        + `No iPad: Atalhos → Codificar multimédia → "Apenas áudio" (aceita vários de uma vez).`,
+      );
+    }
+    setAviso(partes.join(" "));
   }
 
   function remover(idx) {
@@ -196,7 +230,7 @@ export default function Uploader({ cursos, partilhada }) {
         <div className="hint">
           {modo === "material"
             ? "apostila por unidade (nome U1_, U2_…) — não vira aula, alimenta as sínteses"
-            : "vários de uma vez · cada um vira síntese + flashcards · o nome U1_/U2_ arruma por unidade"}
+            : "vários de uma vez · cada um vira síntese + flashcards · o nome U1_/U2_ arruma por unidade · vídeo também entra, mas é 200× maior do que o áudio para a mesma síntese"}
         </div>
         <input
           ref={inputRef}
@@ -209,6 +243,15 @@ export default function Uploader({ cursos, partilhada }) {
       </div>
 
       {aviso && <div style={{ color: "var(--ink-soft)", fontSize: 13 }}>{aviso}</div>}
+
+      {itens.length > 0 && (() => {
+        const mbTotal = itens.reduce((t, it) => t + MB(it.file.size), 0);
+        return (
+          <div style={{ fontSize: 13, color: "var(--ink-soft)" }}>
+            {itens.length} ficheiro(s) · <b>{tamanho(mbTotal)}</b> · cerca de <b>{tempo(mbTotal)}</b> a enviar
+          </div>
+        );
+      })()}
 
       {itens.length > 0 && (
         <div className="fila">
