@@ -1,0 +1,17 @@
+═══ BLOCO C — PRODUTO ═══
+
+[oportunidade] **Novo:** série de conteúdo «mae.cine» sobre o sono como fator de risco para a neurodegeneração — a aula valida cientificamente que a privação de sono acumula proteínas tau e beta-amiloide; ângulo para a conta-mãe (@vivianne.dos.santos / @viviannewrites): «você está a destruir o seu cérebro enquanto dorme mal» — faca na abertura, ciência como prova, consequência real, fechar no ciclo que pode ser quebrado agora. Público: mulheres adultas brasileiras (uso de «você»), cuidadoras em burnout que sacrificam o sono pelos outros; cruza com o movimento «Acaba em Mim» e o padrão de auto-negligência que a coleção **Força** já nomeia.
+
+[oportunidade] **Novo:** post/carrossel para **veu.a.veu** sobre «o que o isolamento social faz ao cérebro» — a aula menciona explicitamente que isolamento social impacta comportamento e humor e que a interação social é fator protetor contra a neurodegeneração; no registo didático da conta (gouache, personagens fixos, pergunta «como é que isto te salvou / do que te protege»), Nina ou Teresa podem ilustrar o contraste entre recolher-se por exaustão e o custo neurológico real desse recolhimento. Sem CTA de venda, otimiza para GUARDAR e PARTILHAR.
+
+[maternidade] **Coleção FreeMe Mãe** — a aula valida que o grau de escolaridade é fator protetor contra a neurodegeneração; isto aprofunda o ângulo de vários ebooks da coleção (nomeadamente `mae-04 Amar e dizer basta` e `mae-06 A mãe que cumpriu`) onde a mãe abandona os próprios projetos intelectuais e de desenvolvimento para servir os outros — há um custo neurológico real e mensurável nessa renúncia, não apenas emocional. Ideia concreta: parágrafo ou caixa de texto num desses ebooks que ancora a narrativa emocional em evidência científica («a ciência chama-lhe reserva cognitiva; você chamou-lhe abdicar»).
+
+[identidade] **Coleção Infonte** — a aula descreve estratégias de retardo da neurodegeneração (aprender idiomas, instrumentos, manter a mente activa) que se alinham directamente com o território de Infonte («quem és para além do que fazes»); especificamente `inf-01 A mulher que nunca chega` e `inf-05 A mulher que tem medo do próprio tamanho` podem integrar a ideia de que parar de aprender e de crescer tem consequência biológica, não só existencial. Ideia concreta: carrossel para **soulab** no registo exploratório/lunar — «o que acontece ao cérebro de uma mulher que para de crescer» — hipótese apresentada como observação, sem didatismo, paleta escura.
+
+---
+
+═══ NOTAS ═══
+
+- A transcrição apresenta várias passagens com corrupção de texto evidente (palavras coladas, letras isoladas, frases truncadas), em particular na secção sobre a distinção demência vascular / doenças neurodegenerativas e na secção sobre demências primárias e secundárias. O conteúdo foi reconstituído por contexto e pelo material de referência (apostila), mas alguns detalhes específicos que a professora possa ter dito nessas passagens podem estar em falta.
+- A professora anuncia que os fatores de risco específicos do Alzheimer e do Parkinson, bem como o aprofundamento das proteínas tau e beta-amiloide, serão tratados em aula posterior. Os flashcards e perguntas de avaliação sobre esses temas foram mantidos apenas ao nível do que foi efectivamente dito nesta aula.
+- Nenhum autor é citado nominalmente nesta aula. O Bloco B reflecte essa ausência.
