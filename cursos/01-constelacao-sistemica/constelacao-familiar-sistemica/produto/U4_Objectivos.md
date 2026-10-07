@@ -1,0 +1,5 @@
+═══ BLOCO C — PRODUTO ═══
+
+Esta aula não contém matéria desenvolvida que alimente diretamente nenhum produto do catálogo atual. Os quatro objetivos listados — indicações da constelação, a quem se destina, formação do constelador, resultados — são tópicos que pertencem a aulas anteriores da disciplina e é nessas aulas que o conteúdo real existe.
+
+[oportunidade] **Novo:** checklist editorial «Estás pronta para uma constelação?» — para a coleção **Pertença** ou para a conta **veu.a.veu** — baseada nos quatro critérios de avaliação listados (indicação, perfil, formação do guia, resultados esperados); transforma a checklist académica num recurso de auto-avaliação para mulheres que ponderam o processo mas não sabem se é para elas. Oportunidade real porque a pergunta «para quem é isto» é exatamente o que a audiência faz antes de qualquer investimento em trabalho interior, e nenhum produto atual a responde directamente neste formato.
