@@ -29,6 +29,60 @@ const isDir = (p) => existe(p) && fs.statSync(p).isDirectory();
 // parte-se em dois ("Sist Mica"). Match sem distinguir maiúsculas; saída canónica.
 // Mais longas primeiro (Sist_micas antes de Sist_mica).
 const ACENTOS = [
+  // Títulos de aula vindos da plataforma do curso: o download comeu os
+  // acentos e deixou "_" no lugar da letra ("consci_ncia", "cient_fico").
+  // As regras mais específicas vêm primeiro — a lista é aplicada em ordem.
+  [/o[_ ]que[_ ]a[_ ]constela[_ ]?o/gi, "O que é a Constelação"],
+  [/quem[_ ]bert[_ ]hellinger/gi, "Quem é Bert Hellinger"],
+  [/_as_reas_/gi, "_As_áreas_"],
+  [/_n_o_/g, "_não_"],
+  [/consci[_ ]?ncias/gi, "Consciências"],
+  [/consci[_ ]?ncia/gi, "Consciência"],
+  [/experi[_ ]?ncias/gi, "Experiências"],
+  [/experi[_ ]?ncia/gi, "Experiência"],
+  [/cient[_ ]?ficos/gi, "Científicos"],
+  [/cient[_ ]?fico/gi, "Científico"],
+  [/fenomenol[_ ]?gicos/gi, "Fenomenológicos"],
+  [/fenomenol[_ ]?gico/gi, "Fenomenológico"],
+  [/fenomenol[_ ]?gica/gi, "Fenomenológica"],
+  [/resson[_ ]?ncia/gi, "Ressonância"],
+  [/m[_ ]?rfica/gi, "Mórfica"],
+  [/m[_ ]?rfico/gi, "Mórfico"],
+  [/te[_ ]?ricos/gi, "Teóricos"],
+  [/te[_ ]?rico/gi, "Teórico"],
+  [/necess[_ ]?rio/gi, "Necessário"],
+  [/equil[_ ]?brio/gi, "Equilíbrio"],
+  [/compensa[_ ]?o/gi, "Compensação"],
+  [/pr[_ ]?ximos/gi, "Próximos"],
+  [/din[_ ]?mica/gi, "Dinâmica"],
+  [/aplica[_ ]?o/gi, "Aplicação"],
+  [/cl[_ ]?ssica/gi, "Clássica"],
+  [/constelacao/gi, "Constelação"],
+  [/constelacoes/gi, "Constelações"],
+  [/sistemica/gi, "Sistémica"],
+  [/lacos/gi, "Laços"],
+  [/unidade[_ ]iv\b/gi, "Unidade IV"],
+  [/unidade[_ ]iii\b/gi, "Unidade III"],
+  [/unidade[_ ]ii\b/gi, "Unidade II"],
+  [/unidade[_ ]i\b/gi, "Unidade I"],
+  // Mesmo defeito ("_" no lugar do acento) nas outras cadeiras.
+  [/resolu[_ ]?o/gi, "Resolução"],
+  [/solu[_ ]?o/gi, "Solução"],
+  [/percep[_ ]?o/gi, "Percepção"],
+  [/interven[_ ]?o/gi, "Intervenção"],
+  [/utiliza[_ ]?o/gi, "Utilização"],
+  [/educa[_ ]?o/gi, "Educação"],
+  [/correla[_ ]?o/gi, "Correlação"],
+  [/ressignifica[_ ]?o/gi, "Ressignificação"],
+  [/constela[_ ]?es/gi, "Constelações"],
+  [/exclu[_ ]?dos/gi, "Excluídos"],
+  [/import[_ ]?ncia/gi, "Importância"],
+  [/ate[_ ]?smo/gi, "Ateísmo"],
+  [/religiosidade/gi, "Religiosidade"],
+  [/religi[_ ]o(?![a-z])/gi, "Religião"],
+  [/c[_ ]rebro/gi, "Cérebro"],
+  [/_ndividual/gi, "_Individual"],
+  [/_a_es_/g, "_ações_"],
   [/sist[_ ]?micas/gi, "Sistémicas"],
   [/sist[_ ]?mica/gi, "Sistémica"],
   [/sist[_ ]?mico/gi, "Sistémico"],
@@ -220,9 +274,14 @@ function tituloDoCurso(cursoDir, cursoId) {
 }
 
 // "U1_Aula05_Historico_Geral_dos_Sistemas_P2" → unidade 1
+// "03.07_-_A_constelacao_em_grupo"              → unidade 3
+// A segunda forma é a numeração "módulo.aula" da plataforma do curso: o
+// número antes do ponto é o módulo, que corresponde à unidade da apostila.
 function unidadeDe(nome) {
   const m = nome.match(/^U(\d+)/i);
-  return m ? parseInt(m[1], 10) : null;
+  if (m) return parseInt(m[1], 10);
+  const p = nome.match(/^(\d{1,2})\.\d{1,2}(?:\D|$)/);
+  return p ? parseInt(p[1], 10) : null;
 }
 // Tópico = o que identifica a matéria, ignorando o nº de gravação e a parte.
 // "U1_Aula02_Bases_Pensamento_Sistemico"      → "Bases_Pensamento_Sistemico"
