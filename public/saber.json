@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-13T08:04:55.611Z",
+  "geradoEm": "2026-10-13T10:11:56.486Z",
   "fonte": "Syntia · pós-graduações",
   "materias": [
     {
@@ -301,7 +301,8 @@
               "objetivos": "",
               "resumo": "",
               "aulas": [
-                "Constelação Familiar Sistémica Atividade 3 Vivianne Nascimento"
+                "Constelação Familiar Sistémica Atividade 3 Vivianne Nascimento",
+                "Constelação Familiar Sistémica Atividade 4 Vivianne Nascimento"
               ]
             }
           ]
@@ -534,6 +535,14 @@
               ]
             },
             {
+              "n": 2,
+              "objetivos": "",
+              "resumo": "",
+              "aulas": [
+                "Httpsyoutu.be U7GYW6ViCc"
+              ]
+            },
+            {
               "n": 3,
               "objetivos": "",
               "resumo": "",
@@ -550,7 +559,8 @@
               "aulas": [
                 "A1 o Desafio da Transdisciplinaridade na Contemporaneidade",
                 "A2 Resili Ncia e Psicologia Transpessoal Fortalecimento de Valores a Es e Espiritualidade",
-                "A3 Arteterapia Transpessoal Como Um Suporte para a Expans o da Consciência"
+                "A3 Arteterapia Transpessoal Como Um Suporte para a Expans o da Consciência",
+                "Httpsyoutu.bePOvrDyZl"
               ]
             }
           ]
@@ -1862,6 +1872,13 @@
       "Postura ética",
       "Terapeuta interior",
       "Experiência mútua",
+      "Self / Eu superior",
+      "Sistemas COEX — Grof",
+      "Emergência espiritual",
+      "Espectro da consciência",
+      "Consciência quântica",
+      "Peste emocional",
+      "Ansiedade como estágio de desenvolvimento",
       "Multidisciplinaridade",
       "Atitude transdisciplinar",
       "Sujeito inacabado",
@@ -1924,7 +1941,12 @@
       "Funções psíquicas junguianas",
       "Ferramenta não invasiva",
       "Transdisciplinaridade na arteterapia",
-      "Reconhecimento profissional"
+      "Reconhecimento profissional",
+      "Pensamento cartesiano / herança de Descartes",
+      "Interdisciplinaridade vs. Transdisciplinaridade",
+      "«Ir além»",
+      "Múltiplas dimensões do ser humano como fonte de conhecimento",
+      "Encontro de pessoas e inteligências"
     ],
     "constelacao": [
       "Hierarquia de Necessidades de Maslow",
@@ -2134,6 +2156,18 @@
       "Setting",
       "Tema em até três frases",
       "Impulso de consolar",
+      "Princípio da hierarquia temporal",
+      "Lugar no sistema",
+      "Relação triangular",
+      "Terapeuta-filho-parental",
+      "Armadilha da compaixão",
+      "Triângulo da manipulação",
+      "Falar de tema, não de problema",
+      "Inclinar-se diante do destino",
+      "Preparação interior",
+      "Amor sistémico",
+      "Força como bússola",
+      "Crescimento pessoal como técnica",
       "Bert Hellinger",
       "Plasticidade de Hellinger",
       "Paradigma e epistemologia",
@@ -2287,7 +2321,6 @@
       "Agradecimento como compensação",
       "Pertencimento sistêmico",
       "Equilíbrio",
-      "Lugar no sistema",
       "Ordem de chegada e reconhecimento",
       "Campo sistêmico e observação",
       "Movimento interrompido em direção à mãe",
@@ -10270,6 +10303,24 @@
       "cadeira": "Constelação Familiar Sistémica · Constelação Familiar Sistémica"
     },
     {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Outro",
+      "ideia": "no soulab, observação breve: \"cobrar é uma forma de manter o lugar\" — hipótese sobre o que acontece quando não se cobra (a relação assume o lugar do contrato, cria desordem).",
+      "texto": "pros-06** (*A mulher que não consegue cobrar*) — a aula refere que não dar mais do que o outro pede é uma das condições da boa ajuda; o mesmo princípio sistémico explica por que cobrar o valor real não é ganância mas respeito pela ordem (não pôr a relação no lugar do contrato).\nIdeia: no **soulab**, observação breve: \"cobrar é uma forma de manter o lugar\" — hipótese sobre o que acontece quando não se cobra (a relação assume o lugar do contrato, cria desordem).",
+      "curso": "Constelação Familiar Sistémica",
+      "cadeira": "Constelação Familiar Sistémica · Constelação Familiar Sistémica"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia ou ebook fundador \"A ajuda que tira força\" — para qualquer pessoa (não só terapeuta) que se reconhece no papel de consoladora, salvadora ou \"a que resolve os pro…",
+      "texto": "Novo:** mini-guia ou ebook fundador \"A ajuda que tira força\" — para qualquer pessoa (não só terapeuta) que se reconhece no papel de consoladora, salvadora ou \"a que resolve os problemas dos outros\"; ângulo: as sete formas de ajudar que prejudicam, traduzidas para relações quotidianas (amizade, família, casal); público: mulheres cuidadoras em burnout que chegam via **veu.a.veu** ou **mae.cine**; porquê agora: a aula entrega o mapa conceptual completo e a linguagem é imediatamente transponível; encaixa como guia (€5) ou ebook fundador (€7), porta de entrada para a coleção Força ou Pertença.",
+      "curso": "Constelação Familiar Sistémica",
+      "cadeira": "Constelação Familiar Sistémica · Constelação Familiar Sistémica"
+    },
+    {
       "temas": [],
       "produto": "Oportunidade",
       "ideia": "Novo: mini-episódio de conteúdo (formato áudio ou post longo) intitulado «O homem que não queria ser guru» — sobre Hellinger e a sua resistência à publicação e ao dogma — para a…",
@@ -14192,6 +14243,24 @@
       "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
     },
     {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "* reel mae.cine com gancho direto: «Wilhelm Reich tinha um nome para o que você está a tentar parar: peste emocional",
+      "texto": "Coleção FreeMe Mãe** — a \"peste emocional\" de Reich (transmissão transgeracional do mal-estar de geração em geração) é o argumento científico-histórico mais forte para o movimento «Acaba em Mim». A aula nomeia-o explicitamente.\n*Ideia:* reel mae.cine com gancho direto: «Wilhelm Reich tinha um nome para o que você está a tentar parar: peste emocional. Não é exagero. É o padrão que passa de mãe para filha sem ninguém perceber como. Acaba em mim. #acabaemmim #quebraciclos» Voz Telma: confrontador primeiro, terno depois.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-série de conteúdo (3 a 5 posts) veu.a.veu sobre as quatro forças da psicologia, numa linguagem visual gouache com o elenco fixo — para o público de mulheres cuidadora…",
+      "texto": "Novo:** mini-série de conteúdo (3 a 5 posts) veu.a.veu sobre as quatro forças da psicologia, numa linguagem visual gouache com o elenco fixo — para o público de mulheres cuidadoras que nunca teve acesso a esta história e que pode ver a sua própria vida espelhada na evolução do campo (do «só o que se vê conta» até «o teu interior tem um mapa muito mais rico do que te disseram»). Ângulo: não é história da psicologia — é «o que cada força descobriu sobre você». Sequência: 4 peças, uma por força, todas com a pergunta «como é que isto te salvou / do que te protegeu». Crescimento orgânico alto porque é conteúdo didático que serve de guia.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
       "temas": [],
       "produto": "Oportunidade",
       "ideia": "Novo: série de conteúdo para veu.a.veu sobre «os três níveis de compreensão de si» — usando a progressão multidisciplinar → interdisciplinar → transdisciplinar como metáfora int…",
@@ -14376,6 +14445,24 @@
       "produto": "Outro",
       "ideia": "\"você não consegue explicar o que sente — mas suas mãos conseguem mostrar\"; a ciência da arteterapia (reconhecida pelo Ministério do Trabalho em 2013, estudos em Alzheimer e tra…",
       "texto": "mae.cine** (conta-mãe @vivianne.dos.santos / @viviannewrites) — a ideia de que a arte traz à superfície o que as palavras não conseguem dizer é uma faca de abertura forte para um reel ou carrossel no registo da Telma: \"você não consegue explicar o que sente — mas suas mãos conseguem mostrar\"; a ciência da arteterapia (reconhecida pelo Ministério do Trabalho em 2013, estudos em Alzheimer e trauma) funciona como prova científica com consequência, no formato \"não é X, é Y\"; movimento Acaba em Mim: a arte como forma de quebrar o ciclo de silêncio geracional. Formato sugerido: reel com foto quente + texto sobreposto; legenda com abertura faca + dado científico + CTA GUARDAR.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "no ebook `mae-02 A mãe que ficou`, introduzir a ideia de que o que a mãe transmitiu não foi só o que disse — foi também o que sentiu e calou",
+      "texto": "FreeMe Mãe (coleção)** — a aula valida, por via epistemológica, que o conhecimento transmitido de mãe para filho(a) não é só racional: inclui o que se sente, o que se herda sem palavras, o que o corpo guarda. A transdisciplinaridade legitima as heranças invisíveis como conhecimento real.\nIdeia concreta: no ebook `mae-02 A mãe que ficou`, introduzir a ideia de que o que a mãe transmitiu não foi só o que disse — foi também o que sentiu e calou. A ciência chama-lhe transdisciplinaridade; a família chama-lhe herança.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia ou guia prático «O que o teu corpo sabe que a tua mente ainda não percebeu» — para mulheres que vivem muito na cabeça (modo cartesiano) e desconfiam do que sentem",
+      "texto": "Novo:** mini-guia ou guia prático «O que o teu corpo sabe que a tua mente ainda não percebeu» — para mulheres que vivem muito na cabeça (modo cartesiano) e desconfiam do que sentem. A aula abre exactamente esse espaço: o sentir como forma legítima de conhecimento. Encaixaria na gama de guias práticos (€5) e serviria de porta de entrada para a coleção Infonte ou para o livro *A Grande Transição*.",
       "curso": "Psicologia Transpessoal",
       "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
     },
