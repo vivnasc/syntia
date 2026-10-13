@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-07T09:50:34.714Z",
+  "geradoEm": "2026-10-13T08:04:55.611Z",
   "fonte": "Syntia · pós-graduações",
   "materias": [
     {
@@ -295,6 +295,14 @@
                 "Objectivos",
                 "Constelação Familiar Sistémica Unidade IV"
               ]
+            },
+            {
+              "n": 0,
+              "objetivos": "",
+              "resumo": "",
+              "aulas": [
+                "Constelação Familiar Sistémica Atividade 3 Vivianne Nascimento"
+              ]
             }
           ]
         }
@@ -507,6 +515,42 @@
                 "OBJECTIVO U2",
                 "OBJECTIVO U3",
                 "OBJECTIVO U4"
+              ]
+            }
+          ]
+        },
+        {
+          "cadeira": "Terapia Transpessoal e Transdisciplinaridade",
+          "unidades": [
+            {
+              "n": 1,
+              "objetivos": "",
+              "resumo": "",
+              "aulas": [
+                "A1 Abordagem da Psicologia Transpessoal e a Vis o Hol Stica",
+                "A2 a Consciência C Smica",
+                "A3 a Transcend Ncia",
+                "A4 o Terapeuta Transpessoal"
+              ]
+            },
+            {
+              "n": 3,
+              "objetivos": "",
+              "resumo": "",
+              "aulas": [
+                "A1 a Perspectiva Transdisciplinar dos Sentidos",
+                "A2 Transdisciplinaridade e Complexidade",
+                "A4 a Transdisciplinaridade na Constru o da Pr Tica Psicol Gica e no Campo da Clínica"
+              ]
+            },
+            {
+              "n": 4,
+              "objetivos": "",
+              "resumo": "",
+              "aulas": [
+                "A1 o Desafio da Transdisciplinaridade na Contemporaneidade",
+                "A2 Resili Ncia e Psicologia Transpessoal Fortalecimento de Valores a Es e Espiritualidade",
+                "A3 Arteterapia Transpessoal Como Um Suporte para a Expans o da Consciência"
               ]
             }
           ]
@@ -1776,7 +1820,111 @@
       "Cuidados paliativos",
       "Sofrimento no fim de vida",
       "Transcendência",
-      "Complementaridade psicologia–espiritualidade"
+      "Complementaridade psicologia–espiritualidade",
+      "Terapia transpessoal",
+      "Transdisciplinaridade",
+      "Cinco dimensões do ser humano",
+      "Tríade corpo-espírito-cosmo",
+      "Validação do conhecimento",
+      "Abraham Maslow",
+      "Integração Oriente-Ocidente",
+      "Subjetividade como método",
+      "Estado transpessoal",
+      "Visão interdisciplinar/eclética",
+      "Sujeito como ser único e heterogéneo",
+      "Mestre interior",
+      "Ruptura com a psicanálise",
+      "Consciência universal",
+      "Consciência simples",
+      "Autoconsciência",
+      "Luz subjetiva",
+      "Elevação moral",
+      "Iluminação intelectual",
+      "Senso de imortalidade",
+      "Instantaneidade e imprevisibilidade",
+      "Conceito evolucionista",
+      "Ser inacabado",
+      "Pulsão psíquica",
+      "Experiências de cume (peak experiences) — Maslow",
+      "Visão dualista",
+      "Aspecto instintóide — Weil",
+      "Princípio da transcendência — Saldanha",
+      "Processo primário e secundário — Freud",
+      "Resiliência",
+      "Espiritualidade ≠ religião",
+      "Ampliação da consciência",
+      "Mediação terapêutica",
+      "Processo dialógico",
+      "Técnicas transpessoais",
+      "Acompanhante da alma",
+      "Testemunha amorosa",
+      "Imediatismo",
+      "Postura ética",
+      "Terapeuta interior",
+      "Experiência mútua",
+      "Multidisciplinaridade",
+      "Atitude transdisciplinar",
+      "Sujeito inacabado",
+      "Enfoque pluralista do conhecimento",
+      "Saber unificado",
+      "Piaget e o primeiro uso do termo",
+      "Saber psicológico da transdisciplinaridade",
+      "Análise circunscrita",
+      "Conjunto molecular",
+      "Natureza mágica",
+      "Natureza máquina",
+      "Morte da natureza",
+      "Múltiplos níveis de realidade",
+      "Complexidade",
+      "Encontro dos sujeitos / diálogo",
+      "Postura transdisciplinar",
+      "Lógica clássica da não-contradição",
+      "Lógica do terceiro termo incluído",
+      "Temas transversais",
+      "BNCC",
+      "Democracia cognitiva",
+      "Hierarquização dos saberes",
+      "Mundo do trabalho vs. mercado de trabalho",
+      "Multireferencialidade do conhecimento",
+      "Princípio da complementaridade dos opostos",
+      "Complementaridade dos opostos",
+      "Visão holográfica",
+      "Dicotomia / pensamento binário",
+      "Princípio da incerteza",
+      "Pedagogia tradicional",
+      "Paulo Freire",
+      "Autopoiese",
+      "Mediador",
+      "Professor como mediador/facilitador",
+      "Pedagogia bancária / da domesticação",
+      "Aprendizagem significativa",
+      "Percepção como fenómeno de dupla via",
+      "Visão transdisciplinar do ser humano",
+      "Complexidade e transdisciplinaridade como resgate do sentido",
+      "Contextualização do saber",
+      "Pluridisciplinaridade",
+      "Discursos hegemónicos",
+      "Clínica ampliada / clínica transdisciplinar",
+      "Round transdisciplinar",
+      "Aprendizagem colaborativa",
+      "Subjectividade humana",
+      "Equipa transdisciplinar vs. equipa multidisciplinar",
+      "Fatores de proteção",
+      "Abordagem Integrativa Transpessoal",
+      "Sete competências de resiliência",
+      "Transcendência e espiritualidade",
+      "Ressacrilizar",
+      "Sentimento de pertencimento",
+      "Amor terapêutico / empatia",
+      "Metáfora do elástico",
+      "Metáfora da flor no asfalto",
+      "Arteterapia",
+      "Arteterapia transpessoal",
+      "Conteúdos simbólicos",
+      "Funções psíquicas junguianas",
+      "Ferramenta não invasiva",
+      "Transdisciplinaridade na arteterapia",
+      "Reconhecimento profissional"
     ],
     "constelacao": [
       "Hierarquia de Necessidades de Maslow",
@@ -1981,6 +2129,11 @@
       "Pertença coletiva e ancestral",
       "A pátria como sistema",
       "O constelador como instrumento calibrado",
+      "Campo mórfico / ressonância mórfica",
+      "Percepção atemporal",
+      "Setting",
+      "Tema em até três frases",
+      "Impulso de consolar",
       "Bert Hellinger",
       "Plasticidade de Hellinger",
       "Paradigma e epistemologia",
@@ -2003,7 +2156,6 @@
       "Vingança amorosa",
       "Gunthard Weber",
       "Quem atua na constelação",
-      "Percepção atemporal",
       "Gestalts abertas",
       "Campo mórfico e ressonância mórfica",
       "O outro lado do padrão",
@@ -10090,6 +10242,34 @@
       "cadeira": "Constelação Familiar Sistémica · Constelação Familiar Sistémica"
     },
     {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "num dos ebooks desta coleção, um capítulo ou secção intitulado «quando o consolo és tu que precisas» — que ajude a leitora a distinguir o que está a dar ao filho do que está a t…",
+      "texto": "Coleção FreeMe Mãe (`mae-02 A mãe que ficou` / `mae-03 A mãe que salva`)** — a distinção da aula entre o impulso de consolar que vem de quem sente e não de quem precisa mapeia directamente o padrão da mãe que salva: salvar os filhos a partir da própria necessidade de ser necessária.\nIdeia concreta: num dos ebooks desta coleção, um capítulo ou secção intitulado «quando o consolo és tu que precisas» — que ajude a leitora a distinguir o que está a dar ao filho do que está a tentar receber; voz FreeMe Mãe, linguagem de proximidade, sem jargão sistémico.",
+      "curso": "Constelação Familiar Sistémica",
+      "cadeira": "Constelação Familiar Sistémica · Constelação Familiar Sistémica"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Outro",
+      "ideia": "reel ou carrossel para mae.cine, abertura com faca — «Você consola seu filho porque ele precisa, ou porque você precisa?» — desenvolve com a lógica da aula (o impulso vem de que…",
+      "texto": "mae.cine (@vivianne.dos.santos / @viviannewrites)** — a aula oferece matéria científica com consequência directa para a conta-mãe: o impulso de consolar uma criança pode nascer da necessidade da mãe, não da criança.\nIdeia concreta: reel ou carrossel para mae.cine, abertura com faca — «Você consola seu filho porque ele precisa, ou porque você precisa?» — desenvolve com a lógica da aula (o impulso vem de quem o sente), fecha no ciclo quebrado: «quando você aprende a distinguir, para de usar seu filho para se acalmar». Foto cinematográfica quente, «você», hashtags `#acabaemmim #quebraciclos`.",
+      "curso": "Constelação Familiar Sistémica",
+      "cadeira": "Constelação Familiar Sistémica · Constelação Familiar Sistémica"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia ou ebook «O padrão não começou em mim» — para o público da Pertença e do ebook-02-herdaste, mas com ângulo sistémico mais explícito: explica em linguagem acessív…",
+      "texto": "Novo:** mini-guia ou ebook «O padrão não começou em mim» — para o público da Pertença e do ebook-02-herdaste, mas com ângulo sistémico mais explícito: explica em linguagem acessível como uma exclusão familiar (um aborto, um excluído, uma morte não nomeada) pode criar um padrão que chega até hoje; usa a ressonância mórfica sem o termo técnico; posiciona-se como porta de entrada para quem nunca ouviu falar de constelação mas reconhece «um peso que não consigo explicar». Oportunidade real porque o catálogo actual não tem nenhuma peça que nomeie explicitamente o mecanismo de transmissão geracional de forma acessível e sem pressupor conhecimento sistémico.",
+      "curso": "Constelação Familiar Sistémica",
+      "cadeira": "Constelação Familiar Sistémica · Constelação Familiar Sistémica"
+    },
+    {
       "temas": [],
       "produto": "Oportunidade",
       "ideia": "Novo: mini-episódio de conteúdo (formato áudio ou post longo) intitulado «O homem que não queria ser guru» — sobre Hellinger e a sua resistência à publicação e ao dogma — para a…",
@@ -13958,6 +14138,246 @@
       "texto": "Novo:** ritual guiado em áudio — decreto de Ho'oponopono com a voz da Vivianne, orientado especificamente para heranças transgeracionais (versão «Acaba em Mim»). Produto standalone de baixo custo (€5–€7) ou bónus dentro do pack Pertença ou FreeMe Mãe. Para quem já identificou o padrão (via ebook ou guia) e quer um gesto de encerramento — o mercado de áudios guiados tem procura alta e este formato não existe ainda no catálogo.",
       "curso": "Psicologia Transpessoal",
       "cadeira": "Psicologia Transpessoal · Técnicas Transpessoais: Astrologia"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-série didática \"As 5 dimensões\" para veu.a.veu — cinco peças em gouache, uma por dimensão (espiritual, biológica, cultural, social, psicológica), cada uma com a pergu…",
+      "texto": "Novo:** mini-série didática \"As 5 dimensões\" para **veu.a.veu** — cinco peças em gouache, uma por dimensão (espiritual, biológica, cultural, social, psicológica), cada uma com a pergunta \"o que desta dimensão te foi ensinado e nunca questionaste?\". Para quem: mulheres adultas cuidadoras em burnout que nunca tiveram linguagem para nomear por que se sentem fragmentadas. Porquê agora: a aula oferece a estrutura pedagógica pronta; é simples, visual e não exige vender nada — ideal para crescimento orgânico da conta didática.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático «Em que nível da pirâmide estás presa?» — para mulheres que sentem que \"deveriam estar bem\" mas não se sentem realizadas",
+      "texto": "Novo:** guia prático «Em que nível da pirâmide estás presa?» — para mulheres que sentem que \"deveriam estar bem\" mas não se sentem realizadas. O produto mapeia os cinco níveis de Maslow em linguagem concreta e feminina (não académica), identifica o nível de bloqueio e aponta qual coleção de ebooks corresponde a esse nível. Formato: guia de €5 (encaixa na lógica dos guias actuais). Porquê agora: a aula oferece o quadro teórico completo e o catálogo já tem ebooks para cada nível — falta a peça que faz a ponte entre o diagnóstico e o produto.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia ou ebook sobre «o que acontece quando a consciência se expande» — para mulheres entre os 30 e os 40 anos que viveram uma experiência de ruptura ou de «acordar» interi…",
+      "texto": "Novo:** guia ou ebook sobre «o que acontece quando a consciência se expande» — para mulheres entre os 30 e os 40 anos que viveram uma experiência de ruptura ou de «acordar» interior (burnout, separação, perda) e não têm linguagem para o nomear. A aula descreve exatamente esse perfil etário e esse tipo de experiência súbita e transformadora. O ângulo é: «não estás a enlouquecer — estás a expandir»; valida cientificamente (via Bucke/Transpessoal) o que muitas mulheres vivem como desorientação mas que é, na verdade, um salto de consciência. Alimentaria a coleção **Força** (for-04 «A mulher que se tornou forte demais» / for-05 «A mulher que vive em modo sobrevivência») e poderia ser porta de entrada para **A Grande Transição** ($27). Porquê agora: o perfil «mulher 35-45 em colapso produtivo que acorda» é o núcleo da audiência atual e não há ainda um produto que nomeie a experiência de expansão de consciência como consequência do colapso — só os que descrevem o colapso em si.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Livros",
+      "ideia": "reel curto — «O medo de receber não é teu",
+      "texto": "Coleção Prosperidade** (pros-05 «A mulher que tem medo de receber») — o «senso de imortalidade» e a ausência de medo descritos na experiência cósmica têm paralelo com o padrão de bloqueio ao receber: ambos são estados em que o medo estrutural momentaneamente desaparece.\nIdeia para **mae.cine**: reel curto — «O medo de receber não é teu. É uma herança. E há um momento na vida de algumas mulheres em que esse medo simplesmente... desaparece. Não porque resolveram nada. Porque o nível de consciência mudou.» Liga ao #acabaemmim e encaminha para o ebook pros-05.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "ângulo novo para `mae-08 A mãe que não sentiu` — o entorpecimento afetivo como consequência do bloqueio do processo terciário (a pulsão de transcendência sufocada pela exigência…",
+      "texto": "FreeMe Mãe** (coleção) — A aula introduz a ideia de que a ausência de transcendência causa adoecimento. Nas mães desta coleção, isso traduz-se em esgotamento, raiva e vazio — sintomas que a psicologia transpessoal lê como bloqueio da pulsão psíquica, não apenas como falha de gestão emocional.\nIdeia: ângulo novo para `mae-08 A mãe que não sentiu` — o entorpecimento afetivo como consequência do bloqueio do processo terciário (a pulsão de transcendência sufocada pela exigência permanente de cuidar). Valida a experiência sem a patologizar.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático «O passo além do ponto onde estás» — para mulheres que rejeitam linguagem espiritual mas sentem vazio de sentido",
+      "texto": "Novo:** guia prático «O passo além do ponto onde estás» — para mulheres que rejeitam linguagem espiritual mas sentem vazio de sentido. A aula dá o argumento: a transcendência não é mística, é biológica. Um guia que ensina a reconhecer e ativar a pulsão psíquica de ir além — sem meditação, sem religião, sem vocabulário new age — pode chegar a um público que os produtos atuais não alcançam (mulheres muito racionais, profissionais, céticas). Formato: guia de 5 exercícios concretos, €5, entrada para a coleção Infonte ou Força.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: série de conteúdo para veu.a.veu sobre «os três níveis de compreensão de si» — usando a progressão multidisciplinar → interdisciplinar → transdisciplinar como metáfora int…",
+      "texto": "Novo:** série de conteúdo para **veu.a.veu** sobre «os três níveis de compreensão de si» — usando a progressão multidisciplinar → interdisciplinar → transdisciplinar como metáfora interior: a mulher que primeiro se vê por uma única lente (a mãe, a profissional, a filha), depois começa a deixar as lentes dialogar, e finalmente consegue ver-se como um todo. Formato gouache com as 5 personagens, sem CTA de venda. Para a audiência de mulheres cuidadoras em burnout que se definem por um único papel e não conseguem ver-se além dele. É uma oportunidade genuína porque a aula oferece uma progressão natural (3 fases com nomes distintos) que funciona como estrutura de carrossel didático, e o tema «ver-se na totalidade» é o núcleo de toda a jornada das 13 semanas da conta.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático para veu.a.veu ou para o catálogo de guias (€5) — «Ver-te como um todo: três perguntas para começar» — estruturado em três momentos (como me vejo quando só us…",
+      "texto": "Novo:** guia prático para **veu.a.veu** ou para o catálogo de **guias (€5)** — «Ver-te como um todo: três perguntas para começar» — estruturado em três momentos (como me vejo quando só uso uma lente / o que acontece quando deixo as minhas partes falar / o que fica quando paro de me dividir). Formato simples, sem jargão académico. Para quem está no início da jornada de autoconhecimento e ainda se define por um único papel. A aula oferece a estrutura pronta (as três fases); o guia seria a versão prática e acessível dessa progressão, ancorada na experiência das leitoras da coleção Infonte ou Pertença.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático — \"Como te vês? Como te vêem?\" — para mulheres que receberam, durante anos, um olhar redutivo (da família, da escola, da medicina) e nunca questionaram se ess…",
+      "texto": "Novo:** guia prático — \"Como te vês? Como te vêem?\" — para mulheres que receberam, durante anos, um olhar redutivo (da família, da escola, da medicina) e nunca questionaram se esse olhar era o real ou apenas uma \"análise circunscrita\". Formato guia (€5, linha dos 14 guias práticos), posicionado entre `guia-07-teu` e `guia-09-meta`. Para quem está no início da jornada de identidade (entrada natural para a coleção Infonte). Agora: porque o argumento da aula é direto, acessível e não exige conhecimento prévio de transpessoal — é um gancho de porta de entrada de baixo custo.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia \"Pensar em todo — exercício de saída da fragmentação\" (guia prático, €5) — para profissionais de saúde, educação ou qualquer pessoa que reconheça que foi treinad…",
+      "texto": "Novo:** mini-guia \"Pensar em todo — exercício de saída da fragmentação\" (guia prático, €5) — para profissionais de saúde, educação ou qualquer pessoa que reconheça que foi treinada a resolver \"em parcelas\" e perdeu a visão integradora. A aula abre este ângulo de forma clara e prática (dividir em parcelas é útil, mas quando se torna visão do mundo, isola). Não existe nada no catálogo actual que nomeie directamente este padrão de funcionamento — fragmentar como mecanismo aprendido, não como falha. Público: mulheres em profissões de cuidado que se reconhecem no \"resolver problema a problema\" sem nunca se verem a si próprias como um todo.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "Coleção FreeMe Mãe — A democracia cognitiva e a crítica à hierarquização dos saberes validam directamente os títulos desta coleção que trabalham a mãe que \"cumpriu\" e a mãe que…",
+      "texto": "Coleção FreeMe Mãe** — A democracia cognitiva e a crítica à hierarquização dos saberes validam directamente os títulos desta coleção que trabalham a mãe que \"cumpriu\" e a mãe que \"carregou\" padrões herdados sem os questionar, porque aprendeu que havia um único modo certo de saber e de ser.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Prosperidade",
+      "ideia": "Coleção Prosperidade — A hierarquização dos saberes (e dos valores) é o mecanismo exacto que leva a mulher a desvalorizar o que faz, a cobrar menos, a sentir que o seu saber \"nã…",
+      "texto": "Coleção Prosperidade** — A hierarquização dos saberes (e dos valores) é o mecanismo exacto que leva a mulher a desvalorizar o que faz, a cobrar menos, a sentir que o seu saber \"não conta\".",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "amor"
+      ],
+      "produto": "SyncHim",
+      "ideia": "Coleção SyncHim — A lógica do \"ou/ou\" (ou eu existo ou o relacionamento existe; ou sou eu ou sou o que ele quer) é exactamente a armadilha trabalhada nesta coleção.",
+      "texto": "Coleção SyncHim** — A lógica do \"ou/ou\" (ou eu existo ou o relacionamento existe; ou sou eu ou sou o que ele quer) é exactamente a armadilha trabalhada nesta coleção.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia ou guia prático \"O saber que trazes contigo\" — para mulheres que desvalorizam a sua experiência de vida por não ter certificado académico; a democracia cognitiva…",
+      "texto": "Novo:** mini-guia ou guia prático \"O saber que trazes contigo\" — para mulheres que desvalorizam a sua experiência de vida por não ter certificado académico; a democracia cognitiva da aula abre um ângulo pouco explorado no catálogo actual (que tende a trabalhar heranças emocionais, não epistémicas), com potencial para um guia €5 ou ebook fundador €7, especialmente relevante para o público da Coleção Infonte e Prosperidade.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático «O teu polo perdido» — para mulheres que reconhecem que viveram num único eixo (trabalho, força, excelência) e perderam o acesso ao polo oposto (descanso, dúv…",
+      "texto": "Novo:** guia prático «O teu polo perdido» — para mulheres que reconhecem que viveram num único eixo (trabalho, força, excelência) e perderam o acesso ao polo oposto (descanso, dúvida, receber). A aula sobre complementaridade dos opostos oferece um enquadramento directo: não falta a força, falta articular o que foi exilado. Público: leitoras das coleções Infonte, Força e Trabalho e Vocação. Formato: guia prático (€5), com 3 a 5 exercícios de articulação dos opostos pessoais. Porquê agora: a linguagem «articular em vez de escolher» é diferenciadora face ao discurso habitual de equilíbrio, e encaixa no movimento «Acaba em Mim» sem duplicar nenhum guia existente.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: série de conteúdos sobre \"o que aprendeste a não questionar\" — para a conta veu.a.veu.",
+      "texto": "Novo:** série de conteúdos sobre \"o que aprendeste a não questionar\" — para a conta **veu.a.veu**.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "FreeMe Mãe — a aula valida a ideia central da coleção de que padrões são \"depositados\" nas crianças antes de estas terem capacidade crítica, e que esses depósitos se repetem int…",
+      "texto": "FreeMe Mãe** — a aula valida a ideia central da coleção de que padrões são \"depositados\" nas crianças antes de estas terem capacidade crítica, e que esses depósitos se repetem intergeracionalmente.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático «Como criar o teu round interior» — para quem trabalha em cuidado (profissionais de saúde, educadores, cuidadores informais) e quer aplicar a lógica transdisc…",
+      "texto": "Novo:** guia prático «Como criar o teu round interior» — para quem trabalha em cuidado (profissionais de saúde, educadores, cuidadores informais) e quer aplicar a lógica transdisciplinar à sua própria vida: fazer as diferentes partes de si (corpo, emoção, história, contexto) «sentar à mesa» e conversar. Público: a audiência de **veu.a.veu** em burnout do cuidador. Porquê agora: a aula introduz o round transdisciplinar como ferramenta concreta e acessível — é um conceito que ressoa imediatamente fora do contexto clínico formal e abre um produto de auto-aplicação ainda não existente no catálogo.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia ou post-série sobre «a escuta como prática terapêutica» — para terapeutas, educadores e cuidadores que reconhecem que ouvir é uma competência que se treina, não…",
+      "texto": "Novo:** mini-guia ou post-série sobre «a escuta como prática terapêutica» — para terapeutas, educadores e cuidadores que reconhecem que ouvir é uma competência que se treina, não um talento inato. A aula oferece base conceptual sólida (diálogo como amor recíproco, conhecimento que nasce do encontro) para um produto dirigido a profissionais de saúde e educação que trabalham com pessoas — público que já consome os conteúdos de **veu.a.veu** mas não tem ainda um produto endereçado ao seu papel profissional, apenas ao seu papel pessoal.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "reel com abertura tipo faca — «Você não falhou",
+      "texto": "FreeMe Mãe (coleção completa, especialmente mae-04 «Amar e dizer basta» e mae-11 «A mãe que teme pesar»)** — a aula valida que a resiliência se constrói dentro das relações de cuidado e que os fatores familiares (vínculos, estabilidade, respeito) são protetores ou destruidores do mecanismo resiliente, o que alimenta diretamente o núcleo desta coleção.\nIdeia para **mae.cine**: reel com abertura tipo faca — «Você não falhou. Você nunca teve quem te ensinasse a voltar.» — construído em torno da metáfora da flor no asfalto: a mãe que não aprendeu resiliência não pode ensinar ao filho o que nunca recebeu. Fecha com «Acaba em Mim». Hashtags `#acabaemmim #quebraciclos`. Voz PT-BR, foto quente.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "amor"
+      ],
+      "produto": "SyncHim",
+      "ideia": "observação/símbolo — uma imagem lunar com o texto «Baixar a guarda não é perigo",
+      "texto": "SyncHim (coleção — especialmente syn-03 «A mulher que desaparece no amor» e syn-06 «A mulher que nunca baixa a guarda»)** — a aula valida que a «habilidade de alcançar pessoas» (competência 7 de Barbosa) — formar redes de apoio sem medo do fracasso — é um mecanismo resiliente que estas personagens não desenvolveram; a sua dificuldade de vinculação não é fraqueza de carácter, é ausência de um mecanismo de proteção.\nIdeia para **soulab**: observação/símbolo — uma imagem lunar com o texto «Baixar a guarda não é perigo. É o único caminho de volta a ti.» — sem explicar, sem ensinar, só propor a hipótese. Visual escuro (`#1B1726`), destaque `#C9A2E6`.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Prosperidade",
+      "ideia": "carrossel «Por que é tão difícil receber?» — âncora na ciência (Barbosa: auto-eficácia como competência resiliente) e fecha no ciclo transgeracional: «Ninguém te ensinou que pod…",
+      "texto": "Coleção Prosperidade (especialmente pros-05 «A mulher que tem medo de receber» e pros-06 «A mulher que não consegue cobrar»)** — a aula valida que a auto-eficácia e o controlo dos impulsos são competências resilientes que, quando não desenvolvidas, fazem a pessoa depender da validação externa para agir — o que alimenta o padrão de não cobrar e não receber.\nIdeia para **mae.cine**: carrossel «Por que é tão difícil receber?» — âncora na ciência (Barbosa: auto-eficácia como competência resiliente) e fecha no ciclo transgeracional: «Ninguém te ensinou que podias confiar em ti. Acaba em Mim.»",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia (€5) ou ebook fundador (€7) «As 7 forças que nunca te ensinaram a usar» — baseado nas sete competências de Barbosa (resiliência) re-enquadradas como heranças não…",
+      "texto": "Novo:** mini-guia (€5) ou ebook fundador (€7) «As 7 forças que nunca te ensinaram a usar» — baseado nas sete competências de Barbosa (resiliência) re-enquadradas como heranças não transmitidas: cada competência ausente é mapeada à sua origem familiar/transgeracional. Para mulheres adultas que se identificam como «pouco resilientes» mas nunca souberam porquê; posiciona-se como ponte entre o diagnóstico («o que me falta») e a ação («de onde vem e como começa a mudar»). É uma entrada de catálogo que não existe e que a aula justifica com rigor académico (Barbosa, Saldanha).",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático \"A arte como linguagem do que não consegues dizer\" — para mulheres com histórico de trauma ou sobrecarga emocional que bloqueiam na fala mas respondem à criaç…",
+      "texto": "Novo:** guia prático \"A arte como linguagem do que não consegues dizer\" — para mulheres com histórico de trauma ou sobrecarga emocional que bloqueiam na fala mas respondem à criação (desenho, colagem, mandala). A arteterapia transpessoal abre um formato ainda inexistente no catálogo: um guia de práticas expressivas não verbais para autoconhecimento, que não exige terapeuta e pode ser feito em casa. Público: as mesmas leitoras das coleções Força e FreeMe Mãe, em particular as que relatam dificuldade em \"pôr em palavras\" o que sentem. Porquê agora: a aula valida cientificamente que a arte traz conteúdos simbólicos à superfície com mais rapidez do que a fala, o que justifica o formato e o posicionamento.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "corpo"
+      ],
+      "produto": "Força",
+      "ideia": "Coleção Força (`for-04 A mulher que se tornou forte demais` · `for-05 A mulher que vive em modo sobrevivência`) — a arteterapia valida que quando a dor é muito grande e há resis…",
+      "texto": "Coleção Força** (`for-04 A mulher que se tornou forte demais` · `for-05 A mulher que vive em modo sobrevivência`) — a arteterapia valida que quando a dor é muito grande e há resistência ou limitação da fala, a expressão não verbal é o caminho; estes ebooks podem incorporar exercícios práticos de expressão artística (desenho livre, colagem, mandala) como ferramentas de acesso ao que a sobrevivente não consegue nomear.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "\"desenha a mãe que querias ter sido\") pode ser proposta como exercício dentro do ebook.",
+      "texto": "FreeMe Mãe** (`mae-08 A mãe que não sentiu` · `mae-10 A mãe arrependida`) — a ideia de que a arte permite reconsiderar e atribuir novo significado a experiências dolorosas de forma lúdica e não invasiva alimenta diretamente estes títulos; uma prática de expressão artística guiada (ex.: \"desenha a mãe que querias ter sido\") pode ser proposta como exercício dentro do ebook.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Outro",
+      "ideia": "\"você não consegue explicar o que sente — mas suas mãos conseguem mostrar\"; a ciência da arteterapia (reconhecida pelo Ministério do Trabalho em 2013, estudos em Alzheimer e tra…",
+      "texto": "mae.cine** (conta-mãe @vivianne.dos.santos / @viviannewrites) — a ideia de que a arte traz à superfície o que as palavras não conseguem dizer é uma faca de abertura forte para um reel ou carrossel no registo da Telma: \"você não consegue explicar o que sente — mas suas mãos conseguem mostrar\"; a ciência da arteterapia (reconhecida pelo Ministério do Trabalho em 2013, estudos em Alzheimer e trauma) funciona como prova científica com consequência, no formato \"não é X, é Y\"; movimento Acaba em Mim: a arte como forma de quebrar o ciclo de silêncio geracional. Formato sugerido: reel com foto quente + texto sobreposto; legenda com abertura faca + dado científico + CTA GUARDAR.",
+      "curso": "Psicologia Transpessoal",
+      "cadeira": "Psicologia Transpessoal · Terapia Transpessoal e Transdisciplinaridade"
     },
     {
       "temas": [
