@@ -75,7 +75,7 @@ convenção, não uma propriedade da cadeira.
 > colunas são **curso de origem agrupado**, não base de conhecimento. A contraprova está
 > em 3-A. Não ler coluna a coluna.
 
-Contagem por área (reconhecida pelo conteúdo) e por base:
+Contagem por área candidata recuperada por marcadores e por grupo de cursos da convenção:
 
 | Área | sistémica | transpessoal | psicológica | neurocientífica | total |
 |---|---:|---:|---:|---:|---:|
@@ -101,7 +101,7 @@ Dependiam todas de tratar a coluna como base de conhecimento, e por isso caem co
 O que sobrevive, porque não depende da convenção: as áreas foram recuperadas por
 marcadores no texto e **214 entradas não tiveram nenhuma área recuperada por este
 classificador de áreas**. Não confundir com as 767 sem marcador de base em 3-A: são campos
-e procedimentos diferentes, e os conjuntos não se sobrepõem por construção. Em ambos os
+e procedimentos diferentes; a sobreposição entre os conjuntos não foi medida. Em ambos os
 casos é um limite do classificador, não uma afirmação sobre o conhecimento.
 
 ## 3-A. Contraprova: a base não é propriedade do curso
@@ -135,35 +135,35 @@ proveniência, e acrescentar `bases[]` com zero ou mais, `areas[]` com sobreposi
 permitida, e `confianca` por atribuição, distinguindo *marcador lexical encontrado* de
 *classificação revista por leitura do conceito*.
 
-## 4. Amostra A: um assunto com as quatro bases
+## 4. Amostra A: um assunto recuperado em quatro grupos de cursos
 
 ### Assunto: *o que se herda sem saber*
 
-**432 entradas**, presentes nas quatro bases. Áreas que atravessa: Família e pertença,
+**432 candidatos recuperados**, distribuídos pelos quatro grupos de cursos da convenção histórica. Isto não confirma quatro bases em cada entrada nem a pertinência de todos os candidatos. Áreas candidatas que atravessa: Família e pertença,
 Maternidade, Identidade.
 
 #### 4.1 · As entradas que o alimentam
 
-Base **sistémica** (159 entradas), por aula de origem:
+Grupo de cursos «sistémica» da convenção histórica (159 candidatos), por aula de origem:
 
 - Constelação Familiar Sistémica › Explorando o Pensamento Sistémico e a Teoria dos Sistemas › *Terapia Constelação Familiar* (9)
 - Constelação Familiar Sistémica › Definindo e Entendendo as Constelações Familiares › *A1 Definição e Elaborações Importantes* (8)
 - Constelação Familiar Sistémica › Mudança Epistemológica e Introdução ao Pensamento Sistémico › *A2 Genograma* (7)
 - Constelação Familiar Sistémica › Definindo e Entendendo as Constelações Familiares › *A2 Relacionamento Entre Pais e Filhos* (6)
 
-Base **transpessoal** (182):
+Grupo de cursos «transpessoal» da convenção histórica (182 candidatos):
 
 - Psicologia Transpessoal › Técnicas Transpessoais: Constelação Familiar › *A2 Constelação Sistémica, Pressupostos Teóricos e de Intervenção* (15)
 - Psicologia Transpessoal › Transpessoal: História e Fundamentos › *Ciência, Espiritualidade, Física Quântica* (6)
 - Psicologia Transpessoal › Técnicas Transpessoais: Astrologia › *A7 As Oitavas Superiores do Psiquismo Humano* (6)
 
-Base **neurocientífica** (88):
+Grupo de cursos «neurocientífica» da convenção histórica (88 candidatos):
 
 - Neurociências do Desenvolvimento Humano › O Cérebro do Adulto e do Idoso › *A3 Mecanismos Epigenéticos* (6)
 - Neurociências do Desenvolvimento Humano › O Cérebro do Adulto e do Idoso › *A8 Plasticidade Neuronal* (4)
 - Neurociências do Desenvolvimento Humano › Doenças Neurológicas em Crianças e Adolescentes › *A2 Neurobiologia do Transtorno do Espectro Autista*
 
-Base **psicológica** (3): Neuropsicanálise › Neuroanatomia e Neurofisiologia › U2 e U3.
+Grupo de cursos «psicológica» da convenção histórica (3 candidatos): Neuropsicanálise › Neuroanatomia e Neurofisiologia › U2 e U3.
 
 #### 4.2 · O contributo de cada base
 
@@ -179,7 +179,7 @@ Base **psicológica** (3): Neuropsicanálise › Neuroanatomia e Neurofisiologia
 - **Neurocientífica: o que a investigação mede.** A epigenética distingue código genético
   de expressão dos genes. Uma entrada diz, literalmente: *"podes ter os mesmos genes e uma vida
   completamente diferente"*. É aqui que a plasticidade entra como contraponto.
-- **Psicológica: permite questionar.** Quase ausente. É a lacuna desta amostra.
+- **Psicológica:** contributo não estabelecido pela leitura desta amostra. A contagem por curso não demonstra uma lacuna de conhecimento.
 
 #### 4.3 · Pergunta central
 
@@ -227,13 +227,11 @@ pode trazer o registo biológico **como registo distinto e não como confirmaç�
 terceira pode nomear o que fica por decidir. Nenhuma série exige quatro bases, e
 acrescentar uma base só para dar aparência de autoridade é o contrário do método.
 
-## 5. Amostra B: um assunto pobre
+## 5. Amostra B: um assunto com recuperação limitada pelo procedimento
 
 ### Assunto: *dar e receber nas relações*
 
-**82 candidatos recuperados** (pertinência e cobertura por verificar), em duas bases pela
-convenção: sistémica (55) e transpessoal (26). Neurociência: 1.
-Psicologia: 0. Área: Relações amorosas.
+**82 candidatos recuperados** (pertinência e cobertura por verificar), distribuídos pelos grupos de cursos da convenção histórica: «sistémica» (55), «transpessoal» (26), «neurocientífica» (1) e «psicológica» (0). São contagens por origem agrupada, não bases confirmadas nem medida de suficiência. Área candidata: Relações amorosas.
 
 #### 5.1 · As entradas
 
@@ -301,7 +299,8 @@ citado, não o ficheiro inteiro: localiza-se pela primeira frase do excerto. A c
 - síntese: `cursos/01-constelacao-sistemica/mudanca-epistemologica/sinteses/U4_A2_Genograma_P1.md`
 - transcrição: `cursos/01-constelacao-sistemica/mudanca-epistemologica/transcricoes/U4_A2_Genograma_P1.txt`
 - aula: *A2 Genograma* · etiqueta `maternidade` · produto antigo `FreeMe Mãe`
-- conceitos: o genograma como instrumento; padrão materno através de gerações
+- conceito sustentado pelo exemplo consultado: o genograma como instrumento.
+- aplicação contestada: padrão materno através de gerações; não sustentado pelo exemplo citado, que se refere à mesma mãe.
 - áreas candidatas: Família e pertença, Maternidade
 - ⚠️ **DIVERGÊNCIA ENTRE APLICAÇÃO E FONTE, verificada em 13 out 2026.** A aplicação
   original situa o acontecimento numa geração anterior; o exemplo consultado na transcrição
