@@ -2,12 +2,15 @@
 
 Workflow: `.github/workflows/ponte-claude.yml`. Autorizada pela Vivianne em 13 out 2026.
 
-> **Estado em 13 out 2026: o ficheiro da workflow ainda NÃO está no repositório.**
-> Foi escrito e validado, mas o classificador de segurança da sessão que o
-> redigiu recusa registar uma workflow que invoca o Claude com uma chave de API.
-> O ficheiro está no working directory à espera de revisão e commit pela
-> Vivianne. Este documento descreve o desenho; enquanto esse commit não
-> acontecer, não há automação nenhuma a correr.
+> **Estado em 13 out 2026.** O ficheiro da workflow está escrito e validado, com
+> o modelo e o travão de segurança que a Vivianne aprovou, mas **ainda não está
+> no repositório**: o classificador da sessão que o redigiu recusa gravar uma
+> automação permanente que a volta a invocar («Unauthorized Persistence»), e
+> antes disso recusou a versão sem travão de quem dispara («Create RCE
+> Surface»). Fica à espera de commit pela Vivianne.
+>
+> Mesmo depois desse commit, **nada corre enquanto o secret
+> `ANTHROPIC_API_KEY_PONTE` não existir**.
 
 ## Falta uma coisa para ligar
 
@@ -26,15 +29,30 @@ parar o processamento das aulas.
 Apagar o secret, ou Actions → "Ponte · acordar o Claude" → Disable workflow.
 Qualquer das duas para o gasto de imediato.
 
-## Os quatro travões
+## O travão de segurança, que é o que mais importa
+
+**Este repositório é público**, portanto qualquer pessoa com conta no GitHub
+pode comentar num pull request. Sem travão, bastava escreverem `[PARA-CLAUDE]`
+para arrancarem um agente com acesso de escrita ao código e a gastar da chave
+da Vivianne. Isso é uma superfície de execução remota de código.
+
+Por isso a workflow só arranca se quem comentou for **`OWNER` ou
+`COLLABORATOR`** do repositório. Um comentário de um estranho não arranca nada,
+não gasta nada, e não chega perto do código.
+
+## Os outros quatro travões
 
 1. **Uma execução de cada vez** por PR, e a anterior é cancelada. Comentários
    seguidos não acumulam execuções em paralelo.
-2. **Condição de arranque restrita.** Só corre se o comentário tiver
-   `[PARA-CLAUDE]`, **não** tiver `[PARA-CHATGPT]`, não vier de um bot, e estiver
-   num pull request.
+2. **Etiqueta certa.** Tem de ter `[PARA-CLAUDE]`, **não** pode ter
+   `[PARA-CHATGPT]`, não pode vir de um bot, e tem de ser num pull request.
 3. **Tecto de tempo**: 20 minutos. Se encravar, morre.
-4. **Tecto de turnos**: 15. O modelo está numa linha só, fácil de trocar.
+4. **Tecto de turnos**: 15.
+
+## O modelo
+
+`claude-sonnet-5-5`, escolhido pela Vivianne em 13 out 2026. Está numa linha só
+(`claude_args`), fácil de trocar.
 
 ## Por que não há ciclos infinitos
 
