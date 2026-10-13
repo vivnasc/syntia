@@ -1,8 +1,14 @@
 # Metodologia: áreas da vida × bases de conhecimento × histórico
 
-> **Estado:** proposta para validação. Demonstrada com dados reais do Banco de Produto
-> em 13 de outubro de 2026 (1742 entradas). Nada foi reorganizado ainda. Nenhum post foi
-> criado, nenhum pilar, público ou oferta foi decidido.
+> **Estado:** proposta para validação, **revista** em 13 de outubro de 2026 após a
+> revisão GPT-0001 e GPT-0002 no PR #67. Demonstrada com dados reais do Banco de Produto
+> (1742 entradas). Nada foi reorganizado. Nenhum post foi criado, nenhum pilar, público
+> ou oferta foi decidido.
+>
+> **O que mudou nesta revisão:** a atribuição de base por curso foi despromovida de
+> diagnóstico a convenção da primeira amostra. A secção 3 passa a ser resultado histórico
+> dessa convenção, e as conclusões que dependiam dela estão assinaladas e retiradas. A
+> secção 3-A traz a contraprova e os denominadores. A secção 4.5 foi reescrita.
 
 ## 1. O que está hoje no banco
 
@@ -58,7 +64,11 @@ Há aqui um desequilíbrio a assumir: a base **psicológica** tem apenas uma cad
 (Neuropsicanálise, 12 entradas). Ou se aceita que ela é hoje residual, ou se reclassifica
 Psicologia e Espiritualidade como psicológica em vez de transpessoal. É uma decisão tua.
 
-## 3. O cruzamento real, hoje
+## 3. O cruzamento pela convenção "uma base por curso" (resultado histórico)
+
+> ⚠️ **Esta matriz é o resultado da primeira convenção, conservado para registo.** As
+> colunas são **curso de origem agrupado**, não base de conhecimento. A contraprova está
+> em 3-A. Não ler coluna a coluna.
 
 Contagem por área (reconhecida pelo conteúdo) e por base:
 
@@ -73,14 +83,49 @@ Contagem por área (reconhecida pelo conteúdo) e por base:
 
 Uma entrada pode servir mais do que uma área, por isso os totais somam mais do que 1742.
 
-O que esta matriz mostra de imediato:
+~~O que esta matriz mostra de imediato:~~ **Conclusões retiradas em 13 out 2026.**
+Dependiam todas de tratar a coluna como base de conhecimento, e por isso caem com 3-A:
 
-- **Maternidade está sobre-representada** e é a única área com as quatro bases povoadas.
-- **Relações amorosas**, que é o eixo que dizes trabalhar hoje, é das mais pobres: 221
-  entradas, e quase nada de neurociência (11) ou psicologia (1).
-- **Identidade, sentido e espiritualidade** vive quase só da base transpessoal (268 de
-  327). Falta-lhe o contraponto sistémico.
-- **Família e pertença** não tem nenhuma entrada da base psicológica.
+- ~~Maternidade é a única área com as quatro bases povoadas.~~
+- ~~Relações amorosas é das mais pobres, e falta-lhe material.~~ A contagem mede a
+  recuperação do classificador, não a suficiência do conhecimento. **Não se pede material
+  novo com base nela.**
+- ~~Identidade vive quase só da base transpessoal.~~ Não demonstrado.
+- ~~Família e pertença não tem nenhuma entrada da base psicológica.~~ Não demonstrado.
+
+O que sobrevive, porque não depende da convenção: as áreas foram recuperadas por
+marcadores no texto e **214 entradas não têm nenhuma área reconhecida**. Isso é um limite
+do classificador, e não uma afirmação sobre o conhecimento.
+
+## 3-A. Contraprova: a base não é propriedade do curso
+
+Script: `scripts/analise/classificar-bases-por-entrada.py`. Classifica cada entrada por
+marcadores de conceito no texto, ignorando o curso. Denominadores, exclusivos e a somar
+1742:
+
+| | entradas |
+|---|---:|
+| com marcador, a base do curso está presente | 605 |
+| com marcador, a base do curso **está ausente** | 365 |
+| com marcador, curso fora da tabela de bases (ROTA100K) | 5 |
+| sem nenhum marcador de base | 767 |
+| **soma** | **1742** |
+
+Transversal a estes grupos, **206 entradas** mostram mais do que uma base.
+
+**Como ler os 365:** significam ausência de marcador lexical, **não erro comprovado**.
+São candidatos a revisão humana, não um segundo diagnóstico automático.
+
+Exemplo concreto, em
+`cursos/01-constelacao-sistemica/pensamento-sistemico-teoria/produto/U1_As_Origens_do_Pensamento_Sist_mico.md`:
+a aula é dos cinco axiomas da comunicação, do duplo vínculo e da causalidade circular.
+Pela convenção a entrada é sistémica; os marcadores no texto são psicológicos. Não é
+preciso escolher: **a entrada é das duas**, e é isso que a convenção não permitia dizer.
+
+**Classificação por entrada, proposta e não taxonomia:** manter `curso` e `cadeira` como
+proveniência, e acrescentar `bases[]` com zero ou mais, `areas[]` com sobreposição
+permitida, e `confianca` por atribuição, distinguindo *marcador lexical encontrado* de
+*classificação revista por leitura do conceito*.
 
 ## 4. Amostra A: um assunto com as quatro bases
 
@@ -134,6 +179,8 @@ juntas: o que se repete, o que se transmite e o que se pode mudar.
 
 #### 4.4 · Conteúdos anteriores relacionados
 
+**Fonte por confirmar.**
+
 **Não verificável deste lado.** Este repositório tem 25 ficheiros em `inspiracao/`
 (11 ideias, 3 legendas, 11 transcrições), que são referências recolhidas, não registo de
 publicação. O acervo e os guiões vivem no outro repositório. Enquanto esse registo não
@@ -142,19 +189,24 @@ proposta pode afirmar que um assunto é novo.
 
 #### 4.5 · O avanço possível
 
+> ⚠️ **Reescrito em 13 out 2026.** A versão anterior propunha como avanço a "tensão"
+> entre lealdades sistémicas e epigenética. **Retirada.** São níveis e estatutos de
+> conhecimento diferentes, e pô-los em tensão fazia a epigenética servir de prova a uma
+> leitura de constelações. Expressão genética, aprendizagem e transmissão familiar não
+> são sinónimos.
+
 O argumento *"carregas o que não é teu"* está dado e, pelo que dizes, saturado. O que a
-matriz mostra por desenvolver não é outro cenário para o mesmo argumento, é a
-**tensão entre as bases**: a sistémica diz que o padrão se repete até alguém o ver; a
-neurociência diz que a expressão genética muda com o ambiente. Juntas levantam uma
-pergunta que nenhuma das duas responde sozinha: se é mudável, porque é que não muda
-sozinho? Isso é avanço, e não repetição.
+amostra permite propor não é outro cenário para o mesmo argumento, nem uma síntese entre
+registos. É registar, lado a lado e sem hierarquia entre eles, **o que cada registo
+afirma, onde divergem e onde cada um pára**: o que a leitura sistémica descreve, o que a
+biologia mede, e o que nenhuma das duas sustenta. O limite é parte do conteúdo.
 
 #### 4.6 · Continuidade
 
-Uma peça sobre o mecanismo da transmissão (sistémica) abre a pergunta sobre o que é
-fixo; a peça seguinte responde com a epigenética e a plasticidade (neurocientífica);
-a terceira pergunta o que exige de quem decide interromper (transpessoal, com o
-assentimento); e a quarta volta ao concreto, ao genograma.
+Uma peça sobre o mecanismo da transmissão abre a pergunta sobre o que é fixo; a seguinte
+pode trazer o registo biológico **como registo distinto e não como confirmação**; a
+terceira pode nomear o que fica por decidir. Nenhuma série exige quatro bases, e
+acrescentar uma base só para dar aparência de autoridade é o contrário do método.
 
 ## 5. Amostra B: um assunto pobre
 
@@ -188,13 +240,90 @@ Mesmo limite do ponto 4.4.
 
 #### 5.5 · O avanço possível
 
-Esta área precisa de material antes de precisar de método. É o exemplo claro de
-**o que falta carregar**: sem base neurocientífica nem psicológica, qualquer sequência
-sobre relações amorosas vai repetir o mesmo registo.
+> ⚠️ **Corrigido.** A versão anterior concluía que "esta área precisa de material". Não
+> se conclui falta de material a partir de uma contagem por palavras-chave. **Retirada.**
+
+O que se pode afirmar: o classificador recuperou 82 entradas, e isso é um **limite
+inferior**. Antes de qualquer pedido de material novo, é preciso identificar os conceitos
+distintos já presentes e as lacunas específicas. Um desenvolvimento rigoroso com uma só
+base pertinente é legítimo.
 
 #### 5.6 · Continuidade
 
 Fica em aberto até a área ter mais de uma base a sustentá-la.
+
+## 5-B. As cinco entradas da amostra, com caminho consultável
+
+Cada entrada do banco vem de um ficheiro `produto/`, e tem ao lado a síntese e a
+transcrição integrais com o mesmo nome. Os caminhos abaixo são verificáveis no
+repositório. A classificação é **candidata**, e a última coluna regista o que a entrada
+**não** demonstra, para a aplicação não ser lida como conclusão.
+
+### 1 · Comunicação e causalidade circular
+- `cursos/01-constelacao-sistemica/pensamento-sistemico-teoria/produto/U1_As_Origens_do_Pensamento_Sist_mico.md`
+- fonte integral: `.../sinteses/U1_As_Origens_do_Pensamento_Sist_mico.md` e `.../transcricoes/U1_As_Origens_do_Pensamento_Sist_mico.txt`
+- aula: *As Origens do Pensamento Sistémico* · etiqueta atual `amor` · produto antigo `Livros`
+- conceitos: cinco axiomas da comunicação, duplo vínculo, causalidade circular, pontuação das sequências
+- área candidata: Relações amorosas · bases candidatas: psicológica e sistémica, sobreposição a justificar
+- **limite:** os axiomas não demonstram a tese de que "casais não morrem por falta de amor, morrem por dessincronia". Essa tese é interpretação de catálogo, não achado da aula.
+
+### 2 · Genograma
+- `cursos/01-constelacao-sistemica/mudanca-epistemologica/produto/U4_A2_Genograma_P1.md`
+- fonte integral: `.../sinteses/U4_A2_Genograma_P1.md` e `.../transcricoes/U4_A2_Genograma_P1.txt`
+- aula: *A2 Genograma* · etiqueta `maternidade` · produto antigo `FreeMe Mãe`
+- conceitos: o genograma como instrumento; padrão materno através de gerações
+- áreas candidatas: Família e pertença, Maternidade
+- **limite:** distinguir o instrumento da interpretação transgeracional. O exemplo do abortamento numa geração anterior deve ser lido na transcrição antes de ser apresentado como ligação causal.
+
+### 3 · Genética e epigenética
+- `cursos/04-neurociencias-desenvolvimento-humano/doencas-neurologicas-criancas-adolescentes/produto/U2_A2_Neurobiologia_do_Transtorno_do_Espectro_Autista.md`
+- fonte integral: `.../sinteses/U2_A2_...md` e `.../transcricoes/U2_A2_...txt`
+- aula: *A2 Neurobiologia do Transtorno do Espectro Autista* · **sem etiqueta** · produto antigo `Oportunidade`
+- conceito: distinção entre genética e epigenética
+- base candidata: neurocientífica · a ligação à herança familiar é **aplicação proposta**, não classificação validada
+- **limite:** a frase da aplicação não demonstra que a epigenética valide uma premissa editorial nem uma leitura de constelações.
+
+### 4 · Críticas à transpessoal
+- `cursos/02-psicologia-transpessoal/historia-fundamentos/produto/U3_Aula01_Psicologia-Transpessoal-Cr_ticas-_Perspectivas-para-Teoria-ParteII.md`
+- fonte integral: síntese e transcrição com o mesmo nome
+- aula: *Psicologia Transpessoal, Críticas e Perspectivas para a Teoria, Parte II* · etiqueta `amor` · produto antigo `SyncHim`
+- conceito: legitimidade do trabalho com padrões relacionais fora dos critérios positivistas de mensuração
+- área candidata: Identidade, sentido e espiritualidade · enquadramento epistemológico
+- **limite:** um argumento sobre legitimidade não comprova eficácia nem mecanismo.
+
+### 5 · Jung e os modelos de amor
+- `cursos/02-psicologia-transpessoal/historia-fundamentos/produto/U1_Aula01_Fundamentos-Hist_ricos-Psicologia-Transpessoal-_Grof-a-Maslow-ParteIV.md`
+- fonte integral: síntese e transcrição com o mesmo nome
+- aula: *Fundamentos Históricos da Psicologia Transpessoal, de Grof a Maslow, Parte IV* · **sem etiqueta** · produto antigo `Oportunidade`
+- conceitos: inconsciente coletivo, individuação junguiana
+- área candidata: Identidade, sentido e espiritualidade · Relações amorosas **por confirmar**
+- **limite:** o inconsciente coletivo não é o mesmo que a afirmação de que o modelo de amor foi aprendido antes de qualquer relação. A transcrição tem de sustentar essa ligação.
+
+Duas das cinco (3 e 5) não têm etiqueta nenhuma e estão entre as 214 sem área
+reconhecida. É o argumento mais forte a favor de tratar as contagens como medida do
+classificador.
+
+## 5-C. Uma observação sobre o catálogo, com prova
+
+A frase *"casais não morrem por falta de amor, morrem por dessincronia"* aparece em três
+ficheiros `produto/` de **dois cursos diferentes**, num deles identificada como "a
+tese-mãe da SyncHim". Os textos não são duplicados (as 1742 entradas são todas
+distintas): é a mesma tese comercial a ser invocada a partir de aulas diferentes, e cada
+aula a ser lida como se a validasse.
+
+Isto não é inferência sobre o catálogo. É o que está nos ficheiros, e mostra por que
+razão organizar conhecimento por nome de produto encaminha o conhecimento para a tese em
+vez de o contrário.
+
+## 6-A. Nota de reprodutibilidade
+
+`lib/conteudo.json` **não está no repositório** (`.gitignore`, linha 7). Gera-se com
+`node scripts/gerar-conteudo.mjs`. É a razão pela qual uma leitura externa devolve 404.
+
+`public/saber.json` está versionado e tem as 1742 entradas, mas **não tem o campo
+`aula`**, pelo que não permite verificar as atribuições de aula desta amostra. É o mesmo
+defeito registado em 7.1. Os dois scripts de análise aceitam `--saber` para correr sobre
+o ficheiro versionado, com essa limitação.
 
 ## 6. O que já existe na app
 

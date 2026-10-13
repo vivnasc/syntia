@@ -42,13 +42,17 @@ AREAS = {
 }
 AREAS_N = {a: [norm(k) for k in ks] for a, ks in AREAS.items()}
 
-banco = json.load(open("lib/conteudo.json", encoding="utf-8"))["banco"]
+# lib/conteudo.json nao esta no repositorio (.gitignore). Gera-se com
+# `node scripts/gerar-conteudo.mjs`. Com --saber le o public/saber.json versionado,
+# que tem as mesmas 1742 entradas mas nao tem o campo `aula`.
+_fonte = "public/saber.json" if "--saber" in sys.argv else "lib/conteudo.json"
+banco = json.load(open(_fonte, encoding="utf-8"))["banco"]
 for e in banco:
     t = norm(e["texto"])
     e["_areas"] = sorted({a for a, ks in AREAS_N.items() if any(k in t for k in ks)})
     e["_base"] = BASE_POR_CURSO.get(e.get("cursoTitulo") or e.get("curso"))
 
-if len(sys.argv) > 1 and sys.argv[1] == "matriz":
+if "matriz" in sys.argv:
     bases = ["sistémica", "transpessoal", "psicológica", "neurocientífica"]
     print(f"{'ÁREA':40}" + "".join(f"{b[:13]:>15}" for b in bases) + f"{'TOTAL':>8}")
     print("-" * 108)
