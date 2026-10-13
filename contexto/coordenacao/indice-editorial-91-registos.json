@@ -1,0 +1,660 @@
+{
+  "schema_version": "1.0",
+  "authorization": {
+    "date": "2026-10-13",
+    "scope": "Publicação deste índice editorial no repositório público vivnasc/syntia, autorizada expressamente por Vivianne."
+  },
+  "source": {
+    "file": "Syntia_Banco_e_Memoria_Editorial_V2.json",
+    "sha256": "b6aef9ddea60456a5c68961b93e9fe4883a441de277d51a6674ec365440a9ac8",
+    "field": "history",
+    "historical_source": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5, conforme registado no índice pré-existente"
+  },
+  "limitations": [
+    "Índice histórico: títulos, ganchos disponíveis e estados preservados tal como extraídos anteriormente.",
+    "Não inclui textos integrais, métricas nem ligações de publicação.",
+    "Estados não reconfirmados nesta transferência; uma indicação histórica de publicação não é verificação atual.",
+    "Serve para localizar antecedentes candidatos. Não permite concluir repetição semântica, aprovação atual ou ineditismo.",
+    "Não contém as novas propostas editoriais rejeitadas nesta conversa."
+  ],
+  "count": 91,
+  "entries": [
+    {
+      "id": "R01",
+      "title": "O vinculo continua",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "R02",
+      "title": "Depois do elogio",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "R03",
+      "title": "Sempre mais a frente",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "R04",
+      "title": "A voz no espelho",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "R05",
+      "title": "Voltar a conversa",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "R06",
+      "title": "Quando precisas de ajuda",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "R07",
+      "title": "Quando o sorriso responde",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "R08",
+      "title": "Sou mesmo assim",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "R09",
+      "title": "A preferencia que fica",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "R10",
+      "title": "Antes de pedir ajuda",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "R11",
+      "title": "A conversa que continua",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "R12",
+      "title": "Depois do nao",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "R13",
+      "title": "A frase de sempre",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "S01A",
+      "title": "A visita terminou. A tua preocupação ainda não.",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "S01B",
+      "title": "Queres ficar mais um pouco. Ou custa-te ir embora?",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "S02A",
+      "title": "O elogio chegou. Já esperas pelo próximo?",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "S02B",
+      "title": "Uma resposta curta. Revês tudo o que fizeste.",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "S03A",
+      "title": "Fizeste quase tudo. Só vês o que falta.",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "S03B",
+      "title": "Terminas uma tarefa. Já abriste a seguinte.",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "S04A",
+      "title": "A decisão era tua. Voltou a parecer um pedido.",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "S04B",
+      "title": "Uma pergunta. Justificaste a vida inteira.",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "S05A",
+      "title": "Disseste «deixa estar». O assunto ficou contigo.",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "S05B",
+      "title": "Precisas de tempo. Podes dizer que vais voltar.",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "C02",
+      "title": "Quando o reconhecimento precisa de ser renovado",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "C03",
+      "title": "A condição que adia o descanso",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "C04",
+      "title": "A voz que muda na relação com os pais",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "C05",
+      "title": "Quando o cuidado regressa sem a conversa",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A01",
+      "title": "Carrossel · Convidaram-te para estar. Tu perguntaste logo em que podias ajudar.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Convidaram-te para estar. Tu perguntaste logo em que podias ajudar.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A02",
+      "title": "Carrossel · Mudaste uma coisa: deixaste de estar disponível a qualquer hora.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Mudaste uma coisa: deixaste de estar disponível a qualquer hora.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A03",
+      "title": "Carrossel · Dizes que não podes. Passas o resto do dia a preparar a defesa.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Dizes que não podes. Passas o resto do dia a preparar a defesa.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A04",
+      "title": "Carrossel · Mal dizes que estás cansada, alguém lembra o que ainda falta fazer.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Mal dizes que estás cansada, alguém lembra o que ainda falta fazer.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A05",
+      "title": "Carrossel · Contaste o que te magoou. Responderam que te fez forte.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Contaste o que te magoou. Responderam que te fez forte.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A06",
+      "title": "Carrossel · Na tua família, quem podia ser diferente sem perder o lugar?",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Na tua família, quem podia ser diferente sem perder o lugar?",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A07",
+      "title": "Carrossel · Conseguiste algo bom. Já estás a pensar em quem nunca conseguiu.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Conseguiste algo bom. Já estás a pensar em quem nunca conseguiu.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A08",
+      "title": "Carrossel · Contas uma conquista. Acrescentas logo uma dificuldade para equilibrar.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Contas uma conquista. Acrescentas logo uma dificuldade para equilibrar.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A09",
+      "title": "Carrossel · Já decidiste. Uma desaprovação chega para voltares ao início.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Já decidiste. Uma desaprovação chega para voltares ao início.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A10",
+      "title": "Carrossel · Tinhas uma ideia. Esperaste tanto pela altura certa que a conversa acabou.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Tinhas uma ideia. Esperaste tanto pela altura certa que a conversa acabou.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A11",
+      "title": "Carrossel · Na mesma discussão, resolves tudo, calas-te e acabas a ceder.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Na mesma discussão, resolves tudo, calas-te e acabas a ceder.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A12",
+      "title": "Remix · Abelha",
+      "state": "publicado_ou_presente_instagram; registo Aprovado.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A13",
+      "title": "Remix · Borboleta",
+      "state": "publicado_ou_presente_instagram; registo Aprovado.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A14",
+      "title": "Remix · Cobra",
+      "state": "publicado_ou_presente_instagram; registo Aprovado.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A15",
+      "title": "Remix · Formigas",
+      "state": "publicado_ou_presente_instagram; registo Aprovado.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A16",
+      "title": "Remix · Ostra",
+      "state": "publicado_ou_presente_instagram; registo Aprovado.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A17",
+      "title": "Remix · Ovo Diferente",
+      "state": "publicado_ou_presente_instagram; registo Aprovado.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A18",
+      "title": "Remix · Pássaro",
+      "state": "publicado_ou_presente_instagram; registo Aprovado.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A19",
+      "title": "Remix · Pavão",
+      "state": "publicado_ou_presente_instagram; registo Aprovado.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A20",
+      "title": "Remix · Pinguim",
+      "state": "publicado_ou_presente_instagram; registo Aprovado.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A21",
+      "title": "Remix · Polvo",
+      "state": "publicado_ou_presente_instagram; registo Aprovado.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A22",
+      "title": "Remix · Três Papéis",
+      "state": "publicado_ou_presente_instagram; registo Aprovado.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A23",
+      "title": "A vida que te ensinaram a desejar pode não ser a vida que desejas.",
+      "state": "publicado_ou_presente_instagram; registo Publicado.",
+      "hook": "A vida que te ensinaram a desejar pode não ser a vida que desejas.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A24",
+      "title": "Compreender a origem de uma ferida não apaga o que ela fez.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Compreender a origem de uma ferida não apaga o que ela fez.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A25",
+      "title": "A culpa nem sempre significa que fizeste algo errado.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "A culpa nem sempre significa que fizeste algo errado.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A26",
+      "title": "Há coisas que uma família nunca diz — e que, ainda assim, todos aprendem.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Há coisas que uma família nunca diz — e que, ainda assim, todos aprendem.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A27",
+      "title": "Nem tudo o que recebeste como amor te ensinou a sentir-te amado.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Nem tudo o que recebeste como amor te ensinou a sentir-te amado.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A28",
+      "title": "Conhecer a tua família não é o mesmo que conhecer o lugar que ocupas nela.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Conhecer a tua família não é o mesmo que conhecer o lugar que ocupas nela.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A29",
+      "title": "Ser necessário para toda a gente pode ser uma forma de nunca seres livre.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Ser necessário para toda a gente pode ser uma forma de nunca seres livre.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A30",
+      "title": "Às vezes, a tua versão mais educada é a que mais se abandonou.",
+      "state": "publicado_ou_presente_instagram; registo Publicado.",
+      "hook": "Às vezes, a tua versão mais educada é a que mais se abandonou.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A31",
+      "title": "Prosperidade · ganhar mais (título completo por confirmar)",
+      "state": "publicado_ou_presente_instagram; registo Publicado.",
+      "hook": "Talvez não tenhas medo de ganhar mais.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A32",
+      "title": "Nem toda a distância é rejeição.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Nem toda a distância é rejeição.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A33",
+      "title": "O facto de voltares ao mesmo lugar não significa que voltaste a ser quem eras.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "O facto de voltares ao mesmo lugar não significa que voltaste a ser quem eras.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A34",
+      "title": "Algumas relações não sobrevivem à tua consciência.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Algumas relações não sobrevivem à tua consciência.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A35",
+      "title": "Durante anos chamei-lhe controlo.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Durante anos chamei-lhe controlo.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A36",
+      "title": "Durante anos chamei-lhe agradar.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Durante anos chamei-lhe agradar.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A37",
+      "title": "Durante anos chamei-lhe perfeccionismo.",
+      "state": "rascunho anteriormente aprovado, sem publicação comprovada; registo Aprovado.",
+      "hook": "Durante anos chamei-lhe perfeccionismo.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A38",
+      "title": "Durante anos chamei-lhe excesso de responsabilidade.",
+      "state": "publicado_ou_presente_instagram; registo Publicado.",
+      "hook": "Durante anos chamei-lhe excesso de responsabilidade.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A39",
+      "title": "Aprendeste a defender-te antes de saberes de quem.",
+      "state": "publicado_ou_presente_instagram; registo Publicado.",
+      "hook": "Aprendeste a defender-te antes de saberes de quem.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A40",
+      "title": "Talvez nunca tenhas sido demasiado.",
+      "state": "publicado_ou_presente_instagram; registo Publicado.",
+      "hook": "Talvez nunca tenhas sido demasiado.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A41",
+      "title": "Ensaio 03 · atuação ainda forçada · não publicar",
+      "state": "rascunho_rejeitado; registo Rejeitado.",
+      "hook": "Dizes que sim tão depressa que nem chegas a perceber se querias.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A42",
+      "title": "Abelha · esforço partilhado e imensidão (texto parcial)",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A43",
+      "title": "E se o teu afastamento não significar falta de amor?",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "E se o teu afastamento não significar falta de amor?",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A44",
+      "title": "Onde colocas a tua atenção, colocas a tua energia.",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "Onde colocas a tua atenção, colocas a tua energia.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A45",
+      "title": "Caminho junto ao mar · título por confirmar",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A46",
+      "title": "Fechaste-te para não voltares a ser magoada e também fechaste a porta a quem vinha para ficar.",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "Fechaste-te para não voltares a ser magoada e também fechaste a porta a quem vinha para ficar.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A47",
+      "title": "Foste ensinada a carregar o peso de uma casa inteira…",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "Foste ensinada a carregar o peso de uma casa inteira…",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A48",
+      "title": "Eu a tentar descansar 10 minutos sem achar que o meu sistema familiar vai ruir por causa disso.",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "Eu a tentar descansar 10 minutos sem achar que o meu sistema familiar vai ruir por causa disso.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A49",
+      "title": "O verdadeiro despertar · expectativas dos outros (texto parcial)",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A50",
+      "title": "Tens a certeza de que essa forma de viver foi uma escolha tua?",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "Tens a certeza de que essa forma de viver foi uma escolha tua?",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A51",
+      "title": "E se já não precisares de estar sempre à espera que alguma coisa corra mal?",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "E se já não precisares de estar sempre à espera que alguma coisa corra mal?",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A52",
+      "title": "Quantas vezes já desfizeste tudo por causa de um único fio torto?",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "Quantas vezes já desfizeste tudo por causa de um único fio torto?",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A53",
+      "title": "O que confundes com força pode ser só medo bem comportado.",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "O que confundes com força pode ser só medo bem comportado.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A54",
+      "title": "Janela · escolhas e antigas feridas (texto parcialmente legível)",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A55",
+      "title": "3 padrões invisíveis que você repete sem perceber (e como interromper hoje)",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "3 padrões invisíveis que você repete sem perceber (e como interromper hoje)",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A56",
+      "title": "A rigidez de fora guarda apenas o tempo certo para o seu brilho despertar.",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "A rigidez de fora guarda apenas o tempo certo para o seu brilho despertar.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A57",
+      "title": "A armadilha mais perigosa de uma herança familiar não é o caos… é a exigência de fazeres tudo parecer perfeito enquanto te anulas.",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "A armadilha mais perigosa de uma herança familiar não é o caos… é a exigência de fazeres tudo parecer perfeito enquanto te anulas.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A58",
+      "title": "Pinguim · medo da própria correnteza (texto parcial)",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A59",
+      "title": "Polvo · controlar sufoca a alma (texto parcial)",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A60",
+      "title": "Praia · abandonar quem sou (texto parcialmente legível)",
+      "state": "publicado_ou_presente_instagram; registo Publicado.",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A61",
+      "title": "O essencial da vida acontece em silêncio: é preciso recolher a alma para que a coragem possa amanhecer.",
+      "state": "teste_instagram_sem_match_inequivoco; registo Em teste no Instagram.",
+      "hook": "O essencial da vida acontece em silêncio: é preciso recolher a alma para que a coragem possa amanhecer.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A62",
+      "title": "Talvez o teu cansaço comece antes do sim.",
+      "state": "versão histórica fora do conjunto actual; registo Rejeitado.",
+      "hook": "Talvez o teu cansaço comece antes do sim.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "A63",
+      "title": "Dizes que sim antes de perceberes se querias. · Teste 02",
+      "state": "versão histórica fora do conjunto actual; registo Para aprovação.",
+      "hook": "Dizes que sim antes de perceberes se querias.",
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    },
+    {
+      "id": "C01",
+      "title": "Carrossel · Vínculo, despedida e responsabilidade",
+      "state": "Consultar registo original",
+      "hook": null,
+      "evidence": "Revisao_Editorial_Quebra_Ciclos_09_Out_2026.md, versão 5; registo histórico, não verificação live"
+    }
+  ]
+}
