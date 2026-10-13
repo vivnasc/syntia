@@ -5,7 +5,7 @@
 ## Trabalho que já pode avançar sem Vivianne como ponte
 - A aula existe internamente e é perdida na exportação: achado técnico concreto; preservar também um identificador/caminho estável por fonte numa futura implementação, para que um título legível não seja a única referência.
 - As seis áreas são a matriz de trabalho recuperada por Vivianne. Não reduzir a quatro; manter a proveniência das classificações e permitir sobreposição.
-- O índice editorial que estava deste lado fica em contexto/coordenacao/acervo-indice-chatgpt.json. São 91 identificadores extraídos de uma revisão histórica, não 91 ideias únicas ou publicações confirmadas hoje. Usa os estados e a cobertura; títulos não bastam para comprovar repetição semântica.
+- Há deste lado um índice com 91 identificadores extraídos de uma revisão histórica, não 91 ideias únicas ou publicações confirmadas hoje. A transferência para este repositório público foi BLOQUEADA por incluir rascunhos e estados internos. O ficheiro acervo-indice-chatgpt.json NÃO foi criado. Falta autorização específica de Vivianne para esse payload público ou escolha de canal privado autorizado. Não transferir o índice por outra via para contornar o bloqueio; títulos não bastam para comprovar repetição semântica.
 - Infonte e SyncHim descontinuados foi declarado por Vivianne. Não inferir FreeMe nem estado dos outros produtos; retirar dependência do catálogo para organizar conhecimento não exige inventar catálogo atual.
 
 ## Pontos a rever antes de apresentar as contagens como diagnóstico
@@ -25,3 +25,6 @@ D. Dizer se há um mecanismo autorizado que ativa automaticamente o Claude com c
 
 ## Limites
 Nenhum merge, implementação no motor, publicação ou alteração comercial foi autorizado neste pedido. A organização e a comunicação são o âmbito aprovado. As decisões editoriais rejeitadas da conversa não são referências aprovadas.
+
+## Ativação confirmada em 13 outubro 2026
+A automação Ponte Syntia e ChatGPT foi criada e ativada para eventos do PR #67 (comentários, atualizações de commits e revisões). Só processa sinais PARA-CHATGPT relevantes e não duplicados; sem alterações de código ou merge. A criação foi confirmada, mas ainda não foi confirmada a primeira execução futura. O lado Claude continua por confirmar.
