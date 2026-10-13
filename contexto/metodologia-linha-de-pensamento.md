@@ -209,7 +209,9 @@ proposta pode afirmar que um assunto é novo.
 > leitura de constelações. Expressão genética, aprendizagem e transmissão familiar não
 > são sinónimos.
 
-O argumento *"carregas o que não é teu"* está dado e, pelo que dizes, saturado. O que a
+O argumento *"carregas o que não é teu"* está dado, e tu dizes que está saturado.
+**Essa saturação não foi demonstrada pelo acervo consultado**, e o índice não permite
+atribuí-la à produção ou à publicação: fica como afirmação tua, não como resultado. O que a
 amostra permite propor não é outro cenário para o mesmo argumento, nem uma síntese entre
 registos. É registar, lado a lado e **com o estatuto de cada um identificado**, o que cada registo
 afirma, onde divergem e onde cada um pára: o que a leitura sistémica descreve, o que a
@@ -381,26 +383,33 @@ Script: `scripts/analise/antecedentes.py`.
 Pelos estados do próprio índice, e com a ressalva de que uma indicação histórica de
 publicação não é verificação atual:
 
-| | registos |
+| estado preservado no índice | registos |
 |---|---:|
-| com indicação histórica de publicação | **18** |
-| produzidos sem publicação comprovada | **73** |
+| com indicação histórica de publicação ou presença no Instagram | **18** |
+| **sem esse marcador** | **73** |
 | total | 91 |
 
-Dos 73: 28 remetem para consulta do registo original, 23 são rascunhos aprovados sem
-publicação comprovada, 19 estão em teste no Instagram sem correspondência inequívoca, e 3
-são versões históricas ou rejeitadas.
+~~Quatro em cada cinco registos estão do lado do produzido.~~ **Retirado em 13 out 2026.**
+Não decorre dos estados. Os 73 repartem-se por: 28 que remetem para consulta do registo
+original (**estado desconhecido**), 23 rascunhos anteriormente aprovados sem publicação
+comprovada, 19 em teste no Instagram sem correspondência inequívoca, e 3 rejeitados ou
+versões históricas. Ausência do marcador **não demonstra produção concluída**: produção e
+publicação são dimensões separadas, e ficam desconhecidas onde a fonte não as estabelece.
 
 ### Os temas ditos saturados, por este índice
 
-| tema | candidatos | com publicação indicada |
-|---|---:|---:|
-| limites e disponibilidade | 4 | **0** |
-| excesso de responsabilidade | 7 | 1 |
-| diminuir-se | 4 | **0** |
-| culpa | 1 | **0** |
-| família e lugar | 6 | **0** |
-| aprovação dos outros | 3 | **0** |
+Índice consultado: `a93ac91`. Os agrupamentos temáticos são **convenção minha**, não da
+fonte: o índice não os tem. Os termos abaixo são os usados em cada consulta, contra título
+e gancho, e os IDs permitem reproduzir linha a linha.
+
+| tema (convenção minha) | termos da consulta | IDs recuperados | n | com marcador de publicação |
+|---|---|---|---:|---|
+| limites e disponibilidade | `limite` `disponivel` `dizer que nao` `nao podes` `cansada` `descansar` | A02, A03, A04, A48 | 4 | 0 |
+| excesso de responsabilidade | `ajudar` `ajuda` `responsab` `resolves` `carregar` `cuidar` | R06, R10, A01, A11, A38, A47, C01 | 7 | 1 (A38) |
+| diminuir-se | `desculp` `equilibrar` `nunca conseguiu` `merec` `espelho` `sou mesmo assim` | R04, R08, A07, A08 | 4 | 0 |
+| culpa | `culpa` | A25 | 1 | 0 |
+| família e lugar | `familia` `lugar` `sistema familiar` `geracoes` | A06, A26, A28, A33, A48, A57 | 6 | 0 |
+| aprovação dos outros | `aprovac` `desaprovac` `elogio` `opiniao` | R02, S02A, A09 | 3 | 0 |
 
 **Leitura possível, não conclusão:** a saturação percebida pode ser de **produção** e não
 de **publicação**. Isto não se decide por contagem de títulos, e sem o corpo dos textos
@@ -409,7 +418,9 @@ leitura humana, e fica registada como tal.
 
 ### Exemplo na entrada 2 da amostra (genograma, herança materna)
 
-Quatro antecedentes candidatos, nenhum com publicação comprovada:
+Quatro antecedentes candidatos. **Nenhum tem, neste índice, o marcador de publicação.**
+Isto não significa que não tenham sido publicados: significa que o índice não o regista.
+Os estados ficam como estão, sem promoção a aprovação ou publicação atual:
 
 - `A06` *Na tua família, quem podia ser diferente sem perder o lugar?* (rascunho aprovado)
 - `A26` *Há coisas que uma família nunca diz, e que ainda assim todos aprendem.* (rascunho aprovado)
@@ -434,8 +445,11 @@ Comparação **por completar** em todos: há título e gancho, não há corpo.
    extrator. A classificação por conteúdo demonstrada aqui corre fora da app.
 3. **As quatro bases não existem como conceito.** Derivam do curso, por uma tabela que
    não está em lado nenhum do código.
-4. **Não há registo de utilização.** Nada na Syntia sabe se uma entrada já foi usada.
-   Sem isto não há histórico, e sem histórico o ponto 4 nunca se preenche.
+4. **Não há ligação entre as entradas do banco e as utilizações.** Nada na Syntia sabe se
+   uma entrada já foi usada. O índice editorial de 91 registos, publicado em 13 out 2026,
+   dá antecedentes candidatos por título e gancho (ver 5-D), mas é parcial e não se liga às
+   entradas: continua a faltar essa ligação, e sem corpo de texto a comparação fica sempre
+   por completar.
 5. **A classificação por produto depende de nomes de produto**, com Infonte e SyncHim
    declarados descontinuados pela Vivianne e os restantes estados **não inferidos**. 645 entradas
    apontam para FreeMe, SyncHim e Infonte, e a função `matchProduto` continua a
