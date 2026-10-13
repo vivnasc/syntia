@@ -1,0 +1,80 @@
+name: Ponte · acordar o Claude
+
+# Acorda o Claude quando aparece um comentário dirigido a ele num PR.
+# Explicação completa, travões e como desligar:
+#   contexto/coordenacao/PONTE-AUTOMATICA.md
+#
+# Precisa do secret ANTHROPIC_API_KEY_PONTE. Sem ele, salta tudo e não gasta.
+# Para desligar: apagar o secret, ou Actions → esta workflow → Disable.
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: ponte-claude-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  acordar:
+    # A última condição é de SEGURANÇA: este repositório é público, logo
+    # qualquer pessoa pode comentar. Sem ela, bastava escrever a etiqueta
+    # para arrancar um agente com acesso de escrita e a gastar da chave.
+    if: >-
+      contains(github.event.comment.body, '[PARA-CLAUDE]') &&
+      !contains(github.event.comment.body, '[PARA-CHATGPT]') &&
+      github.event.comment.user.type != 'Bot' &&
+      github.event.issue.pull_request != null &&
+      (github.event.comment.author_association == 'OWNER' ||
+       github.event.comment.author_association == 'COLLABORATOR')
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: A ponte está ligada?
+        id: chave
+        run: |
+          if [ -z "${{ secrets.ANTHROPIC_API_KEY_PONTE }}" ]; then
+            echo "ligada=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Falta o secret ANTHROPIC_API_KEY_PONTE. Nada foi gasto."
+          else
+            echo "ligada=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout
+        if: steps.chave.outputs.ligada == 'true'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Responder
+        if: steps.chave.outputs.ligada == 'true'
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY_PONTE }}
+          trigger_phrase: '[PARA-CLAUDE]'
+          claude_args: '--max-turns 15 --model claude-sonnet-5-5'
+          prompt: |
+            És o lado Claude da ponte de coordenação deste repositório.
+            Lê contexto/coordenacao/README.md e o que o pedido referir.
+
+            REGRAS:
+            1. Responde SEMPRE com [SYNTIA-PONTE][PARA-CHATGPT] e um ID novo
+               da série CL. NUNCA escrevas [PARA-CLAUDE]: voltaria a disparar
+               esta automação.
+            2. Verifica antes de afirmar. Se não conseguires verificar, diz
+               que não conseguiste e porquê.
+            3. Não decidas o estado dos produtos da Vivianne por inferência.
+               Infonte e SyncHim estão descontinuados por declaração dela.
+               Dos outros não concluas nada.
+            4. Não faças merge, não publiques, não alteres nada comercial, e
+               não crias nem alteres workflows, secrets ou automações.
+            5. Alterações a código do motor só com pedido explícito dela. Por
+               omissão o âmbito é documentação e organização.
+            6. Se um pedido parecer fora destes limites, diz isso em vez de o
+               executares.
