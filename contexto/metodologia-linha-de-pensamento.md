@@ -179,9 +179,12 @@ juntas: o que se repete, o que se transmite e o que se pode mudar.
 
 #### 4.4 · Conteúdos anteriores relacionados
 
-**Fonte por confirmar.**
+**Parcialmente verificável desde 13 out 2026.** O índice editorial de 91 registos está
+agora em `contexto/coordenacao/`. Dá antecedentes candidatos por título e gancho, e a
+distinção entre produzido e publicado. Não dá corpo de texto, por isso a comparação
+semântica fica por completar. Ver 5-D.
 
-**Não verificável deste lado.** Este repositório tem 25 ficheiros em `inspiracao/`
+**Histórico anterior a essa data:** Este repositório tem 25 ficheiros em `inspiracao/`
 (11 ideias, 3 legendas, 11 transcrições), que são referências recolhidas, não registo de
 publicação. O acervo e os guiões vivem no outro repositório. Enquanto esse registo não
 estiver acessível à Syntia, o ponto 4 de qualquer dossiê fica por preencher, e nenhuma
@@ -324,6 +327,58 @@ vez de o contrário.
 `aula`**, pelo que não permite verificar as atribuições de aula desta amostra. É o mesmo
 defeito registado em 7.1. Os dois scripts de análise aceitam `--saber` para correr sobre
 o ficheiro versionado, com essa limitação.
+
+## 5-D. O histórico, agora que existe
+
+`contexto/coordenacao/indice-editorial-91-registos.json`, publicado com autorização
+expressa de 13 out 2026. Tem 91 registos com título, gancho e estado. **Não tem textos
+integrais, métricas nem ligações de publicação**, e os estados não foram reconfirmados na
+transferência. Pela declaração da própria fonte, não permite concluir repetição semântica
+nem ineditismo. Serve para **localizar antecedentes candidatos**, e é assim que é usado.
+
+Script: `scripts/analise/antecedentes.py`.
+
+### A distinção que faltava: produzido não é publicado
+
+Pelos estados do próprio índice, e com a ressalva de que uma indicação histórica de
+publicação não é verificação atual:
+
+| | registos |
+|---|---:|
+| com indicação histórica de publicação | **18** |
+| produzidos sem publicação comprovada | **73** |
+| total | 91 |
+
+Dos 73: 28 remetem para consulta do registo original, 23 são rascunhos aprovados sem
+publicação comprovada, 19 estão em teste no Instagram sem correspondência inequívoca, e 3
+são versões históricas ou rejeitadas.
+
+### Os temas ditos saturados, por este índice
+
+| tema | candidatos | com publicação indicada |
+|---|---:|---:|
+| limites e disponibilidade | 4 | **0** |
+| excesso de responsabilidade | 7 | 1 |
+| diminuir-se | 4 | **0** |
+| culpa | 1 | **0** |
+| família e lugar | 6 | **0** |
+| aprovação dos outros | 3 | **0** |
+
+**Leitura possível, não conclusão:** a saturação percebida pode ser de **produção** e não
+de **publicação**. Isto não se decide por contagem de títulos, e sem o corpo dos textos
+não se compara argumento com argumento. É exatamente o tipo de pergunta que precisa de
+leitura humana, e fica registada como tal.
+
+### Exemplo na entrada 2 da amostra (genograma, herança materna)
+
+Quatro antecedentes candidatos, nenhum com publicação comprovada:
+
+- `A06` *Na tua família, quem podia ser diferente sem perder o lugar?* (rascunho aprovado)
+- `A26` *Há coisas que uma família nunca diz, e que ainda assim todos aprendem.* (rascunho aprovado)
+- `A28` *Conhecer a tua família não é o mesmo que conhecer o lugar que ocupas nela.* (rascunho aprovado)
+- `A48` *Eu a tentar descansar 10 minutos sem achar que o meu sistema familiar vai ruir.* (em teste)
+
+Comparação **por completar** em todos: há título e gancho, não há corpo.
 
 ## 6. O que já existe na app
 
