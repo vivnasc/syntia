@@ -60,9 +60,14 @@ uma **proposta**, não um dado:
 | Neuropsicanálise | psicológica |
 | ROTA100K | nenhuma (é método de conteúdo, não base) |
 
-Há aqui um desequilíbrio a assumir: a base **psicológica** tem apenas uma cadeira
+> ⚠️ **Esta tabela é a convenção da primeira amostra, não uma classificação.** Ver 3-A.
+
+~~Há aqui um desequilíbrio a assumir: a base psicológica tem apenas uma cadeira
 (Neuropsicanálise, 12 entradas). Ou se aceita que ela é hoje residual, ou se reclassifica
-Psicologia e Espiritualidade como psicológica em vez de transpessoal. É uma decisão tua.
+Psicologia e Espiritualidade como psicológica em vez de transpessoal. É uma decisão tua.~~
+**Pedido retirado em 13 out 2026.** Era pedir uma caixa única onde não há caixa única: um
+curso contém contributos de várias bases, e a contagem de 12 entradas é um resultado da
+convenção, não uma propriedade da cadeira.
 
 ## 3. O cruzamento pela convenção "uma base por curso" (resultado histórico)
 
@@ -94,8 +99,10 @@ Dependiam todas de tratar a coluna como base de conhecimento, e por isso caem co
 - ~~Família e pertença não tem nenhuma entrada da base psicológica.~~ Não demonstrado.
 
 O que sobrevive, porque não depende da convenção: as áreas foram recuperadas por
-marcadores no texto e **214 entradas não têm nenhuma área reconhecida**. Isso é um limite
-do classificador, e não uma afirmação sobre o conhecimento.
+marcadores no texto e **214 entradas não tiveram nenhuma área recuperada por este
+classificador de áreas**. Não confundir com as 767 sem marcador de base em 3-A: são campos
+e procedimentos diferentes, e os conjuntos não se sobrepõem por construção. Em ambos os
+casos é um limite do classificador, não uma afirmação sobre o conhecimento.
 
 ## 3-A. Contraprova: a base não é propriedade do curso
 
@@ -120,7 +127,8 @@ Exemplo concreto, em
 `cursos/01-constelacao-sistemica/pensamento-sistemico-teoria/produto/U1_As_Origens_do_Pensamento_Sist_mico.md`:
 a aula é dos cinco axiomas da comunicação, do duplo vínculo e da causalidade circular.
 Pela convenção a entrada é sistémica; os marcadores no texto são psicológicos. Não é
-preciso escolher: **a entrada é das duas**, e é isso que a convenção não permitia dizer.
+preciso escolher: **a entrada é candidata às duas**, e é isso que a convenção não permitia
+dizer. Candidata, não classificada: cada atribuição fica por justificar, como em 5-B.
 
 **Classificação por entrada, proposta e não taxonomia:** manter `curso` e `cadeira` como
 proveniência, e acrescentar `bases[]` com zero ou mais, `areas[]` com sobreposição
@@ -159,14 +167,17 @@ Base **psicológica** (3): Neuropsicanálise › Neuroanatomia e Neurofisiologia
 
 #### 4.2 · O contributo de cada base
 
-- **Sistémica: permite compreender.** Dá o mecanismo da transmissão: pertencimento,
+> Cada linha diz o que **aquele modelo afirma**, não o que está demonstrado. O estatuto
+> de evidência difere entre eles e não se equipara.
+
+- **Sistémica: o que o modelo afirma.** Propõe como mecanismo de transmissão o pertencimento,
   lealdade, emaranhamento, o excluído que volta por alguém que entrou depois dele no
   grupo. O genograma dá-lhe forma visível.
 - **Transpessoal: permite alargar.** Coloca a herança para além da família biológica, com
   o inconsciente coletivo, os arquétipos e o campo. É a base que impede que a herança
   seja lida apenas como história de casa.
-- **Neurocientífica: permite distinguir.** A epigenética separa o que é herdado do que é
-  destino. Uma entrada diz, literalmente: *"podes ter os mesmos genes e uma vida
+- **Neurocientífica: o que a investigação mede.** A epigenética distingue código genético
+  de expressão dos genes. Uma entrada diz, literalmente: *"podes ter os mesmos genes e uma vida
   completamente diferente"*. É aqui que a plasticidade entra como contraponto.
 - **Psicológica: permite questionar.** Quase ausente. É a lacuna desta amostra.
 
@@ -200,13 +211,16 @@ proposta pode afirmar que um assunto é novo.
 
 O argumento *"carregas o que não é teu"* está dado e, pelo que dizes, saturado. O que a
 amostra permite propor não é outro cenário para o mesmo argumento, nem uma síntese entre
-registos. É registar, lado a lado e sem hierarquia entre eles, **o que cada registo
-afirma, onde divergem e onde cada um pára**: o que a leitura sistémica descreve, o que a
-biologia mede, e o que nenhuma das duas sustenta. O limite é parte do conteúdo.
+registos. É registar, lado a lado e **com o estatuto de cada um identificado**, o que cada registo
+afirma, onde divergem e onde cada um pára: o que a leitura sistémica descreve, o que a
+biologia mede, e o que nenhuma das duas sustenta. Lado a lado não é equivalente: uma
+proposta interpretativa e um resultado medido não têm o mesmo peso probatório, e dizer
+isso faz parte do conteúdo.
 
 #### 4.6 · Continuidade
 
-Uma peça sobre o mecanismo da transmissão abre a pergunta sobre o que é fixo; a seguinte
+Uma peça sobre o que o modelo sistémico propõe como transmissão abre a pergunta sobre o
+que é fixo; a seguinte
 pode trazer o registo biológico **como registo distinto e não como confirmação**; a
 terceira pode nomear o que fica por decidir. Nenhuma série exige quatro bases, e
 acrescentar uma base só para dar aparência de autoridade é o contrário do método.
@@ -215,7 +229,8 @@ acrescentar uma base só para dar aparência de autoridade é o contrário do m�
 
 ### Assunto: *dar e receber nas relações*
 
-**82 entradas**, apenas duas bases: sistémica (55) e transpessoal (26). Neurociência: 1.
+**82 candidatos recuperados** (pertinência e cobertura por verificar), em duas bases pela
+convenção: sistémica (55) e transpessoal (26). Neurociência: 1.
 Psicologia: 0. Área: Relações amorosas.
 
 #### 5.1 · As entradas
@@ -231,7 +246,8 @@ Psicologia: 0. Área: Relações amorosas.
   pelo ligeiro excesso e não pela entrega total. Uma entrada regista-o assim: *"a aula diz
   explicitamente que a relação se mantém pelo ligeiro excesso, não pela entrega total"*.
 - **Transpessoal:** o conflito entre o mito que se vive e o desejo de intimidade.
-- **Neurocientífica e psicológica:** praticamente nada. É a lacuna.
+- **Neurocientífica e psicológica:** o classificador não recuperou praticamente nada.
+  Resultado da recuperação, não ausência comprovada de material pertinente.
 
 #### 5.3 · Pergunta central
 
@@ -246,57 +262,73 @@ Mesmo limite do ponto 4.4.
 > ⚠️ **Corrigido.** A versão anterior concluía que "esta área precisa de material". Não
 > se conclui falta de material a partir de uma contagem por palavras-chave. **Retirada.**
 
-O que se pode afirmar: o classificador recuperou 82 entradas, e isso é um **limite
-inferior**. Antes de qualquer pedido de material novo, é preciso identificar os conceitos
+O que se pode afirmar: a pesquisa por palavras-chave recuperou **82 candidatos; a
+pertinência e a cobertura estão por verificar**. Pode haver falsos positivos entre eles e
+entradas pertinentes de fora. A mesma ressalva vale para todas as contagens das amostras A
+e B. Antes de qualquer pedido de material novo, é preciso identificar os conceitos
 distintos já presentes e as lacunas específicas. Um desenvolvimento rigoroso com uma só
 base pertinente é legítimo.
 
 #### 5.6 · Continuidade
 
-Fica em aberto até a área ter mais de uma base a sustentá-la.
+Fica em aberto. A continuidade não depende de um número mínimo de bases: depende de haver
+uma pergunta sustentada por conceitos pertinentes e de existir comparação editorial
+disponível para saber o que já foi dito.
 
 ## 5-B. As cinco entradas da amostra, com caminho consultável
 
 Cada entrada do banco vem de um ficheiro `produto/`, e tem ao lado a síntese e a
-transcrição integrais com o mesmo nome. Os caminhos abaixo são verificáveis no
-repositório. A classificação é **candidata**, e a última coluna regista o que a entrada
+transcrição integrais com o mesmo nome. Os caminhos abaixo estão completos e são
+verificáveis no repositório, na versão `405d60796bb98a4d41a2cdcf925422ad77ec06d3`.
+
+**Um ficheiro `produto/` contém várias aplicações.** A entrada da amostra é o parágrafo
+citado, não o ficheiro inteiro: localiza-se pela primeira frase do excerto. A classificação é **candidata**, e a última coluna regista o que a entrada
 **não** demonstra, para a aplicação não ser lida como conclusão.
 
 ### 1 · Comunicação e causalidade circular
-- `cursos/01-constelacao-sistemica/pensamento-sistemico-teoria/produto/U1_As_Origens_do_Pensamento_Sist_mico.md`
-- fonte integral: `.../sinteses/U1_As_Origens_do_Pensamento_Sist_mico.md` e `.../transcricoes/U1_As_Origens_do_Pensamento_Sist_mico.txt`
+- produto: `cursos/01-constelacao-sistemica/pensamento-sistemico-teoria/produto/U1_As_Origens_do_Pensamento_Sist_mico.md`
+- síntese: `cursos/01-constelacao-sistemica/pensamento-sistemico-teoria/sinteses/U1_As_Origens_do_Pensamento_Sist_mico.md`
+- transcrição: `cursos/01-constelacao-sistemica/pensamento-sistemico-teoria/transcricoes/U1_As_Origens_do_Pensamento_Sist_mico.txt`
 - aula: *As Origens do Pensamento Sistémico* · etiqueta atual `amor` · produto antigo `Livros`
 - conceitos: cinco axiomas da comunicação, duplo vínculo, causalidade circular, pontuação das sequências
 - área candidata: Relações amorosas · bases candidatas: psicológica e sistémica, sobreposição a justificar
 - **limite:** os axiomas não demonstram a tese de que "casais não morrem por falta de amor, morrem por dessincronia". Essa tese é interpretação de catálogo, não achado da aula.
 
 ### 2 · Genograma
-- `cursos/01-constelacao-sistemica/mudanca-epistemologica/produto/U4_A2_Genograma_P1.md`
-- fonte integral: `.../sinteses/U4_A2_Genograma_P1.md` e `.../transcricoes/U4_A2_Genograma_P1.txt`
+- produto: `cursos/01-constelacao-sistemica/mudanca-epistemologica/produto/U4_A2_Genograma_P1.md`
+- síntese: `cursos/01-constelacao-sistemica/mudanca-epistemologica/sinteses/U4_A2_Genograma_P1.md`
+- transcrição: `cursos/01-constelacao-sistemica/mudanca-epistemologica/transcricoes/U4_A2_Genograma_P1.txt`
 - aula: *A2 Genograma* · etiqueta `maternidade` · produto antigo `FreeMe Mãe`
 - conceitos: o genograma como instrumento; padrão materno através de gerações
 - áreas candidatas: Família e pertença, Maternidade
-- **limite:** distinguir o instrumento da interpretação transgeracional. O exemplo do abortamento numa geração anterior deve ser lido na transcrição antes de ser apresentado como ligação causal.
+- ⚠️ **DIVERGÊNCIA ENTRE APLICAÇÃO E FONTE, verificada em 13 out 2026.** A aplicação
+  original situa o acontecimento numa geração anterior; o exemplo consultado na transcrição
+  situa-o **na história da mesma mãe**: um filho, depois um abortamento, e a relação com
+  esse filho vivo altera-se a seguir. Conservar o original e **não usar este exemplo como
+  demonstração transgeracional**. O ficheiro `produto/` não foi reescrito.
 
 ### 3 · Genética e epigenética
-- `cursos/04-neurociencias-desenvolvimento-humano/doencas-neurologicas-criancas-adolescentes/produto/U2_A2_Neurobiologia_do_Transtorno_do_Espectro_Autista.md`
-- fonte integral: `.../sinteses/U2_A2_...md` e `.../transcricoes/U2_A2_...txt`
+- produto: `cursos/04-neurociencias-desenvolvimento-humano/doencas-neurologicas-criancas-adolescentes/produto/U2_A2_Neurobiologia_do_Transtorno_do_Espectro_Autista.md`
+- síntese: `cursos/04-neurociencias-desenvolvimento-humano/doencas-neurologicas-criancas-adolescentes/sinteses/U2_A2_Neurobiologia_do_Transtorno_do_Espectro_Autista.md`
+- transcrição: `cursos/04-neurociencias-desenvolvimento-humano/doencas-neurologicas-criancas-adolescentes/transcricoes/U2_A2_Neurobiologia_do_Transtorno_do_Espectro_Autista.txt`
 - aula: *A2 Neurobiologia do Transtorno do Espectro Autista* · **sem etiqueta** · produto antigo `Oportunidade`
 - conceito: distinção entre genética e epigenética
 - base candidata: neurocientífica · a ligação à herança familiar é **aplicação proposta**, não classificação validada
 - **limite:** a frase da aplicação não demonstra que a epigenética valide uma premissa editorial nem uma leitura de constelações.
 
 ### 4 · Críticas à transpessoal
-- `cursos/02-psicologia-transpessoal/historia-fundamentos/produto/U3_Aula01_Psicologia-Transpessoal-Cr_ticas-_Perspectivas-para-Teoria-ParteII.md`
-- fonte integral: síntese e transcrição com o mesmo nome
+- produto: `cursos/02-psicologia-transpessoal/historia-fundamentos/produto/U3_Aula01_Psicologia-Transpessoal-Cr_ticas-_Perspectivas-para-Teoria-ParteII.md`
+- síntese: `cursos/02-psicologia-transpessoal/historia-fundamentos/sinteses/U3_Aula01_Psicologia-Transpessoal-Cr_ticas-_Perspectivas-para-Teoria-ParteII.md`
+- transcrição: `cursos/02-psicologia-transpessoal/historia-fundamentos/transcricoes/U3_Aula01_Psicologia-Transpessoal-Cr_ticas-_Perspectivas-para-Teoria-ParteII.txt`
 - aula: *Psicologia Transpessoal, Críticas e Perspectivas para a Teoria, Parte II* · etiqueta `amor` · produto antigo `SyncHim`
 - conceito: legitimidade do trabalho com padrões relacionais fora dos critérios positivistas de mensuração
 - área candidata: Identidade, sentido e espiritualidade · enquadramento epistemológico
 - **limite:** um argumento sobre legitimidade não comprova eficácia nem mecanismo.
 
 ### 5 · Jung e os modelos de amor
-- `cursos/02-psicologia-transpessoal/historia-fundamentos/produto/U1_Aula01_Fundamentos-Hist_ricos-Psicologia-Transpessoal-_Grof-a-Maslow-ParteIV.md`
-- fonte integral: síntese e transcrição com o mesmo nome
+- produto: `cursos/02-psicologia-transpessoal/historia-fundamentos/produto/U1_Aula01_Fundamentos-Hist_ricos-Psicologia-Transpessoal-_Grof-a-Maslow-ParteIV.md`
+- síntese: `cursos/02-psicologia-transpessoal/historia-fundamentos/sinteses/U1_Aula01_Fundamentos-Hist_ricos-Psicologia-Transpessoal-_Grof-a-Maslow-ParteIV.md`
+- transcrição: `cursos/02-psicologia-transpessoal/historia-fundamentos/transcricoes/U1_Aula01_Fundamentos-Hist_ricos-Psicologia-Transpessoal-_Grof-a-Maslow-ParteIV.txt`
 - aula: *Fundamentos Históricos da Psicologia Transpessoal, de Grof a Maslow, Parte IV* · **sem etiqueta** · produto antigo `Oportunidade`
 - conceitos: inconsciente coletivo, individuação junguiana
 - área candidata: Identidade, sentido e espiritualidade · Relações amorosas **por confirmar**
@@ -308,11 +340,17 @@ classificador.
 
 ## 5-C. Uma observação sobre o catálogo, com prova
 
-A frase *"casais não morrem por falta de amor, morrem por dessincronia"* aparece em três
-ficheiros `produto/` de **dois cursos diferentes**, num deles identificada como "a
-tese-mãe da SyncHim". Os textos não são duplicados (as 1742 entradas são todas
-distintas): é a mesma tese comercial a ser invocada a partir de aulas diferentes, e cada
-aula a ser lida como se a validasse.
+São duas coisas distintas e convém não as confundir:
+
+- **Repetição literal de texto:** não há. As 1742 entradas têm texto distinto.
+- **Repetição da tese:** a frase *"casais não morrem por falta de amor, morrem por
+  dessincronia"* aparece em três ficheiros `produto/` de **dois cursos diferentes**, num
+  deles identificada como "a tese-mãe da SyncHim".
+
+Textos diferentes não demonstram ideias diferentes. O que se observa é a mesma tese
+comercial invocada a partir de aulas diferentes, com cada aula lida como se a validasse.
+Na entrada 1 isso é verificável: os axiomas e a pontuação das sequências estão na fonte;
+a frase sobre dessincronia está só na aplicação.
 
 Isto não é inferência sobre o catálogo. É o que está nos ficheiros, e mostra por que
 razão organizar conhecimento por nome de produto encaminha o conhecimento para a tese em
@@ -398,7 +436,8 @@ Comparação **por completar** em todos: há título e gancho, não há corpo.
    não está em lado nenhum do código.
 4. **Não há registo de utilização.** Nada na Syntia sabe se uma entrada já foi usada.
    Sem isto não há histórico, e sem histórico o ponto 4 nunca se preenche.
-5. **A classificação por produto está presa a um catálogo extinto.** 645 entradas
+5. **A classificação por produto depende de nomes de produto**, com Infonte e SyncHim
+   declarados descontinuados pela Vivianne e os restantes estados **não inferidos**. 645 entradas
    apontam para FreeMe, SyncHim e Infonte, e a função `matchProduto` continua a
    produzi-las a cada aula nova.
 
