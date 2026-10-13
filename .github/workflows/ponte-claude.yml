@@ -12,6 +12,7 @@ on:
     types: [created]
 
 permissions:
+  id-token: write        # OIDC: sem isto a action nao autentica no GitHub
   contents: write
   pull-requests: write
   issues: write
