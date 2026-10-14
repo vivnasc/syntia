@@ -12,7 +12,7 @@ on:
     types: [created]
 
 permissions:
-  id-token: write        # OIDC: sem isto a action nao autentica no GitHub
+  id-token: write
   contents: write
   pull-requests: write
   issues: write
@@ -54,6 +54,7 @@ jobs:
           fetch-depth: 0
 
       - name: Responder
+        id: resposta
         if: steps.chave.outputs.ligada == 'true'
         uses: anthropics/claude-code-action@v1
         with:
@@ -79,3 +80,35 @@ jobs:
                omissão o âmbito é documentação e organização.
             6. Se um pedido parecer fora destes limites, diz isso em vez de o
                executares.
+
+      - name: Diagnostico seguro em caso de falha
+        if: failure() && steps.chave.outputs.ligada == 'true'
+        env:
+          PONTE_EXECUTION_FILE: ${{ steps.resposta.outputs.execution_file }}
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+          p = Path(os.environ.get('PONTE_EXECUTION_FILE') or '/home/runner/work/_temp/claude-execution-output.json')
+          if not p.is_file():
+              print('PONTE_DIAGNOSTICO: resultado indisponivel')
+              raise SystemExit(0)
+          raw = p.read_text()
+          try:
+              data = json.loads(raw)
+          except json.JSONDecodeError:
+              data = [json.loads(line) for line in raw.splitlines() if line.strip().startswith('{')]
+          records = data if isinstance(data, list) else [data]
+          results = [x for x in records if isinstance(x, dict) and x.get('type') == 'result']
+          evidence = json.dumps(results).lower()
+          categories = {
+              'saldo ou facturacao': ['credit balance', 'billing', 'insufficient credits'],
+              'autenticacao API': ['invalid api key', 'authentication_error', 'unauthorized', '401'],
+              'modelo indisponivel': ['model not found', 'not_found_error', '404'],
+              'limite API': ['rate_limit', 'rate limit', '429'],
+              'permissao API': ['permission_error', '403'],
+          }
+          found = [name for name, terms in categories.items() if any(t in evidence for t in terms)]
+          print('PONTE_DIAGNOSTICO: ' + (', '.join(found) if found else 'erro sem categoria reconhecida'))
+          print('PONTE_RESULTADOS: ' + str(len(results)))
+          PY
