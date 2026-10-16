@@ -66,6 +66,7 @@ export default function Sidebar({ cursos, partilhada }) {
         })}
 
         <div className="sb-group-label">Ferramentas</div>
+        <Link href="/manual" onClick={fechar} className={`sb-link${is("/manual") ? " active" : ""}`}>Manuais (descarregar)</Link>
         <Link href="/rota100k" onClick={fechar} className={`sb-link${is("/rota100k") ? " active" : ""}`}>ROTA100K</Link>
         <Link href="/produto" onClick={fechar} className={`sb-link${is("/produto") ? " active" : ""}`}>Banco de Produto</Link>
         <Link href="/inspiracao" onClick={fechar} className={`sb-link${is("/inspiracao") ? " active" : ""}`}>Inspiração</Link>

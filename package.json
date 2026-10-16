@@ -4,11 +4,12 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "gerar": "node scripts/gerar-icones.mjs && node scripts/gerar-conteudo.mjs",
+    "gerar": "node scripts/gerar-icones.mjs && node scripts/gerar-conteudo.mjs && node scripts/gerar-manuais.mjs",
     "prebuild": "npm run gerar",
     "predev": "npm run gerar",
     "dev": "next dev",
     "build": "next build",
+    "teste": "node scripts/teste/manual-com-ensinamentos.mjs",
     "start": "next start",
     "processar": "node scripts/processar.mjs"
   },

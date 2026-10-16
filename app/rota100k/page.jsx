@@ -4,6 +4,7 @@ import Markdown from "../Markdown";
 import Quiz from "../Quiz";
 import Consolidar from "../Consolidar";
 import Apagar from "../Apagar";
+import manuais from "../../lib/manuais.json";
 
 export const metadata = { title: "ROTA100K — SyntIA" };
 
@@ -25,6 +26,19 @@ export default function RotaPage() {
         Criação de conteúdo, audiência e crescimento. Fica fora dos cursos da pós,
         mas passa pelo mesmo processamento e segue para o repositório dos produtos.
       </p>
+
+      {/* 1/out · O botão onde ela está, ⛔ não só na lista de manuais. É a mesma
+          paridade que a página de um curso já tinha: quem chega aqui é quem quer
+          esta matéria, e mandá-la a outro ecrã para a descarregar é trabalho a
+          mais sem razão. */}
+      {manuais.rota && (
+        <p style={{ marginTop: 16 }}>
+          <a className="btn-manual" href={`/manual/${manuais.rota.ficheiro}`} download={manuais.rota.ficheiro}>
+            ⬇ Matéria completa deste curso (.md) · {manuais.rota.aulas} aulas
+          </a>{" "}
+          <Link href="/manual" className="meta" style={{ marginLeft: 8 }}>ver todos os manuais →</Link>
+        </p>
+      )}
 
       {r.materiais.length > 0 && (
         <>
