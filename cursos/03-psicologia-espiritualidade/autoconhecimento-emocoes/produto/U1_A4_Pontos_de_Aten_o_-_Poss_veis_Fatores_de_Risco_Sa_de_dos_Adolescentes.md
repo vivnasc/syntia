@@ -1,0 +1,28 @@
+# BLOCO C — PRODUTO
+
+[maternidade] **Coleção FreeMe Mãe** — a aula valida diretamente o território da coleção: o baixo suporte emocional desde a infância, a violência doméstica, a comunicação agressiva e o bem-estar parental como determinantes do desenvolvimento do filho surgem aqui com linguagem clínica que reforça o que os ebooks `mae-01` a `mae-11` trabalham em registo íntimo.
+Ideia para **mae-08 «A mãe que não sentiu»** ou **mae-11 «A mãe que teme pesar»**: um carrossel na conta **mae.cine** com a abertura em faca — «Você sabia que o bem-estar do seu filho adolescente começa no seu próprio bem-estar?» — seguido de ciência-como-prova (os pontos de atenção da aula apresentados como dados clínicos) e fecho no ciclo quebrado: «Quando você aprende a receber suporte, você deixa de criar filhos que não sabem pedir.» CTA: GUARDAR. Visual: foto cinematográfica quente, mãe e adolescente em plano médio, luz âmbar.
+
+[maternidade] **ebook-02-herdaste «O que herdaste sem saber»** — a aula aprofunda o mecanismo pelo qual padrões familiares (uso de drogas, violência, baixo bem-estar parental) se transmitem ao adolescente, validando o argumento central deste ebook fundador.
+Ideia: um reel curto para **mae.cine** com o gancho «O que os seus pais não resolveram, o seu filho adolescente está a viver no corpo» — três exemplos rápidos da aula (suporte emocional ausente / comunicação agressiva / uso de substâncias normalizado) — fecho: «Não é culpa sua. Mas pode acabar em si.» CTA: SEGUIR + GUARDAR. Hashtags: `#acabaemmim #quebraciclos`.
+
+[pertença] **Coleção Pertença** — os pontos de atenção sobre isolamento, sentimento de inutilidade, não pertencer a nenhum grupo e exclusão por classe económica ou raça são o mapa emocional exato que os ebooks `per-05 «A pessoa que não pertence em lado nenhum»` e `per-06 «A pessoa que nunca dá trabalho»` habitam.
+Ideia para **veu.a.veu**: episódio da jornada «Pertencer» com a personagem Nina (adolescente) que não fala com ninguém na escola. A pergunta ao leitor não é «o que há de errado em ti» mas «como é que este silêncio te salvou na altura?». Visual GOUACHE, sem texto de venda, sem CTA de produto. Otimiza para GUARDAR.
+
+[força] **Coleção Força** — a aula descreve com precisão clínica o perfil de `for-05 «A mulher que vive em modo sobrevivência»` e `for-04 «A mulher que se tornou forte demais»`: fadiga crónica, insónia, não pedir ajuda, agressividade como escudo. A origem adolescente desses padrões — bullying, violência comunitária, institucionalização — é aqui documentada.
+Ideia: post para **soulab.studio** (registo laboratório, sem ensinar): uma observação curta em fundo escuro — «Há mulheres que aprenderam a não dormir aos catorze anos. O corpo não esquece.» — sem explicação, sem CTA de produto. Otimiza para PARTILHAR.
+
+[identidade] **Coleção infonte** — o sentimento de inutilidade, a baixa autoestima e a dificuldade de se reconhecer em qualquer contexto que a aula descreve no adolescente são a semente directa do arquétipo central da coleção: `inf-01 «A mulher que nunca chega»` e `inf-05 «A mulher que tem medo do próprio tamanho»`.
+Ideia para **mae.cine**: reel com abertura — «A mulher que sente que nunca é suficiente? Ela já sentia isso aos quinze.» — dois ou três pontos de atenção da aula como prova (sentimento de inutilidade, não se achar em lugar nenhum) — fecho no ciclo: «Não nasceu assim. Foi ensinada. E pode aprender diferente.» CTA: GUARDAR. `#acabaemmim`.
+
+[oportunidade] **Novo:** guia prático «Sinais de alerta no meu adolescente — o que observar e quando pedir ajuda» — para mães de adolescentes (público já presente na mae.cine) que não são profissionais de saúde mas vivem a angústia de «será que é normal?». A aula entrega exactamente o mapa clínico que justifica este produto: quatro domínios, sinais concretos, linguagem acessível. Formato guia (€5, encaixa nos guias práticos existentes) ou lead magnet gratuito para captar e-mails do nicho. Preenche um vazio real no catálogo: há ebooks sobre o que a mãe carrega, mas nenhum sobre como ela lê os sinais no filho.
+
+---
+
+# NOTAS
+
+1. **Transcrição com falhas evidentes:** há vários segmentos truncados ou com palavras cortadas — por exemplo: *«n pode tomar um vinho»*, *«faz usu de a»*, *«usu de com muita frequ»*, *«Agressividade e viol f gente»*, *«tra-01 A mulher que se tornou indispensável»* (referência de slug que aparece no contexto do ecossistema, não da aula). Estes fragmentos foram interpretados pelo contexto mas não garantem fidelidade ao texto original.
+2. **Nenhum autor ou modelo teórico é citado pelo nome** na transcrição. A classificação em quatro domínios (indivíduo / família / escola-social / DST) é da professora, mas a sua origem bibliográfica não é identificada na aula.
+3. A professora menciona **«jogos e propostas na internet»** associados à autoagressão (possivelmente referência a desafios virais como o «Jogo da Baleia Azul»), mas não os nomeia explicitamente — ponto a clarificar com o material de referência.
+4. O termo **«normóticos»** é usado de forma coloquial («todos somos normóticos») — o termo técnico seria «neuróticos»; pode ser gíria académica da professora ou erro de transcrição.
+5. A aula termina anunciando um próximo vídeo sobre **fatores de risco à saúde mental de crianças e adolescentes de forma geral** — o conteúdo desta aula trata especificamente de **pontos de atenção**, não ainda dos fatores de risco formalmente definidos.
