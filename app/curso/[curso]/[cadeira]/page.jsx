@@ -6,6 +6,7 @@ import Quiz from "../../../Quiz";
 import Consolidar from "../../../Consolidar";
 import MoverAula from "../../../MoverAula";
 import Apagar from "../../../Apagar";
+import manuais from "../../../../lib/manuais.json";
 
 export function generateStaticParams() {
   const out = [];
@@ -24,6 +25,9 @@ export default function CadeiraPage({ params }) {
   const numerosUnidades = unidades.map((u) => u.n);
   const outras = (cadeira.unidades || []).find((u) => u.n === 0);
   const unidadesComAulas = unidades.filter((u) => u.aulas.length > 0).length;
+  const md = (manuais.cursos || [])
+    .find((m) => m.id === curso.id)?.disciplinas
+    .find((d) => d.id === cadeira.id) || null;
 
   return (
     <>
@@ -36,9 +40,14 @@ export default function CadeiraPage({ params }) {
       )}
 
       {unidades.some((u) => u.aulas.length > 0) && (
-        <p style={{ marginTop: 14 }}>
+        <p style={{ marginTop: 14, display: "flex", gap: 10, flexWrap: "wrap" }}>
+          {md && (
+            <a className="btn-manual" href={`/manual/${md.ficheiro}`} download={md.ficheiro}>
+              ⬇ Matéria completa (.md) · para o ChatGPT ou o Gemini
+            </a>
+          )}
           <Link href={`/curso/${curso.id}/${cadeira.id}/manual`} className="btn-manual">
-            📘 Manual de estudo (PDF)
+            📘 Guia de estudo (PDF) · objetivos e resumos
           </Link>
         </p>
       )}

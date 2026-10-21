@@ -6,6 +6,8 @@ out/
 # artefactos gerados pelo prebuild (derivados do repositório)
 lib/conteudo.json
 public/material/
+public/manual/
+lib/manuais.json
 public/icons/
 
 # diversos

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getCursos, getCurso, getPartilhada } from "../../../lib/conteudo";
 import { Prazo } from "../../Prazo";
+import manuais from "../../../lib/manuais.json";
 
 export function generateStaticParams() {
   const ids = getCursos().map((c) => ({ curso: c.id }));
@@ -11,6 +12,7 @@ export default function CursoPage({ params }) {
   const curso = getCurso(params.curso);
   if (!curso) return <div className="empty">Curso não encontrado.</div>;
   const partTemAulas = !!(getPartilhada()?.aulas.length);
+  const manual = (manuais.cursos || []).find((m) => m.id === curso.id) || null;
 
   const total = curso.cadeiras.length;
   const comecadas = curso.cadeiras.filter((k) => (k.partilhada ? partTemAulas : k.aulas.length > 0)).length;
@@ -24,6 +26,15 @@ export default function CursoPage({ params }) {
       <h1>{curso.titulo}</h1>
       <p className="lead">{total} disciplinas no programa · {comecadas} começada{comecadas === 1 ? "" : "s"}.</p>
       <div className="bar" style={{ maxWidth: 420 }}><span style={{ width: `${pct}%` }} /></div>
+
+      {manual && (
+        <p style={{ marginTop: 18 }}>
+          <a className="btn-manual" href={`/manual/${manual.ficheiro}`} download={manual.ficheiro}>
+            ⬇ Matéria completa deste curso (.md) · {manual.aulas} aulas
+          </a>{" "}
+          <Link href="/manual" className="meta" style={{ marginLeft: 8 }}>ver todos os manuais →</Link>
+        </p>
+      )}
 
       {curso.materiais.length > 0 && (
         <>
