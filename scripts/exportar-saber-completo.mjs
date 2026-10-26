@@ -23,8 +23,9 @@ if (!vp || !fs.existsSync(vp)) {
 
 const PASTAS = new Set(["sinteses", "resumos", "objetivos", "produto", "transcricoes"]);
 // Raízes que a ponte leva para o viviannepag. Além dos cursos da pós, as áreas
-// de topo: a disciplina-partilhada e a rota100k (criação de conteúdo).
-const RAIZES = ["cursos", "disciplina-partilhada", "rota100k"].filter((r) => fs.existsSync(r));
+// de topo: a disciplina-partilhada, a rota100k (criação de conteúdo) e a
+// venda100k (low ticket e vendas).
+const RAIZES = ["cursos", "disciplina-partilhada", "rota100k", "venda100k"].filter((r) => fs.existsSync(r));
 const destino = path.join(vp, "saber");
 
 // 1) Reconstruir saber/ do zero.
@@ -108,6 +109,19 @@ if (fs.existsSync(rotaDir)) {
     ""
   );
 }
+const vendaDir = path.join(destino, "venda100k");
+if (fs.existsSync(vendaDir)) {
+  linhas.push(
+    "## VENDA100K  (`venda100k`)",
+    "",
+    "Low ticket do princípio ao fim: o que vender, criar o produto com IA, página",
+    "e quiz, audiência quente e automação, tráfego pago, ofertas na prática.",
+    "Também não é da pós. Ao contrário da ROTA100K, **tem módulos**: os ficheiros",
+    "trazem prefixo `U<n>_` e os nomes dos módulos estão em `venda100k/modulos.json`.",
+    `- ${contar(path.join(vendaDir, "sinteses"))} sínteses, ${contar(path.join(vendaDir, "transcricoes"))} transcrições`,
+    ""
+  );
+}
 fs.writeFileSync(path.join(destino, "INDICE.md"), linhas.join("\n"));
 
 // 3) Secção no CLAUDE.md do viviannepag. Idempotente E atualizável: a secção
@@ -146,11 +160,21 @@ if (fs.existsSync(claudeMd)) {
       "  conceitos-chave, flashcards, definições citáveis).\n" +
       "- `saber/rota100k/produto/*.md` — o Bloco C: como cada aula se aplica aos\n" +
       "  produtos reais.\n" +
-      "\nA ROTA100K **não tem módulos**: é uma lista única de aulas. Cada ficheiro\n" +
+            "\nA ROTA100K **não tem módulos**: é uma lista única de aulas. Cada ficheiro\n" +
       "chama-se pelo assunto da aula, por exemplo\n" +
       "`Como_escolher_o_gancho_dos_primeiros_segundos.txt`. O título é dado a\n" +
       "partir do conteúdo da gravação, por isso é descritivo e não sequencial:\n" +
-      "não contes com ordem nem com numeração.\n\n" +
+      "não contes com ordem nem com numeração.\n" +
+      "\n### VENDA100K (`saber/venda100k/`)\n\n" +
+      "Low ticket do princípio ao fim: o que vender, criar o produto com IA,\n" +
+      "página de vendas e quiz, audiência quente e automação, tráfego pago para\n" +
+      "público quente, e ofertas na prática. Também **não é da pós**, e é o\n" +
+      "material mais direto sobre converter audiência em venda. Tem as mesmas\n" +
+      "pastas da ROTA100K (`transcricoes/`, `sinteses/`, `produto/`).\n\n" +
+      "Ao contrário da ROTA100K, a VENDA100K **tem módulos**: os ficheiros trazem\n" +
+      "prefixo `U<n>_` e a ordem é a do curso. Os nomes dos sete módulos estão em\n" +
+      "`venda100k/modulos.json`, e a Unidade 1 é o Módulo 0 do curso, porque a\n" +
+      "unidade 0 fica reservada a aulas sem módulo.\n\n" +
       "⚠️ NÃO editar `saber/` à mão: é escrito pelo robô de sync da Syntia\n" +
       "(vivnasc/syntia) e sobrescrito a cada aula nova. Para usar o saber, lê daqui;\n" +
       "para o corrigir, corrige-se na Syntia.\n\n" +

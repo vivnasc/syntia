@@ -34,9 +34,10 @@ export default function EnviarPage() {
         em segundos.
       </p>
       <p className="lead">
-        A <b>ROTA100K</b> é o espaço fora da pós, para criação de conteúdo e audiência.
-        Vive à parte dos cursos, mas passa pelo mesmo processamento e segue na mesma
-        para o repositório dos produtos.
+        A <b>ROTA100K</b> e a <b>VENDA100K</b> são os espaços fora da pós: uma para criação
+        de conteúdo e audiência, a outra para low ticket e vendas. Vivem à parte dos
+        cursos, mas passam pelo mesmo processamento e seguem na mesma para o
+        repositório dos produtos. A VENDA100K tem módulos; a ROTA100K é lista única.
       </p>
 
       <Uploader cursos={cursos} partilhada={partilhada} />

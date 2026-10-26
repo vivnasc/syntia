@@ -19,6 +19,25 @@ const OUT_MATERIAL = path.join(ROOT, "public", "material");
 const TEMAS = ["corpo", "amor", "maternidade", "prosperidade"];
 const ESPECIAIS = new Set(["_material", "_audio", "transcricoes", "sinteses", "produto"]);
 
+// Áreas de raiz: espaços próprios da Vivianne, fora de cursos/ (que é a pós).
+// Valem como uma cadeira, aparecem em Ferramentas e seguem para o viviannepag.
+// Para acrescentar outra basta uma linha aqui, a pasta na raiz, e o mesmo id em
+// AREAS_RAIZ (scripts/processar.mjs).
+const RAIZES = [
+  {
+    id: "rota100k",
+    titulo: "ROTA100K",
+    emoji: "🚀",
+    descricao: "Criação de conteúdo, audiência e crescimento. Fica fora dos cursos da pós, mas passa pelo mesmo processamento e segue para o repositório dos produtos.",
+  },
+  {
+    id: "venda100k",
+    titulo: "VENDA100K",
+    emoji: "💰",
+    descricao: "Low ticket, do princípio ao fim: o que vender, criar o produto com IA, página e quiz, automação e tráfego pago. Tem módulos, ao contrário da ROTA100K.",
+  },
+];
+
 const existe = (p) => fs.existsSync(p);
 const lerTxt = (p) => (existe(p) ? fs.readFileSync(p, "utf-8") : "");
 const isDir = (p) => existe(p) && fs.statSync(p).isDirectory();
@@ -332,7 +351,28 @@ function extrasDe(dir) {
     complementar: lerPainelUnidade(dir, "complementar"),
     resumo: lerPainelUnidade(dir, "resumos"),
     quiz: lerQuizzes(dir),
+    titulos: lerTitulosUnidade(dir),
   };
+}
+
+// Nomes próprios das unidades (opcional): modulos.json na raiz da área, a mapear
+// número de unidade para título. A VENDA100K usa-o para as unidades aparecerem
+// com o nome do módulo do curso em vez de "Unidade 3". Sem o ficheiro, nada muda.
+function lerTitulosUnidade(dir) {
+  const f = path.join(dir, "modulos.json");
+  if (!fs.existsSync(f)) return {};
+  try {
+    const bruto = JSON.parse(lerTxt(f));
+    const out = {};
+    for (const [k, v] of Object.entries(bruto || {})) {
+      const n = parseInt(k, 10);
+      if (Number.isFinite(n) && typeof v === "string" && v.trim()) out[n] = v.trim();
+    }
+    return out;
+  } catch {
+    console.warn(`[aviso] ${f} ilegível: unidades ficam com o nome por omissão.`);
+    return {};
+  }
 }
 
 // Apresentação da cadeira (opcional): apresentacao.md na raiz da cadeira.
@@ -347,14 +387,15 @@ function agruparUnidades(aulas, extras = {}) {
   const objetivos = extras.objetivos || {};
   const complementar = extras.complementar || {};
   const resumo = extras.resumo || {};
-  const quiz = extras.quiz || {};
+    const quiz = extras.quiz || {};
+  const titulos = extras.titulos || {};
   const nums = aulas.map((a) => a.unidade).filter((n) => n);
-  const max = Math.max(4, ...nums);
+  const max = Math.max(4, ...nums, ...Object.keys(titulos).map(Number));
   const unidades = [];
   for (let n = 1; n <= max; n++) {
-    unidades.push({
+        unidades.push({
       n,
-      titulo: `Unidade ${n}`,
+      titulo: titulos[n] || `Unidade ${n}`,
       objetivos: objetivos[n] || "",
       complementar: complementar[n] || "",
       resumo: resumo[n] || "",
@@ -479,26 +520,28 @@ function main() {
     partilhada = { id: "disciplina-partilhada", titulo, inicio: "2026-05-28", fim: "2026-09-05", materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(partDir)) };
   }
 
-  // ROTA100K — espaço próprio, fora dos cursos da pós: criação de conteúdo,
-  // audiência e crescimento. Tem a mesma forma de uma cadeira e, tal como a
-  // disciplina-partilhada, é lida pela ponte para o viviannepag.
-  let rota = null;
-  const rotaDir = path.join(ROOT, "rota100k");
-  if (isDir(rotaDir)) {
-    const titulo = "ROTA100K";
-    const materiais = copiarMaterial(path.join(rotaDir, "_material"), "rota100k");
-    const aulas = lerAulas(rotaDir, { curso: "rota100k", cursoTitulo: titulo, cadeira: "", areaTitulo: titulo }, banco);
-    rota = { id: "rota100k", titulo, materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(rotaDir)) };
+    // Áreas de raiz — espaços próprios, fora dos cursos da pós. Têm a mesma forma
+  // de uma cadeira e, tal como a disciplina-partilhada, são lidas pela ponte
+  // para o viviannepag. Acrescentar uma é acrescentar uma linha a RAIZES.
+  const raizes = [];
+  for (const def of RAIZES) {
+    const dir = path.join(ROOT, def.id);
+    if (!isDir(dir)) continue;
+    const materiais = copiarMaterial(path.join(dir, "_material"), def.id);
+    const aulas = lerAulas(dir, { curso: def.id, cursoTitulo: def.titulo, cadeira: "", areaTitulo: def.titulo }, banco);
+    raizes.push({ ...def, materiais, aulas, unidades: agruparUnidades(aulas, extrasDe(dir)) });
   }
+  // `rota` continua a existir para quem ainda a leia pelo nome antigo.
+  const rota = raizes.find((r) => r.id === "rota100k") || null;
 
-  const conteudo = { geradoEm: new Date().toISOString(), temas: TEMAS, cursos, partilhada, rota, banco, inspiracao: lerInspiracao(), reunioes: lerReunioes() };
+    const conteudo = { geradoEm: new Date().toISOString(), temas: TEMAS, cursos, partilhada, raizes, rota, banco, inspiracao: lerInspiracao(), reunioes: lerReunioes() };
   fs.writeFileSync(OUT_JSON, JSON.stringify(conteudo, null, 2), "utf-8");
 
   // saber.json — a PONTE: artefacto público e enxuto que o repo dos produtos vai
   // buscar (SABER = cadeiras + ideias de produto). Servido em /saber.json.
-  const materias = [...cursos,
+    const materias = [...cursos,
     ...(partilhada ? [{ titulo: partilhada.titulo, cadeiras: [{ ...partilhada }] }] : []),
-    ...(rota ? [{ titulo: rota.titulo, cadeiras: [{ ...rota }] }] : [])]
+    ...raizes.map((r) => ({ titulo: r.titulo, cadeiras: [{ ...r }] }))]
     .map((c) => ({
       curso: c.titulo,
       cadeiras: (c.cadeiras || []).filter((k) => (k.unidades || []).some((u) => u.aulas?.length || u.objetivos || u.resumo))
@@ -525,7 +568,7 @@ function main() {
   fs.writeFileSync(path.join(ROOT, "public", "saber.json"), JSON.stringify(saber, null, 2), "utf-8");
 
   const nCad = cursos.reduce((s, c) => s + c.cadeiras.length, 0);
-  const nAulas = cursos.reduce((s, c) => s + c.cadeiras.reduce((n, k) => n + k.aulas.length, 0), 0) + (partilhada?.aulas.length || 0) + (rota?.aulas.length || 0);
+    const nAulas = cursos.reduce((s, c) => s + c.cadeiras.reduce((n, k) => n + k.aulas.length, 0), 0) + (partilhada?.aulas.length || 0) + raizes.reduce((s, r) => s + r.aulas.length, 0);
   console.log(`conteudo.json: ${cursos.length} curso(s), ${nCad} cadeira(s), ${nAulas} aula(s), ${banco.length} item(ns) de produto.`);
 }
 
@@ -578,7 +621,8 @@ const CURSOS_PONTE = [
   { slug: "01-constelacao-sistemica", key: "constelacao", nome: "Constelação Familiar Sistémica", descricao: "Bert Hellinger e as Ordens do Amor. A pessoa dentro dos seus sistemas.", mundo: "synchim", filtro: "constelacao" },
   { slug: "03-psicologia-espiritualidade", key: "espiritualidade", nome: "Psicologia e Espiritualidade", descricao: "Espiritualidade como sentido, propósito e qualidade de vida.", mundo: "autora", filtro: null },
   { slug: "__partilhada", key: "desenvolvimento", nome: "Desenvolvimento Pessoal e Profissional", descricao: "Cadeira comum: carreira, comunicação e saúde do cuidador.", mundo: "infonte", filtro: null },
-  { slug: "__rota100k", key: "rota100k", nome: "ROTA100K", descricao: "Criação de conteúdo, audiência e crescimento. Conhecimento de negócio, não da pós.", mundo: "autora", filtro: null },
+    { slug: "__rota100k", key: "rota100k", nome: "ROTA100K", descricao: "Criação de conteúdo, audiência e crescimento. Conhecimento de negócio, não da pós.", mundo: "autora", filtro: null },
+  { slug: "__venda100k", key: "venda100k", nome: "VENDA100K", descricao: "Low ticket: o que vender, criar o produto, página e quiz, automação e tráfego.", mundo: "autora", filtro: null },
   { slug: "04-neurociencias-desenvolvimento-humano", key: "neuro-desenvolvimento", nome: "Neurociências do Desenvolvimento Humano", descricao: "Como o cérebro se desenvolve e envelhece: infância, adolescência, adulto, idoso.", mundo: "freeme", filtro: "neuro" },
   { slug: "05-neurociencias-cognitivas", key: "neuro-cognitivas", nome: "Neurociências Cognitivas e Processos Psicológicos", descricao: "Bases biológicas da cognição, emoção, atenção, memória e linguagem.", mundo: "escola", filtro: "neuro" },
   { slug: "06-neuropsicanalise", key: "neuropsicanalise", nome: "Neuropsicanálise", descricao: "A ponte entre a psicanálise e o cérebro: afeto, memória e inconsciente.", mundo: "autora", filtro: "neuro" },
@@ -611,7 +655,8 @@ function aplicarFiltro(id, lista) {
 
 const cadeirasDe = (cursoSlug) => {
   if (cursoSlug === "__partilhada") return [path.join(ROOT, "disciplina-partilhada")];
-  if (cursoSlug === "__rota100k") return [path.join(ROOT, "rota100k")];
+    if (cursoSlug === "__rota100k") return [path.join(ROOT, "rota100k")];
+  if (cursoSlug === "__venda100k") return [path.join(ROOT, "venda100k")];
   const base = path.join(ROOT, "cursos", cursoSlug);
   if (!isDir(base)) return [];
   return fs.readdirSync(base).map((d) => path.join(base, d)).filter((p) => isDir(p) && path.basename(p) !== "_material");

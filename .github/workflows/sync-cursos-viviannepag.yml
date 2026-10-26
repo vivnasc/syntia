@@ -20,6 +20,7 @@ on:
       - 'cursos/**/sinteses/**'
       - 'disciplina-partilhada/**/sinteses/**'
       - 'rota100k/**/sinteses/**'
+      - 'venda100k/**/sinteses/**'
       - 'scripts/patch-cursos-viviannepag.mjs'
       - 'scripts/exportar-saber-completo.mjs'
       - 'scripts/gerar-conteudo.mjs'
