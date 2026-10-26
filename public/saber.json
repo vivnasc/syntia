@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-14T11:17:50.045Z",
+  "geradoEm": "2026-10-26T07:32:46.039Z",
   "fonte": "Syntia · pós-graduações",
   "materias": [
     {
@@ -778,6 +778,83 @@
                 "A1 a Vis o Oculta de Mundo",
                 "A2 a Importância da Psicologia no Determinismo Necessário",
                 "A3 o Dominio Existencial"
+              ]
+            }
+          ]
+        },
+        {
+          "cadeira": "Autoconhecimento e o Estudo das Emoções",
+          "unidades": [
+            {
+              "n": 1,
+              "objetivos": "",
+              "resumo": "",
+              "aulas": [
+                "A10 Envelhecimento Ativo",
+                "A1 Sa de Mental e a Sa de Mental no Brasil",
+                "A2 Sa de Mental na Inf Ncia",
+                "A3 Sa de Mental na Adolesc Ncia",
+                "A4 Pontos de Aten o Poss Veis Fatores de Risco Sa de dos Adolescentes",
+                "A5 Fatores de Risco Sa de Mental de Crian as e Adolescentes",
+                "A6 Transtornos e Situa Es Estressoras na Adolesc Ncia",
+                "A7 Sa de Mental dos Indiv Duos Adultos",
+                "A8 a Importância do Trabalho na Sa de Mental",
+                "A9 Sa de Mental do Idoso",
+                "Ojectivos",
+                "Autoconhecimento e o Estudo das Emocoes Unidade I"
+              ]
+            },
+            {
+              "n": 2,
+              "objetivos": "",
+              "resumo": "",
+              "aulas": [
+                "A1 Teoria do Desenvolvimento Psicossocial de Erikson",
+                "A2 Generatividade",
+                "A3 Escala de Generatividade",
+                "A4 Visao Historica Sorve o Corpo",
+                "A5 Motricidade",
+                "A6 Movimento e Cibercultura",
+                "A7 Movimento e Qualidade de Vida",
+                "A8 Prop Sito",
+                "A9 Psiquismo do Feto",
+                "Ojectivos",
+                "Autoconhecimento e o Estudo das Emocoes Unidade II"
+              ]
+            },
+            {
+              "n": 3,
+              "objetivos": "",
+              "resumo": "",
+              "aulas": [
+                "A1 Politica NAcional de Saude Mental",
+                "A2 Estruturas de Atendimento CAPS",
+                "A3 Outras Estruturas de Atendimento",
+                "A4 Comiss o Intersetorial de Aten o Sa de nos Ciclos de Vida CIASCV",
+                "A5 CIACSV Importância",
+                "A6 Capacidade de Atendimento Sa de Mental",
+                "A7 Programa de Preven o a Sa de Mental",
+                "Ojectivos",
+                "Autoconhecimento e o Estudo das Emocoes Unidade III"
+              ]
+            },
+            {
+              "n": 4,
+              "objetivos": "",
+              "resumo": "",
+              "aulas": [
+                "A10 Atos Conscientes para Percepção de Valor Pr Prio",
+                "A1 Sobre a Felicidade",
+                "A2 Felicidade e NeuroCiência",
+                "A3 a Felicidade e a Psicologia Positiva",
+                "A4 Vi S Negativo",
+                "A5 Emo Es Positivas",
+                "A6 Reduzindo os Sentimentos Negativos",
+                "A7 Felicidade Fatores Externos ou Internos",
+                "A8 Valor Pessoal e Autoestima",
+                "A9 Escala de Autoestima de Rosenberg",
+                "Ojectivos",
+                "Autoconhecimento e o Estudo das Emocoes Unidade IV"
               ]
             }
           ]
@@ -2969,6 +3046,307 @@
       "Frases de solução (frases que curam)"
     ],
     "espiritualidade": [
+      "Envelhecimento ativo",
+      "Autonomia e independência",
+      "Auto-eficácia",
+      "Capacidade cognitiva",
+      "Educação/aprendizagem permanente",
+      "Interdependência e solidariedade entre gerações",
+      "Estereótipo do idoso",
+      "Ressignificação da velhice",
+      "Seis dimensões do envelhecimento ativo",
+      "Direitos humanos do idoso",
+      "OMS",
+      "Definição de Saúde",
+      "Definição de Saúde Mental",
+      "Normalidade",
+      "Foucault e a doença",
+      "Fatores biológicos, psicológicos e sociais",
+      "Modelo Asilar",
+      "Modelo Psicossocial",
+      "Luta Antimanicomial",
+      "Lei de 2001",
+      "Sofrimento Mental",
+      "CAPS",
+      "Transtorno mental na infância",
+      "Sobrediagnóstico",
+      "Síndrome de Tourette",
+      "Transtorno global do desenvolvimento",
+      "Transtorno de apego",
+      "Fatores de risco e estressores",
+      "Contexto socioeconómico como variável clínica",
+      "Caráter longitudinal dos transtornos",
+      "Saúde mental na adolescência",
+      "Adolescência como fase de transformação",
+      "Transtorno mental na adolescência",
+      "Suicídio na adolescência",
+      "Patologias prioritárias",
+      "Medidas preventivas",
+      "Habilidades socioemocionais",
+      "Resiliência",
+      "Pontos de atenção",
+      "Baixa autoestima",
+      "Ideação suicida",
+      "Autoagressão",
+      "TDAH",
+      "Transtornos neuróticos",
+      "Baixo suporte emocional",
+      "Disfunção psicossocial associada ao uso de drogas",
+      "Bullying/Cyberbullying",
+      "Transmissão vertical",
+      "Comportamentos de risco para HIV",
+      "Pobreza urbana",
+      "Obesidade abdominal com impacto na autoimagem",
+      "Busca excessiva de prazer",
+      "Fatores de risco",
+      "Vulnerabilidade",
+      "Fatores biológicos",
+      "Fatores genéticos",
+      "Fatores psicossociais",
+      "Transtorno de conduta",
+      "Acompanhamento positivo",
+      "Estigma no encaminhamento",
+      "Depressão",
+      "Transtorno de Stresse Pós-Traumático",
+      "Ansiedade patológica",
+      "Síndrome do pânico",
+      "Situação estressora",
+      "Bullying",
+      "Cyberbullying",
+      "Responsabilidade transgeracional",
+      "Transtorno mental",
+      "Determinantes sociais da saúde mental",
+      "Anos vividos com incapacidade",
+      "Vida adulta como fase de vulnerabilidade",
+      "Bem-estar como fator protetor",
+      "Estigma social do adoecimento mental",
+      "Sentido do trabalho",
+      "Trabalho com sentido",
+      "Burnout",
+      "Exaustão emocional",
+      "Despersonalização",
+      "Diminuição da realização pessoal",
+      "Sobre-identificação com o trabalho",
+      "Impacto do desemprego",
+      "Paradoxo trabalho/desemprego",
+      "Segurança psicológica",
+      "Envelhecimento populacional",
+      "Limitação funcional",
+      "Rearranjo familiar",
+      "Grupo de risco para suicídio",
+      "Sofrimento psíquico",
+      "Isolamento social",
+      "Envelhecimento activo",
+      "Negligência familiar",
+      "Saúde mental",
+      "Transtorno de estresse pós-traumático",
+      "Resiliência vs. vulnerabilidade",
+      "Modelo psicossocial vs. modelo organicista",
+      "Desenvolvimento psicossocial",
+      "Estágios/fases",
+      "Tensão bipolar",
+      "Confiança básica",
+      "Autonomia",
+      "Iniciativa",
+      "Identidade",
+      "Generatividade",
+      "Estagnação",
+      "Integridade",
+      "Desesperança",
+      "Estágios de Erikson",
+      "Modelo de McAdams",
+      "Narrativa de generatividade",
+      "Escala de Generatividade",
+      "Legado",
+      "Itens reversos",
+      "Contribuição significativa à comunidade",
+      "Responsabilização pelo outro",
+      "Legado de conhecimento e experiência",
+      "Atividades criativas e memoráveis",
+      "Liderança generativa",
+      "Corporeidade",
+      "Ética corporal",
+      "Movimentos não verbais",
+      "Automatização do movimento",
+      "Hilomorfismo",
+      "Descorporização",
+      "Intencionalidade",
+      "Corpo e trabalho",
+      "Corpo inserido no contexto social",
+      "Motricidade humana",
+      "Teoria da Motricidade Humana",
+      "Consciência corporal",
+      "Corpo como comunicação",
+      "Movimento e cultura",
+      "Ideais corporais e riscos à saúde",
+      "Ciência da motricidade",
+      "Cybercultura",
+      "Corporidade / Corporeidade",
+      "Motricidade",
+      "Ambivalência física/corporal",
+      "Sedentarismo digital",
+      "Home office",
+      "Gamificação / Fisiogames / E-sports",
+      "Equilíbrio digital-corporal",
+      "Qualidade de vida",
+      "Serotonina",
+      "Dopamina",
+      "Autoeficácia",
+      "Hipocampo",
+      "Sedentarismo",
+      "Formação de hábito",
+      "Declínio cognitivo",
+      "Competências socioemocionais",
+      "Propósito",
+      "Propósito de vida",
+      "Viktor Frankl",
+      "Logoterapia",
+      "Sentido / Significado",
+      "Liberdade de escolha da atitude",
+      "Propósito organizacional",
+      "Movimento de significado",
+      "Memória corporal do feto",
+      "Mutualidade mãe-feto",
+      "Continuidade vs. descontinuidade",
+      "Memória afetiva",
+      "Transmissão emocional intrauterina",
+      "Pré-natal psicológico",
+      "Equipa multidisciplinar na gestação",
+      "Teoria do Desenvolvimento Psicossocial",
+      "Escala de Generatividade de Loyola",
+      "Dualismo cartesiano",
+      "Memória corporal",
+      "Psiquismo fetal",
+      "Hilemorfismo",
+      "Política Nacional de Saúde Mental",
+      "Rede de Atenção Psicossocial",
+      "CAPS — Centro de Atenção Psicossocial",
+      "Reabilitação Psicossocial",
+      "Centro de Valorização da Vida",
+      "Desinstitucionalização",
+      "Serviços Residenciais Terapêuticos",
+      "Hospital-Dia",
+      "Caráter comunitário e aberto",
+      "Equipa multiprofissional e interdisciplinar",
+      "Escalonamento por habitantes",
+      "CAPSi",
+      "CAPS-AD / CAPS-AD3",
+      "Atenção Básica / UBS",
+      "Grupos de pais no CAPSi",
+      "SAMU / UPA / Pronto-Socorro",
+      "Sala de Estabilização",
+      "Serviço Residencial Terapêutico",
+      "Unidade de Acolhimento",
+      "Ambulatório Multiprofissional de Saúde Mental",
+      "Comunidade Terapêutica",
+      "Enfermaria Especializada em Hospital Geral",
+      "Luta Antimanicomial / Desospitalização",
+      "Complexidade Intermediária",
+      "Comissão Intersetorial de Atenção à Saúde nos Ciclos de Vida",
+      "Ciclos de Vida",
+      "Cuidado Integral",
+      "Conselho Nacional de Saúde",
+      "Controle Social",
+      "Educação Permanente para o Controle Social",
+      "Intersetorialidade",
+      "Política Nacional de Atenção Integral à Saúde da Criança",
+      "CID-11 — Classificação Internacional de Doenças, 11.ª edição",
+      "Caderneta de Saúde da Pessoa Idosa",
+      "Instituições de Longa Permanência para Idosos",
+      "Democracia participativa",
+      "Prioridades pós-COVID",
+      "Patologias mentais na infância",
+      "Comportamento desadaptado vs. sofrimento interior",
+      "Desadaptação por faixa etária",
+      "Síndrome de Burnout",
+      "Atenção precoce",
+      "Demanda reprimida",
+      "Prevenção em saúde mental",
+      "Modelo bioecológico",
+      "Fatores protetivos",
+      "Prevenção universal",
+      "Prevenção seletiva",
+      "Prevenção indicativa",
+      "Promoção de saúde e desenvolvimento positivo",
+      "Integração multiprofissional e intersetorial",
+      "CIASCV",
+      "Prevenção Universal / Seletiva / Indicativa",
+      "Psicologia Positiva",
+      "Bem-estar no trabalho",
+      "CVV",
+      "Percepção de valor próprio",
+      "Viés negativo",
+      "Autoconhecimento como ferramenta de força",
+      "Autoaceitação",
+      "Gentileza consigo mesmo",
+      "Locus de controle",
+      "Autorresponsabilidade",
+      "Modelos mentais",
+      "Controlo da reação",
+      "Eudaimonia",
+      "Felicidade como virtude",
+      "Felicidade como autoconhecimento",
+      "Felicidade como posse/busca de Deus",
+      "Felicidade como prazer duradouro",
+      "Felicidade como direito político",
+      "Distinção alegria / prazer / felicidade",
+      "Felicidade sem espera",
+      "Neuroplasticidade",
+      "Emoção vs. Interpretação Cognitiva",
+      "Felicidade como bem silencioso e contínuo",
+      "Felicidade Interna Bruta",
+      "Matthieu Ricard",
+      "Três níveis de investigação",
+      "Bem-estar subjetivo",
+      "Flow",
+      "Felicidade",
+      "Adaptação hedónica",
+      "Viés do impacto",
+      "Focalismo",
+      "Negligência imune",
+      "Fórmula 50-40-10",
+      "Savoring",
+      "Atividades intencionais",
+      "Origem evolutiva do viés negativo",
+      "Assimetria entre positivo e negativo",
+      "Deslocamento da positividade",
+      "Saborear",
+      "Treinamento da atenção",
+      "Arquitetura da felicidade",
+      "Emoções positivas vs. negativas — orientação temporal",
+      "Gratidão como construtor social",
+      "Orgulho como desbloqueador motivacional",
+      "Esperança em circunstâncias difíceis",
+      "Interesse como motor de aprendizagem",
+      "Admiração/Temor — efeito duplo",
+      "Mindfulness",
+      "Momento presente como lugar de poder",
+      "Visualização negativa",
+      "Visita de gratidão",
+      "Relato das três bênçãos",
+      "Gratidão",
+      "Viés negativo do cérebro",
+      "Felicidade como factor interno",
+      "Experiência vs. aquisição material",
+      "Generosidade como prática deliberada",
+      "Poder das conexões sociais",
+      "Score de felicidade",
+      "Laços românticos como diferencial",
+      "Autoestima",
+      "Valor pessoal",
+      "Reforço positivo / negativo",
+      "Autoestima elevada",
+      "Autoestima baixa",
+      "Autoconhecimento",
+      "Escala de Rosenberg",
+      "Bem-estar e qualidade de vida",
+      "Felicidade interna",
+      "Felicidade externa",
+      "Escala de Autoestima de Rosenberg",
+      "Atos conscientes",
+      "Viés de impacto",
+      "Broaden-and-build",
+      "Lócus de controlo",
       "Espiritualidade",
       "Religiosidade",
       "Religião",
@@ -3100,7 +3478,6 @@
       "Crença",
       "Narrativas individuais",
       "Linguagem simbólica religiosa",
-      "Logoterapia",
       "Fé incondicional",
       "Fé condicional",
       "Sentido da vida",
@@ -3177,7 +3554,6 @@
       "Humildade epistemológica",
       "Agenda oculta",
       "Facilitador",
-      "Cuidado integral",
       "Visão holística",
       "Modelo biopsicossocial espiritual",
       "As cinco dimensões",
@@ -3239,7 +3615,6 @@
       "Pluralidade e singularidade",
       "Psicologia laica, plural e científica",
       "Subjetividade / dimensão subjetiva",
-      "Corporeidade",
       "Espiritualidade em crise",
       "Vazio existencial",
       "Pseudociências",
@@ -3259,7 +3634,6 @@
       "Teorias humanistas",
       "Educação",
       "Heranças geracionais na educação",
-      "Autoconhecimento",
       "Psicoeducação",
       "Neutralidade clínica",
       "Visão integrativa / holística",
@@ -3277,7 +3651,6 @@
       "Constelação familiar sistémica",
       "Melhoria contínua da inteligência espiritual",
       "Psicoterapia",
-      "Consciência corporal",
       "Viver no automático",
       "Consciência intuitiva / coeficiente intuitivo",
       "Yoga",
@@ -3311,11 +3684,9 @@
       "Dimensão psicológica",
       "Dimensão social",
       "Plenitude",
-      "Qualidade de vida",
       "Construção diária",
       "Qualidade de vida como percepção individual",
       "As cinco dimensões do bem-estar",
-      "Locus de controle",
       "Criação de novos hábitos",
       "Itens básicos de qualidade de vida",
       "Saúde como conceito evolutivo",
@@ -3352,7 +3723,6 @@
       "Quatro princípios da bioética",
       "Beneficência",
       "Não maleficência",
-      "Autonomia",
       "Justiça",
       "Equidade",
       "Objeção de consciência",
@@ -3365,23 +3735,18 @@
       "Tratamento forçado como possível crime",
       "Espiritualidade como variável clínica real",
       "Alternativas terapêuticas",
-      "Psicologia positiva",
       "Experiência subjetiva",
-      "Flow",
       "Forças pessoais / virtudes",
       "Instrumento VIA",
       "Instituições e comunidades",
       "PERMA",
-      "Bem-estar subjetivo",
       "Bem-estar subjetivo / felicidade",
       "Modelo PERMA",
       "Características adicionais do florescimento",
       "VIA",
       "Forças e virtudes",
-      "Resiliência",
       "Psicologia positiva vs. autoajuda",
       "Forças de caráter",
-      "Visita de gratidão",
       "Diário de gratidão",
       "Meditação da bondade amorosa",
       "Intervenções de psicologia positiva",
@@ -3413,7 +3778,6 @@
       "Autocompaixão",
       "Autobondade / autocompreensão",
       "Reconhecimento da condição humana",
-      "Mindfulness",
       "Fonte interior de bondade",
       "Autoflagelação",
       "Os três pilares do mindfulness",
@@ -3461,7 +3825,6 @@
       "Expansão da consciência",
       "Desaceleração como prática",
       "Espiritualidade vs. religião",
-      "Propósito de vida",
       "Ego",
       "Subconsciente",
       "Enteógenos/alucinógenos",
@@ -3550,7 +3913,6 @@
       "Experiência transpessoal",
       "Consciência usual vs. transpessoal",
       "Psicologia da saúde / hospitalar",
-      "Saúde mental",
       "Espiritualidade mística",
       "Integração biopsicossocioespiritual",
       "Etimologia de \"psicologia\"",
@@ -18703,6 +19065,1034 @@
       "texto": "Novo:** série de posts ou ebook sobre filmes como espelhos psicológicos — \"O que o cinema te diz sobre ti\" — para a conta **veu.a.veu** ou **soulab**. A aula usa filmes (Réquiem para um Sonho, Walter Mitty, Sete Anos no Tibete, Na Natureza Selvagem) como ilustrações de niilismo vs. busca de sentido. Há um público real — adultos em transição — que consome cultura e reconhece padrões na ficção antes de os reconhecer em si. Formato possível: carrossel didático em gouache (veu.a.veu) com o arquétipo que cada filme representa, ou post de observação/símbolo no soulab (escuro/lunar). Porquê agora: é um formato de alto potencial de partilha orgânica (cultura + psicologia) ainda não explorado nestas contas.",
       "curso": "Psicologia e Espiritualidade",
       "cadeira": "Psicologia e Espiritualidade · Psicologia, Espiritualidade, Religiosidade e Niilismo"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: ebook ou guia sobre ressignificação do envelhecimento e heranças de geração para geração — a aula valida que a qualidade de vida do idoso depende de padrões relacionais e…",
+      "texto": "Novo:** ebook ou guia sobre ressignificação do envelhecimento e heranças de geração para geração — a aula valida que a qualidade de vida do idoso depende de padrões relacionais e lealdades invisíveis transmitidos entre gerações, um ângulo ainda não coberto no catálogo; para filhas adultas (35-55) que cuidam de pais idosos e sentem o peso dessa herança relacional, encaixaria como produto novo na coleção **Pertença** (`per-01` a `per-07`) ou como ebook fundador sobre o ciclo do cuidado não escolhido.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "abertura-faca «A sua mãe não está a declinar",
+      "texto": "FreeMe Mãe** (`mae-02 A mãe que ficou` / `mae-06 A mãe que cumpriu`) — a aula valida que o envelhecimento da mãe é vivido com o peso do estereótipo do declínio, o que ressoa directamente com a mãe que \"cumpriu\" e agora não sabe quem é fora do papel; ideia de post para **mae.cine** (@vivianne.dos.santos, PT-BR): abertura-faca «A sua mãe não está a declinar. Está a descobrir quem ela é quando ninguém precisa dela.» — ciência do envelhecimento ativo como prova, fecho no ciclo que acaba em você (#acabaemmim #quebraciclos).",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "usar o modelo triaxial (bio-psico-social) como estrutura interna de um capítulo — «O que o teu corpo aprendeu a não sentir (biológico) · o que a tua história te ensinou (psicoló…",
+      "texto": "FreeMe Mãe** (`mae-08 A mãe que não sentiu`) — a aula valida que o sofrimento mental resulta de fatores biológicos, psicológicos *e* sociais em interseção, o que aprofunda o argumento de que o adormecimento emocional da mãe não é falha moral mas resposta adaptativa a um contexto sobrecarregado.\nIdeia para o ebook `mae-08`: usar o modelo triaxial (bio-psico-social) como estrutura interna de um capítulo — «O que o teu corpo aprendeu a não sentir (biológico) · o que a tua história te ensinou (psicológico) · o que o contexto nunca te deu (social)».",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático «O que é meu neste sofrimento?» — para quem sente que o seu cansaço ou bloqueio emocional é defeito pessoal, este mapa triaxial (bio-psico-social) oferece uma…",
+      "texto": "Novo:** guia prático «O que é meu neste sofrimento?» — para quem sente que o seu cansaço ou bloqueio emocional é defeito pessoal, este mapa triaxial (bio-psico-social) oferece uma estrutura de auto-observação rápida (5 perguntas, uma por fator + 2 de integração). Formato guia €5, encaixaria nos 14 guias existentes como `guia-15`. Pertinente agora porque a pandemia normalizou o discurso de saúde mental mas deixou muita gente sem ferramentas concretas para distinguir o que é da sua biologia, da sua história ou do seu contexto — e essa distinção é libertadora, não patologizante.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "Coleção FreeMe Mãe — a aula valida que os transtornos da infância não tratados se tornam padrões relacionais, profissionais e conjugais na vida adulta, sustentando a tese centra…",
+      "texto": "Coleção FreeMe Mãe** — a aula valida que os transtornos da infância não tratados se tornam padrões relacionais, profissionais e conjugais na vida adulta, sustentando a tese central da coleção de que o que a mãe carrega (ou não conseguiu receber) deixa marca nos filhos.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "ebook `mae-08 A mãe que não sentiu` — a aula aprofunda a ligação entre transtorno de apego na infância e dificuldade de vinculação emocional na vida adulta, validando o núcleo d…",
+      "texto": "ebook `mae-08 A mãe que não sentiu`** — a aula aprofunda a ligação entre transtorno de apego na infância e dificuldade de vinculação emocional na vida adulta, validando o núcleo deste ebook (a mãe que cresceu sem receber, e por isso não sabe dar).",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático «O que o comportamento do teu filho está a dizer» — para mães que reconhecem padrões perturbadores nos filhos (tiques, ansiedade, isolamento, falta de sacieda…",
+      "texto": "Novo:** guia prático «O que o comportamento do teu filho está a dizer» — para mães que reconhecem padrões perturbadores nos filhos (tiques, ansiedade, isolamento, falta de saciedade) mas não têm linguagem clínica para os nomear; a aula mostra que há uma lacuna enorme entre o sofrimento visível e o diagnóstico adequado, e que as mães ficam sozinhas nesse intervalo. Formato €5, encaixaria nos Guias Práticos (1.3) e serviria de porta de entrada para a coleção FreeMe Mãe.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "carrossel para mae.cine com o gancho «Você sabia que o suicídio é a 2.ª causa de morte entre jovens de 15 a 19 anos no mundo? A ciência diz que a família é a primeira linha de p…",
+      "texto": "FreeMe Mãe** — a aula valida que a família (e especialmente os pais) é um dos três agentes preventivos centrais da saúde mental na adolescência, o que aprofunda o território dos ebooks `mae-03 A mãe que salva` e `mae-04 Amar e dizer basta`.\nIdeia concreta: carrossel para **mae.cine** com o gancho «Você sabia que o suicídio é a 2.ª causa de morte entre jovens de 15 a 19 anos no mundo? A ciência diz que a família é a primeira linha de prevenção — e isso começa antes de haver crise. Você está a construir essa base?» — ciência como prova, voz confrontadora depois terna, movimento #acabaemmim, visual foto quente âmbar, CTA GUARDAR.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Outro",
+      "ideia": "reel curto para @vivianne.dos.santos — abre com o dado («3.ª causa de morte entre adolescentes de 10 a 19 anos»), quebra a expectativa («não é fraqueza, é um sistema que não apr…",
+      "texto": "mae.cine** — a aula fornece dados epidemiológicos duros (OPAS/OMS) que funcionam como prova científica no formato faca-na-abertura da Telma.\nIdeia concreta: reel curto para **@vivianne.dos.santos** — abre com o dado («3.ª causa de morte entre adolescentes de 10 a 19 anos»), quebra a expectativa («não é fraqueza, é um sistema que não aprendeu a pedir ajuda»), fecha no ciclo que pode acabar em você: «O que você aprendeu a fazer quando estava mal? Isso é o que você está a ensinar.» Hashtags #acabaemmim #quebraciclos.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia «O que a adolescência deixou em mim» — para mulheres adultas que reconhecem padrões de hoje (não pedir ajuda, gerir crises sozinhas, sentir que não pertencem) co…",
+      "texto": "Novo:** mini-guia «O que a adolescência deixou em mim» — para mulheres adultas que reconhecem padrões de hoje (não pedir ajuda, gerir crises sozinhas, sentir que não pertencem) como aprendizagens de sobrevivência da adolescência; formato guia prático €5, encaixaria como `guia-15` ou entrada na Coleção Força; o gancho é a ciência da OMS usada como espelho («isto não começou agora»), o que ainda não existe no catálogo com este ângulo geracional específico.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "um carrossel na conta mae.cine com a abertura em faca — «Você sabia que o bem-estar do seu filho adolescente começa no seu próprio bem-estar?» — seguido de ciência-como-prova (o…",
+      "texto": "Coleção FreeMe Mãe** — a aula valida diretamente o território da coleção: o baixo suporte emocional desde a infância, a violência doméstica, a comunicação agressiva e o bem-estar parental como determinantes do desenvolvimento do filho surgem aqui com linguagem clínica que reforça o que os ebooks `mae-01` a `mae-11` trabalham em registo íntimo.\nIdeia para **mae-08 «A mãe que não sentiu»** ou **mae-11 «A mãe que teme pesar»**: um carrossel na conta **mae.cine** com a abertura em faca — «Você sabia que o bem-estar do seu filho adolescente começa no seu próprio bem-estar?» — seguido de ciência-como-prova (os pontos de atenção da aula apresentados como dados clínicos) e fecho no ciclo quebrado: «Quando você aprende a receber suporte, você deixa de criar filhos que não sabem pedir.» CTA: GUARDAR. Visual: foto cinematográfica quente, mãe e adolescente em plano médio, luz âmbar.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "um reel curto para mae.cine com o gancho «O que os seus pais não resolveram, o seu filho adolescente está a viver no corpo» — três exemplos rápidos da aula (suporte emocional au…",
+      "texto": "ebook-02-herdaste «O que herdaste sem saber»** — a aula aprofunda o mecanismo pelo qual padrões familiares (uso de drogas, violência, baixo bem-estar parental) se transmitem ao adolescente, validando o argumento central deste ebook fundador.\nIdeia: um reel curto para **mae.cine** com o gancho «O que os seus pais não resolveram, o seu filho adolescente está a viver no corpo» — três exemplos rápidos da aula (suporte emocional ausente / comunicação agressiva / uso de substâncias normalizado) — fecho: «Não é culpa sua. Mas pode acabar em si.» CTA: SEGUIR + GUARDAR. Hashtags: `#acabaemmim #quebraciclos`.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático «Sinais de alerta no meu adolescente — o que observar e quando pedir ajuda» — para mães de adolescentes (público já presente na mae.cine) que não são profissi…",
+      "texto": "Novo:** guia prático «Sinais de alerta no meu adolescente — o que observar e quando pedir ajuda» — para mães de adolescentes (público já presente na mae.cine) que não são profissionais de saúde mas vivem a angústia de «será que é normal?». A aula entrega exactamente o mapa clínico que justifica este produto: quatro domínios, sinais concretos, linguagem acessível. Formato guia (€5, encaixa nos guias práticos existentes) ou lead magnet gratuito para captar e-mails do nicho. Preenche um vazio real no catálogo: há ebooks sobre o que a mãe carrega, mas nenhum sobre como ela lê os sinais no filho.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "carrossel para mae.cine com o gancho «você não percebe, mas o tom que usa com o seu filho foi o tom que usaram com você» — abre com o dado do Benfegundo (dobro de probabilidade)…",
+      "texto": "FreeMe Mãe (coleção)** — a aula fornece evidência científica direta (Friedman, Vitolo, Benfegundo, Vedovato) de que práticas punitivas, gritar e violência doméstica duplicam ou triplicam o risco de adoecimento mental dos filhos, validando o núcleo dos ebooks desta coleção sobre padrões de maternagem herdados e os seus efeitos.\nIdeia concreta: carrossel para **mae.cine** com o gancho «você não percebe, mas o tom que usa com o seu filho foi o tom que usaram com você» — abre com o dado do Benfegundo (dobro de probabilidade), desenvolve o ciclo herança-punição-repetição, fecha no movimento Acaba em Mim. CTA: GUARDAR. Encaminha para `mae-03 A mãe que salva` ou `mae-04 Amar e dizer basta`.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "reel curto para mae.cine com a frase «não foi o que ela fez — foi o que nunca aconteceu», apoiado no dado dos pesquisadores que associam ausência de acompanhamento positivo a pr…",
+      "texto": "mae-08 A mãe que não sentiu** — a aula valida que a ausência de acompanhamento positivo (sem carinho, sem reforço, sem presença afetiva) é, por si só, um fator de risco, mesmo sem violência explícita; aprofunda o argumento deste ebook sobre o dano do silêncio afetivo.\nIdeia concreta: reel curto para **mae.cine** com a frase «não foi o que ela fez — foi o que nunca aconteceu», apoiado no dado dos pesquisadores que associam ausência de acompanhamento positivo a problemas de comportamento.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "capítulo ou secção do ebook que apresenta o dado como ponto de viragem — não para aumentar a culpa, mas para mostrar que reconhecer o impacto é o primeiro passo para quebrar o c…",
+      "texto": "mae-10 A mãe arrependida** — a evidência de Vedovato et al. (violência familiar é três vezes mais prejudicial do que a urbana) dá substância científica ao peso da culpa que a mãe arrependida carrega; a aula mostra que o impacto é real e mensurável, não apenas percebido.\nIdeia concreta: capítulo ou secção do ebook que apresenta o dado como ponto de viragem — não para aumentar a culpa, mas para mostrar que reconhecer o impacto é o primeiro passo para quebrar o ciclo.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático «Sinais que merecem atenção — o que observar no comportamento do seu filho» — para mães que não são profissionais de saúde mas querem identificar precocemente…",
+      "texto": "Novo:** guia prático «Sinais que merecem atenção — o que observar no comportamento do seu filho» — para mães que não são profissionais de saúde mas querem identificar precocemente problemas de comportamento nos filhos; justificado pela aula ao apontar que pediatras e equipas têm dificuldade de identificação precoce e que a procura excede a oferta; encaixaria nos guias práticos (€5) como `guia-15` ou em `mae.cine` como lead magnet; oportunidade real porque a aula denuncia um vazio no sistema que as mães atentas querem preencher.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "reel com abertura faca — «O que ela viu em casa virou o que ela faz no amor» — usando os dados da UNICEF como prova científica (ciência com consequência), no registo «Acaba em M…",
+      "texto": "Coleção FreeMe Mãe** — A aula valida que a exposição a violência, abuso e situações estressoras na infância e adolescência cria padrões que se repetem — exactamente o território dos ebooks `mae-01` a `mae-11`.\nIdeia para **mae.cine**: reel com abertura faca — «O que ela viu em casa virou o que ela faz no amor» — usando os dados da UNICEF como prova científica (ciência com consequência), no registo «Acaba em Mim / Quebra-Ciclos». Foco no mecanismo: a criança que cresceu em ambiente de medo ou abuso desenvolve hiperalerta e autodefesa que persistem no adulto. CTA: GUARDAR.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático «O que o teu corpo ainda guarda» — para adultos que reconhecem no próprio corpo (tensão crónica, taquicardia, dificuldade de descanso) os rastros de situações…",
+      "texto": "Novo:** guia prático «O que o teu corpo ainda guarda» — para adultos que reconhecem no próprio corpo (tensão crónica, taquicardia, dificuldade de descanso) os rastros de situações estressoras vividas na adolescência. Posiciona-se entre os guias práticos (€5) e alimenta a entrada para a Coleção Força. Porquê agora: a aula fornece linguagem clínica acessível (hiperalerta, evitamento, reactividade física) que pode ser traduzida em perguntas de auto-reconhecimento sem diagnóstico — exactamente o formato dos guias existentes.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "Coleção FreeMe Mãe — a aula valida o argumento central de vários títulos da coleção: o adoecimento emerge precisamente na fase em que se acumulam os novos papéis (mãe, companhei…",
+      "texto": "Coleção FreeMe Mãe** — a aula valida o argumento central de vários títulos da coleção: o adoecimento emerge precisamente na fase em que se acumulam os novos papéis (mãe, companheira, profissional), e o contexto social facilita ou agrava esse colapso.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático «O que é mesmo teu no trabalho» — para mulheres entre 35 e 49 anos que sentem que o trabalho as define mas não as realiza",
+      "texto": "Novo:** guia prático **«O que é mesmo teu no trabalho»** — para mulheres entre 35 e 49 anos que sentem que o trabalho as define mas não as realiza. A aula fornece quatro marcadores de trabalho com sentido (responsabilidade, qualidade, valores, justiça) que se convertem facilmente num instrumento de auto-diagnóstico de cinco minutos. Encaixaria na linha dos guias práticos (€5) e seria porta de entrada natural para a Coleção Trabalho e Vocação ou Infonte. Porquê agora: os dados de burnout e desemprego em mulheres desta faixa etária tornam este público urgente e subservido no catálogo actual.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: ebook ou guia sobre o luto invisível de quem cuida de um idoso — para filhas adultas que assumiram o papel de cuidadoras e perderam a si próprias nesse processo; este ângu…",
+      "texto": "Novo:** ebook ou guia sobre o luto invisível de quem cuida de um idoso — para filhas adultas que assumiram o papel de cuidadoras e perderam a si próprias nesse processo; este ângulo (a filha que carrega a mãe/pai envelhecido, o conflito entre presença e exaustão, a culpa de não aguentar) não tem produto directo no catálogo actual mas cruza o território de **FreeMe Mãe**, **Pertença** e **Força** com um público que provavelmente já compra; a demografia do envelhecimento activo torna esta conversa urgente e crescente.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "num carrossel para mae.cine — abertura faca: «Você está a criar os seus filhos e a criar os seus pais ao mesmo tempo",
+      "texto": "Coleção FreeMe Mãe** — a aula valida o padrão da mãe que ficou responsável cedo demais e que agora carrega também o pai ou a mãe envelhecida; alimenta directamente `mae-04 Amar e dizer basta` e `mae-11 A mãe que teme pesar`, aprofundando o lado da filha que, ela própria mãe, se vê a cuidar em duas direcções em simultâneo.\nIdeia: num carrossel para **mae.cine** — abertura faca: «Você está a criar os seus filhos e a criar os seus pais ao mesmo tempo. Ninguém te avisou que ia ser assim.» Usa os dados demográficos como prova científica, desenvolve o ciclo da mulher que nunca pode parar, fecha no movimento #acabaemmim. CTA: GUARDAR.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "ebook profundo `mae-12` (novo) — «A mãe que educar como a educaram» — explora como práticas educativas herdadas (punição física, gritar, negligência) se repetem geracionalmente,…",
+      "texto": "FreeMe Mãe (coleção)** — a aula valida que a violência doméstica, o baixo suporte emocional na infância e as práticas educativas negativas duplicam ou triplicam o risco de problemas de saúde mental nos filhos, fornecendo o lastro científico exato para os títulos desta coleção sobre feridas da maternidade.\nIdeia concreta: ebook profundo `mae-12` (novo) — «A mãe que educar como a educaram» — explora como práticas educativas herdadas (punição física, gritar, negligência) se repetem geracionalmente, usando os dados de Benvegnu et al. (2005) e Salvo et al. (2005) como prova de consequência; voz da coleção FreeMe Mãe, sem jargão clínico visível.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "carrossel para mae.cine com abertura-faca «Você sabe por que grita com o seu filho do mesmo jeito que gritaram com você?» — ciência-como-prova (dados de Benvegnu et al",
+      "texto": "Ebook fundador `ebook-02-herdaste` — O que herdaste sem saber** — a aula aprofunda este ebook ao nomear, com dados da OMS e de Bordin e Paula (2007), o mecanismo exacto pelo qual padrões psicossociais de risco (violência, disfunção familiar, pobreza) se transmitem de geração em geração.\nIdeia concreta: carrossel para **mae.cine** com abertura-faca «Você sabe por que grita com o seu filho do mesmo jeito que gritaram com você?» — ciência-como-prova (dados de Benvegnu et al. ao centro) — fecha em «Isso tem nome. E pode acabar em você.» / CTA: GUARDAR.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: ebook profundo ou post «A meia-idade que ninguém viu chegar» — A aula apresenta a generatividade (Erikson, estágio 7) como o desejo de contribuir, criar e orientar as gera…",
+      "texto": "Novo: ebook profundo ou post «A meia-idade que ninguém viu chegar»** — A aula apresenta a generatividade (Erikson, estágio 7) como o desejo de contribuir, criar e orientar as gerações futuras na meia-idade. Este é um território emocional não coberto por nenhum ebook atual das coleções: a mulher que chega à meia-idade e sente que não construiu nada que dure, ou que está a dar a vida às gerações seguintes enquanto se esquece de si. Poderia alimentar um ebook profundo na coleção **Força** (`for-05 A mulher que vive em modo sobrevivência` / `for-04 A mulher que se tornou forte demais`) ou um novo título na coleção **Trabalho e Vocação** (`tra-06 A mulher que trabalha para merecer`) — ou mesmo um título novo: «A mulher que dá às gerações futuras e esquece a própria.» Para quem: mulheres em meia-idade com filhos e/ou carreiras consolidadas que sentem vazio de sentido apesar da entrega. Porquê agora: a generatividade é o tema central da unidade e vai ser aprofundada na aula seguinte, o que significa que haverá mais matéria a minerar.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "FreeMe Mãe — A aula valida que padrões de culpa, vergonha e insegurança instalados na infância (estágios 1–3 de Erikson) continuam a operar na vida adulta, sustentando o núcleo…",
+      "texto": "FreeMe Mãe** — A aula valida que padrões de culpa, vergonha e insegurança instalados na infância (estágios 1–3 de Erikson) continuam a operar na vida adulta, sustentando o núcleo de toda a coleção FreeMe Mãe.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: ebook profundo ou guia — «A mulher que não sabe o que vai deixar» — para mulheres na meia-idade (40-55 anos) que sentem uma inquietação difusa sobre legado, sentido e util…",
+      "texto": "Novo:** ebook profundo ou guia — «A mulher que não sabe o que vai deixar» — para mulheres na meia-idade (40-55 anos) que sentem uma inquietação difusa sobre legado, sentido e utilidade, mas não têm linguagem para nomeá-la. A aula valida cientificamente (Erikson + McAdams) que esta inquietação não é crise nem fraqueza: é um estágio de desenvolvimento com nome. O ângulo é «o que queres criar e dar à posteridade» — uma porta de entrada para as coleções **Infonte** (`inf-01 A mulher que nunca chega`, `inf-03 A mulher que chegou e sentiu pouco`) e **Trabalho e Vocação** (`tra-06 A mulher que trabalha para merecer`, `tra-02 A mulher que não ocupa a cadeira`). Porquê agora: a conversa pública sobre «propósito de vida» na meia-idade está em alta e este conceito dá-lhe base académica diferenciadora.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Prosperidade",
+      "ideia": "Coleção Prosperidade — a aula valida que a generatividade inclui explicitamente a dimensão de «dar um contributo único» e «transmitir conhecimento», o que aprofunda os perfis de…",
+      "texto": "Coleção Prosperidade** — a aula valida que a generatividade inclui explicitamente a dimensão de «dar um contributo único» e «transmitir conhecimento», o que aprofunda os perfis de mulheres que trabalham para deixar impacto mas não conseguem cobrar ou receber valor pelo que criam.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "Coleção FreeMe Mãe — a aula valida que a generatividade inclui a parentalidade adoptiva como equivalente à biológica, e que a responsabilização pelo outro é uma das dimensões ce…",
+      "texto": "Coleção FreeMe Mãe** — a aula valida que a generatividade inclui a parentalidade adoptiva como equivalente à biológica, e que a responsabilização pelo outro é uma das dimensões centrais do instrumento — o que ressoa directamente com os perfis da mãe que salva, que cumpre e que carrega.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Outro",
+      "ideia": "mae.cine — a aula fornece prova científica (instrumento validado, 1992, McAdams e de St",
+      "texto": "mae.cine** — a aula fornece prova científica (instrumento validado, 1992, McAdams e de St. Aubin) sobre o impulso de deixar legado e de responsabilização pelo outro, que é o motor emocional de muitas mães no público brasileiro.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: quiz digital «Qual é o teu padrão de generatividade?» — baseado nos 20 itens da escala (adaptados em linguagem acessível), para o público feminino adulto que sente que «fa…",
+      "texto": "Novo:** quiz digital «Qual é o teu padrão de generatividade?» — baseado nos 20 itens da escala (adaptados em linguagem acessível), para o público feminino adulto que sente que «faz muito pelos outros mas não sabe para quê». Formato: quiz gratuito como lead magnet, com resultado em 4 perfis (a que dá mas não recebe / a que quer deixar legado mas não se autoriza / a que cuida mas não cria / a que lidera mas não ensina), cada perfil com porta de entrada para a coleção mais relevante (FreeMe Mãe, Infonte, Força, Trabalho e Vocação). Porquê agora: é um instrumento já validado cientificamente, traduzido para português europeu, que ninguém no mercado lusófono está a usar como ferramenta de autoconhecimento acessível.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: ebook ou guia sobre \"o que o teu corpo está a guardar\" — A aula valida que o corpo é portador de história acumulada (valores, crenças, leis, heranças) e que a corporeidade…",
+      "texto": "Novo: ebook ou guia sobre \"o que o teu corpo está a guardar\"** — A aula valida que o corpo é portador de história acumulada (valores, crenças, leis, heranças) e que a corporeidade é uma construção social; este ângulo — o corpo como arquivo de padrões herdados, não como problema físico — é genuinamente novo no catálogo atual e ainda não está tratado em nenhum ebook fundador nem profundo de forma direta. Para quem: mulheres que sentem o corpo como inimigo ou estranho, que nunca associaram postura, tensão ou forma de se vestir a padrões familiares ou culturais. Porquê agora: a interseção corpo + herança + identidade está em alta e encaixa diretamente na missão do catálogo sem duplicar nada existente. Formato sugerido: ebook fundador (€7) ou guia prático (€5) com o título provisório «O que o teu corpo ainda guarda» ou «De quem é esta tensão?» — alimentaria a coleção **Pertença** ou **Força**.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "reel/carrossel com abertura-faca — «Você não escolheu esse corpo",
+      "texto": "FreeMe Mãe (coleção + ebooks profundos, ex.: mae-01 \"Amar sem carregar\", mae-08 \"A mãe que não sentiu\")** — a aula valida que o corpo é o lugar onde a cultura escreve as suas exigências sem pedir licença, o que aprofunda o território da mãe que se apaga, que \"não sente\" ou que \"cumpre\" sem se perceber a fazê-lo.\nIdeia de conteúdo para **mae.cine** (@vivianne.dos.santos, voz PT-BR, craft Telma): reel/carrossel com abertura-faca — «Você não escolheu esse corpo. Escolheram por você.» — mostrando como a mãe aprendeu a usar o corpo para servir (carregar, alimentar, abraçar sem pedir nada de volta), e como isso não é instinto, é herança cultural gravada no movimento. Fechar no ciclo que pode acabar nela. CTA: GUARDAR. Liga ao ebook mae-08 ou mae-06.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Prosperidade",
+      "ideia": "peça curta de observação — «ela submeteu o corpo ao que a tribo exigia",
+      "texto": "Prosperidade (coleção, ex.: pros-01 \"A mulher que paga para pertencer\", pros-07 \"A mulher que não pode ter mais do que os outros\")** — a aula valida que os ideais corporais socialmente aceites e os riscos que as mulheres assumem para os atingir são um exemplo preciso de \"pagar para pertencer\": submeter o corpo à aprovação colectiva.\nIdeia para **soulab** (@soulab.studio, voz de laboratório/observação, visual lunar): peça curta de observação — «ela submeteu o corpo ao que a tribo exigia. chamou a isso cuidar de si.» — como hipótese sobre a fronteira entre escolha e conformidade. Sem ensinar, sem vender. Registo escuro, lapidar.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia (€5, série de guias práticos) «O que o teu corpo guarda» — para mulheres que identificam tensão crónica, postura de encolhimento ou dificuldade em ocupar espaço…",
+      "texto": "Novo:** mini-guia (€5, série de guias práticos) «O que o teu corpo guarda» — para mulheres que identificam tensão crónica, postura de encolhimento ou dificuldade em ocupar espaço físico como padrão herdado (não como problema muscular). A aula abre este ângulo — o corpo como arquivo cultural e familiar — que ainda não está coberto por nenhum guia do catálogo actual. Porquê agora: a cybercultura (tema da próxima aula) vai ampliar este território; o guia poderia ser lançado em par com esse conteúdo.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático *\"O teu corpo também existe\"* — para a mulher que trabalha em casa, não se move, e normalizou o confinamento digital como rotina",
+      "texto": "Novo:** guia prático *\"O teu corpo também existe\"* — para a mulher que trabalha em casa, não se move, e normalizou o confinamento digital como rotina. Formato: guia €5, semelhante aos existentes (ex.: `guia-03-presenca` ou `guia-04-mente`), mas com foco no corpo como território esquecido — 3 a 5 práticas curtas de re-habitar o corpo no quotidiano digital. Para quem: mulheres em home office crónico, com burnout silencioso. Porquê agora: a aula mostra que os índices de ansiedade e sedentarismo pós-pandemia são uma demanda real e crescente, ainda pouco nomeada nos produtos actuais do catálogo.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Trabalho",
+      "ideia": "Coleção Trabalho e Vocação (`tra-05 A mulher que confunde exaustão com mérito` / `tra-06 A mulher que trabalha para merecer`) — a aula valida que o sedentarismo reforça o ciclo…",
+      "texto": "Coleção Trabalho e Vocação** (`tra-05 A mulher que confunde exaustão com mérito` / `tra-06 A mulher que trabalha para merecer`) — a aula valida que o sedentarismo reforça o ciclo de baixa autoestima e menor capacidade de resposta a crises, o que aprofunda o padrão de trabalhar para provar valor. Um capítulo ou secção nestes ebooks pode usar a ciência da autoeficácia corporal como espelho: «quando o teu corpo não tem espaço para se mover, a tua autoestima também fica parada».",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia ou guia `guia-15-porque` — «Por que é que eu aguento?» — para a mulher que é forte, cumpre tudo, mas não consegue nomear o seu porquê; posicionado como primeiro…",
+      "texto": "Novo:** mini-guia ou guia `guia-15-porque` — «Por que é que eu aguento?» — para a mulher que é forte, cumpre tudo, mas não consegue nomear o seu porquê; posicionado como primeiro passo antes dos ebooks da coleção Força ou Infonte, preço €5, entrada fácil no catálogo com base direta na teoria de Frankl apresentada nesta aula.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "Coleção FreeMe Mãe (ebooks profundos) — A aula valida cientificamente, via Winnicott, que os padrões emocionais da mãe começam a ser transmitidos ao filho antes do nascimento, o…",
+      "texto": "Coleção FreeMe Mãe (ebooks profundos)** — A aula valida cientificamente, via Winnicott, que os padrões emocionais da mãe começam a ser transmitidos ao filho antes do nascimento, o que aprofunda os títulos já existentes sobre herança invisível e sobre a mãe que carrega.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "ebook-02 \"O que herdaste sem saber\" — A aula aprofunda a camada de herança mais precoce possível: não a infância, não a família de origem, mas o útero",
+      "texto": "ebook-02 \"O que herdaste sem saber\"** — A aula aprofunda a camada de herança mais precoce possível: não a infância, não a família de origem, mas o útero. Isso expande o argumento central deste ebook para antes do nascimento.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Outro",
+      "ideia": "mae.cine (@vivianne.dos.santos / @viviannewrites) — A teoria de Winnicott sobre memória corporal do feto funciona como prova científica forte para o movimento «Acaba em Mim», ap…",
+      "texto": "mae.cine (@vivianne.dos.santos / @viviannewrites)** — A teoria de Winnicott sobre memória corporal do feto funciona como prova científica forte para o movimento «Acaba em Mim», aplicada à camada mais recuada possível: a vida antes do nascimento.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Guias",
+      "ideia": "guia-05 \"Ritual para o luto que ninguém vê\" — A aula abre uma camada de luto raramente nomeada: o luto pela gestação difícil, pelo que foi transmitido sem querer, pelo que não s…",
+      "texto": "guia-05 \"Ritual para o luto que ninguém vê\"** — A aula abre uma camada de luto raramente nomeada: o luto pela gestação difícil, pelo que foi transmitido sem querer, pelo que não se sabia na altura.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Outro",
+      "ideia": "veu.a.veu — A sequência dos três trimestres (adaptação → estabilidade/ego → resposta intensa) é matéria didática clara, visual e acessível para o formato gouache com personagens.",
+      "texto": "veu.a.veu** — A sequência dos três trimestres (adaptação → estabilidade/ego → resposta intensa) é matéria didática clara, visual e acessível para o formato gouache com personagens.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "ebook profundo `mae-08 A mãe que não sentiu` pode ganhar um capítulo ou secção ancorada nesta matéria — a mãe que dissociou durante a gravidez, que não conseguiu formar o elo, e…",
+      "texto": "Coleção FreeMe Mãe** — A aula valida directamente o núcleo desta coleção: os sentimentos da mãe durante a gestação são transmitidos ao feto, e o contexto emocional em que a criança foi gerada marca a sua psique, o que fundamenta os padrões herdados que os ebooks desta coleção exploram.\nIdeia concreta: ebook profundo `mae-08 A mãe que não sentiu` pode ganhar um capítulo ou secção ancorada nesta matéria — a mãe que dissociou durante a gravidez, que não conseguiu formar o elo, e como essa ausência ficou registada no corpo do bebé como \"insegurança e descontinuidade\" (termo de Winnicott). A voz da coleção mantém-se: \"o que carregas que não é teu\" tem origem antes de nascer.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "acrescentar ao ebook (ou criar uma versão expandida) uma secção chamada \"antes de existires\" — o que a mãe sentiu durante a gravidez já era teu, sem pedires",
+      "texto": "Ebook fundador `ebook-02-herdaste` — \"O que herdaste sem saber\"** — A aula aprofunda este ebook: o que se herda começa no útero, não apenas na infância. A memória corporal de Winnicott é prova científica de que a herança invisível tem dimensão pré-verbal e pré-consciente.\nIdeia concreta: acrescentar ao ebook (ou criar uma versão expandida) uma secção chamada \"antes de existires\" — o que a mãe sentiu durante a gravidez já era teu, sem pedires. Uma frase de abertura no registo da coleção: \"Há coisas que carregas que entraram em ti antes de teres palavras para as nomear.\"",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Outro",
+      "ideia": "reel com abertura-faca (voz Telma): \"Você aprendeu a ter medo antes de nascer.\" Desenvolvimento: o stresse da mãe durante a gravidez atravessa a placenta — isso é biologia, não…",
+      "texto": "mae.cine** — O capítulo sobre psiquismo fetal é matéria-prima de alta potência para esta conta: audiência brasileira, padrões que se repetem, heranças transgeracionais, ciência como prova.\nIdeia concreta: reel com abertura-faca (voz Telma): \"Você aprendeu a ter medo antes de nascer.\" Desenvolvimento: o stresse da mãe durante a gravidez atravessa a placenta — isso é biologia, não metáfora (Winnicott, memória corporal). Fecho terno: \"O ciclo pode acabar em você.\" Hashtags `#acabaemmim #quebraciclos`. Foto quente, âmbar. CTA: SEGUIR/GUARDAR.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: post/reel para mae.cine com o ângulo «o sofrimento mental não é fraqueza de carácter — é uma política de saúde» — a aula valida cientificamente que depressão, ansiedade e…",
+      "texto": "Novo:** post/reel para **mae.cine** com o ângulo «o sofrimento mental não é fraqueza de carácter — é uma política de saúde» — a aula valida cientificamente que depressão, ansiedade e outras patologias são reconhecidas pelo Estado como condições que requerem assistência estruturada; este ângulo serve o movimento «Acaba em Mim» porque quebra o ciclo de vergonha herdada («a nossa família não precisa de ajuda»), usando a autoridade institucional (Ministério da Saúde, RAPS, CVV) como prova científica no formato faca-na-abertura da Telma — abre confrontador («você foi ensinada que pedir ajuda era fraqueza») e fecha terno («há uma rede inteira construída para te acolher»).",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "ebook profundo `mae-02 A mãe que ficou` ou `mae-11 A mãe que teme pesar` com um capítulo ou secção intitulada «A sala onde as mães respiram» — usando a imagem concreta do grupo…",
+      "texto": "Coleção FreeMe Mãe** — a experiência dos grupos de pais no CAPSi de São Bernardo valida directamente o território desta coleção: a mãe que carrega sozinha, que não tem onde ser acolhida, que aprende com outras mães a respirar sem culpa.\n**Ideia:** ebook profundo `mae-02 A mãe que ficou` ou `mae-11 A mãe que teme pesar` com um capítulo ou secção intitulada «A sala onde as mães respiram» — usando a imagem concreta do grupo de pais do CAPSi como espelho: o que acontece quando uma mãe tem, pela primeira vez, um espaço para partilhar sem ter de resolver.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Outro",
+      "ideia": "Abertura-faca: *«Você já teve um lugar só seu para falar sobre o que é ser mãe — sem ter de resolver nada?»* Corpo: o que a pesquisa mostra sobre o que acontece quando mães de c…",
+      "texto": "mae.cine (@vivianne.dos.santos / @viviannewrites)** — a aula fornece ciência-como-prova (estudo Jaburkeck & Gonçalves + relato clínico do CAPSi) para um reel ou carrossel no registo Telma Abrahão.\n**Ideia (PT-BR, «você»):** Abertura-faca: *«Você já teve um lugar só seu para falar sobre o que é ser mãe — sem ter de resolver nada?»* Corpo: o que a pesquisa mostra sobre o que acontece quando mães de crianças em sofrimento mental se reúnem semanalmente. Fecho no ciclo quebrado: *«Quando você tem onde ser acolhida, consegue acolher melhor. Isso acaba em você — e começa no seu filho.»* CTA: GUARDAR e PARTILHAR. Hashtags: `#acabaemmim #quebraciclos`.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Guias",
+      "ideia": "Uma secção ou página do guia que nomeie este luto específico — o luto da mãe que esperava uma infância diferente para o filho — usando a estrutura do grupo (partilhar, acolher,…",
+      "texto": "Guia prático `guia-05-luto`** *(Ritual para o luto que ninguém vê)* — a aula mostra que o luto dos familiares de crianças com transtorno mental é invisível e raramente nomeado; os grupos do CAPSi existem precisamente para o que ninguém vê.\n**Ideia:** Uma secção ou página do guia que nomeie este luto específico — o luto da mãe que esperava uma infância diferente para o filho — usando a estrutura do grupo (partilhar, acolher, aprender) como ritual possível fora do CAPS.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia ou ebook fundador dirigido a profissionais de saúde (psicólogos, assistentes sociais, terapeutas ocupacionais) que trabalham em contextos comunitários como o CAP…",
+      "texto": "Novo:** mini-guia ou ebook fundador dirigido a profissionais de saúde (psicólogos, assistentes sociais, terapeutas ocupacionais) que trabalham em contextos comunitários como o CAPS — sobre burnout do cuidador e reconstrução do sentido profissional. A aula cita explicitamente que o CAPS é um «espaço formativo de reconstrução da prática profissional»; existe aqui um público real (profissionais de saúde mental em contexto público) que o catálogo actual não endereça directamente, e que a disciplina «Desenvolvimento Pessoal e Profissional nas Carreiras da Saúde» (comum às 3 pós-graduações) justifica.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Força",
+      "ideia": "carrossel para a conta mae.cine com o gancho «O sistema de saúde tem uma palavra para quando você não consegue mais pedir ajuda — chama-se crise",
+      "texto": "Coleção Força** (`for-05 A mulher que vive em modo sobrevivência` · `for-02 A mulher que nunca pede`) — a aula valida que o estado de sobrevivência crónica tem correspondência clínica reconhecida pelo sistema de saúde (crise, urgência, incapacidade de autocuidado), dando autoridade científica ao território desta coleção.\n**Ideia:** carrossel para a conta **mae.cine** com o gancho «O sistema de saúde tem uma palavra para quando você não consegue mais pedir ajuda — chama-se crise. Mas muito antes da crise, já havia sinais que você aprendeu a ignorar.» — abre com o dado clínico (o sistema classifica, a UPA estabiliza) e fecha no padrão aprendido de não incomodar. Fotografias quentes, formato faca, português do Brasil, CTA: GUARDAR.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "ebook profundo novo dentro da coleção — *A mãe que ficou quando todos saíram* — sobre o luto silencioso de ser a única que não abandona, usando a estrutura clínica (o sistema cr…",
+      "texto": "FreeMe Mãe** (`mae-03 A mãe que salva` · `mae-07 A mãe solo`) — a aula descreve famílias que se afastam quando um membro tem crise ou dependência, validando o peso invisível que fica para quem fica (frequentemente a mãe ou a figura feminina de referência).\n**Ideia:** ebook profundo novo dentro da coleção — *A mãe que ficou quando todos saíram* — sobre o luto silencioso de ser a única que não abandona, usando a estrutura clínica (o sistema cria SRT porque as famílias se afastam) como âncora de realidade, não de jargão.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "amor"
+      ],
+      "produto": "Guias",
+      "ideia": "guia prático novo — *Quando amar é não conseguir sair* — sobre a vinculação que se forma quando o outro está em crise crónica, posicionado entre `guia-13-guarda` e `guia-11-inte…",
+      "texto": "Coleção SyncHim** (`syn-02 A mulher que se torna indispensável` · `syn-06 A mulher que nunca baixa a guarda`) — a aula descreve como o uso de drogas de um membro cria ciclos de afastamento e de tentativa de reparação familiar; esse ciclo de «fico ou fujo» ressoa com os padrões de vinculação da coleção SyncHim, onde a mulher oscila entre ser indispensável e proteger-se.\n**Ideia:** guia prático novo — *Quando amar é não conseguir sair* — sobre a vinculação que se forma quando o outro está em crise crónica, posicionado entre `guia-13-guarda` e `guia-11-intensidade` no catálogo (€5).",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "«Quando o teu filho muda e tu não sabes o que estás a ver» — o momento em que a mãe reconhece que há sofrimento mas não tem palavras nem sistema para o nomear, e como isso activ…",
+      "texto": "FreeMe Mãe (coleção, especialmente mae-03 \"A mãe que salva\" e mae-08 \"A mãe que não sentiu\")** — a aula valida a dinâmica da mãe que percebe que \"algo está errado\" no filho mas não tem linguagem para nomear o sofrimento, nem sabe se o que vê é comportamento desadaptado ou sofrimento real; é exactamente o terreno emocional destes títulos.\nIdeia para ebook profundo ou capítulo: «Quando o teu filho muda e tu não sabes o que estás a ver» — o momento em que a mãe reconhece que há sofrimento mas não tem palavras nem sistema para o nomear, e como isso activa culpa, hipervigilância e o padrão de \"salvar\". Respeita o glossário FreeMe Mãe: feridas da maternidade, limites, dizer basta.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Outro",
+      "ideia": "Abertura faca — «Você acha que o seu filho é difícil",
+      "texto": "mae.cine (@vivianne.dos.santos / @viviannewrites)** — a aula fornece ciência-como-prova (dados IBGE, USP, estudo UBS) que sustenta o argumento de que o sofrimento psíquico das crianças é invisível e subdiagnosticado, matéria directa para o craft da Telma Abrahao.\nIdeia para reel/carrossel (PT-BR, «você»): Abertura faca — «Você acha que o seu filho é difícil. E se ele estiver sofrendo e não souber te contar?» Corpo: dado USP (63% ansiosos, 59% depressivos) + dado de que a criança não consegue verbalizar o sofrimento interior + o estudo UBS (equipas com baixa sensibilidade). Fecho: «O ciclo não acaba nele. Acaba em quem aprende a ver.» CTA: GUARDAR/SEGUIR. Hashtags: #acabaemmim #quebraciclos.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Guias",
+      "ideia": "adicionar uma nota introdutória ao guia que enquadre scientificamente por que é que certos sofrimentos ficam sem nome — a aula dá o argumento clínico e sistémico para isso.",
+      "texto": "Guia prático guia-05-luto \"Ritual para o luto que ninguém vê\"** — a aula aprofunda o conceito de sofrimento interior não nomeado, que é exactamente o que este guia aborda; pode citar a dificuldade de diagnóstico como prova de que este luto é estruturalmente invisível, não apenas pessoal.\nIdeia: adicionar uma nota introdutória ao guia que enquadre scientificamente por que é que certos sofrimentos ficam sem nome — a aula dá o argumento clínico e sistémico para isso.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: ebook ou episódio veu.a.veu «A escola que me viu quando eu não me via» — a aula defende a escola como agente de identificação precoce de sofrimento; visto do lado da crian…",
+      "texto": "Novo:** ebook ou episódio veu.a.veu «A escola que me viu quando eu não me via» — a aula defende a escola como agente de identificação precoce de sofrimento; visto do lado da criança/adulta que hoje percebe que ninguém na sua escola foi formado para a ver, este ângulo alimenta a jornada das 13 semanas do veu.a.veu (bloco Heranças ou Sombra/Máscara), em formato gouache com as personagens Nina ou Teresa em contexto escolar. Regra: sem CTA de venda, optimiza para GUARDAR.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: série de conteúdos ou ebook sobre «o que a escola e o trabalho te ensinaram (ou não) sobre cuidar de ti» — o modelo bioecológico valida que família, escola e organizações…",
+      "texto": "Novo:** série de conteúdos ou ebook sobre «o que a escola e o trabalho te ensinaram (ou não) sobre cuidar de ti» — o modelo bioecológico valida que família, escola e organizações moldam activamente a saúde mental, o que abre um ângulo específico para mulheres adultas que reconhecem no ambiente de trabalho ou na escolaridade a origem de padrões de exaustão e autoexigência; para quem percebe que o sistema falhou antes de ela própria falhar; o ângulo é novo porque posiciona o esgotamento não como falha individual mas como resultado de contextos que não protegeram — linguagem directa para as coleções **Força** (`for-05 A mulher que vive em modo sobrevivência`) e **Trabalho e Vocação** (`tra-05 A mulher que confunde exaustão com mérito`), e alimenta também conteúdo para **mae.cine** com prova científica via modelo de Brown, Ferdinand e Morris.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "capítulo ou secção num dos ebooks existentes (ex.: `mae-01 Amar sem carregar` ou `mae-06 A mãe que cumpriu`) com o enquadramento «a família que te formou também te expôs» — não…",
+      "texto": "FreeMe Mãe** — a aula valida que a família é simultaneamente factor de risco e factor protetivo, o que aprofunda a tensão central desta coleção entre amar e causar dano sem intenção.\nIdeia concreta: capítulo ou secção num dos ebooks existentes (ex.: `mae-01 Amar sem carregar` ou `mae-06 A mãe que cumpriu`) com o enquadramento «a família que te formou também te expôs» — não como culpa, mas como contexto que moldou padrões; a linguagem mantém-se fora do jargão clínico, centrada na experiência vivida.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "num desses ebooks, usar o conceito de «contexto como fator de risco» para nomear que a crença de escassez não nasceu num vácuo — nasceu num sistema (família, comunidade, cultura…",
+      "texto": "Coleção Prosperidade** — o modelo bioecológico fundamenta que contextos culturais e comunitários (incluindo mensagens sobre mérito, escassez e pertença económica) funcionam como factores de risco transmitidos antes de qualquer escolha consciente, o que aprofunda os ebooks `pros-04 A mulher que herdou a escassez` e `pros-07 A mulher que não pode ter mais do que os outros`.\nIdeia concreta: num desses ebooks, usar o conceito de «contexto como fator de risco» para nomear que a crença de escassez não nasceu num vácuo — nasceu num sistema (família, comunidade, cultura) que a instalou; sem usar terminologia académica, apenas a ideia de que foi aprendido antes de ser escolhido.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: ebook ou guia sobre saúde mental no trabalho e burnout do cuidador — A aula documenta com dados concretos (Brasil = 2.º país com mais burnout; 30% dos brasileiros afetados…",
+      "texto": "Novo: ebook ou guia sobre saúde mental no trabalho e burnout do cuidador** — A aula documenta com dados concretos (Brasil = 2.º país com mais burnout; 30% dos brasileiros afetados) que existe uma crise de saúde mental ligada ao desempenho e ao sentido do trabalho; este ângulo ainda não está coberto de forma direta pelo catálogo, mas tem plena ressonância com a coleção **Trabalho e Vocação** e com o público cuidador da **veu.a.veu**. Um guia prático («O que o teu corpo te diz quando trabalhas para merecer») ou um ebook profundo `tra-05 A mulher que confunde exaustão com mérito` / `tra-06 A mulher que trabalha para merecer` pode usar estes dados como prova de que o padrão não é fraqueza individual — é um fenómeno sistémico com números que o confirmam. Para quem: mulheres adultas em burnout profissional. Porquê agora: os dados da pandemia tornaram o tema ainda mais urgente e a credibilidade científica reforça o ângulo «acaba em mim».",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "carrossel didáctico com as 5 personagens fixas — Nina apercebe-se que o filho tem dificuldade em nomear o que sente, e a aula da Teresa explica que isto é fisiológico (Bird e Du…",
+      "texto": "Coleção FreeMe Mãe** (`mae-08 A mãe que não sentiu` · `mae-03 A mãe que salva`) — A aula valida que o sistema de saúde mental focou historicamente a população adulta, negligenciando crianças; isto ressoa directamente com o padrão da mãe que detecta tarde o sofrimento dos filhos porque ninguém a ensinou a reconhecê-lo. Ideia para **veu.a.veu** (gouache, sem venda): carrossel didáctico com as 5 personagens fixas — Nina apercebe-se que o filho tem dificuldade em nomear o que sente, e a aula da Teresa explica que isto é fisiológico (Bird e Duarte, 2002: a criança tem dificuldade em correlacionar comportamentos ao sofrimento interior). Pergunta da série veu.a.veu: «O que te salvou quando ninguém sabia o nome do que tu sentias?»",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: conteúdo educativo sobre prevenção em saúde mental para profissionais de educação — A aula afirma explicitamente que «investir na capacitação dos profissionais de educação…",
+      "texto": "Novo: conteúdo educativo sobre prevenção em saúde mental para profissionais de educação** — A aula afirma explicitamente que «investir na capacitação dos profissionais de educação para diagnóstico é imperioso» e que as escolas têm papel fundamental na prevenção. Existe um público real — professores, psicopedagogos, coordenadores — que quer ferramentas práticas para identificar sinais de sofrimento em crianças. Este público não está directamente coberto pelo catálogo actual (orientado para mulheres adultas em processos pessoais). Um guia prático novo («Como reconhecer o sofrimento que a criança não consegue nomear») dirigido a profissionais de educação poderia ser um produto de entrada de baixo preço (€5, no formato dos guias práticos existentes) com potencial de distribuição em contextos institucionais.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia ou ebook \"De quem é esta voz que me chama fracasso?\" — A aula descreve com precisão o mecanismo pelo qual o viés negativo se instala como voz interna autodepreciativa…",
+      "texto": "Novo: guia ou ebook \"De quem é esta voz que me chama fracasso?\"** — A aula descreve com precisão o mecanismo pelo qual o viés negativo se instala como voz interna autodepreciativa (\"nunca acerto\", \"sou um fracasso\"); este ângulo específico — a voz crítica interna como padrão repetido, não como traço de caráter — é genuinamente novo no catálogo e encaixaria como ebook profundo na coleção **Infonte** (identidade e propósito) ou **Força**, para mulheres que confundem autocrítica crónica com lucidez ou com humildade; o momento é agora porque esta aula fornece a base psicológica (viés negativo + modelos mentais) que fundamenta o produto.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático \"Escreve a história em que não erraste — falhaste e ficaste de pé\" — A atividade proposta na aula (história com começo, meio e final positivo sobre um momento…",
+      "texto": "Novo: guia prático \"Escreve a história em que não erraste — falhaste e ficaste de pé\"** — A atividade proposta na aula (história com começo, meio e final positivo sobre um momento difícil bem resolvido) é um exercício de escrita terapêutica com formato editorial imediato; poderia ser um guia prático autónomo (~€5) dirigido a mulheres em modo sobrevivência que nunca reconheceram as suas próprias competências, alimentando a coleção **Força** (`for-04 A mulher que se tornou forte demais` / `for-05 A mulher que vive em modo sobrevivência`); a novidade está no formato narrativo (não lista, não reflexão abstracta) como ferramenta de percepção de valor.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Prosperidade",
+      "ideia": "num futuro capítulo ou adenda ao `pros-06`, incluir a distinção locus interno/externo como explicação psicológica para o bloqueio em cobrar — \"não é falta de coragem, é onde a t…",
+      "texto": "Coleção Prosperidade** (`pros-05 A mulher que tem medo de receber` / `pros-06 A mulher que não consegue cobrar`) — A aula valida que o locus de controle externo (atribuir os resultados ao acaso, à sorte, a terceiros) é um dos mecanismos que mantém a mulher bloqueada em relação ao receber e ao cobrar; a autorresponsabilidade que vem do locus interno é exatamente o que estes ebooks trabalham a nível psíquico.\nIdeia concreta: num futuro capítulo ou adenda ao `pros-06`, incluir a distinção locus interno/externo como explicação psicológica para o bloqueio em cobrar — \"não é falta de coragem, é onde a tua mente põe a origem do teu valor.\"",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Guias",
+      "ideia": "reel ou carrossel com a frase da aula adaptada — \"Se a responsabilidade não é tua, a solução também não é — e o problema é que parte de ti acredita que o teu valor também não é…",
+      "texto": "Guia `guia-10-receber` — Aprender a receber** — A aula toca directamente no mesmo território: receber, reconhecer o próprio valor, aceitar que se tem algo a oferecer; a distinção locus interno/externo é uma ferramenta editorial para aprofundar este guia numa futura revisão ou num post de contexto que o suporte.\nIdeia concreta para **mae.cine**: reel ou carrossel com a frase da aula adaptada — \"Se a responsabilidade não é tua, a solução também não é — e o problema é que parte de ti acredita que o teu valor também não é teu\" — no registo faca + ciência-como-prova, em português do Brasil, com CTA GUARDAR; encaminha para o guia `guia-10-receber`.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia ou carrossel «A felicidade que já tens» — para mulheres em burnout que confundem conquista com bem-estar, baseado na proposta de Comte-Sponville (desejar o que j…",
+      "texto": "Novo:** mini-guia ou carrossel «A felicidade que já tens» — para mulheres em burnout que confundem conquista com bem-estar, baseado na proposta de Comte-Sponville (desejar o que já se tem). Público: o mesmo das coleções Força e Trabalho e Vocação (`for-` e `tra-`), que vivem em modo sobrevivência e adiaram a felicidade para «quando chegar lá». Formato natural: guia prático €5 (encaixa no catálogo existente como `guia-15`). Porquê agora: a aula oferece a base filosófica para o argumento sem precisar de linguagem clínica — é acessível, vende-se com um título simples e tem CTA directo para o pack Força.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "acrescentar uma secção ou parágrafo que traduza a neuroplasticidade em linguagem de produto — «o teu cérebro aprendeu a não receber; pode aprender o contrário» — sem jargão técn…",
+      "texto": "Coleção Prosperidade** — a aula valida que a crença de que «nunca se tem o suficiente» (escassez, não merecer) não é um defeito de carácter mas um padrão neurológico aprendido que pode ser reprogramado via neuroplasticidade.\nIdeia para `pros-04 A mulher que herdou a escassez` ou `pros-05 A mulher que tem medo de receber`: acrescentar uma secção ou parágrafo que traduza a neuroplasticidade em linguagem de produto — «o teu cérebro aprendeu a não receber; pode aprender o contrário» — sem jargão técnico, usando a voz dos ebooks profundos (observação interior, não diagnóstico).",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "citar (de forma traduzida e humanizada) a distinção entre êxtase esperado e bem-estar real como âncora do capítulo — a mãe não falhou em sentir o pico; o pico nunca foi o que de…",
+      "texto": "Coleção FreeMe Mãe** — a ideia de felicidade como «bem silencioso e contínuo» (não êxtase) ressoa directamente com a culpa materna de «não sentir o que devia sentir»; a aula fornece base neurológica para nomear isso sem patologizar.\nIdeia para `mae-08 A mãe que não sentiu`: citar (de forma traduzida e humanizada) a distinção entre êxtase esperado e bem-estar real como âncora do capítulo — a mãe não falhou em sentir o pico; o pico nunca foi o que devia sentir.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Outro",
+      "ideia": "abrir com «O seu filho não está condenado ao mesmo padrão que você herdou — e a neurociência explica porquê»; desenvolver com a neuroplasticidade como prova científica de que he…",
+      "texto": "mae.cine** — a neuroplasticidade é ciência com consequência directa para o movimento «Acaba em Mim»: o ciclo quebra porque o cérebro pode aprender.\nIdeia de post/reel no registo da Telma (PT-BR, «você», faca na abertura): abrir com «O seu filho não está condenado ao mesmo padrão que você herdou — e a neurociência explica porquê»; desenvolver com a neuroplasticidade como prova científica de que heranças emocionais podem ser interrompidas; fechar no movimento #acabaemmim. Visual: foto cinematográfica quente, nunca escura.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-ebook ou guia «O teu cérebro pode aprender a receber» — para mulheres que reconhecem padrões repetitivos (escassez, sobrevivência, não merecer) mas precisam de uma po…",
+      "texto": "Novo:** mini-ebook ou guia «O teu cérebro pode aprender a receber» — para mulheres que reconhecem padrões repetitivos (escassez, sobrevivência, não merecer) mas precisam de uma ponte entre a linguagem emocional dos ebooks e a evidência científica de que a mudança é biologicamente possível. Encaixaria como guia-15 na série de guias práticos (€5) ou como ebook fundador autónomo (€7). Ângulo diferenciador: usa a neuroplasticidade não como conceito académico mas como «prova de que não és a tua história».",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Prosperidade",
+      "ideia": "carrossel para mae.cine com o título «Ganhar mais não te vai fazer feliz (e a ciência explica porquê)» — abre com a adaptação hedónica aplicada ao dinheiro e ao aumento salarial…",
+      "texto": "Coleção Prosperidade** — A fórmula 50-40-10 valida diretamente o núcleo desta coleção: a relação com o dinheiro e o mérito não é só circunstância externa (10%), é construção intencional (40%), o que confronta a crença de que \"ter mais\" resolve tudo.\nIdeia: carrossel para **mae.cine** com o título «Ganhar mais não te vai fazer feliz (e a ciência explica porquê)» — abre com a adaptação hedónica aplicada ao dinheiro e ao aumento salarial, cita a fórmula 50-40-10 como prova científica, fecha no padrão «a mulher que trabalha para merecer» (`tra-06`) e no movimento #acabaemmim. Voz Telma: faca na abertura («Você conseguiu o aumento. E daí a três meses, era como se nunca tivesse acontecido.»), ciência com consequência, foto quente âmbar.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Livros",
+      "ideia": "secção de capítulo que introduz a negligência imune como explicação psicológica para o medo de receber — «o teu sistema não sabe que também se adapta ao bem».",
+      "texto": "Ebook profundo `pros-05` — A mulher que tem medo de receber** — A adaptação hedónica e a negligência imune aprofundam a dinâmica deste título: a mulher que não recebe também não percebe que se habituaria à abundância, o que alimenta o ciclo de evitamento.\nIdeia: secção de capítulo que introduz a negligência imune como explicação psicológica para o medo de receber — «o teu sistema não sabe que também se adapta ao bem».",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "carrossel para mae.cine com o título «A mãe que faz tudo e não sente nada» — usa a definição científica de savoring como contraste com o modo automático, fecha no padrão transge…",
+      "texto": "Coleção FreeMe Mãe** — O modelo dos comportamentos das pessoas felizes (gratidão, relações, savoring, otimismo) entra em colisão direta com o padrão da mãe que cumpre (`mae-06`) e da mãe que salva (`mae-03`): a mãe que nunca saboreia porque está sempre a resolver.\nIdeia: carrossel para **mae.cine** com o título «A mãe que faz tudo e não sente nada» — usa a definição científica de savoring como contraste com o modo automático, fecha no padrão transgeracional e no #quebraciclos. Voz Telma: «Você está presente no corpo, mas ausente na experiência.»",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Guias",
+      "ideia": "caixa de abertura do guia com a frase de Lyubomirsky sobre felicidade + sentido, antes de entrar nas práticas.",
+      "texto": "Guia `guia-03-presenca` — Práticas de presença para o dia a dia** — O savoring e o viver no momento presente são exactamente o território deste guia; a aula fornece o fundamento científico (psicologia positiva) que o guia pode usar como validação sem ser académico.\nIdeia: caixa de abertura do guia com a frase de Lyubomirsky sobre felicidade + sentido, antes de entrar nas práticas.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia ou reel «A fórmula da felicidade não é o que te ensinaram» — para mae.cine, dirigido à mulher que acredita que a vida vai melhorar quando a circunstância mudar (…",
+      "texto": "Novo:** mini-guia ou reel «A fórmula da felicidade não é o que te ensinaram» — para **mae.cine**, dirigido à mulher que acredita que a vida vai melhorar quando a circunstância mudar (filho crescer, relação estabilizar, dinheiro aparecer). A fórmula 50-40-10 é o gancho científico; o produto de entrada natural é o **guia `guia-01-meu` — O que é meu, o que não é meu** (a crença de que a felicidade depende do externo também é herdada). Porquê agora: a conversa pública sobre saúde mental e autoconhecimento está no pico — este é um ângulo com ciência, sem ser clínico, com aplicação imediata para o público brasileiro.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Livros",
+      "ideia": "um capítulo ou secção \"O teu cérebro não vê o que já tens\" que explica o viés negativo como motor do medo de receber — e propõe o exercício de saborear uma conquista financeira…",
+      "texto": "Coleção Prosperidade** — a aula valida o mecanismo pelo qual mulheres com padrão de escassez ou dificuldade em receber estão a operar com o viés negativo activado: focam no que falhou, no que pode correr mal, e não registam o que já chegou.\nIdeia para `pros-05 A mulher que tem medo de receber`: um capítulo ou secção \"O teu cérebro não vê o que já tens\" que explica o viés negativo como motor do medo de receber — e propõe o exercício de saborear uma conquista financeira pequena para treinar a percepção do que já existe.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "amor"
+      ],
+      "produto": "SyncHim",
+      "ideia": "um parágrafo que nomeia o viés negativo como explicação científica para o fenómeno — \"o teu cérebro está treinado para confiar mais na dor do que na calma; por isso o amor tranq…",
+      "texto": "Coleção SyncHim** — a aula aprofunda o padrão de `syn-07 A mulher que confunde intensidade com amor`: a intensidade emocional do negativo (ausência, conflito, tensão) é percebida como muito mais real e poderosa do que os momentos de presença tranquila, o que faz com que o amor calmo \"não pareça amor\".\nIdeia para `syn-07`: um parágrafo que nomeia o viés negativo como explicação científica para o fenómeno — \"o teu cérebro está treinado para confiar mais na dor do que na calma; por isso o amor tranquilo parece vazio.\"",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "uma secção \"Só tu sabes o que erraste\" (inspirada no exemplo da apresentação — só a própria sabe o deslize) que valida que o erro que a mãe carrega como prova de falha pode ser…",
+      "texto": "Coleção FreeMe Mãe** — a aula valida o padrão central de `mae-01 Amar sem carregar` e `mae-06 A mãe que cumpriu`: mães que fizeram imensas coisas bem sentem que falharam por causa de um momento difícil, porque o viés negativo amplifica o erro e silencia tudo o resto.\nIdeia para `mae-06`: uma secção \"Só tu sabes o que erraste\" (inspirada no exemplo da apresentação — só a própria sabe o deslize) que valida que o erro que a mãe carrega como prova de falha pode ser invisível para os filhos.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Outro",
+      "ideia": "abertura com o gancho da entrevista de emprego adaptado à maternidade (\"você teve um dia inteiro de presença, mas gritou uma vez — e só pensa nisso\"); meio com a explicação evol…",
+      "texto": "mae.cine** — a aula fornece prova científica (viés negativo + origem evolutiva) para um reel no formato faca da Telma, linha de abertura do tipo: \"O teu cérebro foi construído para lembrar o que erraste como mãe. Não porque falhaste — mas porque sobreviveste.\"\nIdeia de reel (PT-BR, «você»): abertura com o gancho da entrevista de emprego adaptado à maternidade (\"você teve um dia inteiro de presença, mas gritou uma vez — e só pensa nisso\"); meio com a explicação evolutiva em linguagem acessível; fecho no movimento Acaba em Mim: \"Quebrar o ciclo começa por parar de ser a única que se condena.\" CTA: GUARDAR.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático \"Treinar o olhar\" — um guia de €5 (formato dos guias existentes) com 7 práticas de saborear para o dia a dia, dirigido a mulheres que reconhecem que \"só vêem…",
+      "texto": "Novo:** guia prático \"Treinar o olhar\" — um guia de €5 (formato dos guias existentes) com 7 práticas de saborear para o dia a dia, dirigido a mulheres que reconhecem que \"só vêem o que corre mal\" mas não sabem como mudar isso. Encaixaria naturalmente como `guia-15` ou como porta de entrada para a Coleção Força. O conceito de saborear + assimetria positivo/negativo desta aula dá a estrutura inteira do guia, sem precisar de matéria externa.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Prosperidade",
+      "ideia": "carrossel para mae.cine (voz Telma, PT-BR, «você», foto quente, faca na abertura): «Você não consegue ser grata por algo que não se permite receber» — ciência de Fredrickson com…",
+      "texto": "Coleção Prosperidade** — O mecanismo da gratidão (retribuir → laços sociais → amor) entra em tensão directa com os perfis `pros-05 A mulher que tem medo de receber` e `guia-10-receber Aprender a receber`: quem não consegue receber bloqueia o ciclo da gratidão antes de ele começar — não há retribuição possível quando a recepção está fechada.\n**Ideia:** carrossel para **mae.cine** (voz Telma, PT-BR, «você», foto quente, faca na abertura): «Você não consegue ser grata por algo que não se permite receber» — ciência de Fredrickson como prova. CTA: GUARDAR. Movimento: #acabaemmim.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "amor"
+      ],
+      "produto": "Ebooks",
+      "ideia": "ebook `syn-07 A mulher que confunde intensidade com amor` — capítulo baseado na distinção de Fredrickson: a intensidade (emoção negativa — reação, presente) vs",
+      "texto": "Coleção SyncHim** — O amor como \"emoção positiva mais poderosa\" que \"conecta de forma inteira\" e promove confiança, bondade e gentileza contrasta com os padrões da coleção — amar a ausência, confundir intensidade com amor, desaparecer no amor. A aula fornece a definição positiva do amor como referência: o amor que constrói vs. o amor que reage.\n**Ideia:** ebook `syn-07 A mulher que confunde intensidade com amor` — capítulo baseado na distinção de Fredrickson: a intensidade (emoção negativa — reação, presente) vs. o amor como emoção positiva que orienta para o futuro e constrói recursos. «A intensidade não te constrói. O amor sim.»",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "amor"
+      ],
+      "produto": "SyncHim",
+      "ideia": "post/carrossel para soulab (registo de exploração, escuro/lunar, hipótese, não ensina): «Admirar o que o outro poderia ser é uma forma de não olhar para o que tu já és» — frasea…",
+      "texto": "Coleção SyncHim** — A admiração/temor como emoção de duplo efeito (pode gerar acomodação ou mobilização) mapeia directamente para `syn-05 A mulher que ama o potencial`: a mulher que ama o potencial do outro está em estado de admiração permanente — e isso pode paralisá-la em vez de a mobilizar para a sua própria excelência (que é o que a inspiração faria).\n**Ideia:** post/carrossel para **soulab** (registo de exploração, escuro/lunar, hipótese, não ensina): «Admirar o que o outro poderia ser é uma forma de não olhar para o que tu já és» — fraseado como observação, não como lição.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "carrossel para mae.cine (Telma, PT-BR, foto quente): «A mãe que esqueceu como brincar» — abre com faca («Você cuida de tudo",
+      "texto": "Coleção FreeMe Mãe** — A diversão como emoção positiva construtora de amizades e criatividade, e a gratidão como criadora de laços, entram em tensão com os perfis da mãe que cumpriu (`mae-06`), a mãe que salva (`mae-03`) e a mãe solo (`mae-07`): mães em modo de reação permanente perdem o acesso à diversão e à gratidão como recursos.\n**Ideia:** carrossel para **mae.cine** (Telma, PT-BR, foto quente): «A mãe que esqueceu como brincar» — abre com faca («Você cuida de tudo. Menos de sentir alegria»), usa a teoria de Fredrickson como prova científica de que a alegria constrói resiliência. CTA: GUARDAR + PARTILHAR. #acabaemmim.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: cartões digitais ou guia «As 10 Emoções que te Constroem» — baseado directamente nas 10 emoções de Fredrickson, em formato de guia prático (€5, alinha com os guias da linh…",
+      "texto": "Novo:** cartões digitais ou guia «As 10 Emoções que te Constroem» — baseado directamente nas 10 emoções de Fredrickson, em formato de guia prático (€5, alinha com os guias da linha 1.3). Para quem está em burnout ou modo sobrevivência e não consegue nomear o que sente — dar nome às emoções positivas é o primeiro passo para as cultivar deliberadamente. Ângulo diferenciador: não é \"pensa positivo\", é ciência com consequência (Fredrickson). Pode ser entrada de porta para qualquer uma das 7 coleções.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Prosperidade",
+      "ideia": "reel com abertura de faca — «O teu cérebro está programado para ignorar o que recebes",
+      "texto": "Pack Prosperidade / ebook pros-05 \"A mulher que tem medo de receber\"** — a aula valida directamente a dificuldade de receber como padrão treinável: o viés negativo e a adaptação hedónica explicam por que certas mulheres não conseguem reconhecer o que já têm ou acolher o que lhes chega, e o savoring e a gratidão são ferramentas de inversão desse padrão.\nIdeia para **mae.cine**: reel com abertura de faca — «O teu cérebro está programado para ignorar o que recebes. Não é ingratidão. É sobrevivência.» — seguido de ciência (adaptação hedónica + viés negativo) e fecho no ciclo que se quebra quando aprendes a saborear. CTA: GUARDAR.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "carrossel didáctico — «Porque é que não consigo estar presente com os meus filhos?» — mostrando o ciclo passado→tristeza / futuro→ansiedade / presente→único lugar de poder, com…",
+      "texto": "FreeMe Mãe — ebook mae-08 \"A mãe que não sentiu\"** — a aula fundamenta por que mães em modo de sobrevivência não conseguem estar presentes nem saborear os momentos com os filhos: dispersão mental + viés negativo + ausência de presença plena são os mecanismos exactos.\nIdeia para **veu.a.veu** (gouache, personagem Nina ou Teresa): carrossel didáctico — «Porque é que não consigo estar presente com os meus filhos?» — mostrando o ciclo passado→tristeza / futuro→ansiedade / presente→único lugar de poder, com exercício das três bênçãos adaptado à maternidade. Sem CTA de venda; CTA: GUARDAR.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático «Os 3 exercícios que treinam o teu cérebro para o bem-estar» — compilando visita de gratidão, três bênçãos e savoring numa sequência de 21 dias com instruções…",
+      "texto": "Novo:** guia prático «Os 3 exercícios que treinam o teu cérebro para o bem-estar» — compilando visita de gratidão, três bênçãos e savoring numa sequência de 21 dias com instruções directas. Para quem? Mulheres que já leram um ebook de qualquer coleção e querem uma ferramenta de aplicação imediata. Porquê agora? A aula entrega exactamente essa sequência com suporte em investigação; é um produto de entrada de €5 (formato guia, alinha com os guia-01 a guia-14 já existentes) que pode ser cross-sell em qualquer coleção.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "mae.cine — A ciência da felicidade como prova de que o que a família te deu (ou não deu) molda a tua capacidade de conexão e generosidade.",
+      "texto": "mae.cine** — A ciência da felicidade como prova de que o que a família te deu (ou não deu) molda a tua capacidade de conexão e generosidade.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Prosperidade",
+      "ideia": "Coleção Prosperidade — A aula aprofunda a distinção entre valor real e valor material, validando o território dos ebooks da coleção.",
+      "texto": "Coleção Prosperidade** — A aula aprofunda a distinção entre valor real e valor material, validando o território dos ebooks da coleção.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático sobre generosidade como prática de bem-estar — para quem sai do burnout e não sabe como voltar a sentir.",
+      "texto": "Novo:** guia prático sobre generosidade como prática de bem-estar — para quem sai do burnout e não sabe como voltar a sentir.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "carrossel para mae.cine com o gancho «Você aprendeu a trabalhar o dobro para merecer metade — isso não é feitio, é autoestima baixa construída por mensagem que você recebeu ante…",
+      "texto": "Coleção Prosperidade** — a aula valida directamente o eixo «merece receber» desta coleção: a dificuldade de cobrar, de receber e de se autorizar a ganhar mais tem raiz na autoestima baixa construída por mensagens de desvalor recebidas na infância.\nIdeia: carrossel para **mae.cine** com o gancho «Você aprendeu a trabalhar o dobro para merecer metade — isso não é feitio, é autoestima baixa construída por mensagem que você recebeu antes dos 10 anos», ligando ao ebook `pros-06 A mulher que não consegue cobrar` ou `pros-05 A mulher que tem medo de receber`. Voz Telma: faca na abertura, «não é preguiça, é autoestima», ciência (Tavares) como prova, fechar no ciclo que acaba.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "numa página de venda ou introdução do ebook, uma linha de abertura ancorada neste mecanismo — «Você não tem medo de cobrar",
+      "texto": "ebook pros-06 / pros-05** — a aula aprofunda o mecanismo psicológico por detrás destes títulos: o medo de cobrar e o medo de receber são sintomas de autoestima baixa formada por ausência de reforço positivo.\nIdeia: numa página de venda ou introdução do ebook, uma linha de abertura ancorada neste mecanismo — «Você não tem medo de cobrar. Você aprendeu, ainda criança, que pedir é demais.»",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "carrossel mae.cine — «A mãe que nunca pede aprendeu, antes de ser mãe, que as suas necessidades eram demais",
+      "texto": "Coleção FreeMe Mãe** — a aula valida que o padrão da mãe que salva, que cumpre, que nunca pede começa na infância: a autoestima baixa forma-se quando a criança não se sente aceite, e a mãe que se anula está a repetir esse registo.\nIdeia: carrossel **mae.cine** — «A mãe que nunca pede aprendeu, antes de ser mãe, que as suas necessidades eram demais. Isso acaba em você.» Encaminha para `mae-02`, `mae-06` ou o pack FreeMe Mãe. Hashtags `#acabaemmim #quebraciclos`.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "introdução de capítulo que conecte a ausência de reforço positivo na infância desta mãe com a forma como ela se relaciona hoje com a sua própria filha.",
+      "texto": "ebook mae-08 · mae-10** — «A mãe que não sentiu» e «A mãe arrependida» encaixam directamente no mecanismo descrito: a dificuldade de reconhecer o próprio valor pode manifestar-se como entorpecimento emocional ou culpa crónica na maternidade.\nIdeia: introdução de capítulo que conecte a ausência de reforço positivo na infância desta mãe com a forma como ela se relaciona hoje com a sua própria filha.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia ou guia prático «O elogio que nunca chegou» — para quem quer perceber como a ausência de reforço positivo na infância se instalou como voz interna adulta; públic…",
+      "texto": "Novo:** mini-guia ou guia prático «O elogio que nunca chegou» — para quem quer perceber como a ausência de reforço positivo na infância se instalou como voz interna adulta; público: mulheres que se reconhecem no perfil «sempre bem, nunca suficiente»; justificação: a aula abre explicitamente este mecanismo (elogio como elemento formador da autoestima) e nenhum dos guias actuais o endereça directamente neste ângulo de origem.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "FreeMe Mãe — a aula valida que a autoestima se constrói ao longo da vida e em contextos relacionais, o que aprofunda o núcleo de toda a coleção: a mãe que nunca se autorizou a s…",
+      "texto": "FreeMe Mãe** — a aula valida que a autoestima se constrói ao longo da vida e em contextos relacionais, o que aprofunda o núcleo de toda a coleção: a mãe que nunca se autorizou a sentir que era suficiente.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Prosperidade",
+      "ideia": "Coleção Prosperidade — a aula confirma que a autoestima pode ser elevada por atos conscientes e que a perceção do próprio valor é trabalhável, ancorando o tema central dos ebook…",
+      "texto": "Coleção Prosperidade** — a aula confirma que a autoestima pode ser elevada por atos conscientes e que a perceção do próprio valor é trabalhável, ancorando o tema central dos ebooks `pros-05 A mulher que tem medo de receber` e `pros-06 A mulher que não consegue cobrar`.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: mini-guia ou ebook fundador «Como te avalias» — para quem nunca parou para medir a sua autoestima de forma consciente; o ângulo não é clínico mas de autoconhecimento aplic…",
+      "texto": "Novo:** mini-guia ou ebook fundador «Como te avalias» — para quem nunca parou para medir a sua autoestima de forma consciente; o ângulo não é clínico mas de autoconhecimento aplicado: «10 afirmações que ninguém te ensinou a fazer sobre ti própria». Público: mulheres adultas que nunca acederam a ferramentas de avaliação psicológica mas sentem que a sua autoavaliação é distorcida. Momento certo: a aula mostra que este é um ponto de entrada de baixo custo e alta ressonância — uma ferramenta simples que devolve agência imediata.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: guia prático «A tua felicidade é tua ou é emprestada?» — a distinção entre felicidade interna e felicidade externa é um ângulo ainda não explorado diretamente no catálogo;…",
+      "texto": "Novo:** guia prático «A tua felicidade é tua ou é emprestada?» — a distinção entre felicidade interna e felicidade externa é um ângulo ainda não explorado diretamente no catálogo; poderia ser um guia a €5 no formato dos guias práticos existentes, dirigido a mulheres que confundem conquistas externas (cargo, relação, aprovação) com bem-estar real; a pergunta «de quem é esta felicidade?» encaixa perfeitamente na lógica dos títulos já existentes («De quem é esta voz?», «De quem é esta meta?»).",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [],
+      "produto": "Oportunidade",
+      "ideia": "Novo: conteúdo veu.a.veu — carrossel em gouache com os 5 objetivos da unidade transformados numa jornada visual («o que é o autoconhecimento → o que te dá bem-estar → a tua feli…",
+      "texto": "Novo: conteúdo veu.a.veu** — carrossel em gouache com os 5 objetivos da unidade transformados numa jornada visual («o que é o autoconhecimento → o que te dá bem-estar → a tua felicidade é interna ou externa → como te avalias → o que fazes conscientemente»); serve o público das cuidadoras em burnout que confundem exaustão com normalidade e precisam de ferramentas concretas como a Escala de Rosenberg apresentada de forma simples e acessível; CTA: GUARDAR.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Ebooks",
+      "ideia": "numa futura sequência de e-mail para estes ebooks, incluir a pergunta da Escala de Rosenberg adaptada — «em que momento deixaste de te considerar suficiente?» — como abertura em…",
+      "texto": "Coleção Prosperidade** — a aula valida o elo entre autoestima e a relação com o dinheiro/valor; ebooks como `pros-05 A mulher que tem medo de receber` e `pros-06 A mulher que não consegue cobrar` ancoram-se directamente na ideia de que a perceção de valor próprio (autoestima) determina o que a mulher se autoriza a receber; uma ideia concreta: numa futura sequência de e-mail para estes ebooks, incluir a pergunta da Escala de Rosenberg adaptada — «em que momento deixaste de te considerar suficiente?» — como abertura emocional antes do CTA.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "num post mae.cine, usar o conceito de atos conscientes para propor três gestos diários que quebram o padrão de autoavaliação negativa herdado, ligando ao movimento «Acaba em Mim…",
+      "texto": "Coleção FreeMe Mãe** — a autoestima baixa como padrão herdado aparece em vários ebooks da coleção (especialmente `mae-02 A mãe que ficou` e `mae-10 A mãe arrependida`); a aula fornece a base conceptual para nomear que a mãe que não se valoriza não aprendeu a fazê-lo — foi ensinada a não se valorizar; ideia concreta: num post mae.cine, usar o conceito de atos conscientes para propor três gestos diários que quebram o padrão de autoavaliação negativa herdado, ligando ao movimento «Acaba em Mim» com a hashtag #acabaemmim.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "prosperidade"
+      ],
+      "produto": "Prosperidade",
+      "ideia": "reel com o gancho \"você acha que o mercado decide quanto você vale — mas é o seu cérebro que decide primeiro\" + corte para a explicação do lócus de controlo interno vs",
+      "texto": "Coleção Prosperidade** (ebooks `pros-05 A mulher que tem medo de receber` e `pros-06 A mulher que não consegue cobrar`) — A aula valida diretamente o padrão de lócus de controlo externo como raiz da dificuldade em reconhecer o próprio valor e cobrar; a fórmula 50-40-10 reforça que mudar esse padrão é possível e intencional.\n**Ideia para mae.cine:** reel com o gancho \"você acha que o mercado decide quanto você vale — mas é o seu cérebro que decide primeiro\" + corte para a explicação do lócus de controlo interno vs. externo com ciência como prova + CTA GUARDAR. Liga ao `pros-06`.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "amor"
+      ],
+      "produto": "SyncHim",
+      "ideia": "reel com faca \"você não está viciada nele — está viciada na intensidade que o cérebro registou como amor\" + explicação do viés de impacto + fechar no ciclo que acaba em mim",
+      "texto": "Coleção SyncHim** (`syn-03 A mulher que desaparece no amor` e `syn-07 A mulher que confunde intensidade com amor`) — A adaptação hedónica e o viés de impacto explicam por que a intensidade do início de uma relação se esvazia e a mulher continua a perseguir esse estado como se fosse amor. A ciência valida o tema dos dois ebooks.\n**Ideia para mae.cine:** reel com faca \"você não está viciada nele — está viciada na intensidade que o cérebro registou como amor\" + explicação do viés de impacto + fechar no ciclo que acaba em mim. Liga a `syn-07`. CTA GUARDAR.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
+    },
+    {
+      "temas": [
+        "maternidade"
+      ],
+      "produto": "FreeMe Mãe",
+      "ideia": "carrossel \"você amou — só não sentiu o que te disseram que ia sentir\" — 5 slides com viés negativo, adaptação hedónica e broaden-and-build como enquadramento científico + fechar…",
+      "texto": "Coleção FreeMe Mãe** (`mae-08 A mãe que não sentiu` e `mae-10 A mãe arrependida`) — A aula explica que emoções positivas podem não ser sentidas com a intensidade esperada (efeito da adaptação hedónica e do viés negativo), o que valida a experiência de mães que não sentiram o que \"deviam sentir\" ao ter filhos.\n**Ideia para mae.cine:** carrossel \"você amou — só não sentiu o que te disseram que ia sentir\" — 5 slides com viés negativo, adaptação hedónica e broaden-and-build como enquadramento científico + fechar com \"o ciclo que acaba em mim é também o de parar de te julgar pelo que não sentiste\". CTA GUARDAR. Liga a `mae-08`.",
+      "curso": "Psicologia e Espiritualidade",
+      "cadeira": "Psicologia e Espiritualidade · Autoconhecimento e o Estudo das Emoções"
     },
     {
       "temas": [],
