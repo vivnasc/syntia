@@ -98,8 +98,9 @@ function listarDirs(dir) {
 
 // Áreas de topo que não são cursos: vivem na raiz e valem como uma cadeira.
 // A disciplina-partilhada é comum aos cursos; a rota100k é o espaço próprio
-// de criação de conteúdo. Ambas são lidas pela ponte para o viviannepag.
-const AREAS_RAIZ = ["disciplina-partilhada", "rota100k"];
+// de criação de conteúdo e a venda100k o de low ticket e vendas. Todas são
+// lidas pela ponte para o viviannepag.
+const AREAS_RAIZ = ["disciplina-partilhada", "rota100k", "venda100k"];
 
 // Área válida de processamento: uma cadeira de um curso ou uma área de raiz.
 const AREA_VALIDA = new RegExp(
