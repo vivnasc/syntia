@@ -98,6 +98,7 @@ const ACENTOS = [
   [/import[_ ]?ncia/gi, "Importância"],
   [/ate[_ ]?smo/gi, "Ateísmo"],
   [/religiosidade/gi, "Religiosidade"],
+  [/(?<![a-z])m[o_]dulo/gi, "Módulo"],
   [/religi[_ ]o(?![a-z])/gi, "Religião"],
   [/c[_ ]rebro/gi, "Cérebro"],
   [/_ndividual/gi, "_Individual"],
