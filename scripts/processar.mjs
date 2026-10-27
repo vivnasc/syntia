@@ -100,7 +100,7 @@ function listarDirs(dir) {
 // A disciplina-partilhada é comum aos cursos; a rota100k é o espaço próprio
 // de criação de conteúdo e a venda100k o de low ticket e vendas. Todas são
 // lidas pela ponte para o viviannepag.
-const AREAS_RAIZ = ["disciplina-partilhada", "rota100k", "venda100k"];
+const AREAS_RAIZ = ["disciplina-partilhada", "rota100k", "venda100k", "destrave-story"];
 
 // Área válida de processamento: uma cadeira de um curso ou uma área de raiz.
 const AREA_VALIDA = new RegExp(

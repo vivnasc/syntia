@@ -73,6 +73,7 @@ export default function Uploader({ cursos, partilhada }) {
     // Áreas de raiz: espaços próprios, fora da pós. Não têm disciplinas.
     { id: "rota100k", titulo: "🚀 ROTA100K", tipo: "raiz", cadeiras: [] },
     { id: "venda100k", titulo: "💰 VENDA100K", tipo: "raiz", cadeiras: [] },
+    { id: "destrave-story", titulo: "📱 DESTRAVE STORY", tipo: "raiz", cadeiras: [] },
   ];
 
   // Sem pré-seleção: obriga a escolher curso e disciplina (evita enviar para o

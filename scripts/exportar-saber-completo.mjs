@@ -25,7 +25,7 @@ const PASTAS = new Set(["sinteses", "resumos", "objetivos", "produto", "transcri
 // Raízes que a ponte leva para o viviannepag. Além dos cursos da pós, as áreas
 // de topo: a disciplina-partilhada, a rota100k (criação de conteúdo) e a
 // venda100k (low ticket e vendas).
-const RAIZES = ["cursos", "disciplina-partilhada", "rota100k", "venda100k"].filter((r) => fs.existsSync(r));
+const RAIZES = ["cursos", "disciplina-partilhada", "rota100k", "venda100k", "destrave-story"].filter((r) => fs.existsSync(r));
 const destino = path.join(vp, "saber");
 
 // 1) Reconstruir saber/ do zero.
@@ -110,40 +110,54 @@ function modulosDe(areaDir) {
   }
 }
 
-const rotaDir = path.join(destino, "rota100k");
-if (fs.existsSync(rotaDir)) {
+// Uma secção por área de raiz. Antes eram blocos quase iguais copiados um por
+// área; com o Destrave Story seriam três. A descrição vem da própria área.
+const AREAS_INDICE = [
+  {
+    id: "rota100k",
+    titulo: "ROTA100K",
+    linhas: [
+      "**Começa por `saber/rota100k/MANUAL.md`**: compila as aulas do curso por",
+      "ordem de execução, com os procedimentos e todos os números num só sítio.",
+      "",
+      "Espaço de criação de conteúdo e crescimento de audiência. Não é da pós:",
+      "é conhecimento de negócio, e é o que está mais perto dos produtos.",
+    ],
+  },
+  {
+    id: "venda100k",
+    titulo: "VENDA100K",
+    linhas: [
+      "Low ticket do princípio ao fim: o que vender, criar o produto com IA, página",
+      "e quiz, audiência quente e automação, tráfego pago, ofertas na prática.",
+      "Também não é da pós, e **tem módulos**.",
+    ],
+  },
+  {
+    id: "destrave-story",
+    titulo: "DESTRAVE STORY",
+    linhas: [
+      "Curso próprio sobre stories no Instagram: ser o primeiro stories que se vê,",
+      "transformar stories em conversas, seguidores em embaixadores da marca.",
+      "Também não é da pós, e é separado da ROTA100K e da VENDA100K.",
+    ],
+  },
+];
+
+for (const area of AREAS_INDICE) {
+  const dir = path.join(destino, area.id);
+  if (!fs.existsSync(dir)) continue;
   linhas.push(
-    "## ROTA100K  (`rota100k`)",
+    `## ${area.titulo}  (\`${area.id}\`)`,
     "",
-    "**Começa por `saber/rota100k/MANUAL.md`**: compila as 20 aulas do curso por",
-    "ordem de execução, com os procedimentos e todos os números num só sítio.",
+    ...area.linhas,
+    `- ${contar(path.join(dir, "sinteses"))} sínteses, ${contar(path.join(dir, "transcricoes"))} transcrições`,
     ""
   );
-  linhas.push(
-    "Espaço de criação de conteúdo e crescimento de audiência. Não é da pós:",
-    "é conhecimento de negócio, e é o que está mais perto dos produtos.",
-        `- ${contar(path.join(rotaDir, "sinteses"))} sínteses, ${contar(path.join(rotaDir, "transcricoes"))} transcrições`,
-    ""
-  );
-  const mods = modulosDe(rotaDir);
+  const mods = modulosDe(dir);
   if (mods.length) {
     linhas.push("Módulos nomeados (ficheiros com prefixo `U<n>_`):", "", ...mods, "");
   }
-}
-const vendaDir = path.join(destino, "venda100k");
-if (fs.existsSync(vendaDir)) {
-  linhas.push(
-    "## VENDA100K  (`venda100k`)",
-    "",
-    "Low ticket do princípio ao fim: o que vender, criar o produto com IA, página",
-    "e quiz, audiência quente e automação, tráfego pago, ofertas na prática.",
-    "Também não é da pós. Ao contrário da ROTA100K, **tem módulos**: os ficheiros",
-    "trazem prefixo `U<n>_` e os nomes dos módulos estão em `venda100k/modulos.json`.",
-        `- ${contar(path.join(vendaDir, "sinteses"))} sínteses, ${contar(path.join(vendaDir, "transcricoes"))} transcrições`,
-    ""
-  );
-  const mods = modulosDe(vendaDir);
-  if (mods.length) linhas.push("Módulos:", "", ...mods, "");
 }
 fs.writeFileSync(path.join(destino, "INDICE.md"), linhas.join("\n"));
 

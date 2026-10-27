@@ -21,6 +21,7 @@ on:
       - 'disciplina-partilhada/**/sinteses/**'
       - 'rota100k/**/sinteses/**'
       - 'venda100k/**/sinteses/**'
+      - 'destrave-story/**/sinteses/**'
       - 'scripts/patch-cursos-viviannepag.mjs'
       - 'scripts/exportar-saber-completo.mjs'
       - 'scripts/gerar-conteudo.mjs'
