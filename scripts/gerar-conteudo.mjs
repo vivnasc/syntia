@@ -548,7 +548,7 @@ function main() {
         .map((k) => ({
           cadeira: k.titulo,
           unidades: (k.unidades || []).filter((u) => u.aulas?.length || u.objetivos || u.resumo)
-            .map((u) => ({ n: u.n, objetivos: u.objetivos || "", resumo: u.resumo || "", aulas: (u.aulas || []).map((a) => a.titulo) })),
+            .map((u) => ({ n: u.n, titulo: u.titulo || "", objetivos: u.objetivos || "", resumo: u.resumo || "", aulas: (u.aulas || []).map((a) => a.titulo) })),
         })),
     })).filter((c) => c.cadeiras.length);
   const { conceitosCurso, cursosMeta } = conceitosPorCurso();
