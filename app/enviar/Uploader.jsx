@@ -293,7 +293,7 @@ export default function Uploader({ cursos, partilhada }) {
           ref={inputRef}
           type="file"
           multiple
-          accept="audio/*,.mp3,.m4a,.wav,.aac,.ogg,.flac,.pdf,.docx,.txt,.md"
+          accept="audio/*,video/mp4,video/webm,.mp3,.m4a,.wav,.aac,.ogg,.flac,.mp4,.webm,.pdf,.docx,.txt,.md"
           style={{ display: "none" }}
           onChange={(e) => juntar(e.target.files)}
         />
