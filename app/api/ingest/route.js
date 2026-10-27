@@ -91,12 +91,12 @@ export async function POST(request) {
     }
     areaDir = "auto";
     destinoTitulo = "🤖 Syntia decide";
-  } else if (curso === "rota100k" || curso === "venda100k") {
+  } else if (curso === "rota100k" || curso === "venda100k" || curso === "destrave-story") {
     // Áreas de raiz: espaços próprios da Vivianne, fora dos cursos da pós.
     // Ao contrário de inspiracao/reunioes, são raízes que a ponte lê, por isso
     // o que entra aqui chega ao viviannepag.
     areaDir = curso;
-    destinoTitulo = curso === "rota100k" ? "ROTA100K" : "VENDA100K";
+    destinoTitulo = { rota100k: "ROTA100K", venda100k: "VENDA100K", "destrave-story": "DESTRAVE STORY" }[curso];
   } else if (partilhada && curso === partilhada.id) {
     areaDir = "disciplina-partilhada";
     destinoTitulo = partilhada.titulo;

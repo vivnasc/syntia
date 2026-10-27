@@ -30,11 +30,17 @@ const RAIZES = [
     emoji: "🚀",
     descricao: "Criação de conteúdo, audiência e crescimento. Fica fora dos cursos da pós, mas passa pelo mesmo processamento e segue para o repositório dos produtos.",
   },
-  {
+    {
     id: "venda100k",
     titulo: "VENDA100K",
     emoji: "💰",
     descricao: "Low ticket, do princípio ao fim: o que vender, criar o produto com IA, página e quiz, automação e tráfego pago. Tem módulos, ao contrário da ROTA100K.",
+  },
+  {
+    id: "destrave-story",
+    titulo: "DESTRAVE STORY",
+    emoji: "📱",
+    descricao: "Curso sobre stories no Instagram: ser o primeiro que se vê, transformar stories em conversas e seguidores em embaixadores. Aulas de cerca de 25 minutos, uma a uma.",
   },
 ];
 
@@ -98,6 +104,7 @@ const ACENTOS = [
   [/import[_ ]?ncia/gi, "Importância"],
   [/ate[_ ]?smo/gi, "Ateísmo"],
   [/religiosidade/gi, "Religiosidade"],
+  [/(?<![a-z])m[o_]dulo/gi, "Módulo"],
   [/religi[_ ]o(?![a-z])/gi, "Religião"],
   [/c[_ ]rebro/gi, "Cérebro"],
   [/_ndividual/gi, "_Individual"],
@@ -548,7 +555,7 @@ function main() {
         .map((k) => ({
           cadeira: k.titulo,
           unidades: (k.unidades || []).filter((u) => u.aulas?.length || u.objetivos || u.resumo)
-            .map((u) => ({ n: u.n, objetivos: u.objetivos || "", resumo: u.resumo || "", aulas: (u.aulas || []).map((a) => a.titulo) })),
+            .map((u) => ({ n: u.n, titulo: u.titulo || "", objetivos: u.objetivos || "", resumo: u.resumo || "", aulas: (u.aulas || []).map((a) => a.titulo) })),
         })),
     })).filter((c) => c.cadeiras.length);
   const { conceitosCurso, cursosMeta } = conceitosPorCurso();
@@ -622,7 +629,8 @@ const CURSOS_PONTE = [
   { slug: "03-psicologia-espiritualidade", key: "espiritualidade", nome: "Psicologia e Espiritualidade", descricao: "Espiritualidade como sentido, propósito e qualidade de vida.", mundo: "autora", filtro: null },
   { slug: "__partilhada", key: "desenvolvimento", nome: "Desenvolvimento Pessoal e Profissional", descricao: "Cadeira comum: carreira, comunicação e saúde do cuidador.", mundo: "infonte", filtro: null },
     { slug: "__rota100k", key: "rota100k", nome: "ROTA100K", descricao: "Criação de conteúdo, audiência e crescimento. Conhecimento de negócio, não da pós.", mundo: "autora", filtro: null },
-  { slug: "__venda100k", key: "venda100k", nome: "VENDA100K", descricao: "Low ticket: o que vender, criar o produto, página e quiz, automação e tráfego.", mundo: "autora", filtro: null },
+    { slug: "__venda100k", key: "venda100k", nome: "VENDA100K", descricao: "Low ticket: o que vender, criar o produto, página e quiz, automação e tráfego.", mundo: "autora", filtro: null },
+  { slug: "__destrave-story", key: "destrave-story", nome: "DESTRAVE STORY", descricao: "Stories no Instagram: atenção nos primeiros segundos, conversa e relação.", mundo: "autora", filtro: null },
   { slug: "04-neurociencias-desenvolvimento-humano", key: "neuro-desenvolvimento", nome: "Neurociências do Desenvolvimento Humano", descricao: "Como o cérebro se desenvolve e envelhece: infância, adolescência, adulto, idoso.", mundo: "freeme", filtro: "neuro" },
   { slug: "05-neurociencias-cognitivas", key: "neuro-cognitivas", nome: "Neurociências Cognitivas e Processos Psicológicos", descricao: "Bases biológicas da cognição, emoção, atenção, memória e linguagem.", mundo: "escola", filtro: "neuro" },
   { slug: "06-neuropsicanalise", key: "neuropsicanalise", nome: "Neuropsicanálise", descricao: "A ponte entre a psicanálise e o cérebro: afeto, memória e inconsciente.", mundo: "autora", filtro: "neuro" },
@@ -656,7 +664,8 @@ function aplicarFiltro(id, lista) {
 const cadeirasDe = (cursoSlug) => {
   if (cursoSlug === "__partilhada") return [path.join(ROOT, "disciplina-partilhada")];
     if (cursoSlug === "__rota100k") return [path.join(ROOT, "rota100k")];
-  if (cursoSlug === "__venda100k") return [path.join(ROOT, "venda100k")];
+    if (cursoSlug === "__venda100k") return [path.join(ROOT, "venda100k")];
+  if (cursoSlug === "__destrave-story") return [path.join(ROOT, "destrave-story")];
   const base = path.join(ROOT, "cursos", cursoSlug);
   if (!isDir(base)) return [];
   return fs.readdirSync(base).map((d) => path.join(base, d)).filter((p) => isDir(p) && path.basename(p) !== "_material");

@@ -24,6 +24,7 @@ on:
       - 'disciplina-partilhada/_audio/**'
       - 'rota100k/_audio/**'
       - 'venda100k/_audio/**'
+      - 'destrave-story/_audio/**'
   workflow_dispatch:
     inputs:
       audio_url:
@@ -131,6 +132,7 @@ jobs:
           git add cursos/ disciplina-partilhada/
           git add rota100k/ 2>/dev/null || true
           git add venda100k/ 2>/dev/null || true
+          git add destrave-story/ 2>/dev/null || true
           git add inspiracao/ 2>/dev/null || true
           git add reunioes/ 2>/dev/null || true
           git reset -q -- ':(glob)**/_audio/**' 2>/dev/null || true

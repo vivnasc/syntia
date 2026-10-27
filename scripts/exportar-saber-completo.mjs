@@ -25,7 +25,7 @@ const PASTAS = new Set(["sinteses", "resumos", "objetivos", "produto", "transcri
 // Raízes que a ponte leva para o viviannepag. Além dos cursos da pós, as áreas
 // de topo: a disciplina-partilhada, a rota100k (criação de conteúdo) e a
 // venda100k (low ticket e vendas).
-const RAIZES = ["cursos", "disciplina-partilhada", "rota100k", "venda100k"].filter((r) => fs.existsSync(r));
+const RAIZES = ["cursos", "disciplina-partilhada", "rota100k", "venda100k", "destrave-story"].filter((r) => fs.existsSync(r));
 const destino = path.join(vp, "saber");
 
 // 1) Reconstruir saber/ do zero.
@@ -46,7 +46,7 @@ function percorrer(dir) {
     if (st.isDirectory()) {
       if (nome === "_audio" || nome === "_material") continue;
       percorrer(rel);
-    } else if (PASTAS.has(path.basename(dir)) || nome === "programa.json" || nome === "MANUAL.md") {
+    } else if (PASTAS.has(path.basename(dir)) || nome === "programa.json" || nome === "modulos.json" || nome === "MANUAL.md") {
       copiar(rel);
     }
   }
@@ -93,34 +93,71 @@ if (fs.existsSync(cursosDir)) {
 if (fs.existsSync(path.join(destino, "disciplina-partilhada"))) {
   linhas.push("## Disciplina partilhada (`disciplina-partilhada`)", "");
 }
-const rotaDir = path.join(destino, "rota100k");
-if (fs.existsSync(rotaDir)) {
-  linhas.push(
-    "## ROTA100K  (`rota100k`)",
-    "",
-    "**Começa por `saber/rota100k/MANUAL.md`**: compila as 20 aulas do curso por",
-    "ordem de execução, com os procedimentos e todos os números num só sítio.",
-    ""
-  );
-  linhas.push(
-    "Espaço de criação de conteúdo e crescimento de audiência. Não é da pós:",
-    "é conhecimento de negócio, e é o que está mais perto dos produtos.",
-    `- ${contar(path.join(rotaDir, "sinteses"))} sínteses, ${contar(path.join(rotaDir, "transcricoes"))} transcrições`,
-    ""
-  );
+// Módulos nomeados de uma área de raiz, se os tiver. Sem isto, o índice não
+// dizia que existiam e um agente podia concluir que o assunto não está coberto.
+function modulosDe(areaDir) {
+  const f = path.join(areaDir, "modulos.json");
+  if (!fs.existsSync(f)) return [];
+  try {
+    const bruto = JSON.parse(fs.readFileSync(f, "utf-8"));
+    return Object.entries(bruto || {})
+      .map(([k, v]) => [parseInt(k, 10), String(v || "").trim()])
+      .filter(([n, v]) => Number.isFinite(n) && v)
+      .sort((a, b) => a[0] - b[0])
+      .map(([n, v]) => `- **U${n}** — ${v}`);
+  } catch {
+    return [];
+  }
 }
-const vendaDir = path.join(destino, "venda100k");
-if (fs.existsSync(vendaDir)) {
+
+// Uma secção por área de raiz. Antes eram blocos quase iguais copiados um por
+// área; com o Destrave Story seriam três. A descrição vem da própria área.
+const AREAS_INDICE = [
+  {
+    id: "rota100k",
+    titulo: "ROTA100K",
+    linhas: [
+      "**Começa por `saber/rota100k/MANUAL.md`**: compila as aulas do curso por",
+      "ordem de execução, com os procedimentos e todos os números num só sítio.",
+      "",
+      "Espaço de criação de conteúdo e crescimento de audiência. Não é da pós:",
+      "é conhecimento de negócio, e é o que está mais perto dos produtos.",
+    ],
+  },
+  {
+    id: "venda100k",
+    titulo: "VENDA100K",
+    linhas: [
+      "Low ticket do princípio ao fim: o que vender, criar o produto com IA, página",
+      "e quiz, audiência quente e automação, tráfego pago, ofertas na prática.",
+      "Também não é da pós, e **tem módulos**.",
+    ],
+  },
+  {
+    id: "destrave-story",
+    titulo: "DESTRAVE STORY",
+    linhas: [
+      "Curso próprio sobre stories no Instagram: ser o primeiro stories que se vê,",
+      "transformar stories em conversas, seguidores em embaixadores da marca.",
+      "Também não é da pós, e é separado da ROTA100K e da VENDA100K.",
+    ],
+  },
+];
+
+for (const area of AREAS_INDICE) {
+  const dir = path.join(destino, area.id);
+  if (!fs.existsSync(dir)) continue;
   linhas.push(
-    "## VENDA100K  (`venda100k`)",
+    `## ${area.titulo}  (\`${area.id}\`)`,
     "",
-    "Low ticket do princípio ao fim: o que vender, criar o produto com IA, página",
-    "e quiz, audiência quente e automação, tráfego pago, ofertas na prática.",
-    "Também não é da pós. Ao contrário da ROTA100K, **tem módulos**: os ficheiros",
-    "trazem prefixo `U<n>_` e os nomes dos módulos estão em `venda100k/modulos.json`.",
-    `- ${contar(path.join(vendaDir, "sinteses"))} sínteses, ${contar(path.join(vendaDir, "transcricoes"))} transcrições`,
+    ...area.linhas,
+    `- ${contar(path.join(dir, "sinteses"))} sínteses, ${contar(path.join(dir, "transcricoes"))} transcrições`,
     ""
   );
+  const mods = modulosDe(dir);
+  if (mods.length) {
+    linhas.push("Módulos nomeados (ficheiros com prefixo `U<n>_`):", "", ...mods, "");
+  }
 }
 fs.writeFileSync(path.join(destino, "INDICE.md"), linhas.join("\n"));
 
@@ -160,11 +197,17 @@ if (fs.existsSync(claudeMd)) {
       "  conceitos-chave, flashcards, definições citáveis).\n" +
       "- `saber/rota100k/produto/*.md` — o Bloco C: como cada aula se aplica aos\n" +
       "  produtos reais.\n" +
-            "\nA ROTA100K **não tem módulos**: é uma lista única de aulas. Cada ficheiro\n" +
-      "chama-se pelo assunto da aula, por exemplo\n" +
-      "`Como_escolher_o_gancho_dos_primeiros_segundos.txt`. O título é dado a\n" +
-      "partir do conteúdo da gravação, por isso é descritivo e não sequencial:\n" +
-      "não contes com ordem nem com numeração.\n" +
+                  "\nA maior parte da ROTA100K é uma **lista única** de aulas, sem módulo. Esses\n" +
+      "ficheiros chamam-se pelo assunto da aula, por exemplo\n" +
+      "`Como_escolher_o_gancho_dos_primeiros_segundos.txt`: o título é dado a\n" +
+      "partir do conteúdo da gravação, por isso é descritivo e não sequencial, e\n" +
+      "nessa parte não contes com ordem nem com numeração.\n\n" +
+      "**Mas há módulos nomeados.** Os ficheiros com prefixo `U<n>_` pertencem a um\n" +
+      "módulo, e o nome dele está em `saber/saber.json`, no campo `titulo` da\n" +
+      "unidade correspondente (materias → cadeiras → unidades). **Procura sempre aí\n" +
+      "antes de concluires que um assunto não está coberto**: uma lição sobre\n" +
+      "stories, por exemplo, pode estar num módulo próprio e não solta na lista.\n" +
+      "A unidade `n: 0`, chamada \"Outras aulas\", é a que não tem módulo.\n" +
       "\n### VENDA100K (`saber/venda100k/`)\n\n" +
       "Low ticket do princípio ao fim: o que vender, criar o produto com IA,\n" +
       "página de vendas e quiz, audiência quente e automação, tráfego pago para\n" +
