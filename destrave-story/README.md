@@ -10,16 +10,30 @@ As aulas são gravadas uma a uma, cerca de 25 minutos cada.
 
 ## Módulos
 
-Ainda sem `modulos.json`. Enquanto não existir, as aulas sem prefixo `U<n>_`
-ficam todas em "Outras aulas", como na ROTA100K.
+Neste curso **cada aula é um módulo**: uma unidade por aula, um vídeo cada.
+Os nomes estão em `modulos.json` e são os títulos da própria plataforma.
 
-Para as agrupar por módulo, cria um `modulos.json` aqui, a mapear número de
-unidade para nome do módulo, e carrega cada aula com o prefixo da unidade:
+| unidade | ficheiro começa por | aula |
+|---|---|---|
+| 1 | `U1_` | Bem-vindo ao Destrave Story |
+| 2 | `U2_` | Aula 1 · Tiro de Alerta |
+| 3 | `U3_` | Aula 2 · A vida real é o novo script |
+| 4 | `U4_` | Aula 3 · Toque Aqui |
+| 5 | `U5_` | Aula 4 · O mistério que hipnotiza |
+| 6 | `U6_` | Aula 5 · De seguidores a embaixadores |
+| 7 | `U7_` | Bónus 1 · O checklist da sequência perfeita |
+| 8 | `U8_` | Bónus 2 · Sequência em menos de 5 minutos |
+| 9 | `U9_` | Bónus 3 · A estratégia do reset |
 
-    { "1": "Nome do primeiro módulo", "2": "Nome do segundo" }
+Repara que o número da unidade **não** coincide com o número da aula na
+plataforma: a U2 é a "Aula 1", porque a U1 é a aula de boas-vindas.
 
 O nome do módulo é o que chega ao `saber.json` e ao `INDICE.md` do saber, e é
 por aí que os agentes o encontram.
+
+Falta ainda o décimo item desta secção, e as secções "Transforme Seguidores em
+Lucro" e "BÓNUS: +100 Ganchos Virais", que aparecem cortadas na plataforma e
+cujos títulos ainda não foram confirmados.
 
 Estrutura (criada pelo processamento, não à mão):
 
