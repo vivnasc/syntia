@@ -1,0 +1,571 @@
+SAÚDE E AMBIENTE
+
+ISSN IMPRESSO 2316-3313
+ISSN ELETRÔNICO 2316-3798
+
+ESCLEROSE MÚLTIPLA: IMUNOPATOLOGIA, DIAGNÓSTICO E TRATAMENTO
+– ARTIGO DE REVISÃO
+Décio Fragata da Silva1
+
+Valdete Mota Silva do Nascimento2
+
+RESUMO
+A esclerose múltipla (EM) é conhecida pelos ingleses
+como esclerose disseminada e pelos franceses como
+esclerose em placas. Atinge principalmente adultos
+jovens, de gênero feminino, com etiologia multifatorial e ainda pouco conhecida. É uma doença inflamatória, crônica, desmielinizante do Sistema Nervoso
+Central, causando lesões disseminadas ou em placas na substancia branca e na medula espinhal. O
+diagnóstico é realizado pelos critérios de McDonald,
+juntamente com exames laboratoriais, do líquido cefalorraquidiano, imagens do cérebro e medula por
+ressonância magnética e anamnese do paciente. O
+tratamento hoje é realizado por imunossupressores e
+imunomoduladores, onde suas ações ainda são pouco
+
+conhecidas, porém estão apresentando bons resultados aos portadores de EM. Diante disso, essa pesquisa
+teve por objetivo descrever a definição, imunopatologia, diagnóstico e tratamento da EM. O método utilizado foi à pesquisa bibliográfica realizada nos sites
+Scielo, BIREME, NCBI e PubMed. Ainda são escassos
+trabalhos referentes a essa doença e os que existem
+estão meio vagos, com isso são necessárias pesquisas
+mais profundas em torno do percurso e etiologia da
+doença.
+
+Palavras-chave
+Esclerose Múltipla. Tratamento. Diagnóstico.
+
+Interfaces Científicas - Saúde e Ambiente • Aracaju • V.2 • N.3 • p. 81 - 90 • Jun. 2014
+
+• 82 •
+
+ABSTRACT
+Multiple sclerosis (MS) is known as disseminated
+sclerosis by the British and the French as sclerosis
+in slabs. Affects mainly young female adults with
+multifactorial etiology and still little known. It is
+an inflammatory, chronic, demyelinating disease
+of the central nervous system, causing disseminated lesions or plaques in the white matter and
+spinal cord. The diagnosis is made by the McDonald criteria along with laboratory tests of cerebrospinal fluid, brain imaging and spinal magnetic
+resonance imaging and patient’s medical history.
+The treatment is now performed by immunosuppressants and immunomodulators, where its sha-
+
+res are still little known, but are showing good results to MS patients. Therefore, this study aimed to
+describe the setting, immunopathology, diagnosis
+and treatment of MS. The method used was the literature research conducted in SciELO, BIREME,
+NCBI and PubMed sites. There are still few studies
+concerning this disease and that there are a little
+sketchy, it is necessary further research around
+the course and etiology of the disease.
+
+Keywords
+Multiple Sclerosis. Treatment. Diagnosis.
+
+RESUMEN
+La esclerosis múltiple (EM) es conocida por los ingleses como esclerosis diseminada, y por los franceses
+como esclerosis múltiple. Afecta principalmente a
+adultos jóvenes, el sexo femenino, con etiología multifactorial y todavía poco conocida. Es una enfermedad
+inflamatoria crónica, y es una enfermedad que afecta
+la mielina del sistema nervioso central,, causando lesiones o placas diseminadas en la sustancia blanca y
+la médula espinal. El diagnóstico se realizó según los
+criterios de McDonald, junto con las pruebas de laboratorio, el líquido cefalorraquídeo, imágenes del cerebro y la resonancia magnética espinal y la historia
+clínica del paciente. El tratamiento se realiza ahora
+por inmunosupresores, y sus acciones son aún poco
+
+conocidos, pero están demuestran buenos resultados
+para los pacientes con EM. Por lo tanto, este estudio
+tuvo como objetivo describir el escenario, la inmunopatología, el diagnóstico y el tratamiento de la EM.
+El método utilizado fue la investigación bibliográfica
+realizada en los sites Scielo, BIREME, NCBI y PubMed.
+Los trabajos aun son escasos en relación sobre esta
+enfermedad y los que existen son un poco vagos, Con
+eso es necesario seguir investigando en todo el curso
+la etiología de esa enfermedad.
+
+PALABRAS CLAVE
+La esclerosis múltiple. El tratamiento. Diagnóstico.
+
+Interfaces Científicas - Saúde e Ambiente • Aracaju • V.2 • N.3 • p. 81 - 90 • Jun. 2014
+
+• 83 •
+
+1 INTRODUÇÃO
+A esclerose múltipla (EM) é conhecida pelos
+ingleses como esclerose disseminada e pelos franceses
+como esclerose em placas, está entre as mais vulneráveis das doenças neurológicas e como uma das mais
+importantes, devido à sua cronicidade e por acometer adultos jovens, entre 20-40 anos de idade. Afeta a
+substância branca do sistema nervoso central, podendo ocorrer múltiplas lesões espalhadas ou acometer
+grande região do encéfalo e medula espinhal. As lesões
+ocorrem por conta da destruição da bainha de mielina
+dos neurônios, levando, assim, a uma deficiência na
+condução motora (CARDODO, 2010).
+Ela é a patologia desmielinizante mais comum do
+sistema nervoso central. É uma doença autoimune
+em que as células T ativadas atravessam a barreira
+hemato-encefálica para iniciar uma resposta inflamatória, que conduz à desmielinização e lesão axonal. Os
+principais mecanismos responsáveis p
+​​ ela iniciação da
+doença ainda são desconhecidos (MARIN et al, 2014)
+Ainda referente à doença, a sua fase inicial é sútil, sendo caracterizada por sintomas transitórios que
+duram entre cinco dias a uma semana. Essas características fazem com que o individuo não dê importância às primeiras manifestações clínicas da doença,
+já que os sintomas são transitórios (SANTOS, 2010).
+Com a progressão da EM o curso clínico toma a forma
+de episódios de surto e remissão de duração variável
+(de semanas até meses ou anos), caracterizados por
+déficits neurológicos, seguidos de recuperação parcial gradual das funções neurológicas. Essas recaídas
+tendem a diminuir à medida que a doença progride
+(KUMAR, 2010).
+No que diz respeito ao processo da destruição da
+bainha de mielina, também chamado de desmielinização, não ocorre de forma simultânea em todo o encéfalo do SNC, mas sucessivamente em áreas ou placas
+do mesmo. Assim o portador apresenta sintomas va-
+
+riados, a depender da região afetada. Os mais comuns
+são fraqueza generalizada, fala com pronúncia alterada e tontura (SANTOS 2010).
+Os portadores de EM são acometidos por um alto
+índice de fadiga, sendo este um sintoma que os tornam
+incapazes de realizarem as suas atividades diárias.
+Nesse caso, a fadiga é definida como “uma sensação
+subjetiva de perda de energia física e/ou mental, que
+é percebido pelo paciente ou por seus familiares, e interfere com a vontade e as atividades diárias”, sendo
+denominada Fadiga Primária da EM (MENDES, 2007).
+Além da fadiga o portador é acometido por alto índice
+de depressão. O prejuízo visual unilateral é em consequência do envolvimento do nervo óptico (neurite
+óptica) que é uma manifestação frequente na EM (KUMAR, 2010).
+Tratando-se das localidades de aparecimento da
+doença, a incidência maior ocorre nas regiões situadas
+entre os paralelos 44 e 64 N, sendo consideradas áreas
+de alta incidência, aquelas com número de casos acima de 30/100000 habitantes; média incidência, áreas
+com números de casos entre 5 a 30/100000 habitantes e baixa incidência, com número de casos inferior
+a 5/100000 habitantes (GRZESIUK, 2006). A maior incidência da doença nas regiões distantes da linha do
+Equador, identificada pelos estudos epidemiológicos,
+não se explica pela localização geográfica, mas pelos
+atributos genéticos da população residente nessas
+áreas. São as características genéticas que definem a
+maior ou menor frequência de EM entre os indivíduos
+e não o local onde residem (TILBERY, 2005).
+Em relação ao diagnostico, ele é clínico, com base
+no histórico relatado, na avaliação dos sintomas percebidos e relatados pelo paciente, juntamente com
+exames de Ressonância Magnética, Tomografia Computadorizada, análise do Líquido Cefalorraquidiano
+(que irá dosar as imunoglobulinas e pesquisar bandas
+
+Interfaces Científicas - Saúde e Ambiente • Aracaju • V.2 • N.3 • p. 81 - 90 • Jun. 2014
+
+• 84 •
+
+oligoclonais para comparação com valores sanguíneos) e testes complementares (ZIEGELBOIM, 2010).
+Existe, também, um método de diagnóstico da EM
+realizado pelo Potencial Evocado Miogênico Vestibular (VEMP), que avalia a via vestíbulo-espinal a partir
+de mácula de sáculo (AIDAR, 2005).
+No que diz respeito ao tratamento, os imunomoduladores têm demonstrado efeitos promissores, reduzindo o aparecimento de novas lesões, diminuindo a
+frequência de surtos e a progressão na forma remitente recorrente, diminuindo assim, também o acúmulo
+de incapacidade na evolução da doença (TILBERY,
+2009). Porém ainda é pouco conhecida a ação destes,
+como também os seus efeitos colaterais.
+Além disso, o tratamento segue diretrizes que ditam
+as regras necessárias para utilização desses medicamentos, como também determinam quais os pacientes
+que devem fazer uso dos mesmos. Hoje já existe o tratamento fisioterapêutico, sendo um tipo não invasivo
+de tratar os portadores de EM (TILBERY, 2009).
+Sendo assim, o objetivo deste artigo foi relatar os
+aspectos atuais da esclerose múltipla, demonstrando
+como ela ocorre e também os métodos diagnósticos e
+de tratamento. Este trabalho foi realizado por meio de
+pesquisas das literaturas do período de 2005 a 2014,
+através do site BIREME, SCIELO, NCBI e PubMed como
+também em livros e teses, onde este tem por objetivo.
+
+1.1 DEFINIÇÃO
+A Esclerose Múltipla (EM) é considerada uma doença autoimune, inflamatória e desmielinizante do
+Sistema Nervoso Central (SNC), com etiologia desconhecida, ainda que existam evidências de causas
+multifatoriais. Atinge principalmente adultos jovens,
+predominante do sexo feminino, de etnia branca e faixa etária entre 20 a 40 anos (SANTOS, 2010; MARIN
+et al, 2014). Essa doença é lenta e progressiva, com
+remissão de surtos, apresentando-se de formas diferentes de acordo com o tipo: a) Remitente recorrente
+
+(RR); b) Secundariamente progressiva (SP); c) Primariamente progressiva (PP); e d) Progressiva recorrente
+(PR) (OLIVEIRA, 2007).
+
+1.2 ETIOLOGIA
+Ainda é pouco conhecida, mas supõe-se que as
+causas são multifatoriais, tais como: suscetibilidade
+genética, mecanismos autoimunes, exposição a fatores
+estressores, exposição à luz solar, tabagismo e infecções virais. Todos os estudos, englobando distribuição
+geográfica, dados migratórios e estudos epidêmicos,
+sugerem uma origem infecciosa. O aumento das bandas oligoclonais de imunoglobulinas no liquido cefalorraquidiano de 65 a 95% dos pacientes com esclerose
+múltipla, evidencia uma infecção viral persistente, ou
+de um autoantígeno do SNC (CARDOSO, 2010).
+
+1.3 IMUNOPATOLOGIA
+As lesões encontradas nos portadores de EM são
+causados por uma resposta imune dirigida aos componentes da bainha de mielina. Por isso quando encontradas células inflamatórias crônicas dentro ou
+ao redor das placas da EM, juntamente com validação
+genética, a destruição da mielina é o foco de múltiplas investigações. Os estudos atuais indicam que a
+doença se inicia com células T CD4+, TH1 e TH17 que
+reagem contra antígenos da própria mielina e secretam citocinas. Células TH1 secretam IFNγ, que ativam
+macrófagos, e as células TH17 recrutam leucócitos. A
+desmielinização é provocada por esses leucócitos ativados e suas substancias lesivas. Nos infiltrados das
+placas e das regiões circunjacentes do cérebro consiste em células T CD4+ e, alguns CD8+ e macrófagos.
+Porém não se sabe como a reação imune é ativada,
+contudo foi proposto o papel de uma infecção viral
+para ativação das células T autorreativas, mas essa
+proposta é controversa (KUMAR, 2010).
+A evolução da EM ocorre de diferentes maneiras. Na
+forma recorrente-remitente (RR) o paciente apresenta
+surtos bem individualizados que deixam ou não seque-
+
+Interfaces Científicas - Saúde e Ambiente • Aracaju • V.2 • N.3 • p. 81 - 90 • Jun. 2014
+
+• 85 •
+
+las, não existindo progressão das deficiências entre
+os surtos. A forma secundariamente progressiva (SP)
+apresenta, anteriormente, um período de recorrências
+e remissões seguidas de progressão das deficiências,
+com ou sem surtos subjacentes. A primariamente progressiva (PP), caracteriza-se desde o inicio por doença
+progressiva, onde, na evolução, o paciente apresenta
+períodos de discreta melhora. Por último, a progressiva
+recorrente (PR), que, também, se caracteriza desde o
+inicio por doença progressiva, porém intercalada por
+surtos, com ou sem recuperação total, mas com progressão continua entre os surtos (OLIVEIRA, 2007).
+Alguns clínicos sugerem ainda, a existência da EM
+benigna, quando os pacientes apresentam surtos e
+remissões iniciais com pouco ou nenhum déficit neurológico, após 10 anos do inicio da doença, podendo o
+paciente desenvolver a forma progressiva, posteriormente a Maligna, onde ocorre um desenvolvimento
+grave da EM progressiva primária, ao qual leva à morte fulminante, ou sobrevida de 5 anos após seu inicio
+(SANTOS, 2010).
+A doença se inicia com sintomas neurológicos
+isolados ou por associação. Alguns portadores apresentam a primeira manifestação com sintomas sensitivos, motores ou com uma neurite óptica isolada.
+Síndromes dolorosas no inicio são raras, bem como
+afasia, alterações na cognição ou corticais. A presença de ataxia sempre estará relacionada com vertigem,
+diplopia, distúrbios motores e outros. No começo do
+quadro alguns pacientes têm queixas vagas como fadiga e mal-estar (TILBERY, 2005).
+Durante recaídas (surtos), os portadores de EM
+perdem, parcial ou totalmente, algumas funções fisiológicas, identificadas por uma variedade de sintomas, como paralisia, hipoestesia, deficiência visual,
+diplopia ou ataxia. Os sintomas não dependem apenas
+da localização da lesão, mas também sobre a variedade de propriedades de condução exibidos nos axônios
+afetados. A causa central da produção de recaídas é a
+incapacidade de condução axonal no local da lesão,
+
+relacionado tanto com a inflamação quanto a desmielinização que atuam em fases sequenciais (SÁ, 2012).
+Por conta da grande variabilidade de localização
+anatômica e sequencia temporal das lesões em pacientes com EM, as manifestações são variadas entre
+um individuo e outro. Os sintomas podem se desenvolver dentro de horas ou até vários dias ou semanas. É
+comum que os sintomas apareçam em 6 a 15 horas a
+depender do local e do tamanho da lesão. Os sintomas
+iniciais mais frequentes em ordem decrescente de
+frequência são: fraqueza motora, neurite retrobulbar,
+parestesias, marcha instável, visão dupla, vertigem e
+distúrbio de micção A depressão também é comum na
+EM (CARDOSO, 2010).
+
+1.4 DIAGNÓSTICO
+O diagnóstico se baseia na anamnese do paciente e exames físicos. Os critérios de McDonald, como
+mostrado na Tabela 1, juntamente com exames de
+ressonância magnética, potencial evocado e do liquido cefalorraquidiano (LCR) confirmarão o diagnóstico
+(ANDRADE 2007; SANTOS 2010).
+O exame do líquor, em portadores de EM, é capaz de
+identificar a natureza inflamatória e imunológica das
+lesões do SNC, por meio de estudo qualitativo e quantitativo da resposta imunológica intratecal. Ele, também,
+contribui para diferenciação da EM de outras doenças,
+como neurossífilis, infecção por HTLV I/II, Lyme, dentre
+outras. Os testes liquóricos são divididos em essenciais
+(Bandas oligoclonais no LCR por focalização isoelétrica), complementares (Índice de IgG elevado, Celularidade >4/mm3, Quociente de albumina (Qalb) >7.10-3,
+indicando função anormal da barreira hemato-liquórica) e opcionais (Anticorpos poliespecíficos anti-rubéola e sarampo) (MACEL, 2002).
+As proteínas totais estão elevadas no líquor em aproximadamente 40% dos portadores de EM, sendo esta
+elevação de tamanha importância para o diagnóstico,
+pois ela demonstra a disfunção da barreira hemato-en-
+
+Interfaces Científicas - Saúde e Ambiente • Aracaju • V.2 • N.3 • p. 81 - 90 • Jun. 2014
+
+• 86 •
+
+cefálica. Essa disfunção é mais frequente na forma progressiva primária (MINISTÉRIO DA SAÚDE, 2010).
+A quantificação da resposta imune humoral é realizada por meio da medida da concentração total de
+imunoglobulinas no LCR (fração gama da eletroforese), concentração absoluta do IgG, e de forma precisa pelo índice de IgG (IgG líquor/IgG soro ÷ Albumina
+líquor/Albumina soro ). Outra análise quantitativa da
+resposta imune humoral intratecal é a síntese diária
+intratecal de IgG que tem correlação direta com o índice de IgG. (MACEL, 2002)
+A avaliação qualitativa da resposta imune intratecal é realizada por meio de detecção de bandas
+oligoclonais. Essas bandas são imunoglobulinas (geralmente IgG) definidas como duas ou mais bandas
+discretas na região gama que estão ausentes ou em
+menor intensidade na eletroforese concomitante de
+proteínas séricas e estão relacionada à síntese intratecal de anticorpos. Elas são sintetizadas por um ou
+poucos clones de plasmócitos, derivados de linfócitos
+B, em resposta à presença contínua de um antígeno
+único e altamente específico. Bandas oligoclonais de
+IgG são exclusivos do LCR e estão presentes em aproximadamente 95% dos pacientes com EM, sendo detectados por focalização isoelétrica.
+A focalização isoelétrica é a técnica mais sensível
+para detecção dessas bandas, usando amostras paralelas do LCR e soro com a mesma concentração de
+IgG, coletadas simultaneamente. O método consiste
+em submeter essas matérias a uma eletroforese, onde
+o gel apresenta um gradiente de pH, de modo a separar os diferentes tipos de IgGs com base em seus
+pontos isoelétricos. A visualização das bandas é feita
+por meio da coloração pela prata e detecção imunológica. As presenças dessas bandas indicam uma resposta imune direcionada contra um grupo restrito de
+antígenos mielínicos, indicando um mecanismo imunológico associado ao quadro clínico da EM. Embora
+não especifica da EM, essas bandas possuem elevada
+sensibilidade na doença (TILBERY, 2005).
+
+A ressonância magnética se apresenta alterada
+em 87 a 95% dos casos e mostra lesões hipointensas em T1 e hiperdensas em cortes com TR longo
+(T2, DP, FLAIR) e realce pelo contraste das lesões
+ativas. As áreas acometidas mais frequentemente
+são os centros semi-ovais, substância branca periventricular, corpo caloso, tronco cerebral, radiações ópticas, pedúnculos cerebelares, cerebelo,
+nervos ópticos e medula espinal (MACEL, 2002).
+A necessidade de o paciente apresentar 2 surtos
+para o diagnostico, atualmente pode ser substituída
+por 1 surto associado à progressão de lesões à RM
+(novas lesões ou surgimento de impregnação pelo gadolínio em lesões anteriormente não impregnada, ou
+aumento de tamanho de lesões prévias), após o primeiro surto (POLMAN, 2005).
+Na EM a tomografia computadorizada de crânio é
+alterada em 36 a 44% dos casos, apresenta-se com
+áreas hipotensas na substância branca, alargamento
+ventricular e atrofia cerebral. As lesões ativas apresentam realce na fase contrastada (MACIEL, 2002).
+Após o estabelecimento do diagnostico, deve-se estadiar a doença, ou seja, estabelecer seu estágio ou nível
+de acometimento por meio da Escala Expandida do Estado de Incapacidade (Expanded Disability Status Scale - EDSS). Essa escala possui vinte itens com escores
+que variam de 0 a 10, com pontuação que aumenta meio
+ponto conforme o grau de incapacidade do paciente. É
+utilizada para o estadiamento da doença e para monitorar o seguimento do paciente (TILBERY, 2009).
+Existe ainda o potencial evocado miogênico vestibular (VEMP), que é um teste que avalia as lesões no
+tronco encefálico ou as que venham a comprometer a
+via vestíbulo-espinal, ele é realizado a partir de estímulos acústicos em forma de cliques a partir de fones
+de ouvido (AIDAR, 2005).
+Os exames complementarem são dosagens de
+proteínas básicas da mielina, onde estas indicam
+
+Interfaces Científicas - Saúde e Ambiente • Aracaju • V.2 • N.3 • p. 81 - 90 • Jun. 2014
+
+• 87 •
+
+destruição mielínica recente. Está aumentada em 70
+a 90% dos portadores. Aparecem antes das bandas
+oligoclonais, sendo útil no momento inicial da doença (WALLACH, 2011). Devem ser realizados exames
+laboratoriais, como exames anti-HIV e VDRL e dosagem sérica de vitamina B12, no sentido de excluir
+outras doenças com características parecidas da EM.
+Deficiência da vitamina B12 e infecções por HIV apresentam quadros radiológicos parecidos com portadores de EM. O potencial evocado será exigido quando
+houver duvidas em relação ao acometimento do nervo
+óptico (MINISTÉRIO DA SAÚDE, 2010).
+
+3- Para criação de centros de referências: a Secretaria de assistência à saúde do Ministério da Saúde
+criou o Grupo Técnico de Assessoramento em EM,
+com o intuito de assessorar os estados na tarefa de
+estimular a criação dos centros de referência.
+
+1.5 TRATAMENTO
+
+Nos últimos anos diversos estudos estão demonstrando a ação das estatinas, que além de diminuir o
+nível de colesterol sanguíneo, apresentam, também,
+propriedades imunomoduladores e antiinflamatória,
+por causa da sua ação inibitória sobre o óxido nítrico
+sintase (NOSase) e citocinas pró-inflamatória, justificando assim a sua utilização como tratamento alternativo em portadores de EM. A utilização de Lovastatina e Sinvastatina em pacientes com EM, mostrou
+uma diminuição nas lesões visualizadas por ressonância magnética e ausência de efeitos colaterais graves
+(OLIVEIRA, 2007).
+
+O tratamento dos portadores de esclerose múltipla com imunomoduladores, e com imunossupressores, mudou o curso da doença nos últimos anos. O
+Ministério da saúde é o responsável pela liberação do
+uso desses medicamentos, que são: Interferon beta
+(INFβ) e o Acetato de glatirâmer (AG). Além disso, esse
+órgão, também, deliberou a distribuição gratuita para
+o tratamento por meio do Sistema Único de Saúde
+(SUS). Com a crescente demanda na prescrição desses medicamentos e por possuírem alto custo, houve
+a elaboração de protocolos e recomendações para o
+seu uso, sendo estes o processo de inclusão ou exclusão de portadores ao tratamento (DCNIABN, 2005). As
+recomendações são:
+1- Quanto aos critérios de diagnóstico da doença:
+o diagnóstico deve ser realizado por meio dos critérios
+firmados pelo Painel Internacional para o diagnóstico da Esclerose Múltipla por Mc Donald e Cols, sendo
+bastante sensível e especifico (DCNIABN, 2005).
+2- Para classificação das formas evolutivas da EM:
+vários ensaios clínicos demonstraram a ação diferenciada dos medicamentos em fases evolutivas distintas da
+EM, e com isso vários tipos de evolução foram aparecendo, porém, na prática, as quatro formas de evolução são:
+remitente-recorrente, secundariamente progressiva,
+primariamente progressiva e progressiva recorrente.
+
+4- Para uso de imunomoduladores: ditam regras
+necessárias para utilização dos medicamentos, como,
+a prescrição é exclusiva do neurologista, os imunomoduladores não podem ser utilizados em pacientes que
+não possuam sintomas e/ou sinais clínicos ou de RM
+da doença e etc.
+
+Apesar de efeitos não curativos, são conhecidos
+diversos benefícios dessas drogas, porém foram relatados em vários estudos efeitos colaterais, que se
+devidamente identificados e orientados, podem evitar
+a interrupção do tratamento. (TILBERY, 2009).
+Segundo Tilbery (2009), na maioria das vezes os
+efeitos adversos são leves e transitórios e estão relacionados à má técnica de aplicação do medicamento e
+pode ser a principal causa da perda de adesão ao tratamento. A maioria dos pacientes recebem instruções
+na preparação e administração dos imunomoduladores, porém é importante avaliar a compreensão destas
+informações periodicamente.
+O Interferon tem um papel importante no sistema
+imune por meio da produção de efeitos sobre as células
+
+Interfaces Científicas - Saúde e Ambiente • Aracaju • V.2 • N.3 • p. 81 - 90 • Jun. 2014
+
+• 88 •
+
+T e B, influenciando na barreira hemato-encefálica. Vários mecanismos de ação têm sido propostos ao Ácido
+de Glutâmer, porém os seus efeitos biológicos ainda
+não estão completamente esclarecidos. Relata-se que
+o ácido de Glutâmer age inibindo as células T reativas,
+desviando-os da mielina, pressupõe-se, também, que
+ele suprime o sistema imune diminuindo assim a destruição da bainha de mielina (MENDES, 2011).
+
+e tontura. A principal forma de tratamento para
+essas disfunções vestibulares são medicamentosas, cirúrgicas e reabilitação vestibular (RV). Essa
+RV age fisiologicamente sobre o sistema vestibular por mecanismos centrais de neuroplasticidade
+conhecido como adaptação, habituação e substituição para obtenção da compensação vestibular
+(ZEIGELBOIM, 2010).
+
+Segundo pesquisa de Mendes (2011), pacientes
+tratados com 20mg de AG diariamente, apresentaram
+redução de 29% da taxa de reincidência em um período de 2 anos. Ele reduziu, também, a progressão da
+incapacidade em 12%. No entanto, existem os efeitos
+colaterais, sendo neste medicamento mais brandos,
+apresentando apenas uma reação no local da inoculação, como eritema e endurecimento.
+
+Nos últimos anos, além do tratamento invasivo
+existe também o tratamento fisioterapêutico que,
+segundo estudos, está apresentando resultados
+positivos quanto à movimentação física dos portadores como, também, melhora na sua qualidade
+de vida. O fisioterapeuta atua tanto na fase aguda
+(pós-surto) quanto na fase remissiva, tomando alguns cuidados. Na fase aguda, os exercícios devem
+ser mais passivos, as pausas de recuperação maiores, os exercícios objetivam basicamente, manter
+as amplitudes de movimento e evitar complicações
+secundárias. Pode-se também adicionar exercícios
+ativos sem muita perda energética. Já na fase remissiva os exercícios ativos serão mais intensos,
+mas intercalados por pausa de recuperação, de
+modo que não ocorram fadiga, nem aumento da
+temperatura corpórea, sendo estes, os fatores que
+causam surtos. Assim como orientar o paciente a
+se refrescar, tomando banho de água fria após os
+exercícios ou ingeri-la (CARDOSO, 2010).
+
+Oliveira (2007) realizou acompanhamento de
+uma paciente com EM, diagnosticada de acordo
+com os critérios de McDonald, onde foi realizado
+primeiramente um tratamento com o Interferon,
+porém ela começou a apresentar efeitos colaterais
+levando-a a recusa do tratamento com drogas injetáveis. Foi então, oferecido outro meio de tratamento com a Rosuvastatina, não apresentando, após 6
+meses de uso, nenhum efeito indesejável. Dois meses após inicio do tratamento a paciente apresentou uma boa evolução do quadro neurológico, passando a deambular distâncias maiores, a praticar
+exercícios físicos e não necessitar continuamente
+de sonda vesical. Após 6 meses de uso, apresentou
+queda do EDSS para 4,5 (antes 6,0) com melhora
+das funções piramidais e vesicais.
+O equilíbrio corporal depende exclusivamente
+da integridade do sistema vestibular (labirinto,
+nervo, vestibulococlear, núcleos, vias e inter-relações no SNC), do sistema somatossensorial e da
+visão, sob coordenação do cerebelo. Um portador
+de EM apresenta uma lesão em algum desses sistemas, levando a conflitos de informações, surgindo assim, sintomas de desequilíbrio corporal
+
+2 CONSIDERAÇÕES FINAIS
+Em todos os estudos pesquisados foi constatado
+predominância dessa patologia em adultos jovens, do
+sexo feminino. Acomete a substância branca do SNC,
+causando lesões múltiplas ou em placas. Não possui
+etiologia definida, porém pressupõe ser uma doença
+multifatorial.
+Os sintomas apresentados pelos portadores dependem do tamanho, como também do local da lesão.
+No inicio da doença os sintomas são sutis, que gra-
+
+Interfaces Científicas - Saúde e Ambiente • Aracaju • V.2 • N.3 • p. 81 - 90 • Jun. 2014
+
+• 89 •
+
+dativamente, com a evolução da doença, tornam-se
+incapacitantes.
+O diagnóstico é pungente, tanto para o médico quanto para o paciente, pois estes não sabem o
+prognostico da doença. Os critérios hoje utilizados
+para confirmação do diagnostico são os de McDonald, elaborado com base no Painel Internacional
+sobre Diagnóstico de EM, sendo este citado por todos os autores pesquisados. Os exames realizados
+englobam exames do LCR para pesquisa de bandas oligoclonais, Imagem por Ressonância Magnética e outros complementares, como dosagem
+vitamina B12, VDRL, anti-HIV. Existe, também, os
+exames de Potencial Evocado Miogênico vestibular, que avalia as lesões do tronco encefálico que
+comprometam a via vestíbulo-espinal.
+O tratamento por imunossupressores, como também o tratamento fisioterapêutico estão melhorando
+a vida dos portadores, diminuindo os surtos e, aumentando a qualidade de vida por exercícios físicos. Atualmente, existe o uso das estatinas para tratamento na
+EM, onde além de diminuir o colesterol estão tendo
+efeito anti-inflamatório e imunossupressores, apresentando ainda menos efeitos colaterais comparados
+aos imunossupressores.
+Existe, também, o transplante de células tronco, porém ainda é um protocolo de pesquisa e indicado na refratariedade terapêutica. Esse método mostra uma estabilização clínica, mas não uma
+melhora objetiva.
+Ressalta-se a escassez de publicações sobre o
+assunto abordado, o que demonstra a necessidade
+do aprofundamento técnico cientifica referente ao
+assunto mencionado. Entretanto, com as inovações
+tecnológicas houve uma progressão em relação ao
+diagnóstico e ao tratamento. Porém novos estudos
+deve ser realizados, principalmente sobre os efeitos
+secundários da doença como também se deve buscar
+a etiopatogenia da mesma.
+
+REFERÊNCIAS
+AIDAR, R.C. e Cols. Potencial evocado miogênico vestibular: novas perspectivas diagnosticas em Esclerose
+múltipla. Revista Brasileira de Otorrinolaringologia,
+v.71, n.1, Jan/Fev 2005, p. 48-54.
+ANDRADE, R. E. M. e Cols. Evaluation of white matter
+in patients with multiple sclerosis through diffusion
+tensor magnetic resonance imaging. Arquivo de Neuropsiquiatria, 2007, 65 (3-A): 561-564.
+CARDOSO, F. A. G. Atuação fisioterapêutica na Esclerose Múltipla forma recorrente-remitente. Revista
+Movimenta, v.3, n.2, 2010, p. 69-75. Disponível
+em: <www.nee.ueg.br>. Acesso em: 25 fev. 2013.
+Departamento Científico de Neuroimunologia da Academia Brasileira de Neurologia (Dcniabn). Diretrizes
+para o tratamento de esclerose múltipla com drogas
+imunomoduladoras. Arquivo de Neuropsiquiatria,
+2005, 63 (3-B): 892-895.
+GRZESIUK, A.K. Características clínicas e epidemiológicas de 20 pacientes portadores de Esclerose Múltipla acompanhados em Cuiabá – Mato Grosso. Arquivo
+de Neuropsiquiatria, 2006, 64(3-A): 635-638.
+KUMAR, V.; ABBAS, A.K.; FAUSTO, N.; ASTER, J.C. Robbins e Cotran – Patologia: bases patológicas das doenças. 8.ed. Rio de Janeiro: Elsevier, 2010, p. 1320-1321.
+MACIEL, E. P. Esclerose Múltipla: correlação clínica,
+Líquido cefalorraquiano e neuroimagem. Tese (doutorado) Universidade Estadual de Campinas. Campinas,
+São Paulo: [s/n], 2002.
+MARÍN, N.; EIXARCH, H.; MANSILLA, M. J.; RODRÍGUEZ-MARTÍN, E.; MECHA, M.; GUAZA, C.; ALVAREZ-CERMEÑO, J.C.; MONTALBAN, X.; VILLAR, L.M.; ESPEJO, C. Anti-myelin antibodies play an important role
+in the susceptibility to develop proteolipid protein-in-
+
+Interfaces Científicas - Saúde e Ambiente • Aracaju • V.2 • N.3 • p. 81 - 90 • Jun. 2014
+
+• 90 •
+
+duced experimental autoimmune encephalomyelitis.
+Clin. Exp. Immunol. 2014, 175 (2): 202-7
+MENDES, M. F. Fadiga na Esclerose Múltipla. Revista
+de Neurociências, v.15, n.3, São Paulo, 2007, p. 181.
+Disponível em: <www.revistaneurociencias.com.br>.
+Acesso em: 13 fev. 2013.
+MENDES, A. e Cols. Classical immunomodulatory
+therapy in multiple sclerosis. Arquivo de Neuropsiquiatria, 2011, 69 (3): 536-543.
+MINISTÉRIO DA SAÚDE. Protocolo clínico e diretrizes terapêuticas Esclerose Múltipla. Portaria nº 493,
+de 23 de Setembro de 2010. Disponível em: <www.
+portal.saude.gov.br>. Acesso em: 18 mar. 2013.
+
+POLMAN C.H. e Cols. Diagnostic criteria for multiple
+sclerosis: 2005 revisions to the “McDonald criteria”.
+Ann Neurologia, 2005, 58: 840-846.
+SÁ, M. J. Physiopathology of symptoms and signs
+in multiple sclerosis. Arquivo de neuropsiquiatria,
+2012, 70(9): 733-740.
+SANTOS, G. B. Esclerose Múltipla: relação socioambiental. Revista Hórus, v.4, n.2, Ourinhos-SP, 2010, p.
+208-219. Disponível em: <www.faeso.edu.br/horus>.
+Acesso em: 13 fev. 2013.
+TILBERY, C. P. Esclerose Múltipla no Brasil: aspectos
+clínicos e terapêuticos. São Paulo: Atheneu, 2005.
+
+OLIVEIRA, M. R. e Cols. Uso de Rosuvastatina em Esclerose Múltipla. Revista de Neurociências, v.15, n.3,
+São Paulo, 2007, p. 246-250. Disponível em: <.revistaneurociencias.com.br>. Acesso em: 13 fev. 2013.
+
+TILBERY, C. P. e Cols. Efeitos adversos no tratamento
+da Esclerose Múltipla com drogas imunomoduladoras
+experiência em 118 casos. Revista de Neurociência,
+2009, 17(3): 220-225. Disponível em: <www.revistaneurociencias.com.br>. Acesso em: 13 fev. 2013.
+
+PAVAN, K. e Cols. Avaliação da fatigabilidade em pacientes com esclerose múltipla através do dinamômetro manual. Arquivo de Neuropsiquiatria, 2006,
+64(2-A): 283-286.
+
+ZEIGELBOIM, B. S. e Cols. Reabilitação vestibular: utilidade clínica em pacientes com Esclerose Múltipla.
+Revista da Sociedade Brasileira de Fonoaudiologia,
+v.15, n.1, Curitiba-PR, 2010, p. 125-128.
+
+Recebido em: 13 de Abril de 2014
+Avaliado em: 30 de Abril de 2014
+Aceito em: 2 de Março de 2014
+
+1. Graduado em Ciências Biológicas-Modalidade Médica pela Universidade Tiradentes (1998) e mestrado em Pesquisas laboratoriais em Saúde Pública - Coordenadoria de Controle de Doenças do Estado de São
+Paulo (2005). E-mail: dfragata@yahoo.com.br
+2. Graduada em biomedicina pela Universidade Tiradentes – UNIT
+(2013). E-mail: valdetemotabiomed@hotmail.com
+
+Interfaces Científicas - Saúde e Ambiente • Aracaju • V.2 • N.3 • p. 81 - 90 • Jun. 2014
