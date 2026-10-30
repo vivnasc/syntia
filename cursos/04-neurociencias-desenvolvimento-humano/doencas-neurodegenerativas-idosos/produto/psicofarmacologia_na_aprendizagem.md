@@ -1,0 +1,29 @@
+# BLOCO C — PRODUTO
+
+[oportunidade] **Novo:** mini-série de conteúdo ou ebook sobre «o que a ciência diz sobre o teu cansaço» — para mulheres que vivem em modo de sobrevivência e que normalizam o estado de alerta constante. A aula descreve com rigor o que a ativação crónica do sistema nervoso simpático faz ao corpo (pressão arterial, metabolismo, coagulação, imunidade). Esse conteúdo nunca foi abordado nos produtos atuais com linguagem de prova científica; seria o primeiro a ligar a bioquímica do stress ao padrão da cuidadora em burnout — público que a **mae.cine** e a coleção **Força** já identificam, mas sem este ângulo somático e neurocientífico.
+
+[oportunidade] **Novo:** ebook ou guia sobre o «circuito da recompensa nas relações» — para mulheres que confundem intensidade com amor (já mapeadas em **guia-11-intensidade** e em `syn-07`). A aula explica que o circuito de recompensa mesolímbico não distingue entre o «barato» de uma droga e o «barato» de uma relação ansiosa com reforço intermitente. Este ângulo neurobiológico daria profundidade científica a um produto já existente e abriria um novo produto autónomo, com prova de ciência como diferencial.
+
+[prosperidade] **Coleção Prosperidade** (`pros-05 A mulher que tem medo de receber`) — a aula valida que receber é um ato neurobiológico: o circuito de recompensa ativa-se para comportamentos adaptativos como «receber», e quando essa via está perturbada por condicionamento histórico, receber torna-se fisiologicamente difícil. Ideia de post para **mae.cine**: abertura com «Você não tem medo de receber. O seu cérebro aprendeu que receber é perigoso» — seguida da explicação do circuito de recompensa e da ligação à herança familiar, com CTA GUARDAR.
+
+[força] **Coleção Força** (`for-05 A mulher que vive em modo sobrevivência`) — a aula descreve com precisão os efeitos fisiológicos da resposta simpática ao stress: aumento de pressão arterial, redistribuição de fluxo sanguíneo, aumento de cortisol e de coagulabilidade. Esses dados validam e aprofundam o conteúdo deste ebook. Ideia de carrossel para **veu.a.veu** (gouache, personagem Nina): «O teu corpo em modo sobrevivência — o que está a acontecer dentro de ti quando não podes parar», explicando cada resposta fisiológica em linguagem simples e terminando com a pergunta «do que é que isto te protege?»
+
+[identidade] **Coleção infonte** (`inf-05 A mulher que tem medo do próprio tamanho`) — a aula descreve os processos adaptativos: o cérebro aprende a lidar com um estímulo e deixa de o sentir. Este mecanismo de neuroplasticidade pode ser usado como metáfora de produto: a mulher que se habituou a ser pequena não o faz por fraqueza — o seu cérebro adaptou-se à ausência de si mesma como mecanismo de sobrevivência. Ideia de reel para **mae.cine**: «Você não encolheu. O seu cérebro aprendeu a não te sentir. E pode desaprender.» — com o mecanismo de tolerância neuronal como prova científica e o movimento «Acaba em Mim» no fecho.
+
+[amor] **Coleção SyncHim** (`syn-06 A mulher que nunca baixa a guarda`) e **guia-13-guarda** — a aula explica que o condicionamento da recompensa é «tão marcante quanto ao do medo, pois ambos ocorrem na amígdala». Esta frase é diretamente aplicável à mulher que não baixa a guarda: o sistema que a protege do perigo é o mesmo que processa a recompensa do amor. Ideia de ebook profundo ou post para **soulab**: «A amígdala não sabe a diferença entre perigo e amor» — observação/símbolo sobre como o mesmo circuito que te ensinou a sobreviver te impede de te deixar amar, no registo exploratório e lunar característico do soulab.
+
+[maternidade] **Coleção FreeMe Mãe** (`mae-08 A mãe que não sentiu`) — a aula descreve o embotamento afetivo como sintoma negativo de perturbações neurológicas, e a neuroadaptação como mecanismo pelo qual o cérebro deixa de sentir o que era demasiado. Estes conceitos validam a experiência da mãe que não sentiu o que «era suposto sentir» — não por falha moral, mas por proteção neurobiológica. Ideia de post para **mae.cine** (foto quente, voz Telma): abertura «Você não é uma mãe fria. O seu cérebro desligou para sobreviver» — com a neuroquímica do embotamento como prova e fecho no ciclo que acaba em si.
+
+---
+
+## NOTAS
+
+1. **Português do Brasil vs. Portugal:** o documento original está em português do Brasil (orthografia, terminologia e convenções brasileiras). O BLOCO A e B foram redigidos em português de Portugal conforme as instruções. No BLOCO C, a secção **mae.cine** mantém o registo «você» e o tom brasileiro, conforme as regras da conta.
+
+2. **Figuras e imagens:** o texto referencia 18 figuras (diagramas anatómicos, esquemas de sinapses, recetores, circuitos) que não estão presentes na transcrição textual. A análise baseou-se exclusivamente no texto.
+
+3. **Ligações de URL truncadas/inativas:** várias referências a sites (ex.: `http://andreonetm.webnode.com.br`, `http://dc367.4shared.com`) são de 2014 e provavelmente inativas. Não afetam o conteúdo conceptual.
+
+4. **Trecho potencialmente truncado:** o capítulo sobre os receptores adrenérgicos (pág. 20-21) apresenta a listagem de recetores alfa e beta com uma formulação repetida («norepinefrina excita os receptores alfa / epinefrina excita os receptores alfa»), o que sugere possível erro de transcrição ou de edição original — o esperado seria «epinefrina excita os receptores beta».
+
+5. **Ausência de aplicação direta a produtos da área de espiritualidade/consciência:** esta aula é exclusivamente de psicofarmacologia clínica e neuroanatomia. Não toca nos territórios de logoterapia, individuação junguiana ou constelações sistémicas que alimentam diretamente os livros-pilar (*A Grande Transição*, *As Sete Faces do Medo*). As ligações ao BLOCO C foram feitas apenas onde a sobreposição é real e útil.

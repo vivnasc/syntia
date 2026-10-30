@@ -1,0 +1,1891 @@
+Psicofarmacologia na Aprendizagem
+
+Brasília-DF.
+
+Elaboração
+Velane Oliveira Fernandes
+
+Produção
+Equipe Técnica de Avaliação, Revisão Linguística e Editoração
+
+Sumário
+APRESENTAÇÃO................................................................................................................................... 4
+ORGANIZAÇÃO DO CADERNO DE ESTUDOS E PESQUISA...................................................................... 5
+INTRODUÇÃO...................................................................................................................................... 7
+UNIDADE I
+NEUROTRANSMISSÃO SINÁPTICA E O ENFOQUE ANATÔMICO DO SISTEMA NERVOSO............................... 9
+CAPÍTULO 1
+ORGANIZAÇÃO DO SISTEMA NERVOSO E SUA FUNÇÃO INTEGRADORA.................................... 10
+CAPÍTULO 2
+O SISTEMA NERVOSO AUTÔNOMO - SNA................................................................................ 18
+UNIDADE II
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I).................................................................. 22
+CAPÍTULO 1
+CONCEITOS BÁSICOS EM FARMACOLOGIA............................................................................ 23
+CAPÍTULO 2
+A SEROTONINA...................................................................................................................... 25
+CAPÍTULO 3
+HIPNÓTICOS E SEDATIVOS...................................................................................................... 29
+CAPÍTULO 4
+BARBITÚRICOS....................................................................................................................... 31
+CAPÍTULO 5
+BENZODIAZEPÍNICOS - BDZS................................................................................................... 34
+CAPÍTULO 6
+ANSIOLÍTICOS........................................................................................................................ 38
+UNIDADE III
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE II)................................................................. 42
+CAPÍTULO 1
+ANTIPSICÓTICOS.................................................................................................................... 42
+CAPÍTULO 2
+ANTIDEPRESSIVOS E ANTIMANIA.............................................................................................. 46
+
+CAPÍTULO 3
+TRANSTORNO DE DÉFICIT DE ATENÇÃO E SEU TRATAMENTO..................................................... 51
+UNIDADE IV
+TRANSTORNO DE RECOMPENSA, ABUSO DE DROGAS E SEUS TRATAMENTOS.......................................... 55
+CAPÍTULO 1
+CIRCUITO DE RECOMPENSA .................................................................................................. 56
+CAPÍTULO 2
+NICOTINA, ÁLCOOL, OPIÁCEOS............................................................................................. 59
+CAPÍTULO 3
+MACONHA, ALUCINÓGENOS, DROGAS RECREATIVAS............................................................. 61
+PARA (NÃO) FINALIZAR....................................................................................................................... 63
+REFERÊNCIAS..................................................................................................................................... 64
+
+Apresentação
+Caro aluno
+A proposta editorial deste Caderno de Estudos e Pesquisa reúne elementos que se entendem
+necessários para o desenvolvimento do estudo com segurança e qualidade. Caracteriza-se pela
+atualidade, dinâmica e pertinência de seu conteúdo, bem como pela interatividade e modernidade
+de sua estrutura formal, adequadas à metodologia da Educação a Distância – EaD.
+Pretende-se, com este material, levá-lo à reflexão e à compreensão da pluralidade dos conhecimentos
+a serem oferecidos, possibilitando-lhe ampliar conceitos específicos da área e atuar de forma
+competente e conscienciosa, como convém ao profissional que busca a formação continuada para
+vencer os desafios que a evolução científico-tecnológica impõe ao mundo contemporâneo.
+Elaborou-se a presente publicação com a intenção de torná-la subsídio valioso, de modo a facilitar
+sua caminhada na trajetória a ser percorrida tanto na vida pessoal quanto na profissional. Utilize-a
+como instrumento para seu sucesso na carreira.
+Conselho Editorial
+
+5
+
+Organização do Caderno
+de Estudos e Pesquisa
+Para facilitar seu estudo, os conteúdos são organizados em unidades, subdivididas em capítulos, de
+forma didática, objetiva e coerente. Eles serão abordados por meio de textos básicos, com questões
+para reflexão, entre outros recursos editoriais que visam a tornar sua leitura mais agradável. Ao
+final, serão indicadas, também, fontes de consulta, para aprofundar os estudos com leituras e
+pesquisas complementares.
+A seguir, uma breve descrição dos ícones utilizados na organização dos Cadernos de Estudos
+e Pesquisa.
+Provocação
+Textos que buscam instigar o aluno a refletir sobre determinado assunto antes
+mesmo de iniciar sua leitura ou após algum trecho pertinente para o autor
+conteudista.
+Para refletir
+Questões inseridas no decorrer do estudo a fim de que o aluno faça uma pausa e reflita
+sobre o conteúdo estudado ou temas que o ajudem em seu raciocínio. É importante
+que ele verifique seus conhecimentos, suas experiências e seus sentimentos. As
+reflexões são o ponto de partida para a construção de suas conclusões.
+
+Sugestão de estudo complementar
+Sugestões de leituras adicionais, filmes e sites para aprofundamento do estudo,
+discussões em fóruns ou encontros presenciais quando for o caso.
+
+Praticando
+Sugestão de atividades, no decorrer das leituras, com o objetivo didático de fortalecer
+o processo de aprendizagem do aluno.
+
+Atenção
+Chamadas para alertar detalhes/tópicos importantes que contribuam para a
+síntese/conclusão do assunto abordado.
+
+6
+
+Saiba mais
+Informações complementares para elucidar a construção das sínteses/conclusões
+sobre o assunto abordado.
+
+Sintetizando
+Trecho que busca resumir informações relevantes do conteúdo, facilitando o
+entendimento pelo aluno sobre trechos mais complexos.
+
+Exercício de fixação
+Atividades que buscam reforçar a assimilação e fixação dos períodos que o autor/
+conteudista achar mais relevante em relação a aprendizagem de seu módulo (não
+há registro de menção).
+Avaliação Final
+Questionário com 10 questões objetivas, baseadas nos objetivos do curso,
+que visam verificar a aprendizagem do curso (há registro de menção). É a única
+atividade do curso que vale nota, ou seja, é a atividade que o aluno fará para saber
+se pode ou não receber a certificação.
+Para (não) finalizar
+Texto integrador, ao final do módulo, que motiva o aluno a continuar a aprendizagem
+ou estimula ponderações complementares sobre o módulo estudado.
+
+7
+
+Introdução
+Na revista Info de fevereiro de 2014, umas das matérias de capa foi denominada: “A pílula
+da inteligência – droga que turbina o cérebro conquista o Vale do Silício”. Nessa matéria o uso
+indiscriminado do modafenil é tratado como o novo hábito daqueles que buscam caminhos ou
+atalhos bioquímicos para alcançar a meta das grandes realizações cognitivas, mesmo expostos
+a significativos obstáculos: muitas horas de atividade ininterrupta, concentração além conta,
+rendimento alto a despeito de poucas horas de sono, entre outros. Alguns trechos da matéria,
+que mostram, como nos dias modernos a busca por altos rendimentos mentais têm direcionado o
+interesse de um número crescente de pessoas, com ou não, atingidas por dificuldades fisiológicas
+concretas nas áreas de aprendizagem.
+Com a promessa de tornar quem toma mais produtivo, o modafinil é a droga
+dos empreendedores do Vale do Silício. Mas é possível ser criativo e eficiente
+com um comprimido? E, se for, qual o limite do doping intelectual?
+Há um segredo entre os empreendedores e funcionários de empresas de
+tecnologia do Vale do Silício que passam horas e horas acordados, criando
+centenas de linhas de programação. Não tem nada a ver com organização,
+perseverança, sorte ou qualquer outra dica de sucesso publicada em livros de
+autoajuda. O segredo é ovalado, branco, pesa de 100 a 200 miligramas e custa
+tão pouco quanto um café pequeno no Starbucks, ou cerca de 5 dólares. Se há
+algo em comum entre as quase 500 companhias da região (...) essa coincidência
+é um pequeno comprimido de modafinil, a droga que move o maior polo de
+empreendedorismo digital do mundo.
+Dois meses depois que cheguei para estudar e trabalhar na Califórnia, me
+ofereceram uma pílula dessas, chamam de “smart druu”, uma espécie de
+Viagra para o cérebro. Óbvio que achei que era mentira e também fiquei com
+receio de aumentar a pressão, dar taquicardia. Mas aí vi que todo mundo daqui
+tomava para trabalhar sem cansaço. Até meus professores tomavam. Tinha
+gente que colocava o remédio para dissolver em um copo de Mountain Dew
+(um refrigerante cítrico) e tomava o dia inteiro. Então experimentei. E, para
+ser sincero, mudou meu rendimento. O brasileiro Fábio, que aceitou contar
+sua experiência para esta reportagem, é estudante do Massachusetts Institute
+of Technology - MIT trabalha em um laboratório dentro da Universidade, em
+Boston, faz estágio em uma empresa de mídia social. Acorda às 6 da manhã e
+vai dormir sempre depois da meia noite. Come mal, não faz exercícios e, claro,
+dorme muito menos que o recomendável. Tinha uma rotina estafante, pelo
+menos até ser apresentado ao madafinil, droga comercializada apenas com
+receita médica desde 1998 e criada para o tratamento de narcolepsia, mas que
+passou a ser utilizada por um número cada vez maior de pessoas em busca de
+uma suposta melhora cognitiva.
+
+8
+
+De acordo com um estudo da Universidade da Califórnia publicado na revista
+da Associação Médica Americana, a quantidade de usuários da droga aumentou
+cerca de dez vezes nos últimos seis anos. (...)
+Em um mundo onde todos querem vencer o sono, ser mais produtivos e acabar
+com a procrastinação o modafinil ganha adeptos exponencialmente. (...)
+
+Essa é uma matéria que ilustra, com um pequeno exemplo, de muitos que poderiam ser citados na
+introdução desse material a importância de se estudar seriamente o campo da psicofarmacologia.
+
+Objetivos
+»» Promover a compreensão da atuação de moléculas extra corpóreas nas estruturas
+encefálicas e que vão manifestar sua ação em reações muito sutis como pensamento,
+humor, percepção e memória.
+»» Analisar a possibilidade de se ajustar um comportamento, inicialmente, disfuncional,
+com o auxílio de terapias medicamentosas.
+»» Compreender a atuação de medicamentos psicofarmacológicos no ajuste de
+processos de aprendizagem no âmbito escolar.
+
+9
+
+NEUROTRANSMISSÃO
+SINÁPTICA E O ENFOQUE
+ANATÔMICO DO
+SISTEMA NERVOSO
+
+UNIDADE I
+
+Talvez você se pergunte: se o módulo é sobre psicofarmacologia, por que começar
+revendo um assunto visto no módulo inicial da especialização? Acontece que
+quando você se decide a compreender o mecanismo da ação de uma substância
+em um organismo, o primeiro passo é conhecer o melhor possível esse organismo.
+Ora, se o enfoque é estudar a aprendizagem, se essa aprendizagem se dá de maneira
+íntima ao utilizarmos o aparato neuronal, e, nos dias atuais, têm-se ainda uma
+infinidade de substâncias/medicamentos que podem potencializar ou ajustar os
+processos cognitivos, esses estudos então precisam começar pela intersecção dessas
+duas áreas: o estudo neuronal, ou seja, a primeira base em que a psicofarmacologia
+se apoia é a base neural. Buscamos responder: o que o medicamento faz? Como
+ele atua? Como ele produz ou não o resultado desejado? E tudo isso parte de uma
+ideia básica: como funciona o neurônio? Por isso, esse é o passo inicial de nossa
+caminhada.
+Será lícito tomar um medicamento para conseguir passar no vestibular ou em um
+concurso? Será lícito usar um medicamento para “ajustar” o comportamento de uma
+criança, a qual, na verdade não conseguimos reconhecer-lhe a grandeza de seus
+pensamentos e reações que contrapõe-se com nossas fraquezas e limitações?
+Será lícito usar de estratégias bioquímicas para alcançar a “felicidade” que não
+conseguimos alcançar por fibra e força? Muitas perguntas, todas sem resposta. Todas
+de fundo ético. Inaugura-se a bioética e com ela a neuroética em alguns poucos
+desafios. A essas perguntas, você não encontrará respostas no presente estudo, e
+nem em nenhum outro. Ainda caminhamos por um estrada de conflitos conceituais
+e crises de ideias e ideais. Muitas perguntas, sem resposta. Nessa provocação a
+conclusão é uma: Estamos diante da ponta do iceberg!
+
+10
+
+CAPÍTULO 1
+Organização do Sistema Nervoso e sua
+função integradora
+
+Organização do Sistema Nervoso
+O organismo humano é controlado pelo trabalho integrado dos Sistemas Nervoso e Endócrino.
+Pode-se dizer, de maneira geral, que o Sistema Nervoso apresenta uma atuação rápida, pois sua
+“linguagem” é elétrica, como as contrações musculares. Em contrapartida, a atuação do sistema
+nervoso endócrino é mais lenta, pois conta com funções metabólicas, facilmente visualizadas ao se
+mencionar que há uma captação de estímulo (interno ou externo), um comando para a glândula, um
+comando da glândula (hormônio) que cai na corrente sanguínea e deverá ser carregado até outro
+órgão que realizará a ação. Essa sequencia de eventos, embora muito rápida, não o é tanto quanto
+os disparos neuronais típicos.
+
+Divisão sensorial
+Os receptores sensoriais fazem emanar uma situação sensorial que deverá inicializar a atividade
+do Sistema Nervoso. Esses receptores podem ser os visuais, auditivos, táteis entre outros. Essa
+informação pode ter como uma resposta uma reação imediata, ou ser armazenada no cérebro por
+minutos, semanas ou anos. Isso interferiria possivelmente em ações, reações futuras.
+
+Divisão motora
+Pode ser representado pelos músculos esqueléticos e lisos, pelas glândulas exócrinas e endócrinas.
+Tais estruturas orgânicas são os chamados órgãos efetores.
+Caminho da informação, passando pela divisão sensorial e motora:
+1. Informação sensorial.
+2. Nervos periféricos.
+3. Medula.
+4. Bulbo.
+5. Mesencéfalo.
+6. Cerebelo.
+7. Tálamo.
+
+11
+
+UNIDADE I │ NEUROTRANSMISSÃO SINÁPTICA E O ENFOQUE ANATÔMICO DO SISTEMA NERVOSO
+8. Córtex cerebral.
+9. Porção somática do Sistema Nervoso Central (SNC).
+10. Transmissão sensorial.
+Figura 1. Divisão Sensorial do Sistema Nervoso.
+
+Figura adaptada e disponível em: <http://andreonetm.webnode.com.br/news/divis%C3%A3o%20sensorial%20do%20
+sistema%20nervoso/>. Acessado em: 13 maio. 2014.
+
+Sistema Nervoso e sua função integradora
+O Sistema Nervoso tem como principal função receber informações seja advindas do meio interno
+ou externo, processando, analisando e gerando comandos que caracterizem respostas motoras
+apropriadas.
+Após o recebimento da informação sensorial ela é selecionada de acordo com sua importância, e
+então será orientada para regiões motoras corretas que deverão trabalhar as respostas desejadas.
+Essa orientação para regiões motoras é a chamada função integradora do sistema nervoso. Assim se
+uma pessoa coloca a mão sobre um fogão quente, a resposta desejada é levantar a mão.
+As sinapses determinam a direção em que um sinal nervoso se espalha no Sistema Nervoso. Elas
+desempenham uma ação seletiva, escolhendo e amplificando certos sinais fracos e canalizando os
+sinais em várias direções.
+
+Níveis de função do Sistema Nervoso Central
+A medula espinhal é um condutor de sinais a partir da periferia do corpo para o cérebro, ou na
+direção oposta. Mas não é só isso, observa-se que mesmo após ser seccionada na região cervical
+
+12
+
+NEUROTRANSMISSÃO SINÁPTICA E O ENFOQUE ANATÔMICO DO SISTEMA NERVOSO │ UNIDADE I
+
+superior, funções ainda permanecem na medula espinhal. Existem circuitos de marcha, reflexos
+relacionados a dor, envolvidos com a sustentação do corpo e com a movimentação peristáltica.
+As áreas inferiores do cérebro – bulbo, mesencéfalo, hipotálamo, tálamo, cerebelo e gânglios da base
+– estão relacionados às atividades subconscientes do organismo. Bulbo e ponte estão relacionados
+ao controle subconsciente da pressão arterial e da respiração. O controle do equilíbrio combina-se
+com atividades das porções mais antigas do cerebelo e da substância reticular do bulbo, ponte e
+mesencéfalo. Reflexos alimentares relacionam-se ao controle de áreas do bulbo, ponte, mesencéfalo,
+amígdala e hipotálamo. Padrões emocionais, tais como, reação ao prazer, à dor, resposta sexual,
+excitação, raiva, podem ser apresentadas em animais sem córtex cerebral.
+Quanto ao córtex cerebral, depois de enumerar todas as funções anteriormente mencionadas,
+resta ser um depósito extremamente grande de memória. Que não funciona sozinho, e está sempre
+trabalhando integradamente com os centros inferiores do Sistema Nervoso.
+O córtex dá precisão as funções desses centros cerebrais inferiores, pois é um amplo depósito de
+informações que converte estas funções em operações determinativas.
+O córtex é essencial à maioria dos nossos processos de pensamento, mas mesmo aí não trabalha
+sozinho. O estado de vigília é garantido pelo centros cerebrais inferiores e que desta maneira abrem
+seu banco de memória à circuitaria cerebral do pensamento.
+
+Sinapses do Sistema Nervoso
+O estudo do Sistema Nervoso necessariamente passa pela compreensão das sinapses. Deve-se levar
+em conta que a função central das células nervosas é trabalhar com a informação. Essa informação
+deve ser capturada, recebida, analisada, respondida, gerada e transmitida. O importante é entender
+que essa informação ao ser transmitida entre os neurônios, vai necessitar fundamentalmente das
+sinapses.
+Portanto, sinapses são a área existente entre neurônios por onde a informação é veiculada, indo ou
+vindo. Existem duas formas distintas: a sinapse elétrica, e a sinapse química.
+
+Sinapses elétricas
+Nas sinapses elétricas, a extremidade do telodendro de um axônio está tão perto do neurônio que
+deverá receber a mensagem que existe uma continuidade elétrica entre o interior do axônio e esse
+próximo neurônio. Essas regiões de quase contato são chamadas hiato ou junção gap, pois a distância
+que separa um e outro neurônio não passa de 2nm. Este espaço forma uma passagem de baixa
+resistência que propicia um desvio para a corrente fluir do terminal do axônio para a célula adjacente.
+Esse fenômeno também requer que, além da passagem de baixa resistência entre o citoplasma de
+um neurônio e o neurônio próximo, haja uma alta resistência que impeça a propagação da corrente
+no sentido lateral em relação ao local de contato.
+
+13
+
+UNIDADE I │ NEUROTRANSMISSÃO SINÁPTICA E O ENFOQUE ANATÔMICO DO SISTEMA NERVOSO
+A transmissão elétrica não está propensa à perda de tempo ou defasagens que podem ocorrer nas
+sinapses químicas. Muitas sinapses elétricas podem ocorrer em ambas as direções.
+Figura 2. Sinapse elétrica I.
+
+Figura adaptada e disponível em: < http://dc367.4shared.com/doc/MTTYwy58/preview.html>. Acessado em: 15 maio. 2014.
+
+Figura 3. Sinapse elétrica II.
+
+Figura adaptada e disponível em: < http://dc367.4shared.com/doc/MTTYwy58/preview.html>. Acessado em: 15 maio. 2014.
+
+Sinapses químicas
+As sinapses químicas são diferentes das sinapses elétricas, em que as células possuem um íntimo
+contato por meio de junções abertas ou do tipo gap que permite o livre trânsito de íons de uma
+membrana a outra, e então, o potencial de ação passa de uma célula para outra muito mais rápido e
+não podendo ser bloqueado e que ocorre, por exemplo em músculo liso e cardíaco, onde a contração
+ocorre por um todo em todos os sentidos.
+Nas transmissões químicas, o terminal do axônio dilata-se e forma o botão do axônio, que deverá
+se comunicar com um dendrito ou corpo celular de outro neurônio, essas células não se fundem e
+forma-se, entre elas, a fenda sináptica com cerca de 20nm. É importante ressaltar que o botão é
+visto como o elemento pré-sináptico e o dendrito ou corpo celular do outro neurônio, é visto como
+o elemento pós-sináptico.
+
+14
+
+NEUROTRANSMISSÃO SINÁPTICA E O ENFOQUE ANATÔMICO DO SISTEMA NERVOSO │ UNIDADE I
+
+O botão sináptico é dotado de um grande número de vesículas, que caracterizam essencialmente
+as tais sinapses. A transmissão de um impulso do botão pré-sináptico para o neurônio póssináptico ocorre com a liberação, partindo das vesículas sinápticas, de uma substância química
+– o neurotransmissor –, observe a tabela a seguir, que se difundirá na fenda sináptica e excitará
+a membrana pós-sináptica, caracterizando, assim a transmissão da informação, conforme a
+substância difundida.
+Neurotransmissor
+Acetilcolina
+
+Localização
+
+Funções
+
+Junção neuromuscular
+
+Transmissão
+
+Sistema nervoso autônomo
+
+Transmissão
+
+Hipocampo e córtex
+Sistema nervoso simpático
+
+Memória
+Transmissão
+
+Vias encefálicas variadas
+Núcleo estriado
+
+Regulação de respostas emocionais aos
+estímulos ambientais
+Afetividade
+
+Serotonina
+
+Núcleos da Rafe
+
+Sono (está relacionado à Doença de
+Parkinson e esquizofrenia)
+Afetividade
+
+Histamina
+
+Vias encefálicas variadas
+
+Sono
+Sede
+
+Glutamato
+
+Vias encefálicas variadas
+
+GABA (ácido-gama-amino-butírico)
+
+Vias encefálicas variadas
+
+Norepinefrina
+
+Dopamina
+
+Temperatura corporal
+Neurotransmissor excitatório que atua no
+tronco cerebral e medula espinhal
+Neurotransmissor inibitório
+
+Quando um impulso nervoso atinge o botão pré-sináptico, a alteração do potencial de membrana
+rapidamente permite o influxo de íons cálcio que normalmente estão fechados, mas que, abremse em resposta à alteração de voltagem da membrana, por isso, diz-se que esses canais são do
+tipo voltagem dependentes. A elevação na concentração de cálcio é extremamente curta, pois o
+botão contém mecanismos que rapidamente sequestram, recatam os íons de cálcio. O aumento
+momentâneo dos íons de cálcio afetam as vesículas, que se fundem à membrana pós-sináptica
+liberando seus conteúdos de substâncias químicas transmissoras.
+Figura 4. Sinapse química.
+
+Figura adaptada e disponível em: < http://www.infoescola.com/sistema-nervoso/sinapse-quimica/>. Acessado em: 15 maio. 2014.
+
+15
+
+UNIDADE I │ NEUROTRANSMISSÃO SINÁPTICA E O ENFOQUE ANATÔMICO DO SISTEMA NERVOSO
+
+Medicamentos e a transmissão sináptica
+Medicamentos variados aumentam a excitabilidade das sinapses enquanto outros diminuem essa
+excitabilidade. A cafeína e teobromina, por exemplo, aumentam a excitabilidade, pois diminuem
+o limiar de excitabilidade dos neurônios. Assim, a estricnina é um dos mais conhecidos de todos
+os agentes que aumentam a excitabilidade dos neurônios. Entretanto, não reduz exatamente o
+limiar de excitabilidade, em vez disso, ela inibe a ação de alguns transmissores inibitórios sobre
+os neurônios, especialmente o efeito da glicina na medula espinhal. Consequentemente, os efeitos
+dos transmissores excitatórios tornam-se avassaladores e os neurônios ficam tão excitados que
+passam a apresentar descargas repetitivas, o que gera, por sua vez, graves espasmos tônicos
+musculares.
+Muitos anestésicos aumentam o limiar de excitação da membrana, diminuindo, assim, a transmissão
+sináptica em muitos pontos do Sistema Nervoso. Como muitos anestésicos são lipossolúveis,
+acreditou-se que eles poderiam alterar as características físicas das membranas neuronais,
+tornando-se menos sensíveis aos agentes excitatórios.
+
+Bioquímica da neurotransmissão
+A célula pré-sináptica está isolada eletricamente da célula pós-sináptica, ao menos nas
+sinapses químicas, que são a maioria. A mudança de potencial da célula pré-sináptica libera
+neurotransmissor na fenda sináptica, que causa despolarização na célula subsequente (póssináptica). Esse potencial é alterado pelo fluxo de íons que entram e saem do citoplasma do
+axônio, a partir do cone de implantação, através da membrana celular. O potencial de repouso,
+ou seja, a não produção de impulso elétrico, é caracterizado pela alta concentração do íon K+ no
+interior do neurônio e baixa concentração de Na+ e esse gradiente de concentração é mantido
+à custa da bomba Na+/K+/ATPase – com grande gasto energético. No repouso, a membrana é
+mais permeável ao K+ que ao Na+, assim o potencial em sua quase totalidade é determinado
+pela relação entre o K+ externo e interno. Com a entrada do íon Na+ ocorre a despolarização
+da célula, o que gera a abertura de mais canais de sódio. A membrana atinge, então, o potencial
+de equilíbrio para o sódio. Com o equilíbrio da membrana para o sódio, os canais voltam a se
+fechar e abrem-se os canais de potássio, K+. A saída de potássio recupera o potencial negativo da
+membrana. Acredita-se que um dos fatores determinantes para a funcionalidade desses canais
+iônicos seja o tamanho dos íons, o que permite a passagem de determinadas substâncias e não
+passagem de outras.
+
+16
+
+NEUROTRANSMISSÃO SINÁPTICA E O ENFOQUE ANATÔMICO DO SISTEMA NERVOSO │ UNIDADE I
+
+Figura 5. Impulso elétrico neuronal.
+
+Figura adaptada e disponível em: <http://www.ebah.com.br/content/ABAAAfbngAL/potencial-acao>. Acessado em: 18 maio.
+2014.
+
+Nas sinapses químicas sempre existe a participação de um neurotransmissor que é o mensageiro
+químico entre as membranas pré e pós-sinápticas. Essas substâncias que atuam no Sistema Nervoso
+podem ser divididos em dois grupos:
+»» o grupo das moléculas pequenas: acetilcolina, dopamina, noradrenalina, serotonina,
+glutamato, glicina e GABA;
+»» o grupo das moléculas mais robustas: os neuropeptídios como a metilencefalina,
+substância P, neurotensina, angiotensina II.
+Tradicionalmente, considera-se que cada neurônio secreta somente um tipo de neurotransmissor,
+mas na prática, observa-se que várias sinapses liberam neurotransmissores diferentes.
+Deve-se ter em mente que pode ocorrer de haverem receptores diferentes para um mesmo
+neurotransmissor. Um bom exemplo é a acetilcolina que tem receptores diferentes no músculo
+cardíaco e no músculo esquelético, podendo produz\ir reações inibitórias e excitatórias,
+respectivamente. Quando a acetilcolina cumpre seu papel na fenda sináptica, que é transmitir
+informação a enzima acetilcolinesterase degrada-a.
+Os neurotransmissores da família das catecolaminas podem ser inibidos por metilação, catalisada
+por catecol-ortometil tansferase (COMT) ou por remoção oxidativa de seu grupo amínico pela
+monoaminoxidase (MAO).
+Já o ácido gama-aminobutírico é inativado por transaminação do semaldeido succínico.
+
+17
+
+UNIDADE I │ NEUROTRANSMISSÃO SINÁPTICA E O ENFOQUE ANATÔMICO DO SISTEMA NERVOSO
+Figura 6. Neurotransmissores e neuromoduladores.
+
+Figura adaptada e disponível em: < http://www.clinicafares.com.br/dicas-de-saude/Neurologia-60/Leia-sobre-osneurotransmissores-e-neuromoduladores-29736.html >. Acessado em: 20 maio. 2014.
+
+18
+
+CAPÍTULO 2
+O Sistema Nervoso Autônomo - SNA
+
+Componentes do Sistema Nervoso Autônomo
+Sistema Nervoso Simpático: A cadeia simpática situada a cada lado da medula espinhal, bem como
+suas conexões com a medula e com os órgãos caracteriza a estrutura desse sistema. Existe um
+gânglio simpático para cada segmento medular torácico e lombar, mas existem apenas três gânglios
+simpáticos cervicais e apenas dois sacrais. As fibras simpáticas se dispersam, a partir dos gânglios
+simpáticos, para todas as vísceras do corpo.
+Existem também outros gânglios, situados nos plexos simpáticos da cavidade abdominal. É dos
+gânglios desses plexos que parte a maioria das fibras nervosas simpáticas terminais, dirigindo-se
+para os órgãos abdominais.
+Os nervos simpáticos também contém fibras sensoriais. Essas fibras se originam nos órgãos internos,
+e penetram nos nervos simpáticos, quando, finalmente atingem os nervos espinhais. Como atingem
+raízes posteriores de substância cinzenta da medula causam reflexos medulares simpáticos ou
+então, transmitem sensações para o cérebro, e assim também são transmitidas as sensações da
+periferia do corpo.
+Figura 7. Sistema Nervoso Autônomo.
+
+Figura adaptada e disponível em: <http://www.imaios.com/br/e-Anatomy/Cabeca-e-Pescoco/Sistema-nervoso-autonomodiagramas>. Acessado em: 18 maio. 2014.
+
+19
+
+UNIDADE I │ NEUROTRANSMISSÃO SINÁPTICA E O ENFOQUE ANATÔMICO DO SISTEMA NERVOSO
+As fibras do Sistema Nervoso Parassimpático tem origem, principalmente, no décimo par de nervos
+cranianos, que é o nervo vago, apesar de que algumas fibras têm origem no terceiro, sétimo e nono
+nervos cranianos e ainda, em vários segmentos sacrais da medula espinhal.
+Pelo nervo vago passam as fibras parassimpáticas que vão para o coração, para os pulmões e para
+quase todos os órgãos do abdômen. Os outros nervos cranianos carregam fibras parassimpáticas
+para a cabeça, enquanto as fibras sacrais inervam a bexiga urinária, a parte inferior do cólon e o reto.
+Figura 8. Sistema Nervoso Autônomo.
+
+Figura adaptada e disponível em: <http://www.ebah.com.br/content/ABAAABWmwAH/sna-fibras-recepto>. Acessado em: 18
+maio. 2014.
+
+Mecanismos de secreção e de remoção do
+transmissor nas terminações pós-ganglionares
+Todos os neurônios pré-ganglionares são colinérgicos, ou seja, produzem e secretam acetilcolina.
+Quase todos os neurônios pós-ganglionares do sistema parassimpáticos são também colinérgicos.
+Por isso a acetilcolina é chamada de neurotransmissor parassimpático.
+A acetilcolina – Ach – é sintetizada nas terminações finais das fibras nervosas colinérgicas, no
+axoplasma, fora das vesículas. Posteriormente é transportada para dentro das vesículas, onde é
+armazenada, de maneira muito concentrada até que seja liberada. A reação química que garante esse
+fenômeno tem como reagentes: a acetil coenzima A e a colina que reagirão e produzirão acetilcolina.
+
+20
+
+NEUROTRANSMISSÃO SINÁPTICA E O ENFOQUE ANATÔMICO DO SISTEMA NERVOSO │ UNIDADE I
+
+Receptores dos órgãos efetores
+Para que a acetilcolina, a norepinefrina ou a epinefrina secretadas nas terminações autonômicas
+possam estimular os órgãos efetores, elas precisam ser reconhecidas por receptores que devem
+promover uma ligação.
+Existem dois tipos de receptores:
+a. Receptores de acetilcolina:
+›› muscarínicos: ativados também pelo veneno do cogumelo chapéu de cobra
+(amanita muscaria). Encontrados em todas as célula efetoras pós-ganglionares
+do Sistema Nervos Parassimpático, e também os estimulados pelos neurônios
+colinérgicos pós-ganglionares do sistema simpático;nicotínicos: ativado pela
+nicotina. Encontrados nas sinapses entre os neurônios pré e pós-ganglionares
+dos sistemas simpático e parassimpático e também nas membranas das fibras
+musculares esqueléticas na junção neuromuscular;a acetilcolina ativa ambos.
+b. O entendimento desses diferentes tipos de receptores justifica-se pois com muita
+frequência, são utilizados medicamentos específicos na prática médica para
+estimular ou bloquear um ou outro tipo desses receptores.
+c. Receptores adrenérgicos:
+›› receptores alfa: norepinefrina (secretada pela medula suprarrenal), excita
+os receptores alfa. Epinefrina (também secretada pela medula suprarrenal),
+excita os receptores alfa;receptores beta: norepinefrina (secretada pela medula
+suprarrenal), excita os receptores beta, em pequeno grau. Epinefrina (também
+secretada pela medula suprarrenal), excita os receptores alfa.
+
+Respostas ao estresse do Sistema Nervoso
+Simpático
+Quando grande parte do Sistema Nervoso Simpático dispara ao mesmo tempo, isso aumenta, por
+muitas formas diferentes, a capacidade do corpo de realizar atividade muscular vigorosa, como a
+seguir:
+1. aumento de pressão arterial;aumento de fluxo sanguíneo para os músculos
+ativos ao mesmo tempo que se reduz o fluxo sanguíneo para órgãos como o
+tubo gastrointestinal e os rins que não são necessários para a atividade motora
+rápida;aumento do metabolismo celular em todo o corpo;aumento da concentração
+sanguínea da glicose;aumento da glicólise no fígado e no músculo;aumento da força
+muscular;aumento da atividade mental;
+
+21
+
+UNIDADE I │ NEUROTRANSMISSÃO SINÁPTICA E O ENFOQUE ANATÔMICO DO SISTEMA NERVOSO
+2. aumento da coagulabilidade do sangue.
+A soma desses efeitos permite que o indivíduo realize atividade física muito mais extenuante que
+o normal em outra situação. Como é o estresse mental ou físico que geralmente excita o sistema
+simpático, diz-se com frequência que o objetivo do sistema simpático é o de proporcionar ativação
+extra do corpo em estados de estresse: isto muitas vezes é denominado resposta simpática ao
+estresse.
+
+22
+
+FARMACOLOGIA
+DO SISTEMA
+NERVOSO CENTRAL
+(PARTE I)
+
+UNIDADE II
+
+Em 1856, um fisiologista francês, estudando a ação do curare sobre ação muscular,
+ventilou a possibilidade haver um local para a ação da droga entre o nervo e o
+músculo.
+Já na metade do século XVIII, uma pergunta estava sem resposta: como o impulso
+“pula” de um neurônio a outro?
+Em 1906, Sherrington estabeleceu o conceito de sinapse, com suas características
+básicas.
+Em 1921, chegou-se a conclusão de que substâncias, inicialmente chamadas
+“substância vagal”, faria o papel de transmitir a informação de um neurônio a
+outro, alterando-lhe a atividade (impulso nervoso, nem sempre igual ao anterior),
+descobriu-se o primeiro neurotransmissor: a acetilcolina.
+A acetilcolina é um neurotransmissor que se relaciona a transmissão de informação
+para músculos, realizando movimento.A norepinefrina é um neurotransmissor que
+se relaciona com a regulação de respostas emocionais.A dopamina (está em todas!)
+é um neurotransmissor que se relaciona a transmissão de informação para músculos,
+realizando movimento, ainda participa na afetividade, no sono e outros processos.A
+serotonina é um neurotransmissor que se relaciona com o bem-estar geral, sono
+e afetividade.A acetilcolina é um neurotransmissor que se relaciona a transmissão
+de informação para músculos, realizando movimento.Será que aquilo que temos de
+mais especial enquanto seres humanos, complexos e diferentes, uns dos outros se
+devem a essas sustâncias interneuronais?
+
+23
+
+CAPÍTULO 1
+Conceitos básicos em farmacologia
+A psicofarmacologia é uma ciência que pousa sobre uma área maior da ciência: a farmacologia.
+Por isso, no estudo dessa ciência é necessário que alguns conceitos típicos da farmacologia geral
+sejam considerados, para que a construção desse conhecimento não encontre obstáculos em áreas
+específicas.
+Alguns conceitos são:
+Drogas de que tanto se falam, são substâncias que têm capacidade de modificar o estado dos
+processos biológicos em um ser vivo.
+A psicofarmacologia é uma ciência que visa estudar e compreender as drogas que agem sobre o
+comportamento, geralmente em humanos e com ênfase nas alterações de humor, memória, emoções,
+habilidade psicomotora, capacidade de percepção e reação ao meio.
+O alcance ou a magnitude do efeito é função da quantidade da droga ministrada, a que se chama:
+dose ou, então a concentração no local da ação. É o que pode ser denominado dose-efeito ou
+concentração-efeito.
+Muitas das drogas existentes atuam por interagirem com sítios proteicos especializados receptores.
+Agonistas são as substâncias que possuem afinidade, capacidade de serem reconhecidas e por isso
+ligam-se de forma específica, mas reversível em receptores. Além do que, apresentam capacidade
+de alterarem o estado das coisas modificando a estrutura do receptor levando a efeitos fisiológicos.
+Essa alteração é chamada atividade intrínseca.
+Alguns psicofármacos atuam por antagonizarem receptores, bloqueando a ação dos agonistas. Como
+se “ocupassem” o lugar dos agonistas no receptor e assim, bloqueasse sua função.
+Os receptores podem ser divididos em quatro superfamílias: ligados a canais iônicos, ligados à
+proteína G, ligados diretamente a tirosina quinase e receptores intracelulares.
+Quando um receptor, ao se conectar com alguma substância determinada promove seus efeitos pela
+formação de substâncias intracelulares, essas substâncias são denominadas segundo mensageiros.
+Processos adaptativos são situações em que, com o uso prolongado de determinada substância, o
+cérebro, pelo processo de neuroplasticidade, “aprendeu” a lidar com o estímulo químico e apresenta
+o que pode ser chamado de “não faz mais efeito”.
+Os efeitos da droga dependem de sua concentração em seu local de ação. Essa concentração depende
+do movimento das drogas no organismo (absorção, distribuição, metabolização e excreção),
+estudado pela farmacocinética.
+
+24
+
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I) │ UNIDADE II
+
+As membranas celulares constituem-se em “barreira comum” para o movimento dos fármacos no
+organismo. E sendo a membrana constituída em sua quase totalidade por lipídios, uma substância,
+para atravessá-la com mais facilidade (difusão passiva) precisa ser lipossolúvel.
+No caso da substância (medicamento) precisar atravessar a barreira hematoencefálica que limita
+o Sistema Nervoso, é fundamental que ela seja lipossolúvel, uma vez que não há alternativa para
+transportes ativos, nesse caso.
+Os efeitos de psicofármacos podem sempre estar associados a efeitos adversos.
+Índice terapêutico é a relação entre a dose tóxica e a dose eficaz e é um importante indicador da
+segurança de determinado fármaco.
+Figura 9. Receptores, agonistas e antagonistas.
+
+Figura adaptada e disponível em: <http://www.sistemanervoso.com/pagina.php?secao=6&materia_id=78&materiaver=1>.
+Acessado em: 20 maio. 2014.
+
+25
+
+CAPÍTULO 2
+A serotonina
+Figura 10. Serotonina.
+
+Figura adaptada e disponível em: <http://evolucionyneurociencias.blogspot.com.br/2013/05/estatus-y-serotonina.html>.
+Acessado em: 18 maio. 2014.
+
+Histórico
+No núcleo da rafe existe um grupo de neurônios que secretam serotonina. Essas fibras se espalham
+para medula e atuam na redução da entrada de sinais dolorosos, se espalham também para a
+formação reticular e outras éreas da base do cérebro.
+No ser humano, provavelmente 90% dessa serotonina – 5-HT – está situada no tubo digestivo.
+Uma parte dela está presente na dieta, mas é metabolizada quando atravessa a parede intestinal e
+o restante é destruído no fígado e pulmões. Da 5-HT restante, parte está nas plaquetas e no SNC.
+Ela é sintetizada a partir do triptofano, mas as plaquetas representam uma exceção uma vez que a
+captam de seu ambiente.
+Figura 11. Núcleo da Rafe.
+
+Figura adaptada e disponível em: <http://www.medicinageriatrica.com.br/tag/sistema-neuronal-de-hipocretina/ >. Acessado
+em: 18 maio. 2014.
+
+26
+
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I) │ UNIDADE II
+
+Eis um resumo da cronologia do estudo da serotonina:
+»» 1948: uma substancia vasoconstritora é isolada como um complexo cristalino e é
+chamada serotonina.
+»» 1951: este composto preparado sinteticamente apresentava todas as propriedades
+da serotonina natural.
+»» 1953: foi observado que o LSD (dietilamida do ácido lisérgico) e outros potentes
+alucinógenos são estruturalmente, similares à 5-HT, e podiam bloquear a ação
+da 5-HT. Observou-se também que a reserpina, potente tranquilizador, diminui a
+concentração de 5-HT no cérebro.
+
+Mecanismo de ação
+A serotonina é formada a partir do aminoácido triptofano que sofre hidorxilação e na sequência
+descarboxilação, originando a 5-HT.
+Sua ação é mediada por receptores presentes na membrana das células-alvo. Existem dois grupos
+de receptores:
+»» o 5-HT1: receptor em neurônios periféricos, como as plaquetas e os músculos lisos,
+e em neurônios encefálicos.
+»» o 5-HT2: receptor em neurônios periféricos, como as plaquetas e os músculos lisos,
+apenas.
+A serotonina em células nervosas promove a alteração na permeabilidade das membranas a íons
+como cálcio e sódio. Mas nas células enterocromafins, que revestem o trato digestório e respiratório
+provocam um influxo aumentado de cálcio.
+Em nível de SNC a serotonina constitui um potente estimulante das terminações nervosas sensitivas
+para a dor e o prurido, estando relacionada com sintomas causados por picadas de insetos e
+irritações provocadas por plantas urticantes. Além disso, a serotonina é um importante ativador
+das terminações nervosas vagais relacionadas as terminações quimiossensiveis do leito vascular
+coronário. Essa combinação gera uma resposta reflexa que consiste numa tríade de bradicardia,
+hipotensão e hiperventilação.
+Existem substâncias que vem sendo administradas para afetar a serotonina endógena, e assim gerar
+alteração de comportamento:
+»» inibidores da síntese: p-clorofenilalanina;
+»» inibidores da captação de membrana: antidepressivos tricíclicos;
+»» inibidores de captação e armazenamento em grânulos: reserpina;
+
+27
+
+UNIDADE II │ FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I)
+»» inibidores de degradação: IMAO – inibidor de monoamina oxidase;
+»» antagonistas: ciproheptadina.
+Observação: antagonistas são, conceitualmente, substâncias que ocupam os receptores das
+membranas, impedindo que estes reconheçam e se conectem aos neurotransmissores impedindo
+a ação destes.
+
+A serotonina e a ansiedade
+Desordem obsessivo-compulsivo: uso de clomipramina. Tem seus sintomas reduzidos com a
+utilização desse inibidor da receptação de serotonina e noradrenalina.
+Desordem de pânico: uso de SSRI, os inibidores seletivos de recaptação de serotonina. Em 1996
+usou-se como SSRI, que trataria a síndrome do pânico, o paroxetine (semelhante a clomipramina,
+mas sem tantos efeitos adversos), e em 1997, a sertraline.
+Anorexia nervosa: uso de fluoxetina. Atingindo a serotonina hitalâmica ou além dos locais da
+pós-sinapse.
+Esquizofrenia: o estudo foi reaquecido no que se refere a esquizofrenia e serotonina, pois os
+neurolépticos atípicos (clozapine, risperidone, ritanserin, e setoperone) tinham propriedades
+típicas dos antagonistas para o receptor 5-HT2. Os estudos são amplos, mas as conclusões, poucas.
+Fobia social: os sistemas GABAérgicos, serotoninérgicos e noradrenérgicos podem estar envolvidos
+no regulamento da ansiedade/inibição, e isso pode estar manifesto no aumento de cortisol com o
+estímulo do uso de fenfluramina (inibidor de apetite).
+Agitação e agressão: neurotransmissores múltiplos e sistemas de neurotransmissores estão
+envolvidos com a disfunção agitação e agressão; serotonina, dopamina, acetilcolina e o GABA
+exercem papéis fundamentais. A disfunção no sistema serotoninérgico está recebendo mais atenção
+no que diz respeito a agressão e agitação. Sua ação deveria ser de inibição do comportamento e
+dessa forma exercer seu papel na biologia da agitação e agressão.
+Desordens de humor: sabe-se que o déficit de neurotransmissão serotoninérgica central pode
+interferir na desordem afetiva bipolar, mas não é o suficiente para explicar sua causa. Considerando-se
+essa teoria, tanto as fases depressivas da doença bipolar quanto o maníaco são caracterizados pela
+baixa função da serotonina, mas há diferenças a ação da atividade da norepinefrina.
+Lítio e serotonina: o principal indicativo do lítio nos sistemas monoaminérgicos do cérebro é que o
+lítio ao aumentar a função da serotonina no SNC gera efeito antidepressivo.
+
+28
+
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I) │ UNIDADE II
+
+Terapia Eletro-Convulsiva (ETC): apesar de ter eficácia clara no tratamento de uma variedade
+de desordens neuropsiquiátricas, permaneceu uma visão mal entendida da ECT. Na ECT supõe-se
+que aumente a função do sistema transmissor de serotoninas, que produzindo sensibilidade de
+comportamento aumentando em relação a agonistas de receptores da serotonina e possivelmente
+aumento nos níveis de receptores 5-HT2, que ligam no córtex cerebral. O efeito posterior difere das
+mudanças induzidas pelo tratamento crônico por drogas antidepressivas.
+
+29
+
+CAPÍTULO 3
+Hipnóticos e sedativos
+Ao se estudar o sono sob a luz da fisiologia do SNC, passa-se a encará-lo como um processo ativo do
+SNC, caracterizado pela sucessão cíclica de diversas alterações psicoficológicas.
+
+Os hipnóticos
+São substâncias que deprimem a atividade do Sistema Nervoso Central, e por isso, causam sonolência
+ou ajudam na manutenção do sono. Diz-se que o efeito hipnótico é aquele que gera no indivíduo,
+com ou sem privação do sono, a manutenção do sono por certo tempo. Teoricamente, os hipnóticos
+deveriam reproduzir a fisiologia neuronal do sono, causando um sono igual ao sono natural, sem
+efeitos adversos, entretanto nenhuma droga existente atingiu esse patamar de objetivo.
+O conhecimento humano passou pela seguinte cronologia, no que diz respeito aos hipnóticos:
+»» etanol, cânhamo e derivados de ópio: conhecidos desde tempos imemoriais;
+»» brometo: meados do séc. XIX (primeiro fármaco introduzido em terapêutica
+formal);
+»» barbituratos: início do séc. XX;
+»» meprobamato e glutetimida: meados do séc. XX (mas não chegaram a substituir por
+completo os barbituratos);
+Obs.: o meprobamato e os barbitúricos são bons hipnóticos, mas, apresentam efeitos que despertam
+grave alerta: produzem dependência física, tolerância e depressão respiratória (com eventual morte
+em decorrência de superdosagem).
+»» benzodiazepínicos: substituíram os anteriores por não apresentarem o risco citado;
+»» zolpidem e zolpiclona: são os mais recentes e apresentam vantagens quanto aos
+BZDs (benzodiazepínicos).
+
+Os sedativos
+São medicamentos capazes de reduzir a atividade e a excitabilidade do indivíduo, acalmando-o.
+Entende-se por efeito sedativo a diminuição da atividade motora e a diminuição do nível de
+vigilância, útil para evitar estados de excitação excessiva.
+A sedação e a hipnose fazem parte de uma sucessão de sintomas de depressão do SNC, que evolui
+para anestesia geral, estado de coma, em que já há comprometimento das funções neurovegetatitvas
+
+30
+
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I) │ UNIDADE II
+
+e, finalmente, morte por insuficiência respiratória e circulatória, porém, nem todas as drogas são
+capazes de induzir esta sequência de eventos. Por exemplo, drogas benzodiazepínicas, que possuem
+propriedades hipnótico-sedativas utilizadas nas clínicas, não produzem estado de anestesia geral,
+muito menos coma e morte, quando administradas isoladamente.
+
+Indicações
+As indicações em relação ao sono são constantes. Os hipnóticos, por estarem relacionados a esse
+controle, são as drogas mais utilizadas no mundo. De 15% a 30% da população se queixam ao
+médico, dificuldades para dormir, e de 5% a 10% da população recebe prescrição de hipnótico.
+Entre os idosos, uma vez que há uma alteração significativa na arquitetura do sono, considerada
+normal no processo de envelhecimento, a utilização de tais medicamentos é de 16%, além do
+envelhecimento há que se considerar também que o aparecimento de problemas clínicos ou
+psiquiátricos que afetam o dormir. Dados epidemiológicos norte americanos mostram que 73% das
+pessoas com mais de 60 anos que fazem uso regular de hipnóticos, e 25% toma há mais de 10 anos,
+o que construiria um quadro de dependência e não de indicação terapêutica.
+A única indicação bem comprovada de hipnóticos é na insônia transitória, ou seja, aquela que
+acomete pacientes que normalmente dormem bem, secundária a algum estresse ou à alteração do
+ritmo diurno.
+Dessa forma, pacientes que apresentam insônia matinal decorrente de distúrbio depressivo grave,
+devem ser tratadas com antidepressivos.
+Fazendo essa consideração, para alcançar os pacientes que apresentam insônia secundária a quadros
+esquizofrênicos, maníacos ou psicóticos (demência senil) devem ser tratados com antipsicóticos,
+principalmente os que apresentem mais ação sedativa (clorpromazina e tioridazina).
+Portanto, o hipnótico ideal deve refazer a fisiologia normal do sono, sem provocar o aparecimento
+de efeitos adversos. Deve ainda ter, rápido início de efeito, produzindo sono sustentado durante a
+noite – que é determinada pela velocidade de ingestão e absorção, e nada de sonolência residual na
+manhã seguinte – que será garantida com a meia-vida e eliminação da droga.
+
+31
+
+CAPÍTULO 4
+Barbitúricos
+Ao se estudar o sono sob a luz da fisiologia do SNC, passa-se a encará-lo como um processo ativo do
+SNC, caracterizado pela sucessão cíclica de diversas alterações psicoficológicas.
+
+Tópicos históricos
+»» 1903: barbital (derivado do ácido barbitúrico) é introduzido e se apesenta como
+excelente indutor de sono e ansiolítico.
+»» 1912: fenobarbital, usado como sedativo-hipnótico, passa a ser um dos mais
+importantes tratamentos farmacológicos contra epilepsia.
+»» desde então: mais de 2.500 análogos barbitúricos são sintetizados, desses, 50 foram
+lançados comercialmente e apenas 20 estão no mercado.
+Com o estudo dos benzodiazepínicos, esses passaram a ser a primeira alternativa, uma vez que
+apresentam perfil farmacológico muito mais seguro e um mesmo resultado que os barbitúricos.
+Assim os BZDs tomaram o lugar dos barbitúricos, especialmente em pacientes com propensão ao
+suicídio.
+
+Relação estrutura – atividade
+Os barbitúricos podem ser classificados como oxi-barbitúricos ou tio-barbitúricos. Os tiobarbitúricos são lipossolúveis, o que aumenta a sua potência mas seu tempo de ação é menor e é mal
+absorvido por via oral.
+Os barbitúricos administrados oralmente são absorvidos rapidamente pelo estômago, essa
+absorção é diminuída se o estômago estiver cheio. Os barbitúricos são metabolizados no fígado, e os
+metabólitos inativos são eliminados pela urina.
+Outro fator a ser considerado é o tempo que a substância leva para entrar no SNC, e isso varia da
+sua lipossolubilidade. De modo geral, a lipossolubilidade diminui a latência até o início da ação e a
+duração da ação. Para entender, observa-se o caso do tio-pental que penetra rapidamente no SNC
+e por isso é usado para indução rápida de anestesia, já o barbitone passa lentamente para o cérebro
+que não deve ser usado como droga hipnótica.
+
+32
+
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I) │ UNIDADE II
+
+Mecanismo de ação
+Efeitos dos barbitúricos são: sedação, indução do sono e anestesia, e em casos específicos podem ter
+propriedades anticonvulsivantes.
+Ação dos barbitúricos no sono:
+a. diminuição da latência do sono;
+b. aumento da atividade rápida ao eletroencefalograma (EEG);
+c. diminuição dos movimentos corporais durante o sono;
+d. a duração dos estágios do sono são alteradas;
+e. a suspensão dos barbitúricos pode provocar desorganização dos padrões do sono.
+Possivelmente seus efeitos sedativos-hipnóticos se devem ao fato de que as conexões do sistema
+ativador reticular mesencefálico é extremamente sensível a estas drogas. Essa inibição atinge
+os elementos pós-sinápticos e pré-sinápticos de sistemas GABAérgicos e não glicinérgico e
+monoaminérgico.
+Os barbitúricos potencializam a ligação dos benzodiazepínicos, por aumentarem a afinidade do
+receptor pelos benzodiazepínicos. Os barbitúricos também estimulam a ligação do GABA e seus
+agonistas a locais de ligação específicos.
+
+Indicações, efeitos colaterais, tolerância e
+dependência
+Entre os barbitúricos e os benzodiazepínicos, esses últimos são preferidos uma vez não apresentam
+risco de, em uma super dosagem, causarem depressão respiratória. Esse fato pesa para que muitos
+clínicos não receitem barbitúricos como hipnóticos e sedativos e prescrevem-nos apenas como
+anticonvulsivantes.
+Os barbitúricos estimulam a síntese de pofirina, um composto orgânico nitrogenado que está
+relacionado a produção de hemoglobinas, existem pacientes com porfiria, cujo processo de síntese
+citado anteriormente fica comprometido. A estes pacientes os basbitúricos são contraindicados.
+Os pacientes que fazem uso de barbitúricos não devem dirigir veículos nem operar máquinas
+perigosas, pois é difícil controlar os efeitos cujos sintomas sejam sedação excessiva, ansiedade e
+torpor.
+Pacientes estáveis há anos com o uso de barbitúricos devem ser considerados dependentes da droga.
+A retirada pode gerar: ansiedade, convulsões, tremores e agitação. Estratégias de substituição por
+benzodiazepínicos costumam ser bastante favoráveis, possíveis e indicadas.
+
+33
+
+UNIDADE II │ FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I)
+Como efeito colateral deve ser considerada a depressão respiratória que pode levar à morte.
+Tentativas de suicídio estão muito relacionadas a utilização desses compostos, tomados isoladamente
+ou em combinação com antidepressivos e bebida alcoólica. Infelizmente, essas tentativas são
+frequentemente realizadas com êxito.
+A tolerância ocorre rapidamente e desenvolve-se cruzada com álcool, anestésicos gasosos, e outros
+sedativos, incluindo benzodiazepínicos. Essa tolerância se estabelece por fatores farmacocinéticos
+– produção de enzimas hepáticas, ou farmacodinâmicas – adaptação neuronal à administração
+crônica da droga.
+É comum o comportamento de busca. O paciente consulta vários médicos para obter mais receitas
+de barbitúricos. Isso caracteriza a dependência. Pode acontecer a intoxicação, que se deflagra por
+alteração do comportamento mental, instabilidade emocional e sinais neurológicos. A suspensão
+abrupta pode ocasionar confusões e estados confusionais, ou simplesmente, ansiedade, insônia,
+inquietação, agitação, tremor, abalos musculares, náuseas e vômitos, hipotensão ortostática e perda
+de peso, conforme as dosagens antes da suspensão.
+
+34
+
+CAPÍTULO 5
+Benzodiazepínicos - BDZs
+Os Benzodiazepínicos são sintetizados desde a década de 1930, mas só na década de 1960 passam a
+ser utilizados no tratamento da ansiedade.
+Desde então, ocupa o lugar dos fármacos mais vendidos no mundo, atualmente.
+O primeiro do grupo com uso clínico foi o clordiazepróxido – 1961.
+
+Características farmacológicas
+Os efeitos desse grupo de fármacos ocorrem no SNC, seja a sedação, hipnose, diminuição de
+ansiedade, amnésia anterógrada e atividade anticonvuldivante.
+Não são depressores do sistema nervoso, ao contrário dos barbitúricos. Em doses crescentes atuam
+como sedação, hipnose e depois torpor. É interessante apontar que, em animais (mamíferos) atuam
+como relaxante muscular, mas em humanos não apresentam essa ação, isso para doses padrões,
+a exceção é o clonazepan. Podem ser usados como inibidores de convulsões. Mas quanto à ação
+anticonvulsivante pode desenvolver tolerância.
+Quanto ao sono os BZDs diminuem o sono REM, mas aumenta o tempo total de sono. Mas com uso
+crônico, o efeito sobre vários estágios do sono diminuem.
+
+Farmacocinética
+Normalmente são absorvidos na boca, o clorazepato precisa ser decarboxilado no suco gástrico, o
+que configura uma exceção.
+Podem ter uma meia-vida de eliminação de ação ultracurta, curta intermediária e longa.
+Tem captação inicial rápida pelo cérebro, dependendo da sua lipossolubilidade.
+A duração de seus efeitos está mais relacionada à sua redistribuição que por sua captação pelo
+cérebro.
+Normalmente são extensamente metabolizados para produzir subprodutos ativos, que em geral
+têm meia-vida muito mais longa que a droga original. Esses subprodutos têm poucos benefícios
+terapêuticos e muitos efeitos colaterais e de toxicidade.
+Temazepam, oxazepam, e lorazepam não têm metabólitos ativos. Mas são conjugados com ácido
+glicurônico e eliminados por via renal.
+
+35
+
+UNIDADE II │ FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I)
+
+Indicações
+Os benzodiazepínicos têm indicações para tratamento de distúrbios ansiosos, agorafobia, insônia
+e distúrbios comiciais, além de controle de abstinência ao álcool, pré-medicação anestésica e
+relaxamento muscular anestésico.
+Os problemas potenciais relacionados ao uso crônico – tolerância e abuso – devem sempre ser
+levados em consideração.
+Os benzodiazepínicos apresentam uma maneira diferente de serem administrados entre si. O
+lorazepam tem a vantagem de não apresentar metabólitos ativos o que evita os efeitos colaterais
+potenciais e a toxicidade. Já o clonazepam, por ter uma duração longa, pode dispor da facilidade de
+ser administrado apenas uma vez por dia.
+Os hipnóticos BZDs representaram grande avanço em relação aos agentes que os procederam, sendo
+mais eficazes e seguros que os barbituratos e o meprobamato, além de produzirem menos tolerância
+e dependência física.
+Existem então, benzodiazepínicos são ansiolíticos, ou hipnóticos e alguns, poucos, com ação de
+anticonvulsivante, como é o caso clonazepam e clobazam.
+Ainda podem ter efeitos de sedação, relaxamento muscular (em altas doses) e amnésia anterógrada.
+Estão presentes no tratamento de ansiedade e insônia, epilepsia (diazepam), epilepsia mioclônica
+(clnazepam), na pré-anestesia, na síndrome de abstinência ao álcool.
+Os benzodiazepínicos são o grupo de medicamentos que primeiro lança-se mão no tratamento de
+ansiedade generalizada e ansiedade atípica. Estudos mostram significativa eficácia nesses casos.
+Também têm boa indicação em casos de sintomas agudos de estresse, mas podem afetar os
+mecanismos de ajuste psicológico e por isso, o uso de BZDs deve ser evitado em tais situações.
+A alteração do sono sob o efeito de BZDs é significativa é próxima ao que acontece quando o
+medicamento em atuação é um barbitúrico, mas o sono produzido pelos BZDs geralmente produz
+sensação repousante. Mas podem desenvolver tolerância ao efeito sedativo-hipnótico, em alguns
+casos com apenas uma semana de uso continuado. Além disso, pode surgir rebote, ou seja,
+reaparecimento de insônia, algumas vezes severa, quando se dá a parada do fármaco, particularmente
+de forma abrupta.
+
+Ação
+A explicação mais aceita atualmente para esclarecer a ação dos BZDs é que esses, ao se conectarem
+com o receptor GABA, potencializam a ação do neurotransmissor GABA.
+
+36
+
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I) │ UNIDADE II
+
+Figura 12. Receptor de BZDs.
+
+Figura adaptada e disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516-93322003000300004>.
+Acessado em: 18 maio. 2014.
+
+Essa ação é exercida por meio de receptores específicos localizados em membranas neuronais
+como parte de um complexo oligomérico, envolvendo o receptor de GABA e o canal de cloreto
+associado. Isso pode explicar seu elevado índice terapêutico, já que a ação depende da presença de
+um neurotransmissor endógeno.
+O que permite nos tempos atuais compreender mais a atuação desses medicamentos é a descoberta
+dos receptores BZDs em neurônios do SNC, e a percepção de que ansiolíticos BZDs facilitam a ação
+inibitória do neurotransmissor GABA.
+
+Interações
+Os benzodiazepínicos produzem maior depressão do SNC quando administrados com outros
+depressores do SNC, mas fora isso há poucas interações conhecidas. Por serem metabolizadas pela
+isoenzima citocromo P450, se uma droga inativar tal enzima vai interferir na ação do BZD, exemplo
+disso é a nefadozona, que aumenta os níveis plasmáticos de BZDs.
+
+Efeitos colaterais e toxicologia
+Aumento de dose acarreta: incoordenação motora, sonolência, confusão mental, amnésia retrógrada,
+letargia, efeitos sem que o paciente tenha consciência deles. Pode haver ainda, ansiedade, reações
+hipomaníacas, sintomas psicóticos, paranoia e ideação suicida (uso de triazolam), mesmo que bem
+incomuns.
+Doses hipnóticas de BZDs não afetam a respiração em adultos sadios. Em doses mais elevadas a
+respiração alveolar é suprimida. Podem causar apneia se ministrados com anestésicos ou opiáceos.
+Com álcool também pode acontecer a apneia por ser também depressor do Sistema Nervoso.
+
+37
+
+UNIDADE II │ FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I)
+Tonteiras, ataxia, vômitos e fala pastosa também foram relatados e a incidência aumenta com a
+idade.
+A abstinência pode ser especialmente grave, os sintomas começam 1 a 3 dias pós a suspensão e se
+assemelha a abstenção alcoólica: ansiedade, tremores, flutuação de pressão arterial e de frequência
+cardíaca, sintomas gastrointestinais, agitação, alucinações, estado convulsional e convulsões.
+Embora não seja exatamente um efeito colateral, deve-se sempre considerar o abuso de BZDs,
+especialmente em pacientes com história de abuso de drogas e de outras medicações.
+
+38
+
+CAPÍTULO 6
+Ansiolíticos
+A ansiedade é uma emoção semelhante ao medo e manifesta-se em diferentes planos, seu principal
+constituinte é a afetividade. É caracterizada por uma sensação desagradável que se constitui uma
+motivação negativa.
+
+Características gerais
+Pode estar associada a outros dramas patológicos como a depressão, hipomania e psicose. Pode ser
+ainda uma síndrome ou um distúrbio que apresenta a ansiedade como componente central.
+Além do comportamento alterado, a ansiedade, bem como o medo geram alterações fisiológicas.
+Como, por exemplo: a ativação do sistema nervoso simpático, o que por sua vez produz:
+»» aumento da frequência dos batimentos e da força de contração do coração. Esse
+fenômeno é conhecido com palpitação;
+»» tremores e sudorese (especialmente mãos);
+»» respiração acelerada (para compensar o aumento de CO2, devido a aceleração de
+metabolismo);
+»» divisão parassimpática do sistema neurovegetativo ativada (hipersecreção gástrica,
+aumento da motilidade intestinal e urgência da micção).
+Estudos relatam a relação direta entre o nível de ansiedade e a eficiência de trabalho intelectual.
+Porém, a partir de certo nível intensidade o aumento não representa melhora do rendimento e o
+desempenho passa a ser atingido negativamente pelo estresse – curva de Yerkes Dodson.
+É nesse aspecto, quando a ansiedade passa a ser um problema e não um motivador orgânico, que
+esse estado passa a ser considerado um transtorno e passa a ocupar o lugar de objeto de tratamento
+psicológico ou farmacológico.
+
+Classificação dos transtornos de ansiedade
+Em 1880, George Miller chamou neurastenia, a condição de englobamento de ansiedades.
+Quando ainda no século XIX fobia era assunto considerado como condição médica. No início do
+séc XX Sigmund Freud já estabelecia a diferença entre neurose crônica e ataque de ansiedade o
+que hoje se nomeia como Transtorno de Ansiedade Grave (TAG) e Transtorno de Pânico (TP),
+respectivamente.
+
+39
+
+UNIDADE II │ FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I)
+Em 1960 Donald Klein testa e reconhece o efeito positivo dos antidepressivos tricíclicos e a distinção
+entre TAG e TP ganha espaço na abordagem médico-psicológica.
+Atualmente a classificação dos transtornos de ansiedade patológica é estabelecida da seguinte
+maneira:
+»» transtorno de pânico sem agorafobia;
+»» transtorno de pânico com agorafobia;
+»» agorafobia sem ataques de pânico;
+»» fobia simples;
+»» fobia social;
+»» Transtorno Obsessivo-Compulsivo (TOC);
+»» transtorno de estresse pós-traumático;
+»» transtorno de estresse agudo;
+»» transtorno de ansiedade generalizada;
+»» transtorno de ansiedade devido a uma condição clínica inespecífica;
+»» transtorno de ansiedade induzida por fármacos;
+»» transtorno de ansiedade não especificado.
+Figura 13. Aprendizagem afetiva e amigdala.
+
+Figura adaptada e disponível em: <http://slideplayer.com.br/slide/363266/>. Acessado em: 19 maio. 2014.
+
+40
+
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I) │ UNIDADE II
+
+Histórico
+Uma típica droga ansiolítica é o etanol: que não é usado como medicamento, que se parece muito
+com os benzodiazepínicos, e componente popular de inúmeras bebidas.
+No início do século XIX os sais de bromo começam a ser usados no tratamento medicamentoso
+da ansiedade mas tinham muitos efeitos colaterais além de serem tóxicos. No início do século XX
+surgem os derivados da malonilureia ou os barbitúricos, e o fenobarbital é largamente usado até o
+advento dos BZDs.
+Sedativos ou calmantes brometos e barbitúricos de longa duração são os precursores dos ansiolíticos
+modernos que pertencem à classe dos BZDs.
+A palavra “ansiolítico” significa: o que decompõe a ansiedade e passa a ser empregada na década
+de 1970 para designar as drogas que deveriam tratar a ansiedade patológica, antigamente o termo
+era “tranquilizante menor”, em contraponto com “tranquilizantes maiores” usados no tratamento e
+controle de esquizofrenia.
+Hoje em dia, a palavra “ansiolítico” perdeu a força. Os BZDs são os ansiolíticos típicos, mas há um
+grande e significativo uso dos antidepressivos no tratamento de transtornos de ansiedade.
+
+Classificação dos ansiolíticos
+Figura 14. Estrutura química de ansiolíticos BZD.
+
+Figura adaptada e disponível em: <http://www.ebah.com.br/content/ABAAAAQksAA/ansioliticos-sedativo-hipinoticos>.
+Acessado em: 19 maio. 2014.
+
+Os ansiolíticos podem ser ou não da classe dos benzodiazepínicos. A figura anterior apresenta a
+estrutura química dos ansiolíticos benzodiazepínicos que tem o anel BZD.
+
+41
+
+UNIDADE II │ FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE I)
+Os BZDs podem ser subdivididos em:
+a. 1,4 BZD: contém átomos de nitrogênio nas posições 1 e 4 do anel BZD. Representam
+a maioria. Podem ser: diazepam, clordiazepóxido, diazepam, bromazepam,
+nitrazepam, flurazepam, flunitrazepam, axazepam, termazepam (derivado clorado)
+lorazepam.
+b. 1,5 BZD: contém átomos de nitrogênio nas posições 1 e 5 do anel BZD. Um exemplo
+é o clobazam.
+c. BZDs tricíclicos: são 1,4 BZD com um anel adicional, fundindo nas posições 1 e 2.
+São exemplos: aiprazolam, triazolam e o midazolam.
+Os não BZDs podem ser subdivididos em:
+a. Azaspironas: a buspirona, púnico derivado em uso clínico, e drogas experimentais,
+como ipsarona, gepirona e tandospirona.
+b. Antidepressivos: compostos tricíclicos, como imipramina e clorimipramina,
+que inibem a receptação neuronal da serotonina (SSRI), e inibidores da enzima
+monaminoxidase (MAO), são indicados no TOC, TP e TAG.
+c. Beta.bloqueadores: antagonistas dos adrenoreceptores do tipo 3. Porpanolol,
+pindolol, e atenolol.
+Existem ainda outras drogas que não foram comercializadas, mas que apresentam potencial
+ansiolítico.
+a. Antagonistas 5-HT2: bloqueiam receptores tipo 2 de serotonina. Rintaserina.
+b. Antagonistas 5-HT3: bloqueiam receptores tipo 3 de serotonina. Ondasentron,
+granisetron.
+c. Antagonistas da glicina: bloqueiam sitio modulatório do receptor do glutamato.
+Apesar do uso não ser tão alto como há 20 anos são ainda os ansiolíticos mais utilizados e representam
+um marco importante para a psicofarmacologia.
+
+42
+
+FARMACOLOGIA DO
+SISTEMA NERVOSO
+CENTRAL (PARTE II)
+
+UNIDADE III
+
+O elemento essencial da loucura é a perda do contato com a realidade, a perda do
+conjunto de regras que permite interagir com o outro e nos comunicar com ele.
+Numa abordagem médica esta é a condição para a psicose. E a esquizofrenia é a mias
+importante das psicoses, e aos pacientes portadores de tal disfunção são indicados
+como esquema terapêutico os antipsicóticos, também chamados neurolépticos.
+No livro Fundamentos da Psicofarmacologia há a apresentação de um relato de
+paciente esquizofrênico transcrito a seguir:
+A vida parecia escura, amedrontadora e fragmentada. Eu me sentia
+estranha, com vozes e visões ameaçadoras em um atormentado
+pesadelo diário. Eu não conseguia alívio de meu mundo psicótico.
+Eu queria morrer desesperadamente em um esforço de me libertar
+desse mundo. A primeira vez que ouvi essas vozes eu era uma
+adolescente. Eu não sabia o que estava acontecendo. eu me sentia
+como se estivesse possessa, e que minha mente estava dominada
+por espíritos demoníacos. Eu tinha receio de contar aos outros
+sobre as vozes, por medo de ser levada pelos “homens de avental
+branco”. Imagine uma criança de 15 anos ouvindo as mesmas
+vozes sempre e sempre: “Você deve morrer, você vai morrer”.
+(Retirado de Acordando de um Pesadelo Esquizofrênico, de Lori Schiller)
+
+CAPÍTULO 1
+Antipsicóticos
+
+Esquizofrenia
+Os antipsicóticos são usados para atender medicamentosamente pacientes com qualquer das
+formas de psicose. A mais recomendada e comum indicação para tratamento da esquizofrenia são
+os psicofármacos antipsicóticos.
+A esquizofrenia é um transtorno crônico, incapacitante, é a mais grave das doenças mentais, apresenta
+manifestações múltiplas e quadros variados. Seus sintomas podem ser positivos (produtivos),
+
+43
+
+UNIDADE III │ FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE II)
+tais como: alucinações, ideias delirantes, incongruência afetiva, agitação, pensamentos bizarros;
+mas pode haver também os ditos sintomas negativos como, pobreza de linguagem e pensamento,
+embotamento afetivo e falta de motivação.
+Em estudos, post mortem, em cérebros de esquizofrênicos, pode-se observar alterações nos lobos
+pré-frontais e temporais, e ainda assimetria cerebral.
+A partir de 1950 o tratamento para esquizofrenia foi bastante impactado pela introdução de
+psicofarmacos antipsicóticos. Tudo se inicia com a clorpromazina e as descobertas se seguem
+passando por compostos com propriedades farmacológicas semelhantes, embora com estrutura
+química diferente. Quanto aos antipsicóticos típicos, esses não curam a esquizofrenia, mas amenizam
+os sintomas positivos (mais graves) da doença.
+A grande diferença existente hoje, entre os medicamentos antipsicóticos não é a eficácia propriamente
+dita, e sim, a potência, farmacocinética e efeitos adversos.
+Como todos os antipsicóticos convencionais geram efeitos neurolépticos, ou seja, inibem funções
+psicomotoras, normalmente são chamados de neurolépticos. Mas drogas mais recentes apresentam
+menos esses efeitos, então a designação “neurolépticos” não é a mais indicada.
+
+Medicamentos antipsicóticos
+Os antipsicóticos típicos são os medicamentos que se enquadram na definição de neurolépticos,
+dentro dessa classificação existem algumas outras classes menores, separadas de acordo com suas
+estruturas químicas. Tais são:
+a. Fenotiaminas: Clorpromazina, tioridazina, pipotiazina, trifluorazina, flutenazina.
+b. Butirofenona: haloperidol.
+c. Tioxantenos: tiotixene.
+d. Difenilbutilpiperidinas: pimozide, penfluridol.
+e. Benzamidas: sulpirida.
+Ainda pode se classificar os antipsicótico como de alta, média ou baixa potência. Isso se deve à dose
+necessária para o efeito terapêutico. A idade, a gravidade, o gênero, constituição física, tabagismo, e
+outros fatores poderão interferir no estabelecimento da dose-efeito.
+É importante ressaltar que um dos maiores problemas do uso prolongado de antipsicóticos é a
+discinesia tardia, que se caracteriza por movimentos involuntários, o que, frequentemente é
+irreversível.
+A clozapina é a droga padrão de antipisicóticos atípicos: não produzem efeitos extrapiramidais e
+aliviam sintomas negativos. Mas pode gerar agranulocitose.
+
+44
+
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE II) │ UNIDADE III
+
+Mecanismo de ação
+A neurotransmissão dopaminérgica se dá da seguinte maneira divida passo-a-passo, a dopamina é uma
+catecolamina que necessita da captação do aminoácido L-tirosina para ser sintetizado como segue:
+»» O aminoácido L-tirosina é transformado pela tirosina hidroxilase em L-DOPA.
+»» A L-DOPA é transformada em Dopamina pela ação da L-DOPA descarboxilase.
+»» A dopamina é armazenada nas vesículas sinápticas.
+»» Com o impulso nervoso a dopamina é liberada por exocitose.
+»» No neurônio pós-sináptico a dopamina atua nos receptores D1 e D5.
+»» Existem receptores inibitórios, os D2 (que podem estar nos dendritos ou nos corpos
+celulares).
+»» Esses receptores estão todos ligados à proteína G.
+»» A dopamina é retirada da fenda sináptica por receptação.
+»» A monoaminoxidase (MAO) provoca a degradação da dopamina.
+»» Pode haver degradação também pela catecoloximetiltransferase (COMT), que pode
+ser extracelular.
+Atuação de fármacos sobre a neurotransmissão dopaminérgica:
+»» Alfametil tirosina: inibidor competitivo da enzima tirosina hidroxilase (limita a
+síntese de dopamina).
+»» Reserpina: bloqueia a entrada da dopamina na fenda sináptica, as aminas são
+degradadas no citoplasma pela MAO e estocadas como catecolamina.
+»» Anfetamina: libera e não permite receptação de catecolaminas.
+»» Haloperidol: antagonista de receptor dopaminérgico com afinidade nos receptores D2.
+»» Cocaína: inibe receptação neuronal de dopamina.
+»» Selegilina: inibe a MAO.
+
+Mecanismo de interação com outras drogas
+»» Antiácidos e anticolinérgicos podem diminuir a absorção de antipsicóticos.
+»» Anticonvulsivantes podem diminuir o metabolismo de tais medicamentos.
+
+45
+
+UNIDADE III │ FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE II)
+»» Antidepressivos, sobretudo os tricíclicos, podem ter seu metabolismo diminuído
+tanto quanto diminuem o metabolismo dos antipsicóticos. Ainda podem ter seus
+efeitos anticolinérgicos, sedativos e hipotensores aditivados.
+» » Antipsicóticos com anti-hipertensivos podem interagir inibindo a receptação
+de guanetidina nas sinapses, inibindo os efeitos hipotensores da clonidina e
+do alfa-metildopa.
+»» Os antipsicóticos potenciam os efeitos depressores sobre o SNC dos sedativos,
+anti-histanpinicos, opiáceos e do álcool, em especial em pacientes com prejuízos
+respiratórios. Quando estes agentes são usados com álcool, o risco de internação
+pode aumentar.
+
+46
+
+CAPÍTULO 2
+Antidepressivos e antimania
+
+Definições iniciais
+De acordo com a 4a edição do Manual Diagnóstico e Estatístico dos Transtornos Mentais
+- (DSM-IV) da Associação Psiquiátrica Americana - (APA) situa os distúrbios afetivos em duas
+categorias:
+a. Transtorno bipolar: Depressão associada à mania.
+b. Transtorno depressivo: incluindo a depressão maior com episódios únicos ou
+recorrentes e as distimias.
+Pode haver ainda a classificação seguinte:
+a. Depressão reativa ou secundária: resposta a estímulos reais, como tristeza, doença
+etc.
+b. Depressão endógena: distúrbio bioquímico, manifesto por incapacidade de lidar
+com o estresse cotidiano.
+c. Depressão associada ao distúrbio afetivo bipolar (maníaco-depressivo); o paciente
+oscila entre a depressão e a mania.
+
+Sintomatologia
+Sintomas da depressão:
+»» sensação de tormento, apatia e pessimismo;
+»» autoestima baixa, sentimento de culpa, inadequação, não aceitação;
+»» indecisão, perda de motivação;
+»» retardo do pensamento e de ação;
+»» distúrbio do sono e perda do apetite.
+Sintomas da mania:
+»» exuberância excessiva;
+»» entusiasmo e autoconfiança;
+
+47
+
+UNIDADE III │ FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE II)
+»» atividade física excessiva;
+»» irritabilidade, impaciência, e raiva.
+
+Classificação dos fármacos usados no
+tratamento de distúrbios afetivos
+a. antidepressivos tricíclicos: é o grupo mais antigo de drogas. Ex.: imipramina,
+desipramina e amitriplina.
+b. antidepressivos de segunda geração (ou atípicos): são mais recentes, podem
+ter estrutura e efeitos distintos entre si. Podem ser: inibidores de receptação
+de serotonina, SSRI (ex.: fluoxetina, fluvoxamina, citalopram), podem inibir a
+receptação da noradrenalina (ex.: maprotilina).
+c. inibidores da MAO: exemplos como a fenelzina, tranilcipromina e a moclobemida.
+d. estabilizadores
+
+de
+
+humor:
+
+representados
+
+pelo
+
+lítio
+
+(podem
+
+ainda
+
+ser
+
+anticonvulsivantes- carbamazepina e ácido valproico).
+Figura 15. Atuação da cocaína e da MAA na transmissão dopaminérgica.
+
+Figura adaptada e disponível em: < http://nervoroom.wordpress.com/>. Acessado em: 20 maio. 2014.
+
+Antidepressivos
+São usados na Síndrome do Pânico, dores crônicas (que podem levar à depressão), bulimia, déficits
+da atenção e outros ainda.
+
+48
+
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE II) │ UNIDADE III
+
+A descoberta de que os antidepressivos inibem a recaptação da Noradrenalina (NA) e da
+Serotonina (5-HT), e ainda por inibirem a monoaminoxidade (MAO) impedem a destruição desses
+neurotransmissores aumenta a disponibilidade dessas aminas na fenda sináptica, comprova que
+os neurotransmissores podem estar diminuídos em sinapses específicas do cérebro durante um
+episódio depressivo.
+
+Mecanismo de ação
+A neurotransmissão noradrenérgica (muito parecida com a transmissão dopaminérgia, avaliada no
+capítulo que trata de antipsicóticos) se dá da seguinte maneira divida passo-a-passo, a noradrenalina
+também é uma catecolamina que necessita da captação ativa do aminoácido L-tirosina para ser
+sintetizado como segue:
+»» O aminoácido L-tirosina é transformado pela tirosina hidroxilase em L-DOPA.
+»» A L-DOPA é transformada em Dopamina pela ação da L-DOPA descarboxilase.
+»» A dopamina é armazenada nas vesículas sinápticas.
+»» Sob a ação da dopamina beta-hidroxilase, é transformada em noradrenalina.
+»» Com o impulso nervoso a NA é liberada por exocitose.
+»» No neurônio pós-sináptico a dopamina atua nos receptores alfa-1, alfa-2 e beta.
+»» Existem receptores inibitórios, os alfa-2 (que podem estar nos dendritos ou nos
+corpos celulares).
+»» Esses receptores estão todos ligados à proteína G.
+»» A noradrenalina é retirada da fenda sináptica por receptação.
+»» A monoaminoxidase (MAO) provoca a degradação da noradrenalina.
+»» Pode haver degradação também pela catecoloximetiltransferase (COMT), que pode
+ser extracelular.
+Os fármacos podem atuar da seguinte maneira:
+a. Alfametilparatirosina: inibidor competitivo da enzima tirosina hidroxillase, que vai
+limitar a síntese da noradrenalina.
+b. Reserpina: impede a entrada da noradrenalina recaptada na vesícula sináptica, o
+que a leva a degradação pela MAO.
+c. Anfetamina: libera e impede a receptação da noradrenalina.
+d. Clonidina: agonista de adrenoreceptores.
+
+49
+
+UNIDADE III │ FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE II)
+e. Prozin: antagonista de adrenoreceptores.
+f. Desipramina: bloqueador de receptação de noradrenalina.
+g. Moclobemida: inibidor reversível da MAO.
+A neurotransmissão serotonérgica (muito parecida com a transmissão dopaminérgia e noradrenérgica)
+se dá da seguinte maneira divida passo-a-passo, a serotonina é uma indolamina que necessita da
+captação ativa do aminoácido triptofano como segue:
+»» O aminoácido triptofano é transformado pela triptofano hidroxilase em
+5-hidroxitriptofano.
+»» Na sequência em 5-HT pela ação de uma descarboxilase de aminoácidos.
+»» A 5-HT é armazenada nas vesículas sinápticas.
+»» Com o impulso nervoso a 5-HT é liberada por exocitose.
+»» No neurônio pós-sináptico a 5-HT atua nos receptores.
+»» Existem receptores inibitórios (que podem estar nos dendritos ou nos corpos
+celulares).
+»» A 5-HT é retirada da fenda sináptica por receptação.
+»» A monoaminoxidase (MAO) provoca a sua degradação em 5-hidroxiindolacético.
+Os fármacos podem atuar da seguinte maneira:
+a. Parclorofenilalanina: inibidor competitivo da enzima triptofano hidroxilase, que
+vai limitar a síntese da serotonina.
+b. Reserpina: impede a entrada da 5-HT recaptada na vesícula sináptica, o que a leva
+a degradação pela MAO.
+c. D-fenfluramina: libera e impede a receptação da 5-HT.
+d. Buspirona, ondansentron, fluoxetina, moclobemida: inibidor reversível da MAO.
+
+Antimania
+Episódios maníacos podem ter como características humor elevado persistentemente, expansivo
+irritável, durante ao menos uma semana e ainda: excesso de autoestima, prolixidade, atividade
+aumentada, fuga de ideias, menor necessidade de sono, dispersão, envolvimento em atividades sem
+avaliar riscos ou consequências.
+
+50
+
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE II) │ UNIDADE III
+
+Episódios hipomaníacos podem ser caracterizados por um quadro menos severo por não causar
+prejuízo significativo no funcionamento social ou ocupacional.
+Esses quadros exigem tratamento específico e os fármacos mais usados são o lítio, a carbamazepina,
+o ácido valproico e o clonazepam.
+
+Mecanismo de ação do lítio
+Acredita-se que a ação do lítio esteja envolvia com, a modificação dos sistemas de segundos
+mensageiros. Possivelmente o lítio altere a proteínas G, bem como sua capacidade de realizar
+teransdução de sinais no interior da célula, depois que o receptor é ocupado pelo neurotransmissor.
+Há também a teoria de que o lítio altere enzimas que interagem com o sistema de segundos
+mensageiros como a monofosfatase de inositol.
+Figura 16. Proteína G.
+
+Figura adaptada e disponível em: <http://parkinsonipbessa.blogspot.com.br/2013_01_01_archive.html>. Acessado em: 20
+maio. 2014.
+
+51
+
+CAPÍTULO 3
+Transtorno de déficit de atenção e seu
+tratamento
+
+Sintomas e circuitos: TDAH como transtorno do
+córtex pré-frontal
+Três sintomas caracterizam o TDAH: desatenção, hiperatividade e impulsividade. Possivelmente, os
+sintomas de desatenção seletiva estejam relacionados ao mau funcionamento do córtex cingulado
+anterior. Já a incapacidade de manter a atenção e resolução de problemas devem estar relacionados
+à ineficiência do córtex pré-frontal dorsolateral. Os sintomas de hiperatividade relacionam-se ao
+córtex motor pré-frontal, e os sintomas de impulsividade, ao córtex orbitofrontal.
+A gravura a seguir representa o córtex cingulado anterior a deficiência nessa área pode ocasionar
+pouca atenção a detalhes, erros por descuido, não escuta, facilidade em perder coisas, distração
+esquecimento.
+Figura 17. Córtex cingulado anterior.
+
+Figura adaptada e disponível em: <http://neuropsicopedagogianasaladeaula.blogspot.com.br/2012/11/voce-consegueguardar-segredos.html>. Acessado em: 20 maio. 2014.
+
+A deficiência de ativação do córtex pré-frontal dorsolateral (DLPFC) deve gerar dificuldades em
+concluir tarefas, mantendo o esforço mental.
+Já o circuito da hiperatividade pode ser modulada pelo circuito corticoestriado-talâmico-cortical que se
+projeta do córtex motor pré-frontal para o putâmen. Deficiências nessa área geram sintomas como:
+inquietação, levantar da própria cadeira, correr e escalar, agitação, dificuldade em ficar quieto.
+
+52
+
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE II) │ UNIDADE III
+
+Estados de ativação deficiente e excessiva
+no TDAH
+Pode parecer um contrassenso o TDAH com estimulantes, que efetivamente fazem indivíduos
+normais ficarem ligados e excessivamente estimulados. Porém, essa disfunção é mais especificamente
+uma deficiência na ativação nas ativações sinápticas de dopamina e noradrenalina, por isso, essa
+compreensão deixa de ser paradoxal.
+Então um cérebro hipoativo, associado aos sintomas do TDAH, sobretudo com impulsividade,
+associa-se também a uma frequência menor de descargas tônicas de neurônios dopaminérgicos
+e noradrenérgicos, existentes no córtex orbitofrontal. Pode-se então ativar, para níveis normais
+a atividade elétrica nessa área, utilizando terapia medicamentosa estimulante com o inibidor do
+transportador de noradrenalina atomexina, com formulação de guanfacina, que prolonga a liberação
+do agonista e a modafinila que age como droga promotora de vigília.
+Ao utilizar a terapia medicamentosa, com o intuito de aumentar a tonicidade da frequência de
+impulsos substitui-se a impulsividade, a desatenção e a hiperatividade por um comportamento
+mais desperto, lúcido, criativo e capaz de resolver problemas.
+Quando os mecanismos de ativação estão baixos não só a descarga de DA e NA está baixa, mas
+também, os neurônios do córtex pré-frontal estão fora de sintonia o que acarreta numa incapacidade
+de distinguir sinais sonoros importantes de ruídos, então o TDAH não consegue focar em uma coisa
+mais do que em outra por que para sua percepção encefálica todos os sons têm a mesma importância.
+Quanto à incapacidade de reconhecer sons importantes, o excesso de ativação também é prejudicial
+e dificulta o reconhecimento. O que gera, também, desatenção. Vale lembrar que as redes de
+ativação estão significativamente associadas à base neurobiológica dos transtornos sono/vigília e
+pacientes com narcolepsia, depois de receberem estimulantes têm a mesma ativação dos receptores
+dopaminérgicos ou adrenérgicos e por isso, melhoram seu desempenho cognitivo.
+Dentro de um espectro da disfunção cognitiva no TDAH com ativação excessiva, estresse e
+comorbidade, pode-se elencar comportamentos, advindos do estado encefálico menos ativado para
+o mais ativado:
+1. Adormecido.
+2. Sono diurno excessivo.
+3. Disfunção cognitiva.
+4. Desatenção.
+5. Desperto lúcido resolvendo problemas.
+6. Hipervigilância/insônia.
+7. Disfunção cognitiva/estimulação excessiva.
+
+53
+
+UNIDADE III │ FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE II)
+8. Pânico/medo.
+9. Alucinações/psicose.
+Há também, a proposta de se dessensibilizar os receptores pós-sinápticos de DA e NA. O que é
+isso? Ao se dessensibilizar, a ativação desses neurotransmissores torna-se menor. Essa metodologia
+funcionaria então, para os pacientes que apresentam excesso de ativação. Essa dessensibilização
+pode ser feita ministrando atomexina, que bloqueia o transportador de NA, e a guanfacina que age
+nos receptores adrenérgicos.
+
+TDAH e comorbidade: o que se deve tratar
+primeiro?
+Quando se tem uma neurobiologia bastante caótica e deficiente do mesmo cérebro, pode ser útil
+priorizar os sintomas a serem tratados psicofarmacologicamente, mesmo que isso custe o retardo do
+tratamento por algum tempo. A seguir são enumerados algumas comorbidades comuns no quadro
+do TDAH, na ordem em que devem ser tratadas:
+1. Abuso de álcool/estimulantes/drogas.
+2. Transtornos afetivos.
+3. Transtornos ansiosos.
+4. TDAH.
+5. Dependência da nicotina.
+›› O tratamento em adultos, normalmente termina no tratamento dos transtornos
+ansiosos.
+›› O tratamento em crianças/adolescentes frequentemente começa no TDAH.
+
+O tratamento do TDAH com estimulantes
+Entende-se que o TDAH é resultado da baixa intensidade de sinais de dopamina e noradrenalina no
+córtex pré-frontal. Usa-se então, como esquema medicamentoso as preparações de metilfenidato e
+anfetaminas, pois ambos reforçam os sinais dopaminérgicos e noradrenérgicos.
+O metilfenidadto bloqueia a o transporte de dopamina DAT e noradrenalina NET, que acabam por
+permanecer na fenda sináptica.
+Já a anfetamina inibe a receptação de NA e DA e induz o seu próprio transporte para dentro da
+vesícula sináptica.
+
+54
+
+FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL (PARTE II) │ UNIDADE III
+
+É bom ressaltar que sob dosagens muito altas as anfetaminas e até de metilfenidato saturam os
+DATs, o que aumentaria consideravelmente a DA nas sinapses dos núcleus accumbens e apresentar
+como efeito reforço, euforia, recompensa e uso abusivo, ou seja, são resultados que não estão ligados
+à efeitos terapêuticos.
+O estudo e o aprofundamento de considerações farmacocinéticas e mecanismos farmacodinâmicos
+buscam novas formulações em que se otimiza a administração da droga, ora, para uma criança é de
+significativa relevância não ter de tomar a segunda dose de um estimulante no meio do seu período
+escolar.
+Por outro lado deve-se evitar tratar o TDAH com estimulações de altas doses e ação curta, podendo
+gerar alta ativação com estresse e comorbidades além de sensações de reforço, euforia, recompensa
+e uso abusivo. A liberação pulsátil das drogas amplifica as descargas tônicas de dopamina (DA) e
+noradrenalina (NA).
+
+O tratamento do TDAH com drogas
+noradrenérgicas
+A atomoxetina é um medicamento aprovado para o tratamento do TDAH com ação de inibir a
+receptação de noradrenalina. Como há poucos neurônios noradrenérgicos e NET no nucleus
+accubens, a inibição desse transportado não aumenta tanto a noradrenalina e a dopamina no córtex
+pré-frontal e não aumenta no nucleus accubens, por isso, a atomoxetina não tem efeito potencial
+de abuso.
+Antidepressivos, como reboxetina, também pode ser usado no tratamento de pacientes com TDAH,
+por inibir o NET e com propriedades de receptação da serotonina.
+A bupropiona é um inibidor fraco do DAT, designado como inibidor da receptação de noradrenalina
+e dopamina.
+Quando há inibição de NET de início lento, longa duração e constante no córtex pré-frontal há
+uma série de eventos que culminará na dessensiblização dos receptores de DA e NA. Por isso há
+uma reversão na atrofia cerebral relacionada ao estresse e indução à neurogênese que acaba por
+proteger o cérebro. Essas alterações bioquímicas e moleculares podem estar associadas à atenuação
+dos sintomas do TDAH, da prevenção de recaídas, da diminuição de ansiedade, da depressão, e da
+ingestão de álcool.
+
+55
+
+TRANSTORNO DE
+RECOMPENSA,
+ABUSO DE DROGAS E
+SEUS TRATAMENTOS
+
+UNIDADE IV
+
+O homem faz uso de drogas psicoativas desde épocas pré-históricas, antes mesmo
+da civilização. Muitos grupos a usam com fins religiosos, de rituais sociais típicos de
+cada grupo, para diminuir a fome e a fadiga. Grupos usam substâncias psicoativas
+de acordo com os costumes, objetivos e época, o que faz com que uma mesma
+substância possa ser vista como droga de abuso, ou não. Mas hoje a palavra droga
+reporta a algo ilícito, problema social que estremece nossa época, a cada dia, com
+uma substância ou composto novo, cada vez mais avassalador em nível neurológico
+e comportamental. Apresenta uma forte relação com distúrbios emocionais e
+sociais, e certamente traz, entre outros problemas, um sério agravamento a esses
+distúrbios.
+Até a década de 1990 os EUA apresentava uma estimativa de gasto de 38 bilhões de
+dólares no consumo de cocaína, bem como 9,6 bilhões com heroína, 7 bilhões com
+maconha, 2,7 bilhões com outras drogas ilícitas. Mas ainda precisa ser considerado
+o grupo de drogas lícitas e toleradas como álcool e cigarro. No início da década
+de 1990 houve um gasto, também norte-americano de 148 bilhões de dólares
+com atendimento e tratamento de problemas médicos-sociais graves advindos
+do uso de álcool, como: tratamento com dependência, consequências médicas,
+perda de emprego, crimes e acidentes ligados diretamente ligados ao consumo de
+psicoativos.
+
+56
+
+CAPÍTULO 1
+Circuito de recompensa
+Figura 18. Circuito de recompensa.
+
+Figura adaptada e disponível em: < http://ciencia.folhadaregiao.com.br/2012/04/por-que-as-drogas-viciam.html>. Acessado
+em: 22 maio. 2014.
+
+A descoberta da área denominada Circuito de Recompensa ocorre quando em pesquisas com ratos,
+esses eram estimulados com agulhas eletrodos que deveriam estimular determinada área encefálica.
+Esse experimento permitiu-se observar que um dos animais reagia de modo a procurar por mais
+estímulos ao invés de fugir deles, como faziam os outros ratos nesse experimento que objetivava
+testar as estruturas relacionadas ao sono. Acontece que no animal em que a reação era diferente
+dos demais, verificou-se que a agulha estava na posição errada, próximo a ela, o experimento foi
+continuado, mas com a intenção de se observar a reação do animal em relação á área monitorada e
+estimulada. A experiência continuou com foco nesse animal que foi colocado em gaiola apropriada
+para autoadministração (pressionando uma alavanca) de estímulos por esses animais. Observou,
+com grande surpresa, que o animal se exauria pressionando a alavanca do contato elétrico num ritmo
+muito acelerado. A experiência foi confirmada em sucessivas repetições com o eletrodo posicionado
+naquele local, logo acima do tronco cerebral, no meio do cérebro. Estava descoberto o Circuito.
+A partir daí essa região do SNC tem atraído a atenção dos neurocientistas de todo o mundo.
+Particularmente com relação à Dependência Química, evidenciou-se que todas as drogas com
+potencial de dependência agem aumentando o nível da dopamina, neurotransmissor do Circuito
+de Recompensa.
+A via final comum da recompensa no cérebro foi proposta como sendo uma via dopaminérgica
+mesolímbica. Esta via é modulada por muitas substâncias que existem naturalmente no cérebro,
+
+57
+
+UNIDADE IV │ TRANSTORNO DE RECOMPENSA, ABUSO DE DROGAS E SEUS TRATAMENTOS
+visando ao fortalecimento do reforço normal aos comportamentos adaptativos (como comer, beber,
+fazer sexo) e à produção de “baratos naturais”, como sentimentos de euforia e realização. Essas
+descargas elétricas que geram por sua vez descargas de neurotransmissores para o sistema de
+recompensa englobam neurotransmissores, tais como:
+»» endorfinas, como a encefalina: que funcionam como a morfina ou heroína para o
+cérebro;
+»» anandamida: que funciona como a cannabis/maconha para o cérebro;
+»» acetilcolina: que funciona como a nicotina para o cérebro;
+»» dopamina: que funcionam como a cocaína/anfetamina para o cérebro.
+As drogas psicotrópicas de abuso que existem na natureza se aproximam enquanto produzem
+efeitos, dos próprios neurotransmissores, assim acabam por estimular diretamente os receptores
+das células cerebrais o circuito de recompensa, e causam a liberação de dopamina, o que gera o
+tal “barato artificial”. Portanto, o sistema dopaminérgico mesolímbico é afetado diretamente pela
+nicotina, alucinógenos, hipnóticos-sedativos, benzodiazepínicos, maconha, estimulantes, opiáceos
+e álcool.
+Comportamentos de fissura ou abstinência podem ter como gatilho fisiológico, o disparo do sistema
+reativo de recompensa que opera “de baixo pra cima”, sinalizando a perspectiva imediata de prazer
+ou de dor, e fornece a motivação e o impulso para que se obtenha o prazer ou se evite a dor. Esse
+circuito envolve a área tegumentar ventral (VTA), que é a sede dos corpos celulares dopaminérgicos,
+o nucleus accumbens, para onde esses neurônios dopaminérgicos se projetam e amígdala, que tem
+conexões com as duas estruturas citadas anteriormente.
+Termos-chave e suas definições:
+Abuso: autoadministração de qualquer droga de forma não aprovada e que cause consequências
+adversas.
+Adição: padrão de comportamento de abuso (uso compulsivo), com forte tendência à recaída após
+interrupção do uso.
+Dependência: estado neurofisológico de neuroadaptação produzido pelo uso repetido da droga,
+tornando necessária sua administração continuada para impedir o aparecimento da síndrome de
+abstinência.
+Reforço: tendência de uma droga que produz prazer a resultar em autoadministração repetida.
+Rebote: manifestação absurda e exagerada da condição original apresentada, eventualmente, pelos
+pacientes após cessar tratamento eficaz.
+Recaída: interrupção de tratamento médico efetivo que gera recorrência.
+
+58
+
+TRANSTORNO DE RECOMPENSA, ABUSO DE DROGAS E SEUS TRATAMENTOS │ UNIDADE IV
+
+Abstinência: após cessar a utilização da droga, apresenta-se conjunto de reações fisiológicas e
+psicológicas.
+Tolerância e abstinência cruzadas: capacidade de uma droga de suprimir manifestações de
+dependência física produzida por outra droga.
+Tolerância: desenvolve-se quando, após administração repetida, determinada dose da droga
+produz menor efeito, ou inversamente, doses maiores têm de ser administradas para se obter os
+efeitos observados com o uso inicial da droga.
+
+59
+
+CAPÍTULO 2
+Nicotina, álcool, opiáceos
+A nicotina provoca, diretamente e intensamente, a liberação de dopamina no nucleus accumbens,
+por alguns motivos:
+1. A nicotina se liga aos receptores nicotínicos pós-sinápticos nos neurônios
+dopaminérgicos da área tegumentar ventral (VTA).
+2. A nicotina liga-se, também aos receptores nicotínicos pré-sinápticos nos neurônios
+glutamatérgicos da VTA, o que, também, libera a dopamina no nucleus accumbens.
+3. A nicotina dessensibiliza os receptores pós-sinápticos nos neurônios GABAérgicos
+da VTA, reduzindo a neurotransmissão GABAérgica e desinibeos neurônios
+dopaminérgicos mesolímbicos, ou seja, estimula dopamina no nucleus accumbens.
+Para o tratamento da dependência da nicotina é preciso considerar que o tempo empregado de 4
+a 12 semanas frequentemente empregado para se testarem o tratamento da adição não atende ao
+tempo necessário, pois que há necessidade de reverter as alterações moleculares nos circuitos de
+recompensa à nicotina. Alguns estudos consideram que o condicionamento da recompensa é tão
+marcante quanto ao do medo, pois ambos ocorrem na amígdala.
+A nicotina foi uma das primeiras drogas bem-sucedidas a ter sua eficácia comprovada no
+tratamento da adição à nicotina. A nicotina vinha em goma de mascar, pastilhas, aerossóis adesivos.
+Essa metodologia não eleva muito o nível de nicotina a ponto de disparar o reforço, mas evita a
+fissura devido à quantidade constante. Mas principalmente, leve a dessensibilização de receptores
+nicotínicos.
+O Agonista Parcial da Nicotina (APN) – vareniclina é agonista dos receptores da acetilcolina, que
+atua nos neurônios dompaminérgicos mesolímbicos. Outra alternativa é, para diminuir a fissura
+durante os estágios iniciais da cessação do fumo é administrar um pouco da própria dopamina
+pelo bloqueio de receptação da dopamina diretamente no terminal nervoso por meio do uso da
+bupropiona, esse procedimento torna a abstinência mais tolerável.
+O álcool tem mecanismo bastante inespecífico uma vez que atua sobre grande variedade de
+sistemas neurotransmissores. Sabe-se que o álcool estimula a inibição GABAérgica e ainda reduz
+a neurotransmissão excitatória nas sinapses glutamatérgicas. Então o álcool reduz a excitação e
+aumenta a inibição o que o faz como droga “depressora” do funcionamento neuronal, e seus efeitos
+acabam sendo: embriaguez, amnésia e ataxia.
+O álcool estimula a neurotransmissão GABAérgica e reduz a neurotransmissão glutamatérgica na
+VTA e no nucleus accumbens. Além disso, álcool estimula direta e indiretamente os receptores
+opiáceos e canabinoides na VTA w no nucleus accumbens.
+
+60
+
+TRANSTORNO DE RECOMPENSA, ABUSO DE DROGAS E SEUS TRATAMENTOS │ UNIDADE IV
+
+Vários agentes terapêuticos estão presentes no tratamento da dependência desta substância.
+Naltrexona: bloqueia os receptores opiáceos, sendo antagonista desses receptores e por isso bloqueia
+os efeitos prazerosos do álcool mediado por tais receptores.
+Outro medicamento que merece ser citado é o acamprosato, que bloqueia os receptores de glutamato.
+Quando o álcool é ingerido cronicamente e, então, é suspenso, as alterações causa um estado de
+superexcitação, ao se bloquear esses receptores, acamprosato alicia a hiperexcitabilidade durante a
+abstinência alcoólica.
+O anticonvulsivante topiramato age sobre a neurotransmissão glutamatérgica e deverá (ainda está
+em fase experimental) reduzir o reforço positivo e a fissura.
+Os opiáceos endógenos agem da seguinte maneira: neurônios que se originam do núcleo arqueado
+projetam-se para os corpos celulares dopaminérgicos na VTA, nesse local muitos neurotransmissores
+fazem projeção, e para o nucleus accumben, na qual se projetam os neurônios dopaminérgicos. Os
+neurônios opiáceos liberam endógenos como a encefalina.
+Os opiáceos exógenos (usados para alívio da dor – codeína o morfina, ou de abuso – heroína) são
+agonistas de receptores apiácios. Acima das doses para aliviar a dor, eles causam euforia, seguida de
+sensação de tranquilidade profunda, sonolência, turvação mental, e depressão da respiração o que
+pode induzir coma. Para se reverter as ações dos opiáceos pode-se utilizar opiáceos sintéticos como
+naloxona e naltrexona que são antagonistas dos receptores opiáceos.
+Com administração crônica causam tolerância e dependência em alto nível, requerendo o indivíduo
+doses cada vez mais altas para obter o alívio da dor ou a euforia desejada.
+A metadona é um medicamento usado no tratamento da dependência, ajuda a suportar a ausência da
+droga e pode ser retira aos poucos, permitindo que os receptores se readaptarem-se à normalidade
+da ausência da substância. O acetato L-alfa-acetilmedolol (LAAM) tem propriedade farmacológica
+semelhante a metadona. Tratamento com agonista de substituição é mais adequado com programa
+de acompanhamento de monitoração das condições clínicas, psicológicas e emocionais do paciente.
+
+61
+
+CAPÍTULO 3
+Maconha, alucinógenos, drogas
+recreativas
+As preparações de cannabis são fumadas para o aporte de canabinoides que interagem com os
+receptores de canabinoides do próprio cérebro, desencadeando a liberação de dopamina pelo
+sistema mesolímbico de recompensa. Essa droga pode ter efeitos estimulantes e também sedativos.
+Em doses elevadas ela pode gerar relaxamento, bem-estar. Pode também estar relacionada a
+lentificação do processo de pensamento, alteração da memória de curto prazo, confusão entre
+passado e presente e por isso a sensação de insights especiais. Com doses ainda maiores pode se ter
+pânico, delirium tóxico e psicoses. Em muitos usuários de grande quantidade diária apresenta-se
+também a “síndrome amotivacional”, que pode estar associada a redução da amplitude atencional,
+juízo crítico pobre, distração fácil, alteração de habilidades de comunicação.
+Observa-se na ação da maconha e do THC nos circuitos de recompensa, que a maconha libera seus
+ingredientes ativos, os canabinoides (THC; Delta-9-trtara-hidrocanabinol), que interagem com os
+receptores canabinoides do próprio cérebro, desencadeano a liberação de dopamina no nucleus
+accumbens.
+Existem dois receptores de canabinoides conhecidos: CB1 (no cérebro) e CB2 (predominantemente,
+no sistema imune). Os receptores CB1 estão relacionados à mediação das propriedades de reforço
+da maconha e também do álcool.
+O rimonabanto é um antagonista da maconha, e permite seu uso em esquemas terapêuticos em
+abuso de diversos tipos de drogas: tabagismo, alcoolismo e maconha. Ainda pode ser usado, o
+rimonaban, no tratamento da obesidade e na síndrome metabólica, mas suscita preocupações uma
+vez que o uso prolongado talvez tenha relação com o aumento da ideação suicida.
+Os alucinógenos são um grupo de drogas que agem nas sinapses serotoninérgicas do sistema de
+recompensa. O sistema reativo de recompensa que consiste em área tegumentar ventral (VTA), local
+dos corpos celulares dopaminérgicos que também recebe muitas projeções de neurotransmissores,
+nucleus accumbens, para o qual se projetam os neurônios dopaminérgicos, e a amígdala que tem
+conexões com a VTA com o nucleus accumbens. Os alucinógenos agem nas sinapses serotoninérgicas
+deste sistema de recompensa.
+Os alucinógenos produzem a “viagem”, onde ocorrem alterações sensoriais, ilusões e alucinações
+visuais, aumento de percepções de estímulos internos e externos. Podem ser alucinações psicodélicas
+(percepção sensorial aumentada e sensação subjetiva de que a mente “expandiu”), pode ser dada
+à essa experiência um enfoque religioso. As alucinação também podem ser psicotomiméticas, o
+que imita um estado psicótico, estimulantes como a cocaína e as anfetaminas imitam os delírios
+psicóticos.
+
+62
+
+TRANSTORNO DE RECOMPENSA, ABUSO DE DROGAS E SEUS TRATAMENTOS │ UNIDADE IV
+
+As alucinações podem ter ilusões visuais, sensação de que as cores são ouvidas e os sons são vistos,
+intensificação da perceptção sonora. Alteração do juízo crítico, ansiedade, náuseas, taquicardia e
+aumento da pressão arterial, e da temperatura corporal.
+Os alucinógenos podem se assemelhar a serotonina, são os alucinógenos clássicos: LSD,
+dimetiltriptalamina. Também podem se assemelhar à noradrenalina e à dopamina, são as
+anfetaminas: mescalina é um exemplo, e o MDMA (“ecstasy”) e “Foxy”.
+Os alucinógenos têm interações bastante complexas nos sistemas neurotransmissores, mas uma
+das mais identificadas em testes e estudos é a ação comum como agonistas nos sítios receptores
+5HT2A, %hT, além de outros sistemas de neurotransmissão, especialmente noradrenérgico e
+dopaminérgico. A MDMA parede ser, além disso, um inibidor do transportador de serotonina e
+ainda pode destruir terminais axônicos serotoninérgicos, e estimulam os receptores de 5HT2A é a
+ação comum dos alucinógenos.
+Os alucinógenos podem produzir tolerância e fhashbacks, que é a recorrência espontânea de alguns
+sintomas de intoxicação na ausência da administração da droga, provocado por vários estímulos
+ambientais.
+Drogas recreativas fenciclidina (PCP) e quetamina possuem ações nas sinapses glutamatérgicas
+do sistema de recompensa. São antagonistas nos resceptores de NMDA, ligando-se a um sítio do
+canal de cálcio. Eram inicialmente, apenas drogas anestésicas. Porém, a PCP por produzir efeitos
+semelhantes às crises esquizofrênicas, mostrou-se de inaceitável uso. A PCP hipoativa os receptores
+NMDA por isso é um modelo para as mesmas anormalidades dos neurotransmissores subjacentes
+à esquizofrenia.
+A quetamina produz experiências psicotomiméticas e alucinatórias em grau menor. Por isso é usada
+de forma abusiva. A PCP causa analgesia intensa, amnésia e delirium, estimulando e deprimindo
+o SNC, masrcha cambaleante, fala pastosa e catatonia (torpor e catalepsia), alucinações, delírios,
+paranoia, desorientação e perda do juízo crítico. A intoxicação pode incluir coma, temperatura
+extremamente elevada, convulsões e rabdomiólise (deseintegração dos músculos).
+<http://meiobit.com/184304/pesquisa-cerebro-ressonancia-magnetica-funcionalmodeloc-omputacional-identifica-letras/>
+<http://zerohora.clicrbs.com.br/rs/vida-e-estilo/bem-estar/noticia/2013/09/
+entenda-a-impor tancia-do-consumo-de -acido-folico-para-a-saude -dobebe-4260531.html>
+
+63
+
+Para (não) Finalizar
+Psicofarmacologia na educação
+Um dos questionamentos mais difíceis de ser respondido é: será que as drogas relacionadas à
+aprendizagem estão de fato, ajudando as crianças, e os jovens, e mesmo os adultos, a serem mais
+felizes e funcionais no universo acadêmico?
+Já se pode evitar os problemas e comorbidades da depressão, atenuar os problemas da desatenção,
+atenuar os efeitos do opositor, enfim....
+Mas ainda estamos na caminhada, precisamos saber mais sobre neurotransmissores, sobre
+estruturas neuronais, sobre os lobos encefálicos e suas especialidades.
+Mas sobretudo falta-nos entender o conceito de sucesso escolar.
+Para que esse conhecimento esteja realmente a serviço de uma busca mais ajustada pela tranquilidade
+em sala de aula é necessário compreendermos o que é sucesso escolar de uma forma que respeite as
+diferenças e saiba descobrir habilidades.
+Os medicamentos estão a nossa disposição para que os usemos para atender nossas necessidades e
+não nosso comportamento acomodado frente às dificuldades nem intolerante frente às diferenças.
+Afinal, as substâncias psicoativas não devem ser usadas a serviço da banalização de padrões de
+comportamento.
+
+64
+
+Referências
+GAZZANIGA, Richard B. Ivry. Neurociência cognitiva: a biologia da mente. Porto Alegre,
+Artmed, 2006.
+GRAEFF, Frederico Guilherme. Fundamentos da psicofarmacologia. São Paulo. Atheneu,
+2005.
+LENT, Roberto. Cem bilhões de neurônios conceitos fundamentais de neurociência. São
+Paulo, Atheneu, 2005.
+ROTTA, Newra Tellechea. Transtornos da aprendizagem abordagem neurobiológica e
+multidisciplinar. Porto Alegre, Artmed, 2006.
+SOUSA, Raimundo Vicente de. Fundamentos da bioquímica. Lavras. Ufla/Faep, 2006.
+STAHL, Stephen M. Psicofarmacologia bases neurocientíficas e aplicações práticas. Rio
+de Janeiro, Guanabara Koogan, 2011.
+
+Sites
+<http://andreonetm.webnode.com.br/news/divis%C3%A3o%20sensorial%20do%20sistema%20
+nervoso/>.
+<http://dc367.4shared.com/doc/MTTYwy58/preview.html>
+<http://www.infoescola.com/sistema-nervoso/sinapse-quimica/>.
+<http://www.ebah.com.br/content/ABAAAfbngAL/potencial-acao>
+<http://www.clinicafares.com.br/dicas-de-saude/Neurologia-60/Leia-sobre-osneurotransmissores-e-neuromoduladores-29736.html>
+<http://www.imaios.com/br/e-Anatomy/Cabeca-e-Pescoco/Sistema-nervoso-autonomodiagramas>
+<http://www.sistemanervoso.com/pagina.php?secao=6&materia_id=78&materiaver=1>
+<http://evolucionyneurociencias.blogspot.com.br/2013/05/estatus-y-serotonina.html>
+<http://www.medicinageriatrica.com.br/tag/sistema-neuronal-de-hipocretina/>
+<http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516-93322003000300004>
+<http://slideplayer.com.br/slide/363266>
+
+65
+
+REFERÊNCIAS
+<http://parkinsonipbessa.blogspot.com.br/2013_01_01_archive.>
+<http://neuropsicopedagogianasaladeaula.blogspot.com.br/2012/11/voce-consegue-guardarsegredos.html>
+<http://nervoroom.wordpress.com/>
+<http://ciencia.folhadaregiao.com.br/2012/04/por-que-as-drogas-viciam.html>
+
+Exemplos
+<www.mec.com.br>
+<http://www.fisiologia.kit.net/bioquimica/ck/ck.htm>.
+
+66
