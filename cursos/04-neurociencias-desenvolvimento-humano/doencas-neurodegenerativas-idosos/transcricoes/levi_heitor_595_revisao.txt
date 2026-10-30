@@ -1,0 +1,830 @@
+revisão
+
+Doença de Huntington: Uma Revisão dos Aspectos
+Fisiopatológicos
+Huntington’s Disease: A Review on the Physiopathological Aspects
+
+Joana M Gil-Mohapel1, Ana Cristina Rego2
+RESUMO
+
+ABSTRACT
+
+Introdução. A doença de Huntington (DH) é uma doença neurodegenerativa do cérebro que se caracteriza pela perda de coordenação motora, alterações psiquiátricas, declínio cognitivo e demência
+progressiva. A DH é causada pela mutação no gene de uma proteína
+que todos possuímos, a huntingtina. A nível cerebral, a huntingtina
+mutante causa a morte seletiva de neurónios do estriado, córtex e hipotálamo. Esta mutação resulta na alteração de múltiplos mecanismos
+intracelulares que conduzem à disfunção das vias nigro- e corticoestriatal. Objetivo. O objetivo do presente artigo consiste em apresentar
+uma revisão crítica dos principais mecanismos de disfunção neuronal
+glutamatérgica e dopaminérgica na DH assim como dos mecanismos
+de desregulação metabólica e mitocondrial que contribuem para a
+morte neuronal seletiva na DH. Método. Foi realizada uma pesquisa
+de artigos científicos desde 1980 na base de dados PubMed. Resultados. Foram selecionados 10 artigos de revisão e 85 artigos originais,
+publicados em Inglês. Conclusão. Com base na literatura analisada
+é possível concluir que a disfunção neuronal precoce induzida pela
+huntingtina mutante em regiões não-estriatais (nomeadamente o córtex e a substantia nigra) desempenha um papel crucial durante as fases
+iniciais da DH. Tal informação poderá ser relevante para o desenvolvimento de novas estratégias terapêuticas para a DH.
+
+Introduction. Huntington’s disease (HD) is a brain neurodegenerative disorder, characterized by the loss of motor coordination, psychiatric disturbances, cogniticve decline and progressive dementia. HD
+is caused by a mutation in the gene encoding for a protein normally
+present in the human body, huntingtin. At the cerebral level, mutant
+huntingtin causes the selective death of striatal, cortical and hypothalamic neurons. The mutation underlies changes in several basic intracellular mechanisms that lead to dysfunction of nigro- and corticostriatal pathways. Objective. The goal of this study is to present a
+critical overview of the main mechanisms responsible for the glutamatergic and dopaminergic dysfunction, as well as the pathways involved
+in metabolic and mitochondrial dysfunction in HD. Method. We
+performed a PubMed search and selected scientific articles that were
+published since 1980. Results. We selected 10 review articles and 85
+original articles, all published in English. Conclusion. Based on the
+literature, it is possible to conclude that mutant huntingtin-induced
+neuronal dysfunction occuring outside the striatum (namely in the
+cortex and substantia nigra) plays a critical role during the initial stages
+of the disease. This information may be relevant for the development
+of new therapeutic strategies for HD.
+
+Unitermos. Apoptose, Autofagia, Doença de Huntington, Gânglios
+da Base, Morte Celular.
+
+Keywords. Apoptosis, Autophagy, Basal Ganglia, Cell Death, Huntington Disease.
+
+Citação. Gil-Mohapel JM, Rego AC. Doença de Huntington: Uma
+Revisão dos Aspectos Fisiopatológicos.
+
+Citation. Gil-Mohapel JM, Rego AC. Huntington’s Disease: A Review on the Physiopathological Aspects.
+
+Trabalho realizado na Faculdade de Medicina da Universidade de Coimbra, Portugal e na Divisão de Ciências Médicas da Universidade de Victoria, Canadá.
+1. Doutorada em Biologia Celular (Universidade de Coimbra, Portugal); Investigador de pós-doutoramento na Divisão de Ciências Médicas da Universidade de Victoria, Canadá.
+2. Doutorada em Biologia Celular (Universidade de Coimbra, Portugal); Professora Auxiliar da Faculdade de Medicina da Universidade de Coimbra; Coordenadora do grupo de investigação “Mitochondrial Dysfunction and Signaling
+in Neurodegeneration” do Centro de Neurociências e Biologia Celular da Universidade de Coimbra, Portugal.
+
+724
+
+Endereço para correspondência:
+Prof. Ana Cristina Rego
+Faculdade de Medicina e
+Centro de Neurociênciase Biologia Celular
+Rua Larga, Universidade de Coimbra (pólo I),
+CEP 3004-504, Coimbra, Portugal.
+Tel/Fax:: +351-239-820190 / +351-239-822776;
+E-mail: a.cristina.rego@gmail.com
+Revisão
+Recebido em: 26/08/10
+Aceito em: 04/03/11
+Conflito de interesses: não
+
+Rev Neurocienc 2011;19(4):724-734
+
+Rev Neurocienc 2011;19(4):724-734
+
+volvimento de estratégias terapêuticas que actuem a nível
+destas vias neurológicas poderá ter um impacto positivo
+no tratamento de pacientes com a DH.
+
+revisão
+
+INTRODUÇÃO
+A doença de Huntington (DH) é uma patologia
+neurodegenerativa, autossómica dominante, classicamente descrita como Coreia de Huntington (‘khoreia’ é a palavra grega para dança). A DH é a doença poliglutamínica mais comum e também a melhor estudada. Apresenta
+uma prevalência de 3 a 10 indivíduos por cada 100.000
+no oeste Europeu e América do Norte1,2.
+A DH foi descrita inicialmente no século 19 por
+George Huntington, que identificou as características clínicas da doença e o padrão de transmissão familiar. Contudo, foi apenas em 1993 que a mutação génica causadora da DH foi descoberta pelo consórcio organizado pela
+Hereditary Disease Foundation. Este grupo identificou
+uma expansão instável do tripleto CAG (citosina-adenina-guanina), na região codificante (exão 1) do gene HD
+(do inglês ‘Huntington’s disease’, também designado gene
+IT15 ou ‘Interesting Transcript 15’), que codifica a proteína huntingtina. A mutação resulta numa expansão de
+resíduos de glutamina localizados no terminal amínico da
+proteina huntingtina3. A proteína mutante é expressa de
+forma ubíqua, em todo o organismo, porém a morte celular surge em áreas específicas do cérebro, particularmente
+no estriado e no córtex1. Por outro lado, a huntingtina
+mutante é expressa durante toda a vida, mas, na maioria
+dos casos, o aparecimento dos primeiros sintomas surge
+apenas na idade adulta, entre os 35 e 50 anos de idade.
+A doença progride ao longo do tempo e torna-se fatal 15
+a 20 anos após o aparecimento dos primeiros sintomas2.
+Após um preâmbulo sobre as principais características neuropatológicas e clínicas da DH (secção 3), este
+artigo de revisão tem como objetivo avaliar os principais mecanismos de disfunção neuronal glutamatérgica
+e dopaminérgica na DH e a sua interação com as vias
+cortico- e nigro-estriatais, assim como os mecanismos de
+desregulação metabólica e mitocondrial que contribuem
+para morte neuronal seletiva na DH (secção 4). Os mecanismos fisiopatológicos descritos no presente artigo de revisão estão associados à disfunção de regiões não-estriatais
+(nomeadamente o córtex e a substantia nigra), desempenhando um papel crucial durante as fases iniciais da DH.
+Uma vez que estas regiões estabelecem contato directo
+com o estriado (a região mais afetada na DH) através das
+vias cortico- e nigro-estriatal, acreditamos que o desen-
+
+MÉTODO
+Para a elaboração da presente revisão, foram analisados estudos que investigaram os principais aspectos que
+distinguem a DH relativamente às outras oito patologias
+do grupo das doenças de expansão de poliglutaminas, nomeadamente as manifestações clínicas, a neuropatologia
+e a genética desta patologia incurável. Para além disso,
+debruçámo-nos na recolha de informação sobre os processos de excitotoxicidade e toxicidade da dopamina, e
+suas respectivas consequências na disfunção neuronal das
+vias cortico-estriatal e nitro-estriatal a nível cerebral. De
+modo a descrever os mecanismos de morte celular seletiva
+na DH, a nível do estriado, explorámos a ocorrência de
+disfunção mitocondrial, metabólica e a produção de radicais livres subjacentes aos processos de morte celular por
+apoptose (activação de caspases) e autofagia.
+Para a localização dos artigos científicos, foi criada uma estratégia de busca na base de dados PubMed
+por meio de palavras-chave, onde se estabeleceu a relação
+entre doença de Huntington, inclusões intranucleares,
+huntingtina mutante, excitotoxicidade, toxicidade da dopamina, disfunção metabólica, disfunção mitocondrial e
+stresse oxidativo, morte celular por apoptose e autofagia.
+RESULTADOS
+Foram selecionados 10 artigos de revisão e 85 artigos originais, publicados em Inglês. Os artigos selecionados incluiram os artigos chave/iniciais sobre a DH, publicados nas décadas de 80 e 90, e artigos actuais, publicados
+entre o período de 2000-2008.
+DISCUSSÃO
+Principais características da doença de Huntington
+Manifestações clínicas
+Clinicamente, a DH caracteriza-se por coreia progressiva, declínio cognitivo e perturbações psiquiátricas.
+Os primeiros sinais da patologia são subtis. Numa fase
+precoce podem ser observadas alterações moderadas na
+execução dos movimentos, dificuldades na resolução de
+problemas, irritabilidade e depressão. As alterações mo725
+
+revisão
+726
+
+toras, associadas à perda de coordenação dos movimentos
+voluntários, progridem de forma lenta. Os movimentos
+involutários dos músculos tornam-se mais graves e os pacientes perdem gradualmente a capacidade para se moverem e, eventualmente, de comunicarem4-6. Os estadios
+mais avançados da doença são também caracterizados
+por bradicinésia (i.e., lentidão anormal dos movimentos voluntários) e rigidez severa, e por demência7-9. Os
+pacientes são regularmente avaliados com base na escala
+funcional UHDRS (do inglês, Unified Huntington’s Disease Rating Scale), desenvolvida em 1996. A morte dos
+pacientes ocorre geralmente devido a complicações respiratórias infecciosas ou cardiovasculares10. Nos pacientes
+com formas juvenis da DH, a sintomatologia é consideravelmente diferente, sendo caracterizada por bradicinésia,
+tremores, rigidez e distonia, e a coreia pode mesmo estar
+ausente. As crianças afetadas pela DH podem também
+sofrer ataques epilépticos11.
+A maioria dos pacientes sofre também de caquexia (i.e., estado patológico caracterizado por extrema
+magreza e mau estar geral grave), com emaciação (i.e.,
+emagrecimento muito acentuado) a nível muscular e perda de peso, que surgem de forma inexplicável apesar de
+um consumo calórico elevado12,13. Alterações endócrinas
+têm sido também descritas em doentes de DH, incluindo um aumento dos níveis de corticosteróides14,15 e uma
+diminuição dos níveis de testosterona16. Para além disso,
+10-25% dos pacientes de Huntington exibem diabetes
+mellitus17,18.
+As capacidades cognitivas são grandemente afetadas na DH. O declínio da capacidade intelectual é um
+dos primeiros sinais de défice cognitivo em pacientes de
+Huntington. Nalguns casos de DH, o défice das funções
+cognitivas pode ser detectado décadas antes do aparecimento dos sintomas motores. As alterações cognitivas
+tendem a piorar ao longo do tempo, e tal como referido
+anteriormente, os doentes de Huntington em fase tardia
+podem apresentar demência severa19. Por outro lado, um
+comportamento maníaco-depressivo19 e alterações de
+personalidade, tais como irritabilidade, apatia e distúrbios sexuais, fazem parte da síndrome psiquiátrica que
+caracteriza a DH20.
+Tendo em conta as características acima descritas,
+os critérios usados para o diagnóstico da DH incluem:
+
+i) história familiar de DH; ii) défice motor progressivo
+associado a coreia ou rigidez sem outra causa definida;
+e iii) alterações psiquiátricas com demência progressiva,
+sem outra causa1. Atualmente, os indivíduos que apresentam estes sintomas são submetidos ao teste genético, de
+forma a avaliar a presença da mutação associada à DH e
+confirmar o diagnóstico.
+Neuropatologia
+Neuropatologicamente, a DH caracteriza-se por
+uma atrofia gradual do estriado (núcleo caudado e putamen). A escala de avaliação dos diferentes estadios patológicos mais usada permite determinar a severidade da
+degeneração na DH e foi desenvolvida por Vonsattel et al.
+em 198521. Esta escala baseia-se nos padrões de degeneração estriatal observados em tecido post-mortem. A DH
+é assim classificada em 5 graus (0 a 4), associados a diferentes graus de severidade neuropatológica. Existe uma
+correlação positiva entre o número de repetições CAG e
+a escala de Vonsattel. Assim, um maior número de repetições CAG está associada a uma maior lesão celular no
+estriado e a um grau mais elevado na escala de Vonsattel1.
+O grau de atrofia estriatal também se correlaciona
+com a degeneração de estruturas cerebrais não-estriatais.
+Por exemplo, nos graus 1 e 2 as estruturas não-estriatais
+encontram-se geralmente preservadas ou apresentam apenas uma atrofia ligeira, enquanto nos graus 3 e 4 o córtex
+cerebral (particularmente as camadas III, V e VI), o globus pallidus, tálamo, núcleo subtalâmico, substantia nigra,
+substância branca e cerebelo poderão também estar afetados1. O hipotálamo também pode ser afetado em pacientes de DH22. Devido a uma atrofia cerebral generalizada
+observada nos casos mais severos da DH, o peso cerebral
+pode diminuir até 40%23.
+Os neurónios mais afetados no estriado são os neurónios espinhosos médios, que correspondem a cerca de
+95% do número total de neurónios estriatais. Os neurónios estriatais recebem projecções axonais de neurónios
+dopaminérgicos que partem da substantia nigra pars compacta e de neurónios glutamatérgicos do córtex cerebral e
+tálamo. Por sua vez, os neurónios estriatais projetam para
+os núcleos dos gânglios da base24,25.
+Os neurónios espinhosos médios do estriado utilizam o neurotransmissor inibitório ácido gama-aminobuRev Neurocienc 2011;19(4):724-734
+
+Rev Neurocienc 2011;19(4):724-734
+
+protector durante as fases iniciais da doença35. De facto, é
+possível que as inclusões representem um meio da célula
+sequestrar fragmentos e oligómeros tóxicos de huntingtina mutante.
+
+revisão
+
+tírico ou GABA (do inglês ‘g-aminobutyric acid’) e dinorfina, encefalina ou substância P como co-transmissores. A
+perda do efeito inibitório causada pela morte dos neurónios espinhosos médios do estriado tem sido directamente associada aos movimentos incontrolados característicos
+da DH26. Contudo, na população de neurónios espinhosos do estriado observam-se diferentes graus de degeneração. De facto, nos estadios iniciais e intermédios da DH,
+os neurónios que expressam encefalina e projetam para o
+segmento externo do globus pallidus são mais susceptíveis
+do que os neurónios que contêm substância P e projetam
+para o segmento interno-palidal. Nos estadios mais avançados da patologia (grau 4) todos os sistemas neuronais
+são afetados27-29. Por outro lado, os interneurónios estriatais médios não-espinhosos [que contêm somatostatina,
+neuropeptídeo Y ou NADPH-diaforase (o mesmo que
+sintetase do óxido nítrico ou NOS)], os interneurónios
+colinérgicos e os neurónios GABAérgicos que contêm
+parvalbumina encontram-se relativamente preservados
+em cérebros dos pacientes de Huntington30-32.
+A DH também é caracterizada pela presença de
+inclusões neuronais intranucleares (NIIs, do inglês ‘neuronal intranuclear inclusions’)33 e por agregados proteícos
+em neurites distróficas34 nos neurónios estriatais e corticais. Curiosamente, a frequência de neurónios corticais que contêm NIIs aumenta drasticamente nos casos
+juvenis da DH33, enquanto os agregados estriatais estão
+praticamente ausentes nestes pacientes35, indicando uma
+dissociação entre a agregação da huntingtina e o padrão
+seletivo de neurodegeneração estriatal. Assim, o número
+de inclusões corticais parece correlacionar-se com a extensão da expansão de repetições CAG e a idade de início
+da doença36. Para além disso, o aparecimento das NIIs
+precede a perda de peso cerebral, que por sua vez precede
+a perda de peso corporal e o aparecimento dos sintomas
+neurológicos1.
+A agregação da huntingtina mutante pode ser um
+dos factores desencadeadores de lesão celular na DH.
+Várias proteínas interagem de forma anormal com a
+huntingtina mutante e são recrutadas para os agregados
+proteícos, causando a desregulação de importantes vias
+intracelulares. Contudo, as inclusões de huntingtina mutante poderão apenas representar um efeito secundário
+da disfunção celular, podendo mesmo exercer um efeito
+
+Genética
+Como mencionado previamente, a mutação responsável pela DH é constituída por uma expansão contínua de repetições do tripleto CAG, que se localiza
+perto do terminal 5’ do exão 1 (região codificante) do
+gene HD. Este gene contém 67 exões e está localizado no
+braço curto do cromossoma 4 (4p16.3), entre as regiões
+D4S127 e D4S180. Consequentemente, a huntingtina
+mutante apresenta uma cauda de resíduos de glutamina
+que se alinham de forma consecutiva no terminal amínico (NH2-) da huntingtina, 17 aminoácidos após a metionina iniciadora3.
+A patologia transmite-se de forma autossómica
+dominante. O alelo normal transmite-se de geração em
+geração segundo as regras de hereditariedade Mendeliana.
+O alelo mutante é instável durante a meiose, alterando o
+seu comprimento na maioria das transmissões intergeracionais, com um aumento de 1-4 unidades ou decréscimo
+de 1-2 unidades do tripleto CAG. Em casos raros podem
+ocorrer expansões maiores associadas à transmissão paterna, o que reflete uma maior taxa de mutação durante a
+espermatogénese3.
+Normalmente, indivíduos assintomáticos possuem
+menos de 35 repetições CAG. A DH é manifestada quando o número de repetições excede este limite. Alelos com
+35 a 39 repetições CAG estão associados com as formas
+mais tardias da doença; porém, uma penetrância incompleta tem sido observada em certos casos que não apresentam sintomas ou sinais neuropatológicos. Alelos com
+40 a 50 unidades dão origem à forma adulta da DH, enquanto repetições mais longas (normalmente associadas a
+alta instabilidade alélica durante a transmissão paternal)
+conduzem ao aparecimento dos primeiros sintomas muito precocemente, sendo responsáveis pelos casos juvenis e
+infantis, mais severos e raros3 (Tabela 1). Desta forma, o
+número de repetições CAG parece afectar a progressão da
+doença. O número de repetições CAG é também o principal determinante da idade em que se manifestam os primeiros sintomas, explicando cerca de 30-60% da variação
+727
+
+revisão
+
+Tabela 1
+Classificação do risco de transmissão da doença com base no número de repetições CAG
+Número de
+Repetições CAG
+
+Risco de Transmissão para
+a Descendência
+
+Manifestação da Doença
+
+< 28
+
+Não há transmissão
+
+Não há manifestação da doença
+
+28-35
+
+Intermediário (no caso da ocorrência de
+mutações que levam a um aumento do
+número de CAGs na descendência)
+
+Não há manifestação da doença
+
+35-40
+
+Penetrância incompleta
+
+Possibilidade de vir a manifestar a doença
+ou início mais tardio
+
+40-50
+
+Penetrância completa
+
+A doença é manifestada na idade adulta
+
+> 50
+
+Penetrância completa
+
+A doença é manifestada precocemente
+(durante o período juvenil)
+
+nessa idade; a percentagem remanescente é atribuída a
+outras características genéticas e a factores ambientais37.
+Mecanismos de Neurodegeneração
+Ao longo da progressão da DH, a disfunção intracelular induzida pela huntingtina mutante conduz à degeneração de vias neuronais importantes e à perda celular
+no estriado, no córtex cerebral e noutras regiões cerebrais
+(Figura 1). Apesar de não resultarem necessariamente de
+um efeito directo da proteína mutante, os mecanismos de
+excitotoxicidade, toxicidade dopaminérgica, desregulação
+metabólica, disfunção mitocondrial, stresse oxidativo,
+apoptose e autofagia têm sido implicados na patologia da
+DH. Muitos destes mecanismos desenvolvem-se lentamente, tornando-se mais evidentes em fases mais tardias
+da doença. Estes mecanismos podem mesmo ocorrer em
+paralelo, promovendo-se mutuamente e culminando na
+morte neuronal.
+Disfunção Cortico-estriatal e Excitotoxicidade
+O estriado recebe input excitatório glutamatérgico
+de todo o córtex cerebral. A maioria dos neurónios GABAérgicos apresenta uma expressão elevada do receptor
+do glutamato do tipo N-metil-D-aspartato (NMDA)38,
+bem como do receptor metabotrópico do glutamato
+mGluR5, o qual potencia as respostas dos receptores
+NMDA, contribuindo para o processo excitotóxico39.
+Após a activação crónica dos receptores NMDA,
+a concentração intracelular de Ca2+ aumenta, podendo
+conduzir à disfunção mitocondrial e à produção de espécies reactivas de oxigénio (ROS, do inglês ‘reactive oxygen
+728
+
+species’) e de nitrogénio (RNS, do inglês ‘reactive nitrogen species’), à activação de proteases dependentes de Ca2+
+(calpaínas), e à indução do processo apoptótico40. Estes
+eventos contribuem para a neurodegeneração progressiva
+observada no estriado dos doentes de Huntington. De
+facto, foi recentemente demonstrado que a remoção cirúrgica do córtex, e a consequente diminuição dos níveis
+de glutamato no estriado, prolonga o tempo de vida e
+melhora alguns distúrbios comportamentais, bem como
+algumas características neuropatológicas de ratinhos
+transgénicos para a DH41. Por outro lado, em cérebros de
+doentes de Huntington observou-se uma degeneração do
+córtex sensorial e motor numa fase precoce da doença42,43,
+sugerindo que uma disfunção cortical contribui para o
+desenvolvimento da doença no ser humano.
+Disfunção Nigro-estriatal e a Toxicidade da Dopamina
+O estriado recebe input dopaminérgico da substantia nigra pars compacta. Vários estudos demonstraram
+a degeneração de projecções nigro-estriatais44-46, uma
+atrofia dos neurónios dopaminérgicos na substantia nigra47,48 e uma redução acentuada da população neuronal
+dopaminérgica no estriado de cérebros de doentes com
+DH49. Agregados de huntingtina mutante também foram
+encontrados nesta região cerebral50. Para além disso, uma
+diminuição de tirosina hidroxilase (a enzima limitante da
+biossíntese da dopamina)48 e um decréscimo da expressão
+do transportador de dopamina (DAT, do inglês ‘dopamine transporter’) e dos receptores da dopamina D1 e D2
+ocorre nos cérebros de doentes de Huntington45,51 e em
+ratinhos transgénicos para a DH52. Em resumo, alterações
+Rev Neurocienc 2011;19(4):724-734
+
+revisão
+Figura 1. Degeneração progressiva de importantes circuitos neuronais na doença de Huntington.
+A disfunção das vias cortico-estriatal e nigro-estriatal pode ter consequências devastadoras a nível da função do estriado. Assim, a excitotoxicadade
+causada por uma desregulação da transmissão cortical glutamatérgica e a desregulação da transmissão dopaminérgica da substantia nigra podem
+activar uma cascata de eventos que contribuem para a morte dos neurónios estriatais.
+
+a nível pré- e pós-sináptico podem contribuir para a disfunção da via nigro-estriatal na DH, contribuindo para
+os défices motores e cognitivos que surgem nesta doença.
+De facto, a perda de marcadores pré- e pós-sinápticos da
+neurotransmissão dopaminérgica correlaciona-se com o
+desempenho cognitivo em portadores assintomáticos e
+sintomáticos da DH53. Por outro lado, os estadios mais
+avançados da doença são normalmente caracterizados por
+bradicinésia e rigidez, dois sintomas que podem ser causados directamente por uma perda progressiva dos receptores dopaminérgicos no estriado.
+Paralelamente, a dopamina pode constituir uma
+fonte de ROS após metabolização pela enzima monoamino oxidase e/ou através de um processo não-enzimático que origina quinonas de dopamina e peróxido de
+hidrogénio, podendo ainda formar-se o radical hidroxilo
+(HO.), o qual é extremamente reactivo54.
+Disfunção Metabólica e Mitocondrial & Stresse Oxidativo
+Estudos realizados em pacientes de Huntington
+e em tecido post-mortem destes doentes permitiram evidenciar alterações metabólicas e mitocondriais, nomeadamente: (1) Uma diminuição significativa da captação de
+glucose no córtex e no estriado de indivíduos assintomáRev Neurocienc 2011;19(4):724-734
+
+ticos e sintomáticos, portadores da mutação para a DH5560
+; (2) Uma diminuição significativa da actividade da
+aconitase no estriado e no córtex cerebral61, um indicador
+indirecto da formação de ROS; (3) Um decréscimo das
+actividades dos complexos mitocondriais II-III62-67 e IV
+no estriado (caudado e putamen)66,67; (4) Um aumento
+da concentração de lactato no estriado e córtex cerebral, e
+um aumento da razão lactato/piruvato no líquido céfaloraquidiano68; (5) Um decréscimo da razão fosfocreatina/
+fosfato inorgânico no músculo esquelético69 e um atraso
+na recuperação dos níveis de fosfocreatina após exercício
+físico (uma medida directa da síntese de ATP) em pacientes com DH e portadores (assintomáticos) da mutação da
+DH70; (6) Um decréscimo da formação de ATP mitocondrial71,72; (7) Alterações morfológicas e um decréscimo
+do potencial mitocondrial em linfoblastos derivados de
+pacientes de Huntington heterozigóticos73,74 e homozigóticos74; e (8) Uma diminuição do DNA mitocondrial
+(mtDNA) em leucócitos de doentes de Huntington75.
+O stresse oxidativo exerce também um papel crucial no processo neurodegenerativo associado à DH. De
+facto, a disfunção mitocondrial, a activação da isoforma
+neuronal da NOS (nNOS) mediada por estímulos excitotóxicos e o metabolismo da dopamina podem resultar
+na formação de ROS e RNS. De acordo com esta hipó729
+
+revisão
+
+tese, vários estudos demonstraram uma alteração da expressão e actividade da NOS76-78, da enzima antioxidante superóxido dismutase79 e de ascorbato80 em ratinhos
+transgénicos para a DH.
+Finalmente, várias evidências sugerem que o processo de envelhecimento está associado com uma incapacidade dos neurónios lidarem eficazmente com a
+formação basal de ROS81. Assim, o processo natural de
+envelhecimento poderá potenciar a toxicidade da huntingtina mutante através do agravamento da lesão oxidativa neuronal.
+Morte Celular – Apoptose & Autofagia
+A huntingtina mutante é um substrato de enzimas proteolíticas, nomeadamente de caspases e calpaínas.
+Para além disso, a actividade das calpaínas82, caspase-183,
+e caspase-884 encontra-se aumentada em cérebros de DH.
+Apesar de ser ainda controverso a ocorrência de um processo puramente apoptótico na morte celular associada à
+DH, a activação de determinadas vias apoptóticas poderá
+contribuir para esta patologia85. As mitocôndrias desempenham um papel central durante o processo de activação
+de caspases e da apoptose. Fragmentos da huntingtina
+mutante podem induzir de forma directa a abertura do
+poro de permeabilidade transitória mitocondrial (MPTP,
+do inglês ‘mitochondrial permeability transition pore’),
+conduzindo à libertação de citocromo c86. Uma vez no
+citosol, o citocromo c medeia a activação de caspases,
+que, por sua vez, podem clivar a huntingtina mutante e
+promover desta forma a sua translocação para o núcleo.
+Curiosamente, o núcleo é o local privilegiado para a clivagem da huntingtina no resíduo de aminoácido 586 pela
+caspase-6, enquanto a clivagem pelas caspases 2/3 gera
+fragmentos que se acumulam particularmente na região
+perinuclear87. Estes dados corroboram a importância da
+proteólise da huntingtina mutante mediada pela caspase-6 nos processos de disfunção neuronal e neurodegeneração88.
+Algumas evidências sugerem ainda que a autofagia pode mediar a morte celular na DH. Cérebros de
+DH apresentam características reminiscentes do processo
+autofágico, tais como a acumulação de lipofuscina, organelos endossomais/lisossomais, e corpos multivesiculares34,89,90. Vários estudos demonstraram também que
+
+730
+
+a expressão de huntingtina mutante induz a actividade
+endossomal/lisossomal91. Este evento pode conduzir à
+autofagia, promovendo a degradação da huntingtina e a
+remoção dos agregados proteícos92-94. Desta forma, o processo autofágico poderá representar uma tentativa inicial
+das células eliminarem a proteína mutada que, ao longo
+da progressão da doença, se torna disfuncional, eventualmente resultando na acumulação e agregação da proteina
+mutada e na degradação celular.
+CONCLUSÃO
+Durante as últimas décadas, a DH tem recebido
+bastante atenção por parte da comunidade científica, particularmente após a identificação do gene e da mutação
+responsáveis pela doença e da subsequente produção de
+vários modelos genéticos para a DH. Apesar dos mecanismos responsáveis pela neurodegeneração observada
+na DH não se encontrarem completamente esclarecidos,
+estudos recentes sugerem que a disfunção mitocondrial e
+metabólica, o stresse oxidativo, a apoptose e a alteração
+do processo autofágico desempenham um papel crucial
+na disfunção e morte neuronais na DH. Esta disfunção
+neuronal tem como resultado a disfunção dos circuitos
+cortico-estriatais e nigro-estriatais, levando assim à neurodegeneração progressiva do estriado e ao desenvolvimento dos défices motores característicos desta doença
+neurodegenerativa. Desta forma, a disfunção neuronal
+precoce induzida pela huntingtina mutante em regiões
+não-estriatais (nomeadamente o córtex e a substantia nigra) poderá desempenhar um papel crucial durante as fases iniciais da DH.
+Existem atualmente mais de 3000 publicações
+científicas sobre a eficácia de inúmeras estratégias terapêuticas no tratamento da DH. No entanto, ainda não
+existe um tratamento satisfatório para esta doença devastadora. Acreditamos que a complexidade dos múltiplos
+mecanismos que levam à neurodegeneração observada na
+DH contribuem para esta falta de sucesso na busca de
+um tratamento eficaz, uma vez que a grande maioria das
+estratégias terapêuticas que têm vindo a ser testadas tem
+um mecanismo de acão restrito. Deste modo, e com base
+na literatura discutida no presente artigo de revisão, acreditamos que de modo a criar uma estratégia terapêutica
+eficaz, será necessário atuar simultaneamente ao nível dos
+Rev Neurocienc 2011;19(4):724-734
+
+AGRADECIMENTOS
+J.M.G.-M. agradece o financiamento do pós-doutoramento pela Fundação para a Ciência e a Tecnologia
+(FCT), Portugal, e pelo Natural Sciences and Engineering
+Research Council no Canada (NSERC). A.C.R. agradece o
+financiamento dos projetos de investigação pela FCT, referências PTDC/SAU-FCF/66421/2006 e PTDC/SAUFCF/108056/2008.
+
+REFERÊNCIAS
+1.Vonsattel JP, DiFiglia M. Huntington disease. J Neuropathol Exp Neurol
+1998;57:369-84.
+http://dx.doi.org/10.1097/00005072-199805000-00001
+2.Ho LW, Carmichael J, Swart J, Wyttenbach A, Rankin J, Rubinsztein DC.
+The molecular biology of Huntington’s disease. Psychol Med 2001;31:3-14.
+http://dx.doi.org/10.1017/S0033291799002871
+3.The Huntington’s Disease Collaborative Research Group. A novel gene containing a trinucleotide repeat that is expanded and unstable on Huntington’s
+disease chromosomes. Cell 1993;72:971-83.
+4.Brandt J, Strauss ME, Larus J, Jensen B, Folstein SE, Folstein MF. Clinical
+correlates of dementia and disability in Huntington’s disease. J Clin Neuropsychol 1984;6:401-12.
+http://dx.doi.org/10.1080/01688638408401231
+5.Folstein SE, Chase GA, Wahl WE, McDonnell AM, Folstein MF. Huntington disease in Maryland: clinical aspects of racial variation. Am J Hum Genet
+1987;41:168-79.
+6.Penney JBJr, Young AB, Shoulson I, Starosta-Rubenstein S, Snodgrass SR,
+Sanchez-Ramos J, et al. Huntington’s disease in Venezuela: 7 years of followup on symptomatic and asymptomatic individuals. Mov Disord 1990;5:93-9.
+http://dx.doi.org/10.1002/mds.870050202
+7.Garcia-Ruiz PJ, Gomez Tortosa E, Sanchez Bernados V, Rojo A, Fontán A,
+Garcia de Yebenes J. Bradykinesia in Huntington’s disease. Clin Neurophar-
+
+Rev Neurocienc 2011;19(4):724-734
+
+macol 2000;23:50-2.
+8.Sánchez-Pernaute R, Künig G, del Barrio Alba A, de Yébenes JG, Vontobel P, Leenders KL. Bradykinesia in early Huntington’s disease. Neurology
+2000;54:119-25.
+9.Thompson PD, Berardelli A, Rothwell JC, Day BL, Dick JP, Benecke R,
+et al. The coexistence of bradykinesia and chorea in Huntington’s disease
+and its implications for theories of basal ganglia control of movement. Brain
+1988;111:223-44.
+http://dx.doi.org/10.1093/brain/111.2.223
+10.Chiu E, Alexander L. Causes of death in Huntington’s disease. Med J Aust
+1982;1:153.
+11.van Dijk, JG, van der Velde EA, Roos RA, Bruyn GW. Juvenile Huntington
+disease. Hum. Genet 1986;73:235-9.
+http://dx.doi.org/10.1007/BF00401235
+12.Sanberg PR, Fibiger HC, Mark RF. Body weight and dietary factors in
+Huntington’s disease patients compared with matched controls. Med J Aust
+1981;1:407-9.
+13.Djousse L, Knowlton B, Cupples LA, Marder K, Shoulson I, Myers RH.
+Weight loss in early stage of Huntington’s disease. Neurology 2002;59:1325-30.
+14.Heuser IJ, Chase TN, Mouradian MM. The limbic-hypothalamic-pituitary-adrenal axis in Huntington’s disease. Biol Psychiatry 1991;30:943-52.
+http://dx.doi.org/10.1016/0006-3223(91)90007-9
+15.Björkqvist M, Petersén Å, Bacos K, Isaacs J, Norlén P, Gil J, et al. Progressive alterations in the hypothalamic-pituitary-adrenal axis in the R6/2 transgenic
+mouse model of Huntington’s disease. Hum Mol Genet 2006;15:1713-21.
+16.Markianos M, Panas M, Kalfakis N, Vassilopoulos D. Plasma testosterone
+in male patients with Huntington’s disease: relations to severity of illness and
+dementia. Ann Neurol 2005;57:520-5.
+http://dx.doi.org/10.1002/ana.20428
+17.Podolsky S, Leopold NA, Sax DS. Increased frequency of diabetes mellitus
+in patients with Huntington’s chorea. Lancet 1972;1:1356-8.
+http://dx.doi.org/10.1016/S0140-6736(72)91092-6
+18.Farrer LA. Diabetes mellitus in Huntington disease. Clin Genet
+1985;27:l62-7.
+http://dx.doi.org/10.1111/j.1399-0004.1985.tb00185.x
+19.Folstein S, Abbott MH, Chase GA, Jensen BA, Folstein MF. The association of affective disorder with Huntington’s disease in a case series and in families. Psychol Med 1983;13:537-42.
+http://dx.doi.org/10.1017/S0033291700047966
+20.Dewhurst K, Oliver JE, McKnight AL. Socio-psychiatric consequences of
+Huntington’s disease. Br J Psychiatry 1970;116:255-8.
+http://dx.doi.org/10.1192/bjp.116.532.255
+21.Vonsattel JP, Myers RH, Stevens TJ, Ferrante RJ, Bird ED, Richardson
+EPJr. Neuropathological classification of Huntington’s disease. J Neuropathol
+Exp Neurol 1985;44:559-77.
+http://dx.doi.org/10.1097/00005072-198511000-00003
+22.Kassubek J, Gaus W, Landwehrmeyer GB. Evidence for more widespread
+cerebral pathology in early HD: an MRI-based morphometric analysis. Neurology 2004;62:523-4.
+23.Gusella JF. Huntington Disease. Online library. Chichester: John Wiley &
+Sons Ltd, 2001, doi: 10.1038/npg.els.0000147.
+24.Albin RL, Young AB, Penney JB. The functional anatomy of basal ganglia
+disorders. Trends Neurosci 1989;12:366-75.
+http://dx.doi.org/10.1016/0166-2236(89)90074-X
+25.Joel D, Weiner I. The connections of the primate subthalamic nucleus: indirect pathways and the open-interconnected scheme of basal ganglia-thalamocortical circuitry. Brain Res Brain Res Rev 1997;23:62-78.
+http://dx.doi.org/10.1016/S0165-0173(96)00018-5
+
+revisão
+
+vários mecanismos discutidos acima (disfunção mitocondrial e metabólica, stresse oxidativo, apoptose e autofagia). Para além disso, as estratégias terapêuticas com uma
+açao neuroprotetora ao nivel das vias cortico-estriatal e
+nigro-estriatal terão relevância clínica, pois atuarão durante uma fase precoce da doença, ajudando a prevenir
+a neurodegeneração do estriado (e consequentemente o
+desenvolvimento dos sintomas motores da doença). Deste modo, um conhecimento mais profundo dos mecanismos de neurodegeneração envolvidos na patofisiologia da
+DH permitirá desenvolver uma combinação de estratégias terapêuticas eficaz no tratamento desta doença genética neurodegenerativa.
+
+731
+
+revisão
+732
+
+26.Joel D. Open interconnected model of basal ganglia-thalamocortical circuitry and its relevance to the clinical syndrome of Huntington’s disease. Mov
+Disord 2001;16:407-23.
+http://dx.doi.org/10.1002/mds.1096
+27.Albin RL, Reiner A, Anderson KD, Dure LS 4th, Handelin B, Balfour R, et
+al. Preferential loss of striato-external pallidal projection neurons in presymptomatic Huntington’s disease. Ann Neurol 1992;31:425-30.
+http://dx.doi.org/10.1002/ana.410310412
+28.Deng YP, Albin RL, Penney JB, Young AB, Anderson KD, Reiner A. Differential loss of striatal projection systems in Huntington’s disease: a quantitative
+immunohistochemical study. J Chem Neuroanat 2004;27:143-64.
+http://dx.doi.org/10.1016/j.jchemneu.2004.02.005
+29.Reiner A, Albin RL, Anderson KD, D’Amato CJ, Penney JB, Young AB.
+Differential loss of striatal projection neurons in Huntington disease. Proc Natl
+Acad Sci USA 1988;85:5733-7.
+http://dx.doi.org/10.1073/pnas.85.15.5733
+30.Ferrante RJ, Kowall NW, Beal MF, Richardson EPJr, Bird ED, Martin JB.
+Selective sparing of a class of striatal neurons in Huntington’s disease. Science
+1985;230:561-3.
+http://dx.doi.org/10.1126/science.2931802
+31.Ferrante RJ, Beal MF, Kowall NW, Richardson EPJr, Martin JB. Sparing of
+acetylcholinesterase-containing striatal neurons in Huntington’s disease. Brain
+Res 1987;411:162-6.
+http://dx.doi.org/10.1016/0006-8993(87)90694-9
+32.Ferrante RJ, Gutekunst CA, Persichetti F, McNeil SM, Kowall NW, Gusella
+JF, et al. Heterogeneous topographic and cellular distribution of huntingtin
+expression in the normal human neostriatum. J Neurosci 1997;17:3052-63.
+33.DiFiglia M, Sapp E, Chase KO, Davies SW, Bates GP, Vonsattel JP, et al.
+Aggregation of huntingtin in neuronal intranuclear inclusions and dystrophic
+neurites in brain. Science 1997;277:1990-3.
+http://dx.doi.org/10.1126/science.277.5334.1990
+34.Sapp E, Penney J, Young A, Aronin N, Vonsattel JP, DiFiglia M. Axonal
+transport of N-terminal huntingtin suggests early pathology of corticostriatal
+projections in Huntington disease. J Neuropathol Exp Neurol 1999;58:16573.
+http://dx.doi.org/10.1097/00005072-199902000-00006
+35.Kuemmerle S, Gutekunst CA, Klein AM, Li XJ, Li SH, Beal MF, et al.
+Huntington aggregates may not predict neuronal death in Huntington’s disease. Ann Neurol 1999;46:842-9.
+http://dx.doi.org/10.1002/1531-8249(199912)46:6<842::AIDANA6>3.3.CO;2-F
+36.Becher MW, Kotzuk JA, Sharp AH, Davies SW, Bates GP, Price DL, et
+al. Intranuclear neuronal inclusions in Huntington’s disease and dentatorubral
+and pallidoluysian atrophy: correlation between the density of inclusions and
+IT15 CAG triplet repeat length. Neurobiol Dis 1998;4:387-97.
+http://dx.doi.org/10.1006/nbdi.1998.0168
+37.Wexler NS, Lorimer J, Porter J, Gomez F, Moskowitz C, Shackell E, et al.
+Venezuelan kindreds reveal that genetic and environmental factors modulate
+Huntington’s disease age of onset. Proc Natl Acad Sci USA 2004;101:3498-503.
+38.Sieradzan KA, Mann DM. The selective vulnerability of nerve cells in
+Huntington’s disease. Neuropathol Appl Neurobiol 2001;27:1-21.
+
+species in excitotoxicity and apoptosis: implications for the pathogenesis of
+neurodegenerative diseases. Neurochem Res 2003;28:1563-74.
+http://dx.doi.org/10.1023/A:1025682611389
+41.Stack EC, Dedeoglu A, Smith KM, Cormier K, Kubilus JK, Bogdanov M,
+et al. Neuroprotective effects of synaptic modulation in Huntington’s disease
+R6/2 mice. J Neurosci 2007;27:12908-15.
+http://dx.doi.org/10.1523/JNEUROSCI.4318-07.2007
+42.Rosas HD, Liu AK, Hersch S, Glessner M, Ferrante RJ, Salat DH, et al. Regional and progressive thinning of the cortical ribbon in Huntington’s disease.
+Neurology 2002;58:695-701.
+43.Rosas HD, Hevelone ND, Zaleta AK, Greve DN, Salat DH, Fischl B. Regional cortical thinning in preclinical Huntington disease and its relationship
+to cognition. Neurology 2005;65:745-7.
+http://dx.doi.org/10.1212/01.wnl.0000174432.87383.87
+44.Ferrante RJ, Kowall NW. Tyrosine hydroxylase-like immunoreactivity is
+distributed in the matrix compartment of normal human and Huntington’s
+disease striatum. Brain Res 1987;416:141-6.
+http://dx.doi.org/10.1016/0006-8993(87)91506-X
+45.Ginovart N, Lundin A, Farde L, Halldin C, Backman L, Swahn CG, et al.
+PET study of the pre- and post-synaptic dopaminergic markers for the neurodegenerative process in Huntington’s disease. Brain 1997;120:503-14.
+http://dx.doi.org/10.1093/brain/120.3.503
+46.Bohnen NI, Koeppe RA, Meyer P, Ficaro E, Wernette K, Kilbourn MR, et
+al. Decreased striatal monoaminergic terminals in Huntington disease. Neurology 2000;54:1753-9.
+47.Oyanagi K, Takeda S, Takahashi H, Ohama E, Ikuta F. A quantitative
+investigation of the substantia nigra in Huntington’s disease. Ann Neurol
+1989;26:13-19.
+http://dx.doi.org/10.1002/ana.410260103
+48.Yohrling GJ4th, Jiang GC, DeJohn MM, Miller DW, Young AB, Vrana
+KE, et al. Analysis of cellular, transgenic and human models of Huntington’s
+disease reveals tyrosine hydroxylase alterations and substantia nigra neuropathology. Brain Res Mol Brain Res 2003;119:28-36.
+49.Huot P, Lévesque M, Parent A. The fate of striatal dopaminergic neurons in
+Parkinson’s disease and Huntington’s chorea. Brain 2007;130:222-32.
+http://dx.doi.org/10.1093/brain/awl332
+50.Gutekunst CA, Li SH, Yi H, Mulroy JS, Kuemmerle S, Jones R, et al.
+Nuclear and neuropil aggregates in Huntington’s disease: relationship to neuropathology. J Neurosci 1999;19:2522-34.
+51.Augood SJ, Faull RL, Emson PC. Dopamine D1 and D2 receptor gene expression in the striatum in Huntington’s disease. Ann Neurol 1997;42:215-21.
+http://dx.doi.org/10.1002/ana.410420213
+52.Cha JH, Kosinski CM, Kerner JA, Alsdorf SA, Mangiarini L, Davies SW,
+et al. Altered brain neurotransmitter receptors in transgenic mice expressing a
+portion of an abnormal human huntington disease gene. Proc Natl Acad Sci
+USA 1998;95:6480-5.
+http://dx.doi.org/10.1073/pnas.95.11.6480
+53.Bäckman L, Farde L. Dopamine and cognitive functioning: brain imaging findings in Huntington’s disease and normal aging. Scand J Psychol
+2001;42:287-96.
+54.Sulzer D, Zecca L. Intraneuronal dopamine-quinone synthesis: a review.
+
+http://dx.doi.org/10.1046/j.0305-1846.2001.00299.x
+39.Tang TS, Tu H, Chan EY, Maximov A, Wang Z, Wellington CL, et al.
+Huntingtin and huntingtin-associated protein 1 influence neuronal calcium
+signaling mediated by inositol-(1,4,5) triphosphate receptor type 1. Neuron
+2003;39:227-39.
+http://dx.doi.org/10.1016/S0896-6273(03)00366-0
+40.Rego AC, Oliveira CR. Mitochondrial dysfunction and reactive oxygen
+
+Neurotox Res 2000;1:181-95.
+http://dx.doi.org/10.1007/BF03033289
+55.Kuhl DE, Phelps ME, Markham CH, Metter EJ, Riege WH, Winter J. Cerebral metabolism and atrophy in Huntington’s disease determined by 18FDG
+and computed tomographic scan. Ann Neurol 1982;12:425-34.
+http://dx.doi.org/10.1002/ana.410120504
+56.Garnett ES, Firnau G, Nahmias C, Carbotte R, Bartolucci G. Reduced
+
+Rev Neurocienc 2011;19(4):724-734
+
+71.Milakovic T, Johnson GV. Mitochondrial respiration and ATP production
+are significantly impaired in striatal cells expressing mutant huntingtin. J Biol
+Chem 2005;280:30773-82.
+http://dx.doi.org/10.1074/jbc.M504749200
+72.Seong IS, Ivanova E, Lee JM, Choo YS, Fossale E, Anderson M, et al. HD
+CAG repeat implicates a dominant property of huntingtin in mitochondrial
+energy metabolism. Hum Mol Genet 2005;14:2871-80.
+http://dx.doi.org/10.1093/hmg/ddi319
+73.Panov AV, Gutekunst CA, Leavitt BR, Hayden MR, Burke JR, Strittmatter
+WJ, et al. Early mitochondrial calcium defects in Huntington’s disease are a
+direct effect of polyglutamines. Nat Neurosci 2002;5:731-6.
+74.Squitieri F, Cannella M, Sgarbi G, Maglione V, Falleni A, Lenzi P, et al.
+Severe ultrastructural mitochondrial changes in lymphoblasts homozygous for
+Huntington disease mutation. Mech Ageing Dev 2006;127:217-20.
+http://dx.doi.org/10.1016/j.mad.2005.09.010
+75.Liu CS, Cheng WL, Kuo SJ, Li JY, Soong BW, Wei YH. Depletion of mitochondrial DNA in leukocytes of patients with poly-Q diseases. J Neurol Sci
+2008;264:18-21.
+http://dx.doi.org/10.1016/j.jns.2007.07.016
+76.Tabrizi SJ, Workman J, Hart PE, Mangiarini L, Mahal A, Bates G, et al.
+Mitochondrial dysfunction and free radical damage in the Huntington R6/2
+transgenic mouse. Ann Neurol 2000;47:80-6.
+http://dx.doi.org/10.1002/1531-8249(200001)47:1<80::AIDANA13>3.0.CO;2-K
+http://dx.doi.org/10.1002/1531-8249(200001)47:1<80::AIDANA13>3.3.CO;2-B
+77.Deckel AW, Gordinier A, Nuttal D, Tang V, Kuwada C, Freitas R, et al.
+Reduced activity and protein expression of NOS in R6/2 HD transgenic mice:
+effects of L-NAME on symptom progression. Brain Res 2001;919:70-81.
+http://dx.doi.org/10.1016/S0006-8993(01)03000-1
+78.Perez-Severiano F, Escalante B, Vergara P, Rios C, Segovia J. Age-dependent
+changes in nitric oxide synthase activity and protein expression in striata of mice
+transgenic for the Huntington’s disease mutation. Brain Res 2002;951:36-42.
+79.Santamaria A, Perez-Severiano F, Rodriguez-Martinez E, Maldonado PD,
+Pedraza-Chaverri J, Rios C, et al. Comparative analysis of superoxide dismutase activity between acute pharmacological models and a transgenic mouse
+model of Huntington’s disease. Neurochem Res 2001;26:419-24.
+http://dx.doi.org/10.1023/A:1010911417383
+80.Rebec GV, Barton SJ, Ennis MD. Dysregulation of ascorbate release in the
+striatum of behaving mice expressing the Huntington’s disease gene. J Neurosci
+2002;22:RC202.
+81.Lu T, Pan Y, Kao SY, Li C, Kohane I, Chan J, Yankner BA. Gene regulation and DNA damage in the ageing human brain. Nature 2004;429:883-91.
+http://dx.doi.org/10.1038/nature02661
+82.Gafni J, Ellerby LM. Calpain activation in Huntington’s disease. J Neurosci
+2002;22:4842-9.
+83.Ona VO, Li M, Vonsattel JP, Andrews LJ, Khan SQ, Chung WM, et
+al. Inhibition of caspase-1 slows disease progression in a mouse model of
+Huntington’s disease. Nature 1999;399:263-7.
+http://dx.doi.org/10.1038/20446
+84.Sanchez I, Xu CJ, Juo P, Kakizaka A, Blenis J, Yuan J. Caspase-8 is re-
+
+and dentatorubropallidoluysian atrophy. Ann Neurol 2000;48:72-6.
+http://dx.doi.org/10.1002/1531-8249(200007)48:1<72::AIDANA11>3.0.CO;2-I
+70.Saft C, Zange J, Andrich J, Müller K, Lindenberg K, Landwehrmeyer B, et
+al. Mitochondrial impairment in patients and asymptomatic mutation carriers
+of Huntington’s disease. Mov Disord 2005;20:674-9.
+http://dx.doi.org/10.1002/mds.20373
+
+quired for cell death induced by expanded polyglutamine repeats. Neuron
+1999;22:623-33.
+http://dx.doi.org/10.1016/S0896-6273(00)80716-3
+85.Hickey MA, Chesselet MF. Apoptosis in Huntington’s disease. Prog. Neuropsychopharmacol Biol Psychiatry 2003;27:255-65.
+http://dx.doi.org/10.1016/S0278-5846(03)00021-6
+86.Choo YS, Johnson GV, MacDonald M, Detloff PJ, Lesort M. Mutant
+
+Rev Neurocienc 2011;19(4):724-734
+
+revisão
+
+striatal glucose consumption and prolonged reaction time are early features in
+Huntington’s disease. J Neurol Sci 1984;65:231-7.
+http://dx.doi.org/10.1016/0022-510X(84)90087-X
+57.Mazziotta JC, Phelps ME, Pahl JJ, Huang SC, Baxter LR, Riege WH, et
+al. Reduced cerebral glucose metabolism in asymptomatic subjects at risk for
+Huntington’s disease. N Engl J Med 1987;316:357-62.
+http://dx.doi.org/10.1056/NEJM198702123160701
+58.Kuwert T, Lange HW, Langen KJ, Herzog H, Aulich A, Feinendegen LE.
+Cortical and subcortical glucose consumption measured by PET in patients
+with Huntington’s disease. Brain 1990;113:1405-23.
+http://dx.doi.org/10.1093/brain/113.5.1405
+59.Kuwert T, Lange HW, Boecker H, Titz H, Herzog H, Aulich A, et al. Striatal glucose consumption in chorea-free subjects at risk of Huntington’s disease.
+J Neurol 1993;241:31-6.
+http://dx.doi.org/10.1007/BF00870669
+60.Ciarmiello A, Cannella M, Lastoria S, Simonelli M, Frati L, Rubinsztein
+DC, et al. Brain white-matter volume loss and glucose hypometabolism precede
+the clinical symptoms of Huntington’s disease. J Nucl Med 2006;47:215-22.
+61.Tabrizi SJ, Cleeter MW, Xuereb J, Taanman JW, Cooper JM, Schapira AH.
+Biochemical abnormalities and excitotoxicity in Huntington’s disease brain.
+Ann Neurol 1999;45:25-32.
+http://dx.doi.org/10.1002/1531-8249(199901)45:1<25::AIDART6>3.0.CO;2-E
+62.Stahl WL, Swanson PH. Biochemical abnormalities in Huntington’s chorea
+brains. Neurology 1974;24:813-9.
+63.Brennan WAJ, Bird ED, Aprille JR. Regional mitochondrial respiratory activity in Huntington’s disease brain. J Neurochem 1985;44:1948-50.
+http://dx.doi.org/10.1111/j.1471-4159.1985.tb07192.x
+64.Butterworth J, Yates CM, Reynolds GP. Distribution of phosphate-activated glutaminase, succinic dehydrogenase, pyruvate dehydrogenase and gamma-glutamyl transpeptidase in post-mortem brain from Huntington’s disease
+and agonal cases. J Neurol Sci 1985;67:161-71.
+http://dx.doi.org/10.1016/0022-510X(85)90112-1
+65.Mann VM, Cooper JM, Javoy-Agid F, Agid Y, Jenner P, Schapira AH. Mitochondrial function and parental sex effect in Huntington’s disease. Lancet
+1990;336:749.
+http://dx.doi.org/10.1016/0140-6736(90)92242-A
+66.Gu M, Gash MT, Mann VM, Javoy-Agid F, Cooper JM, Schapira AH.
+Mitochondrial defect in Huntington’s disease caudate nucleus. Ann Neurol
+1996;39:385-9.
+http://dx.doi.org/10.1002/ana.410390317
+67.Browne SE, Bowling AC, MacGarvey U, Baik MJ, Berger SC, Muqit MM, et
+al. Oxidative damage and metabolic dysfunction in Huntington’s disease: selective vulnerability of the basal ganglia. Ann Neurol 1997;41:646-53.
+http://dx.doi.org/10.1002/ana.410410514
+68.Koroshetz WJ, Jenkins BG, Rosen BR, Beal MF. Energy metabolism defects in Huntington’s disease and effects of coenzyme Q10. Ann Neurol
+1997;41:160-5.
+http://dx.doi.org/10.1002/ana.410410206
+69.Lodi R, Schapira AH, Manners D, Styles P, Wood NW, Taylor DJ, et al.
+Abnormal in vivo skeletal muscle energy metabolism in Huntington’s disease
+
+733
+
+revisão
+734
+
+huntingtin directly increases susceptibility of mitochondria to the calciuminduced permeability transition and cytochrome c release. Hum Mol Genet
+2004;13:1407-20.
+http://dx.doi.org/10.1093/hmg/ddh162
+87.Warby SC, Doty CN, Graham RK, Carroll JB, Yang YZ, Singaraja RR, et
+al. Activated caspase-6 and caspase-6-cleaved fragments of huntingtin specifically colocalize in the nucleus. Hum Mol Genet 2008;17:2390-404.
+http://dx.doi.org/10.1093/hmg/ddn139
+88.Graham RK, Deng Y, Slow EJ, Haigh B, Bissada N, Lu G, et al. Cleavage
+at the caspase-6 site is required for neuronal dysfunction and degeneration due
+to mutant huntingtin. Cell 2006;125:1179-91.
+http://dx.doi.org/10.1016/j.cell.2006.04.026
+89.Tellez-Nagel I, Johnson AB, Terry RD. Studies on brain biopsies of patients with Huntington’s chorea. J Neuropathol Exp Neurol 1974;33:308-32.
+http://dx.doi.org/10.1097/00005072-197404000-00008
+90.Roizin L, Stellar S, Liu LC. Neuronal nuclear-cytoplasmic changes
+in Huntington’s chorea: Electron microscope investigations. Adv Neurol
+
+1979;23:93-122.
+91.Kegel KB, Kim M, Sapp E, McIntyre C, Castano JG, Aronin N, et al.
+Huntingtin expression stimulates endosomal-lysosomal activity, endosome tubulation, and autophagy. J Neurosci 2000;20:7268-78.
+92.Ravikumar B, Duden R, Rubinsztein DC. Aggregate-prone proteins with
+polyglutamine and polyalanine expansions are degraded by autophagy. Hum
+Mol Genet 2002;11:1107-17.
+http://dx.doi.org/10.1093/hmg/11.9.1107
+93.Ravikumar B, Vacher C, Berger Z, Davies JE, Luo S, Oroz LG, et al.
+Inhibition of mTOR induces autophagy and reduces toxicity of polyglutamine expansions in fly and mouse models of Huntington disease. Nat Genet
+2004;36:585-95.
+http://dx.doi.org/10.1038/ng1362
+94.Qin ZH, Wang Y, Kegel KB, Kazantsev A, Apostol BL, Thompson LM,
+et al. Autophagy regulates the processing of amino terminal huntingtin fragments. Hum Mol Genet 2003;12:3231-44.
+http://dx.doi.org/10.1093/hmg/ddg346
+
+Rev Neurocienc 2011;19(4):724-734
