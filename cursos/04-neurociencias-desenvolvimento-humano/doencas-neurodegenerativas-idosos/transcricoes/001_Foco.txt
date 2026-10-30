@@ -1,0 +1,979 @@
+Grazielly Ribeiro Viana, Denilton Ribeiro dos Santos, Juliana Vigano Bergamaschi,
+Laura de Angeli Piol, Lia Drago Riguette Broseghini, Cassius de Souza
+___________________________________________________________________________________
+
+ASPECTOS NEURODEGENERATIVOS DA DOENÇA DE
+ALZHEIMER NA POPULAÇÃO SENIL: UMA REVISÃO
+INTEGRATIVA E QUALITATIVA
+NEURODEGENERATIVE ASPECTS OF ALZHEIMER'S DISEASE
+IN THE SENILE POPULATION: AN INTEGRATIVE AND
+QUALITATIVE REVIEW
+ASPECTOS NEURODEGENERATIVOS DE LA ENFERMEDAD DE
+ALZHEIMER EN LA POBLACIÓN SENIL: UNA REVISIÓN
+INTEGRADORA Y CUALITATIVA
+Grazielly Ribeiro Viana1
+Denilton Ribeiro dos Santos2
+Juliana Vigano Bergamaschi3
+Laura de Angeli Piol4
+Lia Drago Riguette Broseghini5
+Cassius de Souza6
+DOI: 10.54751/revistafoco.v15n5-001
+Recebido em: 24 de Outubro de 2022
+Aceito em: 23 de Novembro de 2022
+
+RESUMO
+O envelhecimento da população tem algumas tendências que são similares a nível
+internacional. O aumento da população de idade avançada devido à baixa natalidade,
+elevado índice de esperança de vida, desenvolvimento de novas tecnologias com
+possibilidades de tratamentos, outrora, desconhecidos, além de, uma perspectiva de um
+prognóstico favorável de vida direcionados a Transtornos Associados a Doenças
+Neurodegenerativas (TADN). A demência, relacionada a Doença de Alzheimer (DA) se
+apresenta como uma das causas mais comuns de TADN. Este estudo possui caráter
+exploratório, na modalidade de revisão integrativa de literatura e pesquisa qualitativa,
+onde por meio de levantamentos bibliográficos, objetiva-se abordar a DA e seus
+sintomas, bem como modelos de intervenção e os impactos neurodegenerativos na
+qualidade de vida do indivíduo idoso. Outrossim, reputa-se compreender as
+1
+
+Graduanda em Medicina. Centro Universitário do Espírito Santo (UNESC). Av. Fioravante Rossi, 2930, Martineli,
+Colatina - ES, CEP: 29703-858. E-mail: grviana@yahoo.com.br
+2
+Especialista em Engenharia de Controle e Instrumentação. Centro Universitário do Espírito Santo (UNESC0. Av.
+Fioravante Rossi, 2930, Martineli, Colatina - ES, CEP: 29703-858. E-mail: deniltonrsantos@gmail.com
+3
+Graduanda em Medicina pelo Centro Universitário do Espírito Santo (UNESC) - Câmpus Colatina - ES. Av. Fioravante
+Rossi, 2930, Martineli, Colatina - ES, CEP: 29703-858. E- mail: jubsvbd@gmail.com
+4
+Graduanda em Medicina. Centro Universitário do Espírito Santo (UNESC). Av. Fioravante Rossi, 2930 - Martineli,
+Colatina - ES, CEP:29703-858. E-mail: laura.a.piol15@gmail.com
+5
+Doutoranda em Ciências da Saúde. Centro Universitário do Espírito Santo (UNESC). Av. Fioravante Rossi, 2930,
+Martineli, Colatina - ES, CEP: 29703-858. E-mail: liadriguette@gmail.com
+6
+Doutor - Ciências Médicas pela Faculdade de Ciências Médicas da Universidade do Estado do Rio de Janeiro (FCM –
+UERJ). Av. 28 de Setembro, 87, Vila Isabel – RJ, CEP: 20 551-030. E-mail: prof.cassius.farmaciaviva@gmail.com
+
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+1
+
+Aspectos Neurodegenerativos da Doença de Alzheimer na População Senil: uma
+Revisão Integrativa e Qualitativa
+
+divergências físicas e cognitivas no desempenho nevrológico entre neurotípicos e
+pessoas no contexto da Doença de Alzheimer. Para isso, foi realizada pesquisa
+epidemiológica nas bases de dados eletrônicos PubMED, Web of Science, SCIELO e
+Science Direct Elsevier, em periódicos nacionais e internacionais, analisando as
+principais discrepâncias entre portadores de DA e neurotípicos. A seleção de artigos
+teve como critério de inclusão: amostra representativa da população definida e
+especificidade dos eventos neurais do indivíduo com Doença de Alzheimer. Depreendese, portanto, que pesquisas apontam a presença de lesões em regiões específicas do
+cérebro, podendo ser o cerne da DA. Essas anomalias apontam como características
+histopatológicas, neuroinflamatórias, bioquímicas e farmacológicas que acenam como
+consequências para o quadro degenerativo, progressivo e irreversível da doença que
+acarretam transtornos biopsicossociais. A busca pelo esclarecimento dos mecanismos
+fisiopatológicos desta debilidade influencia diretamente no processo de
+desenvolvimento de novas condutas clínicas e medicamentosas para a terapêutica da
+enfermidade, sendo esse um desafio para os neurocientistas.
+Palavras-chave:
+Doença
+de
+Alzheimer;
+Demência;
+neurodegeneração;
+neuropsiquiatria; envelhecimento; expectativa de vida; qualidade de vida; idoso.
+ABSTRACT
+The aging of the population has some trends that are similar internationally. The increase
+in the elderly population due to low birth rates, high life expectancy, development of new
+technologies with previously unknown treatment possibilities, and the prospect of a
+favorable life prognosis are all directed towards Neurodegenerative Disorders (NDAD).
+Dementia, related to Alzheimer's disease (AD), is one of the most common causes of
+NCDAD. This study is exploratory in nature, in the form of integrative literature review
+and qualitative research, where through bibliographic surveys, the objective is to address
+AD and its symptoms, as well as models of intervention and neurodegenerative impacts
+on the quality of life of the elderly. In addition, we intend to understand the physical and
+cognitive differences in neurological performance between neurotypical and Alzheimer's
+disease patients. For this, an epidemiological research was carried out in the electronic
+databases PubMED, Web of Science, SCIELO, and Science Direct Elsevier, in national
+and international journals, analyzing the main discrepancies between patients with AD
+and neurotypicals. The selection of articles had as inclusion criteria: representative
+sample of the defined population and specificity of neural events of the individual with
+Alzheimer's disease. Therefore, it appears that research points to the presence of lesions
+in specific regions of the brain, which may be the core of AD. These abnormalities point
+to histopathological, neuroinflammatory, biochemical, and pharmacological
+characteristics that are consequences of the degenerative, progressive, and irreversible
+picture of the disease, which causes biopsychosocial disorders. The search for the
+clarification of the pathophysiological mechanisms of this weakness directly influences
+the process of developing new clinical and drug therapies for the disease, which is a
+challenge for neuroscientists.
+Keywords: Alzheimer's disease; Dementia; neurodegeneration; neuropsychiatry; aging;
+life expectancy; quality of life; elderly.
+RESUMEN
+El envejecimiento de la población presenta algunas tendencias similares a nivel
+internacional. El aumento de la población de edad avanzada debido a la baja tasa de
+natalidad, la alta esperanza de vida, el desarrollo de nuevas tecnologías con
+posibilidades de tratamiento antes desconocidas, así como la perspectiva de un
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+2
+
+Grazielly Ribeiro Viana, Denilton Ribeiro dos Santos, Juliana Vigano Bergamaschi,
+Laura de Angeli Piol, Lia Drago Riguette Broseghini, Cassius de Souza
+___________________________________________________________________________________
+
+pronóstico de vida favorable dirigido a los Trastornos Neurodegenerativos (TND). La
+demencia, relacionada con la enfermedad de Alzheimer (EA), se presenta como una de
+las causas más comunes de NCDAD. Este estudio es de carácter exploratorio, en forma
+de revisión bibliográfica integradora y de investigación cualitativa, donde, mediante
+encuestas bibliográficas, se pretende abordar la EA y sus síntomas, así como los
+modelos de intervención y los impactos neurodegenerativos en la calidad de vida del
+individuo mayor. Además, tiene fama de comprender las diferencias físicas y cognitivas
+en el rendimiento neurológico entre los neurotípicos y las personas en el contexto de la
+enfermedad de Alzheimer. Para ello, se realizó una investigación epidemiológica en las
+bases de datos electrónicas PubMED, Web of Science, SCIELO y Science Direct
+Elsevier, en revistas nacionales e internacionales, analizando las principales
+discrepancias entre los pacientes con EA y los neurotípicos. La selección de artículos
+tuvo como criterios de inclusión: muestra representativa de la población definida y
+especificidad de los eventos neurales del individuo con enfermedad de Alzheimer. Se
+entiende, por tanto, que las investigaciones indican la presencia de lesiones en regiones
+específicas del cerebro, que pueden ser el núcleo de la EA. Estas anormalidades
+apuntan como características histopatológicas, neuroinflamatorias, bioquímicas y
+farmacológicas que señalan como consecuencias para el cuadro degenerativo,
+progresivo e irreversible de la enfermedad que causan trastornos biopsicosociales. La
+búsqueda del esclarecimiento de los mecanismos fisiopatológicos de esta debilidad
+influye directamente en el proceso de desarrollo de nuevos enfoques clínicos y
+medicinales para la terapia de la enfermedad, lo que supone un reto para los
+neurocientíficos.
+Palabras clave: enfermedad de Alzheimer; Demencia; neurodegeneración;
+neuropsiquiatría; envejecimiento; esperanza de vida; calidad de vida; personas
+mayores.
+
+1.Introdução
+A humanidade passa por diversas modificações fisiopatológicas e
+psicossociais, desde o seu nascimento até a sua morte. O indivíduo nasce, evolui
+pela puberdade, maturidade (fase adulta) e chega ao envelhecimento. Todas
+estas são fases distintas e com características próprias, sendo o envelhecimento
+marcado
+
+essencialmente
+
+por
+
+mudanças
+
+desde
+
+moleculares
+
+até
+
+morfofisiológicas. O processo de envelhecimento é algo que não pode se evitar,
+condiciona o homem à diminuição nas habilidades em responder ao estresse do
+ambiente, deixando o indivíduo mais sensível em adquirir patologias (ARAÚJO
+et al., 2001).
+A transição epidemiológica que ocorre no Brasil e no mundo em tempos
+hodiernos, trouxe um aumento da prevalência de doenças crônicas não
+transmissíveis (DCNT) em detrimento das doenças infectocontagiosas, devido a
+melhora nas condições econômicas, sociais e culturais do globo. Tais melhorias
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+3
+
+Aspectos Neurodegenerativos da Doença de Alzheimer na População Senil: uma
+Revisão Integrativa e Qualitativa
+
+resultaram no aumento da expectativa de vida, que por sua vez culminou no
+predomínio de morbidades progressivas, sem possibilidade de cura e que são
+influenciadas por fatores genéticos, comportamentais, de idade e gênero
+(HOLANDA et al., 2012).
+Projeções futuras indicam que em 2050, o Brasil tenha uma população de
+253 milhões de habitantes (MIRANDA 2016). Essa nova realidade demográfica,
+com um número cada vez maior de idosos, vai exigir uma maior resposta do
+sistema de saúde nacional com políticas públicas que atendam as demandas
+atuais e futuras da comunidade (MENDES e DA SILVA, 2016).
+Adicionalmente, à medida que a expectativa de vida se torna mais
+elevada, pode ser observado um aumento da prevalência das TADN em especial
+para as doenças associadas as demências, sendo a doença a Doença de
+Alzheimer o TADN de maior ocorrência, com incidência relativa de 3% nos
+indivíduos que se encontram na faixa etária entre 60 e 65 anos, quando
+observada na população com 80 anos ou mais. Este contingente atinge 30%
+destes indivíduos, em âmbito mundial e no Brasil (MIRANDA; MENDES e DA
+SILVA, 2016).
+A Doença de Alzheimer é a patologia neurodegenerativa mais frequente
+associada à idade, cujas manifestações cognitivas e neuropsiquiátricas resultam
+em uma deficiência progressiva e uma eventual incapacitação. Em geral, o
+primeiro aspecto clínico é a deficiência da memória recente, enquanto as
+lembranças remotas são preservadas até certo estágio da doença. Além das
+dificuldades de atenção e fluência verbal, outras funções cognitivas deterioram
+à medida que a patologia evolui, entre elas a capacidade de fazer cálculos, as
+habilidades vísuoespaciais e a habilidade no uso de objetos comuns e
+ferramentas (FERNANDES e ANDRADE 2017).
+Os sintomas relacionados as DA são frequentemente acompanhados por
+distúrbios comportamentais, como agressividade, alucinações, hiperatividade,
+irritabilidade e depressão. Outros sintomas, como a apatia, a lentificação (da
+marcha ou do discurso), a dificuldade de concentração, a perda de peso, a
+insônia e a agitação podem ocorrer como parte da síndrome demencial
+(DAWALIBI et al., 2014).
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+4
+
+Grazielly Ribeiro Viana, Denilton Ribeiro dos Santos, Juliana Vigano Bergamaschi,
+Laura de Angeli Piol, Lia Drago Riguette Broseghini, Cassius de Souza
+___________________________________________________________________________________
+
+Existem diversos fatores de risco que se associam ao desenvolvimento
+da DA, como o envelhecimento, influência genética, metais, TCE (traumatismo
+cranioencefálico), dieta nutricional, fatores vasculares, sistema imunológico e
+exposição a agentes infecciosos. Como a Doença de Alzheimer é um distúrbio
+multifatorial, os efeitos de fatores de risco externos e internos andam juntos para
+atingir processos em comum, como gerar radicais livres de oxigênio e regular
+genes ou carga alostática. Esses processos resultam na aceleração da taxa de
+envelhecimento que é a causa final da enfermidade (ARMSTRONG, 2019).
+Por conseguinte, as alterações físicas e psíquicas decorrentes da doença
+geram situações estressoras que interferem nos relacionamentos familiares com
+a pessoa idosa. O afastamento da família, a sobrecarga nos cuidados e a
+redução da qualidade de vida daqueles que zelam pelo paciente são fatores
+preponderantes para reduzir sobremaneira a qualidade de vida da pessoa
+doente. A perda da capacidade de reconhecer os familiares e a dependência
+total para as atividades básicas da vida cotidiana são uma das maiores
+dificuldades que os familiares apresentam nos cuidados dos idosos que
+padecem por Alzheimer. Além de que, a falta de preparo e principalmente de
+conhecimento acerca do curso progressivo da doença são fatores que interferem
+diretamente no vínculo familiar e nos cuidados prestados a esses idosos
+(BORGHI et al., 2011).
+Desse modo, o objetivo da pesquisa é avaliar qualitativamente na
+literatura científica sobre a Doença de Alzheimer, principalmente no público senil,
+de forma que fique esclarecido a relação entre as diferentes doenças
+neurodegenerativas, além da, pertinente caracterização neurobiológica e a
+semiologia demencial. Os estudos fomentam abordar o entendimento sobre a
+degeneração do aparelho neuronal em portadores da DA, capaz de responder
+pelos impactos neurais progressivos e irreversíveis nos quadros da debilidade.
+Em síntese, o porquê da realização desse artigo, motivou-se, sobretudo,
+pelo fato da crescente relevância das demências como doença humana
+prevalente, associada aos avanços científicos atuais sobre o seu domínio. Isso
+proporcionou o início da discussão acerca da possibilidade de revisar e aprimorar
+os critérios diagnósticos a respeito do comprometimento da Doença de
+
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+5
+
+Aspectos Neurodegenerativos da Doença de Alzheimer na População Senil: uma
+Revisão Integrativa e Qualitativa
+
+Alzheimer e sua repercussão no contexto físico-encefálico do indivíduo idoso,
+bem como elucidar com melhor clareza e exatidão, quais são os processos e
+mecanismos
+
+neurodegenerativos,
+
+neuropatológicos,
+
+neuropsíquicos
+
+e
+
+bioquímicos do progresso da enfermidade.
+
+2. Metodologia
+A metodologia empregada foi de abordagem qualitativa, de natureza
+descritiva, fundamentado numa revisão bibliográfica, a partir de busca virtual,
+acesso a livros, periódicos e teses utilizando da combinação entre palavras:
+Doença
+
+de
+
+Alzheimer,
+
+demência,
+
+neurodegeneração,
+
+neuropsiquiatria,
+
+envelhecimento, expectativa de vida, qualidade de vida e idoso.
+Sendo um artigo de revisão bibliográfica, que aborda e descreve os
+aspectos neurodegenerativos da Doença de Alzheimer, procura-se então
+disponibilizar, de forma simplificada e compreensiva, algumas diretrizes a
+respeito do assunto.
+A revisão integrativa, de acordo com ROMAN e FRIEDLANDER (1998), é
+um método que tem a finalidade de sintetizar resultados obtidos em pesquisas
+sobre um delimitado tema ou questão, de maneira sistemática e ordenada, com
+o objetivo de contribuir para o conhecimento desse tema ou questão. Ademais,
+para BOTELHO; CUNHA e MACEDO (2011), a revisão integrativa da literatura
+é um procedimento que propicia reunir o que já existe na bibliografia sobre um
+determinado assunto, cuja finalidade é oportunizar uma compreensão mais
+ampla sobre um determinado conteúdo.
+O texto foi desenvolvido conforme uma revisão científica, de forma que
+não se objetivou o esgotamento da literatura disponível sobre os temas
+abordados. Os portais acessados para fundamentação teórica foram as bases
+de dados eletrônicos PubMED, Web of Science, SCIELO e Science Direct
+Elsevier, em periódicos nacionais e internacionais.
+Como critérios de elegibilidade, foram utilizados artigos disponíveis na
+íntegra, primários, com humanos, sem custo para acesso, com resumo
+disponível, que abordassem a tônica, publicados nos idiomas português e inglês
+entre os anos 2000-2021. Foram excluídos artigos de revisão, metanálise,
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+6
+
+Grazielly Ribeiro Viana, Denilton Ribeiro dos Santos, Juliana Vigano Bergamaschi,
+Laura de Angeli Piol, Lia Drago Riguette Broseghini, Cassius de Souza
+___________________________________________________________________________________
+
+estudos repetidos, com custos para acesso, que não abordassem a matéria, não
+englobassem idosos ou não caracterizasse os aspectos neurodegenerativos da
+Doença de Alzheimer na população senil.
+Para análise dos artigos, foi realizada leitura dos conteúdos pesquisados.
+Após essa etapa, foi realizada discussão entre o grupo de autores, sendo que
+as divergências foram solucionadas por meio de releitura dos estudos pelos
+discentes. A seguir, os artigos foram categorizados segundo a temática
+abordada e agrupados por assunto apresentado por cada um dos autores, a fim
+de demonstrar os conteúdos mais relevantes em cada artigo encontrado. A
+seleção de artigos teve como critério de inclusão: amostra representativa da
+população definida e especificidade dos eventos neurais do indivíduo com
+Doença de Alzheimer. Por fim, os dados das produções científicas encontradas
+foram analisados em conjunto, de forma quantitativa e qualitativa, para que fosse
+possível alçar os resultados.
+
+3. Resultados dos Estudos e Discussão
+3.1 Doenças Neurodegenerativas
+Doenças degenerativas são aquelas que causam alterações nas células,
+tecidos e órgãos, ocasionando um comprometimento em sua atuação. No
+sistema nervoso provocam mudanças diretamente nos neurônios, implicando no
+mau funcionamento do cérebro e de suas funções quanto à movimentação
+corporal (APRAHAMIAN et. al., 2009).
+Consequentemente, BOTTINO e MORENO (2006) comentam que as
+doenças neurodegenerativas implicam na degeneração dos neurônios de forma
+irreversível. Essas células são fundamentais para o funcionamento do sistema
+nervoso. Em grande parte dessas doenças, se não houver intervenção, logo no
+início, e um tratamento adequado, o paciente poderá perder suas funções físicas,
+motoras, fisiológicas e até mesmo sua capacidade cognitiva, como por exemplo,
+na Doença de Alzheimer.
+
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+7
+
+Aspectos Neurodegenerativos da Doença de Alzheimer na População Senil: uma
+Revisão Integrativa e Qualitativa
+
+Figura 01 – Áreas funcionais do Telencéfalo (cérebro)
+
+Fonte: Derrickson e Tortora (2016)
+
+Tipos específicos de sinais sensitivos, motores e integradores são
+processados em regiões distintas do córtex cerebral. De modo geral, as áreas
+sensitivas recebem informações sensitivas e está envolvido com a percepção,
+ato de ter consciência de uma sensação; as áreas motoras controlam a execução
+de movimentos voluntários; e as áreas associativas lidam com funções
+integradoras mais complexas, tais como memória, emoções, raciocínio, vontade,
+juízo crítico, traços de personalidade e inteligência (DERRICKSON e TORTORA,
+2016).
+Para DERRICKSON e TORTORA (2016), as funções integrativas incluem
+atividades cerebrais como vigília e sono, aprendizado e memória e as respostas
+emocionais.
+Por fim, a memória é um processo pelo qual as informações adquiridas
+pelo aprendizado são armazenadas e recuperadas. Para que uma experiência
+se torne parte da memória, ela deve produzir mudanças funcionais e estruturais
+persistentes que representam aquela experiência no encéfalo. Essa capacidade
+de mudança associada ao aprendizado é chamada de plasticidade. A
+plasticidade do sistema nervoso é responsável por nossa capacidade de
+modificar nossos comportamentos em resposta a estímulos tanto do ambiente
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+8
+
+Grazielly Ribeiro Viana, Denilton Ribeiro dos Santos, Juliana Vigano Bergamaschi,
+Laura de Angeli Piol, Lia Drago Riguette Broseghini, Cassius de Souza
+___________________________________________________________________________________
+
+externo quanto do interno. As partes do encéfalo que conhecidamente estão
+envolvidas com a memória incluem as áreas associativas dos lobos frontal,
+parietal, occipital e temporal; partes do sistema límbico, especialmente o
+hipocampo e amígdala e o diencéfalo (DERRICKSON e TORTORA, 2016).
+
+3.2 Demência
+A demência pode ser definida como uma síndrome caracterizada pelo
+declínio progressivo e global de memória, associado ao déficit de uma ou mais
+funções cognitivas (linguagem, agnosia, apraxias, funções executivas), com uma
+intensidade que possa interferir no desempenho social diário ou ocupacional do
+indivíduo (MACHADO et al., 2006) e (CARAMELLI e BARBOSA, 2002).
+As demências podem ser classificadas em primárias ou secundárias,
+sendo que as primárias podem ainda ser subdivididas de acordo com o seu local
+de aparecimento. As demências primárias são aquelas em que as funções
+cerebrais se degradam lenta e gradualmente, acabando por se perder
+irreversivelmente. Exemplo disso são a Doença de Alzheimer e Parkinson. As
+demências secundárias ocorrem quando a degradação das aptidões mentais
+surge como consequência de outra doença orgânica, tal como uma lesão
+cerebral, um tumor cerebral ou uma doença cardiovascular, sendo que algumas
+delas podem frequentemente ser reversíveis (PINHO, 2008).
+Além disso, as síndromes demenciais podem ser organizadas em duas
+categorias:
+
+degenerativas
+
+e
+
+não
+
+degenerativas.
+
+As
+
+demências
+
+não
+
+degenerativas são decorrentes de acidentes vasculares, processos infecciosos,
+traumatismos, deficiências nutricionais, tumores, dentre outras patologias. Já as
+demências degenerativas têm sua origem predominantemente cortical, como a
+DA e subcortical, como a Doença de Huntington. Esta divisão entre demência
+cortical e subcortical é baseada na localização da lesão da enfermidade
+(ALLEGRI et al., 2001) e (GORZONI e PIRES, 2006).
+O desenvolvimento dos sintomas traz limitações importantes para a vida
+diária do paciente, no entanto, as dificuldades cognitivas não são as únicas
+causas de sofrimento. Distúrbios emocionais e de comportamento são
+observados concomitantemente, incluindo sintomas, como alteração de humor
+
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+9
+
+Aspectos Neurodegenerativos da Doença de Alzheimer na População Senil: uma
+Revisão Integrativa e Qualitativa
+
+(sintomas depressivos, euforia, labilidade emocional), delírios, alucinações,
+apatia,
+
+irritabilidade,
+
+desinibição,
+
+ansiedade,
+
+reações
+
+catastróficas,
+
+agressividade verbal e física, comportamento estereotipado, andar incessante,
+insônia, alterações no apetite, e do comportamento sexual (CARAMELLI e
+BARBOSA, 2002).
+Com isso, os critérios para o diagnóstico incluem o comprometimento da
+memória e, ao menos, outro distúrbio cognitivo como: apraxia, agnosia, e afasia,
+que interferem diretamente na autonomia do indivíduo. Além de tudo, o
+diagnóstico diferencial de demência exige a constatação da deterioração ou
+declínio cognitivo em relação à condição prévia do indivíduo (ABREU;
+FORLENZA e BARROS, 2005).
+Por último, o diagnóstico etiológico se baseia em exames laboratoriais, de
+neuroimagem, sendo importante contar com a constatação do perfil
+neuropsicológico característico. Esses aspectos são importantes para o
+diagnóstico diferencial das demências conhecidas (CARAMELLI e BARBOSA,
+2002) e (GALLUCCI; TAMELINI e FORLENZA, 2005).
+
+3.3 Doença de Alzheimer
+A senilidade traz consigo algumas doenças não transmissíveis, sendo
+comum, entre elas, as neurodegenerativas como a Doença de Alzheimer,
+patologia que ainda não existe cura (SMITH, 1999 apud MATTOS et. al., 2011).
+Essa patologia irreversível compromete o sistema nervoso central,
+causando a destruição progressiva dos neurônios, resultando em danos
+cognitivos e comportamentais em seu portador (POLTRONIERE et al., 2011).
+À vista disso, a Doença de Alzheimer é caracterizada como uma
+debilidade degenerativa de início lento e insidioso, que causa comprometimento
+da memória, habilidades físicas, motoras e intelectuais dos pacientes,
+frequentemente acompanhadas de distúrbios comportamentais como apatia,
+agressividade e depressão, podendo ser classificada em maior ou menor grau,
+desenvolvendo-se
+
+continuamente,
+
+e
+
+consequentemente
+
+aumentando
+
+a
+
+demanda de cuidados contínuos (CAETANO; SILVA e SILVEIRA, 2017). Da
+mesma maneira, ALMEIDA; GOMES e NASCIMENTO (2014) comentam que a
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+10
+
+Grazielly Ribeiro Viana, Denilton Ribeiro dos Santos, Juliana Vigano Bergamaschi,
+Laura de Angeli Piol, Lia Drago Riguette Broseghini, Cassius de Souza
+___________________________________________________________________________________
+
+Doença de Alzheimer é uma doença cerebral ligada à memória e as habilidades
+de pensamentos, que, consequentemente, impossibilitam a capacidade de
+realização de tarefas simples.
+Historicamente, o nome da citada moléstia veio por tributo ao Dr. Alois
+Alzheimer, médico inglês que, em 1906, observou algumas mudanças presentes
+no tecido cerebral de uma mulher que morreu devido a uma doença mental
+incomum. Tal doença apresentava como sintomas, perda de memória,
+problemas de comunicação e comportamentos imprevisíveis. Após a falecimento
+desta paciente, Dr Alois Alzheimer analisou seu cérebro e como laudo encontrou
+vários aglomerados anormais, conhecidos atualmente como placas amilóides, e
+feixes de fibras emaranhados, agora denominados de neurofibrilares, ou TAU
+(ADI, 2015).
+Para FRIEDMAN (2004), o problema que gera a DA está dentro de uma
+organela citoplasmática chamada “mitocôndria”. Esta organela possui o seu
+próprio DNA, que faz com que ela assuma certa independência em relação ao
+núcleo das células e consiga se dividir de forma singular, ou seja, uma
+mitocôndria é capaz de se dividir sem a necessidade de outras estruturas para
+fazê-lo. A função das mitocôndrias dentro das células de todos os eucariontes é
+gerar energia, a mesma energia que a célula utiliza para realizar suas atividades.
+Quando a mitocôndria produz energia, esta libera uma célula chamada ATP
+(Trifosfato de Adenosina), a produção desta molécula de ATP resulta na
+formação de muitos radicais livres, em outras palavras, moléculas estáveis que
+se combinam com outras moléculas e com o DNA, e acabam danificando esse
+DNA, destruindo o material genético do DNA mitocondrial, sucedendo a Doença
+de Alzheimer.
+
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+11
+
+Aspectos Neurodegenerativos da Doença de Alzheimer na População Senil: uma
+Revisão Integrativa e Qualitativa
+
+Figura 02 – Estágios avançados da Doença de Alzheimer
+
+Legenda: Nos estágios mais adiantados da Doença de Alzheimer, a memória a curto prazo
+começa a declinar, juntamente quando parte do hipocampo, que faz parte do Sistema Límbico,
+degenera. Com isso, a habilidade em executar tarefas rotineiras também declina
+Fonte: OLIVEIRA et al., 2005.
+
+Consoante a FUENTES et al. (2008), a DA progride de forma
+relativamente previsível, e se desenvolve em três estágios ou fases, embora
+possa ocorrer variabilidade por fatores como: a idade no início dos sintomas,
+sexo, elementos genéticos ou biológicos e nível educacional. No primeiro estágio
+há perdas da memória para fatos recentes, com preservação dela para fatos
+remotos. A linguagem também sofre alterações, principalmente nos casos présenis, que se instalam antes dos 65 anos. Outro sintoma diz respeito ao discurso
+vazio, com pobreza de substantivos e ideias, além da diminuição da fluência
+verbal e da dificuldade de nomeação, são características apresentadas pelo
+paciente. No segundo estágio da Doença de Alzheimer, todos os domínios
+cognitivos passam a emitir sinais claros de deterioração. São bastante
+acometidas as memórias recente e remota, observando-se ainda, alterações na
+linguagem
+
+e
+
+comprometimento
+
+das
+
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+12
+
+habilidades
+
+viso-espaciais
+
+Grazielly Ribeiro Viana, Denilton Ribeiro dos Santos, Juliana Vigano Bergamaschi,
+Laura de Angeli Piol, Lia Drago Riguette Broseghini, Cassius de Souza
+___________________________________________________________________________________
+
+progressivamente, de forma que os indivíduos perdem-se dentro de sua própria
+casa. No estágio final, todas as funções cognitivas apresentam-se gravemente
+prejudicadas.
+Enfim, a fluência verbal se reduz à palilalia, ecolalia ou mutismo. A
+incontinência esfincteriana é uma ocorrência frequente e o enfermo desenvolve
+rigidez generalizada, com flexão dos quatro membros. Geralmente, por
+complicações clínicas relacionadas aos problemas motores como: restrição ao
+leito, dificuldade de deglutição, pneumonia aspirativa e infecção do trato urinário,
+por vezes, o óbito ocorre 10 anos após o início dos sintomas, pois apesar de
+haver tratamento em desenvolvimento esta é ainda irreversível, uma vez que os
+tratamentos atualmente disponíveis, incluindo o farmacológico, não levam à
+cura, mas apenas ao controle da doença na melhoria e diminuição dos sintomas
+comportamentais (FUENTES et al., 2008).
+
+3.4 Neuropatologia
+A Doença de Alzheimer é caracterizada por sua vigorosa perda de
+sinapses e morte de neurônios em regiões cerebrais encarregadas pelas
+funções cognitivas, alcançando o córtex cerebral, o hipocampo, o córtex
+entorrinal e o estriado ventral. Conforme evidências histopatológicas no cérebro
+de pacientes portadores dessa patologia, há depósitos fibrilares amiloidais
+encontrados nas paredes dos vasos sanguíneos, afiliados a diversos tipos de
+placas senis, com filamentos anormais acumulados e, por consequência disso,
+desenvolvem-se novelos neurofibrilares (NFT), perda neuronal e sináptica,
+inflamação e a ativação da glia (SERENIKI e VITAL, 2008).
+
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+13
+
+Aspectos Neurodegenerativos da Doença de Alzheimer na População Senil: uma
+Revisão Integrativa e Qualitativa
+
+Figura 03 – PET scan de cérebro normal e ao longo do desenvolvimento da DA.
+
+Fonte: MERTINS et al., 2020.
+
+Sendo assim, a DA não é um processo natural do envelhecimento, mas
+um transtorno mental caracterizado por uma atrofia cerebral, que apresenta
+configuração cerebral com sulcos corticais mais largos e ventrículos cerebrais
+maiores do que o esperado pelo processo normal de envelhecimento,
+demonstrado a partir de Tomografia Computadorizada (TC) ou Ressonância
+Magnética (RM) (APA, 2002).
+Destarte, o exame macroscópico do cérebro do portador da DA revela
+atrofia mais proeminente nas regiões frontais, temporais e parietais; afetando,
+sobretudo as áreas corticais associativa. É possível também visualizar
+alterações histopatológicas com o exame microscópico, que podem incluir perda
+neuronal e degeneração sináptica intensa, principalmente nas camadas
+piramidais do córtex cerebral, estruturas límbicas e os córtices associativos; com
+relativa preservação das áreas corticais primárias (motora, somatosensitiva e
+visual) (CARAMELLI, 2011).
+De maneira análoga, o exame microscópico aponta para a presença de
+lesões
+
+principais
+
+como
+
+placas
+
+senis
+
+e
+
+emaranhados
+
+neurofibrilares,
+
+degeneração granulo vascular, glicose astrocítica e angiopatia amiloide (APA,
+2002) e (GONÇALVES e CARMO, 2012).
+Dando seguimento aos estudos da ADI (2015), atualmente, as placas e
+emaranhados presentes no cérebro ainda são tidas como algumas das principais
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+14
+
+Grazielly Ribeiro Viana, Denilton Ribeiro dos Santos, Juliana Vigano Bergamaschi,
+Laura de Angeli Piol, Lia Drago Riguette Broseghini, Cassius de Souza
+___________________________________________________________________________________
+
+características da Doença de Alzheimer. Ademais, tem-se também como
+característica da doença a perda das conexões existentes entre as células
+nervosas (neurônios) no cérebro.
+Figura 04 – Alterações no cérebro provenientes da Doença de Alzheimer
+
+Fonte: Núcleo de Aprimoramento Científico (2020).
+
+Em suma, o dano inicialmente parece ocorrer no hipocampo, parte do
+cérebro essencial para a formação de memórias. Em concordância a ARAÚJO
+e NICOLI (2015), à medida que os neurônios morrem, partes adicionais do
+cérebro são afetadas. No estágio final da DA, as degenerações se generalizam
+e o tecido cerebral encolhe de maneira significativa.
+Para mais, a perda neuronal e/ou patologia pode ser observada
+particularmente no hipocampo, amígdala, córtex entorrinal e áreas de
+associação cortical dos córtices frontal, temporal e parietal, mas também com
+núcleos
+
+subcorticais,
+
+como
+
+a
+
+rafe
+
+dorsal
+
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+15
+
+serotonérgica,
+
+lócus
+
+Aspectos Neurodegenerativos da Doença de Alzheimer na População Senil: uma
+Revisão Integrativa e Qualitativa
+
+coeruleusnoradrenérgico e o núcleo basal colinérgico (BALDAÇARA et al.,
+2015).
+Figura 05 – Progressão do Alzheimer no cérebro
+
+Fonte: PUCRS (2018).
+
+BREMENKAMP et al. (2014) acrescenta que o aumento do número de
+proteínas TAU está intimamente relacionado ao declínio cognitivo e à atrofia
+cerebral, incluindo a atrofia do hipocampo e que na neuropatologia da doença
+de Alzheimer há perda de neurônios e atrofia no córtex temporofrontal, o que
+causa inflamação e depósito das placas amilóides e um aglomerado anormal de
+fragmentos de proteínas e feixes de fibras emaranhados devido a isso há um
+aumento na presença de monócitos e macrófagos no córtex cerebral e ativa as
+células micróglias no parênquima.
+Contudo, a Doença de Alzheimer geralmente é familiar, isto é, hereditária.
+O risco aumenta se vários membros da família apresentarem a sintomatologia.
+Esta tendência pode ser devido a genes, fatores de estilo de vida ou uma
+combinação de ambos (BALDAÇARA et al., 2015).
+
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+16
+
+Grazielly Ribeiro Viana, Denilton Ribeiro dos Santos, Juliana Vigano Bergamaschi,
+Laura de Angeli Piol, Lia Drago Riguette Broseghini, Cassius de Souza
+___________________________________________________________________________________
+
+3.5 Mediadores Bioquímicos
+O peptídeo (AB) beta-amiloide não é normalmente encontrado na
+juventude, sua incidência é maior na senilidade após os 80 e/ou 90 anos. O
+peptídeo surge a partir do processamento de uma proteína chamada de
+precursora amiloide (APP). Esta é uma proteína básica, com domínio
+extracelular que atravessa a membrana das células e é clivada por uma enzima
+chamada secretase (alfa-secretase e gamma-secretase) (SERENIKI e VITAL,
+2008).
+Como resultado, a neurodegeneração é causada por meio de diversos
+mecanismos, tais como: estresse oxidativo com a disfunção mitocondrial;
+ativação de receptores NMDA; excitocicidade induzida por Ca2+ e produção de
+espécies reativas de oxigênio (ERO) por clivagem proteolítica; por processo
+inflamatório; ativação de enzima; expressão de proteínas inflamatórias, citocinas
+e ativação glial (SERENIKI e VITAL, 2008).
+Assim sendo, a neuroinflamação tem sido caracterizada em diferentes
+modelos, incluindo o modelo induzido pelo peptídeo AB; pela ativação de células
+gliais astrócitos e micróglia com a produção de citocinas inflamatórias, por
+exemplo, a TNF-Alfa e a IL-6. Enzimas inflamatórias e oxidativas, também
+denominadas COX-2 e iNOS; ativação de vias MAPK, ERK e JNK. Por
+consequência, as reações inflamatórias no SNC podem ativar outros mediadores
+e causar edema (SERENIKI e VITAL, 2008).
+Desta maneira, a proteína percursora amiloide (APP) segue a via de
+processamento quando é clivada pela alfa-secretase e/ou pela gammasecretase, gerando o SAPPa e P3 (que não são amiloidogenese). Por outro lado,
+a beta-secretase cliva em um local diferente da gamma-secretase, e por fim, a
+delta-secretase cliva no mesmo local de cisão da APP e gera o peptídeo AB, se
+agregando e formando as placas que causam morte neuronal (DE SÁ
+CAVALCANTI; ENGELHARDT, 2012).
+O oligômero AB é capaz de induzir alterações da proteína TAU (essa
+alteração é uma das grandes causas de morte dos neurônios) em neurônios
+hipocampais. De mais a mais, o peptídeo AB afeta as características da cognição
+com relação à disfunção da LPP (potenciação de longa duração) e da sinapse
+
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+17
+
+Aspectos Neurodegenerativos da Doença de Alzheimer na População Senil: uma
+Revisão Integrativa e Qualitativa
+
+glutamatérgica. O peptídeo AB se antagoniza afetando os receptores nicotínicos,
+os canais de cálcio tipo L, P75NTr e o próprio receptor NMDA, fazendo com que
+o cálcio tenha dois papeis: pode tanto ativar CaMK como a calcineurina e a
+fosfatase que gera a LTP (processo de longa duração) (ALMEIDA, 1997).
+Em conclusão, a LTP é responsável pela memorização, a LTD é
+responsável pela extinção das sinapses; o peptídeo AB diminui as PTKs, que
+promove a LTP como a CAMKs diminuindo a fosforização do PCREB,
+aumentando a calcineurina e a calpaina que são outras enzimas envolvidas com
+a LTD. Então o oligômero do AB aumenta a LTD e diminui a LTP causando
+assim, a insuficiência dos neurônios de processar uma informação, promovendo
+esquecimento e apresentando os primeiros sintomas da Doença de Alzheimer
+(ALMEIDA, 1997).
+
+4. Considerações Finais
+O envelhecimento da população brasileira está ocorrendo em um ritmo
+bem mais acelerado do que o presenciado nos países de Primeiro Mundo,
+principalmente, naqueles que iniciaram a mudança no seu perfil demográfico
+ainda no século XIX. Esses países passaram por um longo processo envolvendo
+mudanças sociais, sanitárias, médico-tecnológicas e institucionais que
+prepararam essas sociedades para lidar com as necessidades dessas
+populações, ao contrário dos países em desenvolvimento que estão lidando sem
+muito preparo com essa brusca transformação.
+No entanto, a Doença de Alzheimer é a demência com maior
+predominância na atualidade entre os idosos, com íntima relação entre patologia
+e idade, associados ao aumento da expectativa e da qualidade de vida.
+Entretanto a causa da debilidade não está totalmente esclarecida, o que se pode
+observar são as alterações provocadas no organismo, a degeneração
+progressiva
+
+e
+
+irreversível
+
+de
+
+estruturas
+
+neurais
+
+e
+
+suas
+
+anomalias
+
+histopatológicas, neuroinflamatórias, bioquímicas e farmacológicas, com
+consequentes transtornos biopsicossociais ao indivíduo portador.
+Contudo, a compreensão da história da Doença de Alzheimer é essencial
+para formular estratégias de prevenção primária ou secundária com expectativa
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+18
+
+Grazielly Ribeiro Viana, Denilton Ribeiro dos Santos, Juliana Vigano Bergamaschi,
+Laura de Angeli Piol, Lia Drago Riguette Broseghini, Cassius de Souza
+___________________________________________________________________________________
+
+da interrupção ou progressão do distúrbio no público senil. Muitos fatores de
+risco podem estar associados ao problema, incluindo aqueles relacionados ao
+envelhecimento, genes, metais, TCE (traumatismo cranioencefálico), dieta,
+fatores vasculares, sistema imunológico e exposição a agentes infecciosos.
+Haja vista que as demências ainda precisam ser muito estudadas e
+conhecidas pela sociedade. Afinal, por mais que existam estudos em vários
+âmbitos dessas patologias, a grande maioria deles ainda não se apresenta de
+forma inteiramente completa a respeito do assunto.
+Destaca-se,
+
+em
+
+nossa
+
+observação,
+
+o
+
+papel
+
+do
+
+diagnóstico
+
+neuropsicológico quando da incerteza diagnóstica para as demências. A
+capacidade de avaliar os processos cognitivos com certa precisão e gerar dados
+relevantes altera o panorama de um diagnóstico e concebe maior confiabilidade
+ao laudo.
+Verifica-se que a prevenção é uma forma de lidar com o grande aumento
+de incidências da Doença de Alzheimer, como ter uma vida saudável, praticar
+exercícios físicos e diminuir o estresse, estes podem evitar e ou retardar o
+surgimento da disfunção. Além do que, é de extrema importância que o
+diagnóstico seja realizado precocemente e desta forma estabelecer a
+intervenção mais adequada para cada caso.
+Finalmente, com a relevância do tema e algumas incertezas a respeito da
+etiologia bem como do tratamento da Doença de Alzheimer, ressaltamos a
+necessidade de um maior esclarecimento aos profissionais de saúde sobre as
+estratégias para a melhora e manutenção da qualidade de vida aos portadores
+da doença. É indubitável que se fomente a discussão e a pesquisa para que nos
+aproximemos de uma possível cura e prevenção desta afecção e a busca por
+mecanismos para solução desta problemática influencia diretamente no
+processo de desenvolvimento de novas drogas para o tratamento dessa
+patologia, podendo retardar ou até mesmo bloquear a progressão da
+enfermidade, procurando sempre se aprofundar nos conhecimentos das
+especialidades para melhor qualificar a sua atuação.
+
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+19
+
+Aspectos Neurodegenerativos da Doença de Alzheimer na População Senil: uma
+Revisão Integrativa e Qualitativa
+
+REFERÊNCIAS
+ABREU, I.D.; FORLENZA, O.V.; BARROS, H.L. Demência de Alzheimer:
+correlação entre memória e autonomia. Rev. psiquiatr. Clín., 2005.
+ADI – ALZHEIMER’S DISEASE INTERNATIONAL. World Alzheimer Report
+2015: the global impact of dementia – an analysis of prevalence, incidence, cost,
+and trends. London, 2015.
+ALLEGRI, R.F. et al. Perfis Diferenciais de Perda de Memória entre a Demência
+Frontotemporal e a do Tipo Alzheimer. Psicol. Reflex. Crit., 2001.
+ALMEIDA, Milena Cristina da Silva; GOMES, Camila de Moraes Santos;
+NASCIMENTO, Luiz Fernando Costa. Spatial distribution of deaths due to
+Alzheimer's disease in the state of São Paulo, Brazil. São Paulo Medical Journal,
+2014.
+ALMEIDA, O. P. Biologia molecular da doença de Alzheimer: uma luz no fim do
+túnel?. Revista da Associação Médica Brasileira, 1997.
+APRAHAMIAN, I. et. al. Doença de Alzheimer: revisão da epidemiologia e
+diagnóstico. Revista Brasileira de Clínica Médica, 2009.
+ARAÚJO, C. L. O.; NICOLI, J.S. Uma revisão bibliográfica das principais
+demências que acometem a população brasileira. Revista Kairós Gerontologia,
+2015.
+ARAÚJO, P. B. Alzheimer: o idoso, a família e as relações humanas. 2 ed. Rio
+de Janeiro: WSK, 2001.
+ARMSTRONG, Richard A. Risk factors for Alzheimer’s disease. Folia
+Neuropathologica, 2019.
+Associação Psiquiátrica Americana (APA). Manual diagnóstico e estatístico de
+transtornos mentais. Porto Alegre: Artes Médicas, 2002.
+BALDAÇARA, L.; BORGIO, J.G.F.; MORAES, W.A.S.; LACERDA, A.L.T.;
+MONTAÑO, M.B.M.M.; TUFIK, S.; JACKOWSKI, A.P. Cerebellar volume in
+patients with dementia. Revista Brasileira de Psiquiatria, 2015.
+BOTELHO, L. L. R; CUNHA, C. C. A; MACEDO, M. O método de revisão
+integrativa nos estudos organizacionais. Gestão e Sociedade, 2011.
+BOTTINO, C. M. C.; MORENO, M. D. Q. Comprometimento cognitivo leve:
+critérios diagnósticos e validade clínica. In: BOTTINO, C. M. C.; LAKS, J.; BLAY,
+S. L. (orgs.) (2006). Demência e transtornos cognitivos em idosos. Rio de
+Janeiro: Guanabara Koogan, 2006.
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+20
+
+Grazielly Ribeiro Viana, Denilton Ribeiro dos Santos, Juliana Vigano Bergamaschi,
+Laura de Angeli Piol, Lia Drago Riguette Broseghini, Cassius de Souza
+___________________________________________________________________________________
+
+BORGHI AC, et al. Qualidade de vida de idosos com doença de alzheimer e de
+seus cuidadores. Rev. Gaúcha Enferm., 2011.
+BREMENKAMP, M. G. et al. Sintomas neuropsiquiátricos na doença de
+Alzheimer: frequência, correlação e ansiedade do cuidador. Revista Brasileira de
+Geriatria e Gerontologia Brasileira, Rio de Janeiro, 2014.
+CAETANO, O. A. L; SILVA, S. F; SILVEIRA, B. A. C. Alzheimer, sintomas e
+grupos: uma revisão integrativa. Vínculo - Revista do NESME, 2017.
+CARAMELLI, P. et al. Diagnóstico de doença de Alzheimer no Brasil - Exames
+complementares. Dementia & Neuropsychologia, 2011.
+CARAMELLI, P.; BARBOSA, M.T. Como diagnosticar as quatro causas mais
+frequentes de demência? Rev. Bras. Psiquiatr, 2002.
+DAWALIBI, N.W et al. Fatores relacionados à qualidade de vida de idosos em
+programas para a terceira idade. Ciênc. Saúde Coletiva, 2014.
+DERRICKSON, Bryan; TORTORA, Gerard J. Princípios de Anatomia e
+Fisiologia. 14 ed. Rio de Janeiro-RJ: Editora Guanabara Koogan Ltda, 2016.
+DE SÁ CAVALCANTI, José Luiz; ENGELHARDT, Eliasz. Aspectos da
+fisiopatologia da doença de Alzheimer esporádica. Rev Bras Neurol, 2012.
+FERNANDES, J.S.G; ANDRADE, M.S. Revisão sobre a doença de alzheimer:
+diagnóstico, evolução e cuidados. Psic., Saúde & Doenças, 2017.
+FRIDMAN, Cintia, et al. “Alterações genéticas na doença de Alzheimer.” Archives
+of Clinical Psychiatry (São Paulo), 2004.
+FUENTES, Daniel et al.. Nauropsicologia: Teoria e prática. Porto Alegre: Artmed,
+2008.
+GALLUCCI NETO, J.; TAMELINI, M.G.G.; FORLENZA, O.V. Diagnóstico
+diferencial das demências. Rev. psiquiatr. clín.,2005.
+GONCALVES, E. G.; CARMO, J. S. Diagnóstico da doença de Alzheimer na
+população brasileira: um levantamento bibliográfico. Revista Psicologia e
+Saúde. Campo Grande, 2012.
+GORZONI, M.L.; PIRES, S.L. Aspectos clínicos da demência senil em
+instituições asilares. Rev. psiquiatr. clín., 2006.
+HOLANDA, I.T.A et al. Idosos com Alzheimer: um estudo descritivo. Rev. Rene,
+2012.
+MACHADO, J.C.B. et al. Doença de Alzheimer. In: FREITAS, E.V., Py, L.,
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+21
+
+Aspectos Neurodegenerativos da Doença de Alzheimer na População Senil: uma
+Revisão Integrativa e Qualitativa
+
+CANÇADO, F.A.X. & GORZONI, M.L. Tratado de Geriatria e Gerontologia, 2 ed.
+Rio de Janeiro: Guanabara Koogan, 2006.
+MATTOS, C. M. Z. et al. Processo de enfermagem aplicado a idosos com
+Alzheimer que participam do projeto estratégias de reabilitação. Estudo
+Interdisciplinar Envelhecimento. Porto Alegre, 2011.
+MIRANDA, G.M.D; MENDES, A.C.G; DA SILVA, A.L.A. O envelhecimento
+populacional brasileiro: desafios e consequências sociais atuais e futuras. Rev.
+bras. geriatr. gerontol., 2016
+MERTINS, H.L. et al. ALZHEIMER E SUA RELAÇÃO COM A DEMÊNCIA NA
+POPULAÇÃO IDOSA. Revista Interdisciplinar de Ensino, Pesquisa e Extensão,
+2020.
+OLIVEIRA, Maria de Fátima et al. DOENÇA DE ALZHEIMER: Perfil
+Neuropsicológico e Tratamento. Portal dos Psicólogos, 2005.
+PINHO, L. F. Demência: A marcha diagnóstica no âmbito dos cuidados de Saúde
+Primários. Dissertação de Mestrado não publicada, Faculdade de Ciências da
+Saúde – Universidade da Barra Interior, Portugal, 2008.
+POLTRONIERE, S. et al. Doença de Alzheimer e demandas de cuidados: O que
+os enfermeiros sabem? Revista Gaúcha de Enfermagem. Porto Alegre, 2011.
+ROMAN, A. R; FRIEDLANDER, M. R. Revisão integrativa de pesquisa aplicada
+à enfermagem. Cogitare Enfermagem. Curitiba, 1998.
+SERENIKI, Adriana; VITAL, M.A.B.F. A doença de Alzheimer: aspectos
+fisiopatológicos e farmacológicos. Rev Psiquiatr Rio Gd Sul, 2008.
+
+Revista Foco |Curitiba (PR)| v.15.n.5|e510| p.01-22 |2022
+
+22
