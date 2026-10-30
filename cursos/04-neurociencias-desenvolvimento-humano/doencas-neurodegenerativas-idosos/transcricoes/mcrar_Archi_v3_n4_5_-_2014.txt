@@ -1,0 +1,1327 @@
+Arch Health Invest (2014) 3(4): 32-39
+
+© 2014 - ISSN 2317-3009
+
+Aspectos clínicos e fisiopatológicos da
+Doença de Huntington
+Clinical and pathophysiological aspects of Huntington's disease
+Aspectos clínicos y fisiopatológicos de la enfermedad de Huntington
+
+Anderson MARTELLI
+Professor da Faculdade Mogiana do Estado de São Paulo, FMG, Mogi Guaçu-SP, Brasil
+Especialista em Laboratório Clínico - Patologia Clínica pela Faculdade de Ciências Médicas – UNICAMP
+
+Resumo
+A doença de Huntington (DH) é a mais comum das doenças neurodegenerativas autossômicas dominantes com início na idade adulta.
+Clinicamente caracteriza-se por alterações motoras, neuropsíquicas e deterioração cognitiva progressiva, sintomas estes que se associam
+a atrofia seletiva do estriado e do córtex cerebral. A presente revisão faz uma descrição sobre a DH abordando os aspectos clínicos e
+fisiopatológicos do acúmulo de huntingtina nos portadores desta doença. A pesquisa foi realizada a partir de uma revisão bibliográfica da
+literatura especializada, sendo consultado artigos científicos localizados nas bases de dados Medline, Scielo, Lilacs e o portal de
+Periódicos CAPES publicados até 2013 e adicionalmente consulta de livros acadêmicos para complementação da pesquisa além de
+referências cruzadas dos artigos selecionados. A DH é causada por uma mutação no terminal 5’ do gene da huntingtina, que consiste
+numa expansão instável do tripleto CAG (citosina-adenina-guanina). Os complexos mecanismos que levam à degeneração e morte
+neuronal não estão completamente elucidados e, como tal, não existe até ao momento qualquer tratamento curativo ou que modifique o
+curso inexorável da doença.
+Descritores: Doença de Huntington; Proteínas Mutantes; Glutamina.
+Abstract
+Huntington's disease (HD) is the most common autosomal dominant neurodegenerative disease with onset in adulthood. Clinically
+characterized by motor abnormalities, neuropsychological and progressive cognitive deterioration, these symptoms that are associated
+with selective atrophy of the striatum and cerebral cortex. The present review is a description of the DH addressing the clinical and
+pathophysiological accumulation of huntingtin in Moyamoya aspects. The survey was conducted from a literature review of the
+literature, consulted with scientific articles found in Medline, Scielo, Lilacs and portal CAPES journals published data by 2013 and
+further consultation with academic books to complement the research as well as references Crossed the selected articles. HD is caused
+by a mutation in the 5 'end of the huntingtin gene, which is an unstable expanded CAG triplet (adenine, cytosine, guanine). The complex
+mechanisms leading to neuronal degeneration and death are not fully elucidated and, as such, there is to date no curative treatment or
+modify the inexorable course of the disease.
+Descriptors: Huntington Disease; Mutant Proteins; Glutamine.
+Resumen
+Enfermedad de Huntington (EH) es la enfermedad neurodegenerativa autosómica dominante más común con inicio en la edad adulta.
+Clínicamente se caracteriza por anormalidades motoras, deterioro cognitivo neuropsicológico y progresiva, estos síntomas que están
+asociados con la atrofia selectiva del cuerpo estriado y la corteza cerebral. La presente revisión es una descripción de la EH frente a la
+acumulación clínico y fisiopatológico de la huntingtina en aspectos Moyamoya. La encuesta se realizó a partir de una revisión
+bibliográfica de la literatura, consultó con los artículos científicos que se encuentran en Medline, Scielo, Lilacs y revistas CAPES portal
+de datos publicados en 2013 y más consultas con los libros académicos para complementar la investigación, así como referencias cruzó
+los artículos seleccionados. EH es causada por una mutación en el extremo 5 'del gen de la huntingtina, que es un triplete CAG
+expandido inestable (adenina, citosina, guanina). Los complejos mecanismos que conducen a la degeneración neuronal y la muerte no se
+ha aclarado completamente y, como tal, no es hasta la fecha ningún tratamiento curativo o modificar el curso inexorable de la
+enfermedad.
+Descriptores: Enfermedad de Huntington; Proteínas Mutantes; Glutamina.
+
+32
+
+Arch Health Invest 3(4) 2014
+
+Arch Health Invest (2014) 3(4): 32-39
+
+© 2014 - ISSN 2317-3009
+
+INTRODUÇÃO
+A doença de Huntington (DH) é uma patologia
+neurodegenerativa, autossômica dominante, classica-
+
+história
+
+familiar
+
+positiva
+
+e/ou
+
+com
+
+sintomas
+
+neurológicos atípicos para a DH 8.
+
+mente descrita como Coréia de Huntington ‘khoreia’ -
+
+A DH é uma doença progressiva e letal
+
+palavra grega para dança1,2. É a doença poliglutamínica
+
+caracterizada pela tríade de distúrbios do movimento
+
+mais
+
+(coréia,
+
+comum
+
+e
+
+também
+
+a
+
+melhor
+
+estudada
+
+distonias,
+
+mioclonias
+
+e
+
+parkinsonismo),
+
+distúrbios comportamentais e demência 7,9,10 e seus
+
+atualmente2,3.
+Ao que parece a DH foi descrita pela primeira
+
+sintomas podem aparecer em qualquer fase da vida,
+
+vez em 1860, pelo físico norueguês Johan Christian
+
+porém, na maioria dos casos, a doença se inicia entre a
+
+Lund, que lhe deu o nome de Chorea St. Vitus;
+
+quarta e a quinta década 4,7,11.
+
+entretanto, a repercussão do fato foi praticamente
+nula4.
+
+As formas chamadas de juvenis, variante de
+Westphal, se manifestam antes dos 20 anos de idade e
+
+No século 19, George Huntington demonstrou
+
+correspondem a aproximadamente 5% a 10% do total
+
+um perspicaz espírito científico ao notar as três
+
+de casos. A doença pode ter uma evolução longa de até
+
+características determinantes da afecção: o seu caráter
+
+30 anos em alguns casos, mas a morte ocorre
+
+familiar, tendência progressiva e inexorável para a
+
+principalmente em decorrência da imobilidade e
+
+insanidade e suicídio e o fato de se manifestar na idade
+
+infecções 4.
+
+adulta 5. Contudo, foi apenas em 1993 que a mutação
+
+Nesta patologia foi identificado uma expansão
+
+gênica causadora da DH foi descoberta pelo consórcio
+
+instável do tripleto de bases nitrogenadas CAG (ci-
+
+organizado pela Hereditary Disease Foundation 2.
+
+tosina-adenina-guanina), na região codificante (éxon 1)
+
+Quanto a sua prevalência no Brasil, não existem
+
+do gene HD (do inglês ‘Huntington’s disease’, também
+
+dados concretos que nos permitam saber 4, porém, há
+
+designado gene IT15 ou ‘Interesting Transcript 15’),
+
+entidades de apoio aos huntintonianos como são
+
+que codifica a proteína huntingtina 2 localizada no
+
+chamados e seus familiares. A Associação Brasil
+
+braço curto do cromossomo 4 (4p16.3) e que parece ter
+
+Huntington (ABH), e a União de Parentes e Amigos
+
+uma função efetiva no transporte de vesículas
+
+dos Doentes de Huntington (UPADH), com sedes em
+
+intracelular 4.
+
+São Paulo e Brasília, respectivamente são exemplos de
+locais que oferecem assistência a esses pacientes 5.
+
+A huntingtina modificada ou mutante como é
+chamada seria mais resistente à degradação proteica, e
+
+Krobitsch e Kazantsev 6 apontam que a DH tem
+
+as cadeias poliglutamínicas expandidas levam à
+
+distribuição mundial, e está presente em todas as raças
+
+fragmentação dessa proteína, com a formação de
+
+e grupos étnicos. Porém algumas regiões como, por
+
+agregados citoplasmáticos que causariam a degenera-
+
+exemplo, a região de Maracaibo, na Venezuela,
+
+ção axonal 12.
+
+apresenta uma alta incidência da doença 4.
+
+O número de repetições CAG considerado
+
+Nos EUA, sua prevalência está estimada entre 5
+e 10 casos por 100.000 habitantes 1,4 evoluindo para
+
+normal situa-se entre 9 e 34, enquanto na DH o número
+de repetições é geralmente maior que 40 4.
+
+óbito após um período de cerca de 15 a 20 anos, sendo
+
+Tem sido observado que, quanto maior o número
+
+a principal causa de morte a pneumonia aspirativa
+
+de repetições dos trinucleotídeos CAG, mais precoce é
+
+devido a imobilidade e disfagia 7.
+
+a manifestação da doença. Em gerações sucessivas de
+
+O
+
+avanço
+
+da
+
+genética
+
+possibilitando o diagnóstico em
+
+33
+
+vem
+
+pacientes com DH, o quadro clínico pode se manifestar
+
+indivíduos sem
+
+cada vez mais cedo, sendo este fenômeno chamado de
+
+molecular
+
+Arch Health Invest 3(4) 2014
+
+Arch Health Invest (2014) 3(4): 32-39
+
+“antecipação”.
+
+© 2014 - ISSN 2317-3009
+
+Acredita-se
+
+que
+
+pacientes
+
+com
+
+Dos artigos selecionados e incluídos na pesquisa
+
+repetições CAG superiores a 42 tenham penetrância de
+
+constituíram
+
+até 100% 4.
+
+revisões e revisões sistemáticas da literatura. Como
+
+Assim, considerando que a DH é uma doença
+crônica-degenerativa,
+
+cuja
+
+síndrome
+
+principal
+
+é
+
+ensaios
+
+clínicos,
+
+artigos
+
+originais,
+
+critérios de elegibilidade e inclusão dos artigos,
+analisaram-se a procedência da revista e indexação,
+
+caracterizada por distúrbios do movimento e declínio
+
+estudos
+
+cognitivo progressivo que ocorre no estado normal de
+
+epidemiologia e aos aspectos fisiopatológicos da DH
+
+consciência e levando em consideração que até o
+
+publicados entre os anos de 1994 até o mais atual
+
+presente momento não há tratamento curativo ou
+
+2013. Na leitura e avaliação, os artigos que
+
+preventivo para esta patologia tornando o indivíduo
+
+apresentaram os critérios de elegibilidade foram
+
+acometido dependente da família, o que gera uma
+
+selecionados e incluídos na pesquisa por consenso.
+
+tensão e mudanças na vida de todos, o presente estudo
+
+que
+
+apresentassem
+
+dados
+
+referentes
+
+à
+
+Como critério de exclusão utilizou-se referência
+
+teve como objetivo realizar uma revisão sistemática da
+
+incompleta
+
+e
+
+informações
+
+presentemente
+
+literatura especializada abordando os aspectos clínicos
+
+desacreditadas, já que essa pesquisa visa revisar
+
+da DH com a descrição dos aspectos patológicos do
+
+conhecimentos atualizados sobre o tema.
+
+acúmulo de huntingtina nos portadores desta doença.
+FISIOPATOLOGIA
+HUNTINGTON
+
+MATERIAL E MÉTODO
+Para a composição da presente revisão foi
+realizado um levantamento bibliográfico nas bases de
+dados Medline, Scielo, Lilacs, Portal de Periódicos da
+Coordenação de Aperfeiçoamento de Pessoal de Nível
+Superior (CAPES) e a busca de dados no Google
+Acadêmico de artigos científicos publicados até 2013
+utilizando
+
+como
+
+combinação:
+
+descritores
+
+Doença
+
+de
+
+isolados
+
+Huntington,
+
+ou
+
+em
+
+Proteínas
+
+Mutantes, Glutamina e adicionalmente a consulta de
+livros
+
+acadêmicos
+
+para
+
+complementação
+
+das
+
+informações sobre os mecanismos envolvidos na
+
+Para seleção do material, efetuaram-se três
+etapas. A primeira foi caracterizada pela pesquisa do
+material que compreendeu entre os meses de
+dezembro/2013 a abril de 2014 com a seleção de 47
+trabalhos. A segunda compreendeu a leitura dos títulos
+e resumos dos trabalhos, visando uma maior
+aproximação e conhecimento, sendo excluídos os que
+não tivessem relação e relevância com o tema. Após
+seleção,
+
+buscaram-se
+
+os
+
+textos
+
+que
+
+se
+
+encontravam disponíveis na íntegra, totalizando 28
+trabalhos, sendo estes, inclusos na revisão.
+
+34
+
+DOENÇA
+
+DE
+
+Clinicamente, a DH caracteriza-se por coréia
+progressiva, declínio cognitivo e perturbações psiquiátricas. Os primeiros sinais da patologia são sutis como
+movimentos inquietos dos dedos das mãos e dos pés
+durante um período de estress ou durante a marcha 13,
+dificuldades na resolução de problemas, irritabilidade e
+depressão 2.
+Alterações cognitivas são encontradas em
+praticamente,
+
+todos
+
+os
+
+pacientes
+
+precocemente
+
+no
+
+sentido
+
+da
+
+e
+
+aparecem
+
+doença.
+
+O
+
+comprometimento principal é da função executiva,
+incluindo o planejamento e julgamento precários,
+
+fisiopatologia da DH.
+
+essa
+
+DA
+
+comportamento impulsivo, desorganização, déficit
+psicomotor, apatia, falta de cuidados pessoais e perda
+de iniciativa 7,12.
+As alterações cognitivas tendem a piorar ao
+longo do tempo com a progressão da doença, podendo
+os doentes de Huntington em fase tardia apresentar
+demência severa 2.
+Wild e Tabrizi 13 citam como característica da
+doença as alterações oculomotoras, muitas vezes com
+anormalidade precoce, início retardado e lentificação
+de percepção e incapacidade de suprimir o olhar a
+
+Arch Health Invest 3(4) 2014
+
+Arch Health Invest (2014) 3(4): 32-39
+
+© 2014 - ISSN 2317-3009
+
+novos estímulos.
+
+caudado, com progressão subsequente para o striatum
+
+A alteração genética na DH é uma expansão da
+
+ventrolateral (Figura 2) 11,16.
+
+repetição do trinucleotídeo citosina-adenina-guanina
+(CAG) no cromossomo 4, que codifica repetições de
+poliglutamina na proteína huntingtina, a qual, acreditase,
+
+ocasione
+
+um
+
+ganho
+
+desencadeando
+
+o
+
+processo
+
+tóxico
+
+de
+
+função,
+
+neurodegenerativo
+
+característico desta patologia 7.
+A repetição de CAG varia de 10 a 29 cópias em
+cromossomos normais e está expandida para 36 a 121
+nos cromossomos na DH, sendo que alelos com 40 ou
+mais repetições têm penetrância completa, resultando
+no desenvolvimento da doença. Existe uma relação
+
+Figura 2. Doença de Huntington. Corte histológico do núcleo caudado com
+perda de neuronios e gliose. Extraído de Huntington's Disease 17
+
+inversa entre comprimento da repetição e a idade de
+início da doença, de forma que quanto maior o ta-
+
+Os neurônios estriatais são GABAérgicos e,
+
+manho da repetição, mais precoce o início da doença 7.
+
+portanto, utilizam o neurotransmissor inibitório ácido
+
+Neuropatologicamente, a DH caracteriza-se por
+
+gama-aminobutírico (GABA). A perda do efeito
+
+uma atrofia gradual do estriado (núcleo caudado e pu-
+
+inibitório causada pela morte desses neurônios tem
+
+tamen) figura 1 2,11. O grau de atrofia estriatal também
+
+sido
+
+se correlaciona com a degeneração de estruturas
+
+involuntários característicos da doença 18.
+
+diretamente
+
+associada
+
+aos
+
+movimentos
+
+cerebrais não-estriatais. Por exemplo, nos graus 1 e 2
+
+Com a progressão da doença, os neurônios
+
+as estruturas não-estriatais encontram-se geralmente
+
+espinhosos médios que se projetam para o globo pálido
+
+preservadas ou apresentam apenas uma atrofia ligeira,
+
+interno (via direta) e neurônios piramidais corticais
+
+enquanto nos graus 3 e 4 o córtex cerebral
+
+também são afetados. A degeneração tardia dos
+
+(particularmente as camadas III, V e VI), o globus
+
+neurônios
+
+pallidus, tálamo, núcleo subtalâmico, substância negra
+
+desenvolvimento de bradicinesia e rigidez em estágios
+
+figura 1, substância branca e cerebelo poderão também
+
+terminais da doença 19.
+
+da
+
+via
+
+direta
+
+é
+
+responsável
+
+pelo
+
+A perda significativa de neurônios é também
+
+estar afetados 14.
+
+relatada no córtex cerebral de pacientes, incluindo as
+regiões frontal, parietal e temporal, apesar dessas
+alterações serem menos marcantes do que as
+observadas no estriado 20.
+O hipotálamo também pode ser afetado em
+pacientes de DH Figura 1. Devido a uma atrofia
+cerebral generalizada observada nos casos mais
+severos da DH, o peso cerebral pode diminuir até
+Figura 1. Estruturas não estriatais afetadas na doença de Huntington 15
+
+40%2.
+
+Como relatado, a agregação da huntingtina
+O achado patológico característico na DH é a
+
+mutante pode ser um dos fatores desencadeadores de
+
+perda de neurônios espinhais pequenos e médios,
+
+lesão celular na DH. Apesar de ter sido identificada há
+
+começando na cabeça dorsal medial do núcleo
+
+quase duas décadas, o exato papel da proteína
+
+35
+
+Arch Health Invest 3(4) 2014
+
+Arch Health Invest (2014) 3(4): 32-39
+
+© 2014 - ISSN 2317-3009
+
+huntingtina nas células ainda não está completamente
+
+das cidades onde os centros estão localizados é de 80
+
+elucidado 21,22.
+
+milhões de pessoas, compreendendo 20,7% da
+
+A huntingtina é uma proteína de 348 kDa
+
+população total da América do Sul.
+
+expressa em humanos e roedores em níveis elevados
+
+Este estudo mostra que os centros responsáveis
+
+no sistema nervoso central, 21,22,23 principalmente em
+
+pelo cuidado de pacientes com DH estão empenhados
+
+neurônios piramidais corticais que se projetam para o
+
+em fornecer sem custo, o melhor nível de cuidado
+
+estriado 22.
+
+possível, atestado pelo fato de que a maioria das
+
+Várias proteínas interagem de forma anormal
+
+instituições apresentam equipes multidisciplinares
+
+com a huntingtina mutante e são recrutadas para os
+
+capazes de adaptar as estratégias de tratamento para
+
+agregados proteicos, causando a desregulação de
+
+necessidades individuais do paciente10.
+
+importantes vias intracelulares 2, bem como severa
+disfunção de vias de sinalização intracelulares 24.
+
+O cuidado de pacientes com DH muitas vezes
+requer o envolvimento de uma equipe multidisciplinar
+
+Ao longo da progressão da DH, a disfunção
+
+de saúde, incluindo enfermeiros, fisioterapeutas,
+
+intracelular induzida pela huntingtina mutante conduz
+
+fonoaudiólogos, psicólogos, terapeutas ocupacionais e
+
+à degeneração de vias neuronais importantes e à perda
+
+conselheiros genéticos, que têm papéis importantes na
+
+celular no estriado, no córtex cerebral e noutras regiões
+
+melhoria da qualidade de vida e no suprimento das
+
+cerebrais (Figura 1). Apesar de não resultarem
+
+deficiências de pacientes com DH 10.
+
+necessariamente de um efeito direto da proteína
+
+Com o desenvolvimento do Projeto Genoma
+
+mutante, os mecanismos de toxicidade dopaminérgica,
+
+Humano, tornou-se possível verificar, pela análise de
+
+desregulação
+
+genes,
+
+metabólica,
+
+disfunção
+
+mitocondrial,
+
+que
+
+patologias
+
+um
+
+indivíduo
+
+tem
+
+stresse oxidativo, apoptose e autofagia têm sido
+
+potencialmente e cuja manifestação ocorrerá em algum
+
+implicados na patologia da DH 2,6.
+
+momento do futuro, ou, ainda, quais são suas
+
+Muitos
+
+destes
+
+mecanismos
+
+desenvolvem-se
+
+predisposições genéticas para manifestar determinadas
+
+lentamente, tornando-se mais evidentes em fases mais
+
+doenças, também no futuro. Dessa forma, a medicina
+
+tardias da doença. Estes mecanismos podem mesmo
+
+teve o seu campo de ação ampliado com o
+
+ocorrer em paralelo, promovendo-se mutuamente e
+
+aparecimento dos exames para diagnóstico de doenças
+
+culminando na morte neuronal 2.
+
+de manifestação tardia 25.
+
+Os critérios usados para o diagnóstico da DH
+
+Neste sentido, após a descoberta do gene e da
+
+incluem história familiar de DH, déficit motor
+
+proteína envolvida na DH, tem sido possível
+
+progressivo associado à coréia ou rigidez sem outra
+
+desenvolver uma série de técnicas de biologia
+
+causa definida e alterações psiquiátricas com demência
+
+molecular, capazes de realizar o diagnóstico. A reação
+
+progressiva,
+
+sem
+
+indivíduos
+
+que
+
+outra
+
+causa.
+
+apresentam
+
+estes
+
+Atualmente,
+
+os
+
+em cadeia da polimerase (PCR) parece ser o método de
+
+sintomas
+
+são
+
+primeira escolha para estimar o número de repetições
+
+submetidos ao teste genético, de forma a avaliar a
+
+CAG nos portadores da DH 11.
+
+presença da mutação associada à DH e confirmar o
+diagnóstico 2.
+Em relação aos centros de cuidados dos
+
+O diagnóstico baseia-se essencialmente no
+quadro clínico característico, herança autossômica
+dominante e presença de atrofia do caudado observada
+
+portadores de DH na America do Sul, Maciel et al.10
+
+nos
+
+avaliou 24 centros, 14 localizados no Brasil, 4 na
+
+Computadorizada (TC) e Ressonância Magnética (RM)
+
+Argentina, 2 no Chile e um na Colômbia, Equador,
+
+podem mostrar atrofia precoce do núcleo caudado,
+
+Peru e Venezuela, cada um. A população combinada
+
+embora não sejam específicas da DH 27.
+
+36
+
+exames
+
+de
+
+imagem
+
+26
+
+.
+
+A
+
+Tomografia
+
+Arch Health Invest 3(4) 2014
+
+Arch Health Invest (2014) 3(4): 32-39
+
+© 2014 - ISSN 2317-3009
+
+A atrofia cerebral pode ser vista em estádios
+
+CONCLUSÃO
+
+precoces da doença. Técnicas de neuro-imagem
+
+Durante as últimas décadas, a DH tem recebido
+
+funcional como a RM funcional e a Tomografia de
+
+bastante atenção por parte da comunidade científica,
+
+Emissão de Posítrons (PET) podem demonstrar
+
+particularmente após a identificação do gene e da mu-
+
+alterações na atividade cerebral antes do início dos
+
+tação responsáveis pela doença, uma expansão das
+
+sintomas, no entanto são consideradas ferramentas
+
+repetições CAG no gene da huntingtina.
+
+úteis em investigação, mas não do ponto de vista
+clínico 27.
+
+estabelecida, mas quando mutada conduz à formação
+
+Por vezes, o exame físico, combinado com uma
+avaliação
+
+A função da huntingtina não está muito bem
+
+psicológica,
+
+pode
+
+determinar
+
+se
+
+de corpos de inclusão intracelulares, alterações no
+
+a
+
+transporte celular, alterações da transcrição e apoptose
+
+manifestação da doença já se iniciou. Movimentos
+
+que acarreta lesões em vários tecidos, em particular no
+
+involuntários excessivos de qualquer parte do corpo
+
+cérebro, onde provoca a atrofia dos gânglios da base.
+
+são frequentemente, a razão para a procura de ajuda
+médica. Se forem de início
+
+Até o momento não existe cura para a DH e a
+
+abrupto, e com
+
+maioria das estratégias de tratamentos disponíveis
+
+aparecimento e distribuição aleatórias, sugerem a
+
+ajuda a aliviar os sintomas motores e psiquiátricos
+
+27
+
+presença de DH .
+
+associados
+
+O diagnóstico de certeza da doença é feito
+
+à doença.
+
+Deste modo, um maior
+
+conhecimento dos mecanismos neurodegenerativos
+
+somente por exame genético, porém o teste genético
+
+envolvidos
+
+preditivo (TGP) para indivíduos sob risco de
+
+combinação de estratégias terapêuticas eficaz no seu
+
+desenvolver
+
+tratamento e novas pesquisas e investigações nos
+
+a
+
+doença
+
+implica
+
+questões
+
+éticas,
+
+na
+
+DH
+
+permitirá
+
+desenvolver
+
+uma
+
+26
+
+discriminatórias, jurídicas e religiosas .
+Novas
+
+abordagens
+
+terapêuticas
+
+mecanismos
+envolvendo
+
+células tronco com capacidade de se diferenciarem em
+
+fisiopatológicos
+
+poderão
+
+fornecer
+
+requisitos essenciais para o surgimento de terapias
+neuroprotetoras.
+
+neurônios ou células gliais ainda são extremamente
+prematuras e estão longe de aplicação prática para os
+indivíduos acometidos pela DH 28.
+
+1. Ximenes BAA, Teixeira EH. Doença de
+
+É esperado o desenvolvimento de estratégias
+preventivas
+
+e
+
+neuroprotetoras
+
+eficazes
+
+de
+
+racionais
+
+desenvolvimento
+
+abordagens
+
+REFERÊNCIAS
+
+e
+
+o
+para
+
+Huntington: aspectos diagnósticos e implicações
+éticas. Campinas. Rev Ciênc Méd. 2009;
+18:287-91.
+
+minimizar os sintomas dos indivíduos portadores de
+
+2. Gil-Mohapel
+
+JM,
+
+Rego
+
+DH e melhorar a qualidade de vida desses pacientes e
+
+Huntington:
+
+Uma
+
+Revisão
+
+4
+
+de seus cuidadores .
+
+AC.
+
+Doença
+
+dos
+
+de
+
+Aspectos
+
+Fisiopatológicos. Rev Neurocienc. 2011;
+
+O conhecimento das doenças que o indivíduo
+
+3. Ho LW, Carmichael J, Swart J, Wyttenbach A,
+
+manifestará ou que tem chances de manifestar
+
+Rankin J, Rubinsztein DC. The molecular
+
+tardiamente possibilita, no mínimo, as pesquisas sobre
+
+biology of Huntington’s disease. Psychol Med.
+
+elas e o progresso em direção à cura, dá oportunidade
+
+2001; 31:3-14.
+
+ao tratamento preventivo e, ainda, fornece respostas
+
+4. Barsottini OGP. Doença de Huntington. O que é
+
+que, em outras circunstâncias, só viriam após inúmeros
+
+preciso saber? Einstein: Educ Contin Saúde.
+
+exames, muitas vezes invasivos ou menos acurados 25.
+
+2007; 5:83-88.
+
+37
+
+Arch Health Invest 3(4) 2014
+
+Arch Health Invest (2014) 3(4): 32-39
+
+© 2014 - ISSN 2317-3009
+
+5. Ferraz CCB, Ortega FB, Reis MG dos et
+
+al.
+
+Sistematização da assistência de enfermagem ao
+paciente com doença de huntington: relato de
+experiência. Rev Enferm UFPE. 2013; 7::4796800.
+
+jun 2014.
+16.Paulsen J. Functional imaging in Huntington's
+disease. Exp Neurol. 2009; 216: 272-7.
+17.Huntington's
+
+Disease.
+
+Disponível
+
+em:
+
+6. Krobitsch S, Kazantsev AG. Huntington's
+
+<http://medgen.genetics.utah.edu/photographs/p
+
+disease: From molecular basis to therapeutic
+
+ages/huntington.htm > Acesso em: 20 mai 2014.
+
+advances. Int J Biochem Cell Biol. 2011; 43:20-
+
+18.Han I, You Y, Kordower JH, Brady ST, Morfini
+
+4.
+
+GA. Differential vulnerability of neurons in
+
+7. Spitz M. Doença de Huntington e outras coréias
+
+Huntington's disease: the role of cell type-
+
+Rev Hosp Univ Pedro Ernesto, UERJ. 2010; 9.
+
+specific features. J Neurochem. 2010; 113:1073-
+
+8. Ramos-Arroyo MA, Moreno S, Valiente A.
+
+91.
+
+Incidence and mutation rates of Huntington’s
+
+19.Berardelli A, Noth J, Thompson PD, Bollen EL,
+
+disease in Spain: experience of 9 years of direct
+
+Curra A, Deuschl G, et al. Pathophysiology of
+
+genetic testing. J Neurol Neurosurg Psychiatry.
+
+chorea and bradykinesia in Huntington's disease.
+
+2005; 76:337-342.
+
+Mov Disord, 1999; 14:398-403.
+
+9. Rodrigues GR, Walker RH, Bader B, Danek A,
+
+20.Heinsen H, Strik M, Bauer M, Luther K, Ulmar
+
+Brice A, Cazeneuve C. et al . Clinical and
+
+G, Gangnus D, et al. Cortical and striatal
+
+genetic analysis of 29 Brazilian patients with
+
+neurone number in Huntington's disease. Acta
+
+Huntington's
+
+Neuropathol. 1994; 88:320-33.
+
+disease-like
+
+phenotype.
+
+Arq.
+
+Neuro-Psiquiatr. 2011; 69: 419-423.
+
+21.Ferrante RJ, Gutekunst CA, Persichetti F,
+
+10.Maciel ROH, Cardoso FEC, Chana-Cuevas P,
+
+McNeil SM, Kowall NW, Gusella JF, et al.
+
+Cosentino C, Fernandez W, Rieder CRM. et al .
+
+Heterogeneous
+
+Care of patients with Huntington's disease in
+
+distribution of huntingtin expression in the
+
+South America: a survey. Arq. Neuro-Psiquiatr.
+
+normal human neostriatum. J Neurosci, 1997;
+
+2013; 71:368-370.
+
+17:3052-63.
+
+11.Rosales-Reynoso
+
+MA,
+
+Barros-Núñez
+
+topographic
+
+and
+
+cellular
+
+P.
+
+22.Fusco FR, Chen Q, Lamoreaux WJ, Figueredo-
+
+Diagnóstico molecular de la enfermedad de
+
+Cardenas G, Jiao Y, Coffman JA, et al. Cellular
+
+Huntington. Gac Méd Méx. 2008; 144: 271-273.
+
+localization of huntingtin in striatal and cortical
+
+12.Shannon K. Huntington’s disease and other
+
+neurons in rats: lack of correlation with neuronal
+
+choreas. Continuum: Lifelong Learning Neurol.
+
+vulnerability in Huntington's disease. J Neurosci,
+
+2004; 10:65-89.
+
+1999; 19:1189-202.
+
+13.Wild EJ, Tabrizi SJ. The differential diagnosis
+of chorea. Pract Neurol 2007; 7:360-73.
+
+23.DiFiglia M, Sapp E, Chase KO, Davies SW,
+Bates GP, Vonsattel JP, et al. Aggregation of
+
+14.Vonsattel JP, DiFiglia M. Huntington disease. J
+
+huntingtin in neuronal intranuclear inclusions
+
+Neuropathol Exp Neurol. 1998; 57:369-84.
+
+and dystrophic neurites in brain. Science. 1997;
+
+15.Doença de Parkinson - Aspectos Celulares.
+Apoptose
+
+em
+
+doenças
+
+277:1990-3.
+
+neurodegenerativas.
+
+24.Zuccato C. Valenza M. Cattaneo E. Molecular
+
+em:
+
+mechanisms and potential therapeutical targets
+
+<http://www.virtual.unifesp.br/unifesp/apoptose/
+
+in Huntington's disease. Physiol Rev, 2010;
+
+Disponível
+
+38
+
+restrito/parkinson_celular3.htm > Acesso em: 15
+
+Arch Health Invest 3(4) 2014
+
+Arch Health Invest (2014) 3(4): 32-39
+
+© 2014 - ISSN 2317-3009
+
+90:905-81.
+25.Sales AA. Aspectos éticos dos testes preditivos
+em doenças de manifestação tardia. Rev. Bras.
+Saúde Matern. Infant. 2010; 10:271-277.
+26.Barsottini OGP, Ferraz HB. Síndromes coréicas.
+In: Borges DR, Rothschild HA, organizadores.
+Atualização
+
+terapêutica. São
+
+Paulo: Artes
+
+Médicas; 2005. p. 1083-6.
+27.Gonçalves NFC. Doença de Huntington: uma
+revisão [Dissertação] Universidade da Beira
+Interior, Covilhã, Portugal; 2013
+28.Kim SU. Genetically engineered human neural
+stem cells for brain repair in neurological
+diseases. Brain Dev. 2007; 29:193-201.
+
+CONFLITO DE INTERESSES
+Os autores declaram não haver conflitos de interesse.
+
+AUTOR PARA CORRESPONDÊNCIA
+Anderson Martelli
+Faculdade Mogiana do Estado de São Paulo, FMG
+martellibio@hotmail.com
+
+Submetido em 20/07/2014
+Aceito em 21/08/2014
+
+39
+
+Arch Health Invest 3(4) 2014
