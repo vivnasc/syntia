@@ -1,0 +1,638 @@
+Introdução às Neurociências
+APRESENTAÇÃO
+•
+
+PARTE
+
+1
+Apresentação
+Caro aluno,
+Seja bem-vindo ao estudo da disciplina Neurociência da Cognição e da Emoção.
+A proposta deste Material de Estudos e Pesquisa reúne elementos que se entendem
+necessários para o desenvolvimento do estudo com segurança e qualidade. Caracteriza-se
+pela atualidade, dinâmica e pertinência de seu conteúdo, bem como pela interatividade e
+modernidade de sua estrutura formal, adequadas à metodologia da Educação a Distância –
+EaD.
+Pretende-se, com este material, levá-lo à reflexão e à compreensão da pluralidade dos
+conhecimentos a serem oferecidos, possibilitando-lhe ampliar conceitos específicos da área e
+atuar de forma competente e conscienciosa, como convém ao profissional que busca a
+formação continuada para vencer os desafios que a evolução científico-tecnológica impõe ao
+mundo contemporâneo.
+Elaborou-se o presente material com a intenção de torná-la subsídio valioso, de modo a
+facilitar sua caminhada na trajetória a ser percorrida tanto na vida pessoal quanto na
+profissional. Utilize-a como instrumento para seu sucesso na carreira.
+2
+Introdução
+Neurociência. O que quer dizer?
+Um termo tão presente no nosso dia a dia atualmente, em que ao abrir nossas redes sociais é
+fácil encontrar algum tipo de postagem, seja de profissionais de áreas diversas, seja de leigos,
+em algum momento vamos ver algo relacionado às neurociências. Sim, neurociências,
+veremos que é um termo no plural, tamanha a diversidade de conhecimentos que o termo
+abarca.
+O conhecimento sobre neurociências cresceu muito nos últimos anos, principalmente
+considerando o período entre 1990-1999, conhecido como Década do Cérebro. As
+neurociências se interessam pelo estudo do funcionamento do sistema nervoso, e através do
+cérebro e demais órgãos, investiga as funções e o comportamento resultante das atividades
+dessas estruturas.
+Nessa disciplina vamos iniciar a Unidade I adentrando em um terreno que desperta muitas
+indagações: o nosso sistema nervoso. Esse campo de investigação das neurociências vai nos
+levar ao estudo do cérebro e do poder que ele exerce sobre o nosso comportamento, em todos
+os momentos da nossa vida, seja dormindo, seja acordado.
+Na Unidade II o foco será na Psicologia Cognitiva abordando os processos psicológicos
+básicos, bem como as funções mentais superiores, que envolvem nossa cognição e emoção:
+
+sensação, percepção e atenção; memória, pensamento e linguagem; raciocínio, inteligência e
+aprendizagem; motivação, sentimentos e emoções.
+Após essa explanação, na Unidade III nos dedicaremos aos estudos das neurociências e os
+desafios enfrentados na aprendizagem e os distúrbios mentais e neurológicos.
+3
+Objetivos
+» Conhecer uma visão geral do sistema nervoso e a organização do cérebro.
+» Entender o desenvolvimento das neurociências e seu percurso histórico.
+» Desenvolver os conceitos dos processos mentais.
+» Conhecer o espaço das emoções nas neurociências.
+» Refletir sobre a contribuição das neurociências para a educação.
+Introdução às Neurociências
+UNIDADE 1 | CAPÍTULO 2Partes
+•
+
+Bem-vindo!
+Neste capítulo estudaremos
+Aspectos históricos
+1
+Introdução
+Se hoje há grande interesse pelo estudo do cérebro, na antiguidade já foi diferente. Soares
+(2012) aponta em seus estudos a tradição dos egípcios de jogar fora o cérebro no processo de
+mumificação por considerarem como um órgão inútil. Para os assírios, o fígado era
+considerado como o centro do pensamento. Já na visão de Aristóteles a função do cérebro era
+resfriar o sangue. A autora relata que Hipócrates, pai da Medicina Moderna, foi o responsável
+por mostrar a divisão do cérebro em dois hemisférios, contendo as funções biológicas da
+mente.
+Demonstrando esse interesse sobre o cérebro, Souza (2014) traz uma citação de Hipócrates,
+em que explicita a sua definição do cérebro como sede da mente, que embora datem do século
+IV antes de Cristo parece muito atual:
+
+Deveria ser sabido que ele é a fonte do nosso prazer, alegria, riso e diversão, assim como nosso
+pesar, dor, ansiedade e lágrimas, e nenhum outro que não o cérebro. É especificamente o órgão
+que nos habilita a pensar, ver e ouvir, a distinguir o feio do belo, o mau do bom, o prazer do
+desprazer. É o cérebro também que é a sede da loucura e do delírio, dos medos e sustos que
+nos tomam, muitas vezes à noite, mas às vezes também de dia; é onde jaz a causa da insônia e
+
+do sonambulismo, dos pensamentos que não ocorrerão, deveres esquecidos e
+excentricidades.
+Como afirma Callegaro (2011), nem sempre houve interesse da psicologia pelo conhecimento
+neurobiológico, principalmente da psicologia clínica. Porém, no final do século XX observa-se
+uma mudança nesse panorama a partir do uso de técnicas de neuroimagem funcional.
+O uso dessas técnicas favoreceu a detecção de alterações no funcionamento das estruturas
+neurais que foram relacionadas a intervenções psicológicas. Hoje é sabido que as intervenções
+medicamentosas e também psicológicas se dão no sistema nervoso central, “uma vez que as
+intervenções psicoterapêuticas atuam no tecido neural, produzindo alterações no padrão de
+comunicação sináptica de forma semelhante aos efeitos produzidos por drogas psicotrópicas”.
+(p. 271)
+Como o autor complementa, qualquer abordagem psicoterapêutica é capaz de produzir
+alterações de longo prazo na rede de conexões sinápticas, alterando os estados emocionais, a
+cognição e o próprio comportamento. Essas alterações se devem à aprendizagem durante a
+psicoterapia em que as informações aprendidas são armazenadas pela memória e podem ser
+acessadas em outros momentos.
+Lundy-Ekman também corrobora a ideia da neurociência como um ramo relativamente novo,
+que se ocupa da compreensão do sistema nervoso em relação ao seu desenvolvimento,
+química, estrutura e funções. O autor relata que as pesquisas nessa área são recentes,
+somente a partir do final do século XIX alguns cientistas começaram a relacionar as áreas
+encefálicas a funções complexas como linguagem e percepção, por exemplo. Os estudos
+evoluíram muito, e hoje é possível analisar o sistema nervoso em seus diversos níveis (como
+visto no capítulo anterior).
+Gazzaniga e Heatherton (2005) descrevem uma revolução biológica que está acontecendo na
+atualidade e mudando os rumos das pesquisas a partir das suas descobertas. Perguntas,
+como: ‘O que é a consciência?’ ou ‘Como a emoção afeta os processos cognitivos?’, existem há
+muito tempo, porém, o conhecimento recente do funcionamento cerebral tem possibilitado
+entender esses processos mentais básicos. Os autores se referem a três desenvolvimentos que
+revolucionaram a explicação desses processos mentais: química do cérebro, o genoma
+humano e a observação do cérebro em funcionamento. Vejamos a explicação dos autores para
+tais contribuições.
+Clique sobre os números abaixo:
+1Química do cérebro - O cérebro funciona pela ação de substâncias químicas conhecidas
+como neurotransmissores, que enviam mensagens entre as células nervosas. Nos últimos 30
+anos, os cientistas psicológicos fizeram progressos imensos na identificação dessas
+substâncias químicas e suas funções. Embora, há muito tempo, se acreditasse que não mais
+do que uns poucos neurotransmissores estavam envolvidos na atividade cerebral, agora se
+sabe que centenas de substâncias diferentes desempenham papel crítico na atividade mental
+e no comportamento. [...] Também sabemos agora que as pessoas têm melhor memória para
+eventos que acontecem quando elas estão emocionadas do que quando estão calmas, porque
+as substâncias químicas presentes na resposta aos estímulos influenciam os mecanismos
+neurais envolvidos na memória. Compreender os processos químicos do cérebro fornece
+muitos insights sobre a atividade mental e possibilita o comportamento, e é útil para
+desenvolver tratamentos para ajudar pessoas com variados transtornos psicológicos. 2O
+
+genoma humano - Os cientistas não só conseguiram mapear o genoma humano, o projeto ou
+código genético básico do corpo humano, como também criaram várias técnicas que lhes
+permitiram descobrir a ligação entre genes e comportamento. Evidentemente, a ideia de que
+um único gene causa um comportamento específico é demasiado simplista. Quase toda a
+atividade psicológica e biológica é afetada pelas ações de múltiplos genes. Não existe um gene
+específico que é o único responsável pela memória, ou pelas atitudes racistas, ou pela timidez.
+No entanto, acumulam-se evidências de que os genes estão envolvidos em muitos desses
+processos. [...] O mapeamento do genoma humano proporcionou aos cientistas o
+conhecimento fundamental para estudar como genes específicos afetam pensamentos,
+sentimentos e vários transtornos. Embora muitas das fantásticas possibilidades de corrigir
+defeitos genéticos ainda demorem algumas décadas para se concretizar, os métodos
+empregados pelos cientistas para estudar a influência dos processos genéticos possibilitaram
+novos insights sobre a atividade mental. 3A observação do cérebro em funcionamento Empregando os métodos da ciência cerebral, ou neurociência, os cientistas psicológicos
+conseguiram investigar algumas das perguntas mais centrais da experiência humana: como as
+diferentes regiões cerebrais interagem para produzir a experiência perceptiva? como os vários
+tipos de memória são semelhantes e diferentes? e como a experiência consciente envolve
+mudanças na atividade cerebral? Saber em que local do cérebro algo acontece não nos diz
+muito, mas saber que existem padrões consistentes de ativação cerebral associados a tarefas
+cognitivas específicas nos mostra que os dois estão conectados. Na verdade, os cientistas, há
+mais de cem anos, discordam sobre se os processos psicológicos estão localizados em partes
+específicas do cérebro ou distribuídos por todo o cérebro. Nós sabemos que existe alguma
+localização de função, mas também que muitas regiões cerebrais participam da produção do
+comportamento e da atividade mental. O uso de imagens cerebrais permitiu aos cientistas
+psicológicos avançarem imensamente no entendimento dos estados mentais, como volição e
+atenção, ambos os quais têm sido centrais na psicologia há mais de um século.
+Os autores também destacam os últimos anos como fundamentais no desenvolvimento de
+métodos para estudar o cérebro em funcionamento. As técnicas de imagem cerebral, por
+exemplo, permitem estudar a atividade metabólica do cérebro ao observar como a circulação
+do sangue flui quando estamos processando informações. Essa informação indica que há
+mudanças na atividade cerebral e que algumas partes do cérebro estão envolvidas em
+determinados comportamentos, sejam eles, observáveis ou encobertos.
+Pliszka (2004) retoma esses acontecimentos históricos a partir de meados do século XVII e
+XVIII, destacando movimentos humanitários preocupados com a dignidade dos pacientes
+doentes mentais. O trabalho de Phillipe Pinel é apontado por ele, por defender que os doentes
+mentais internados não ficassem acorrentados. No século XIX o autor evidencia as discussões
+sobre as causas da doença mental, se eram biológicas ou psicológicas. Na continuidade desse
+movimento que precede as neurociências, aponta as descobertas feitas por Paul Broca e Carl
+Wernicke sobre a relação de lesões cerebrais em regiões específicas com o défice da fala e da
+linguagem, o que reforça a associação de distúrbios de comportamento às disfunções
+cerebrais. E nessa mesma linha de associação se destaca Alois Alzheimer por sua descoberta
+da relação entre lesões patológicas no cérebro e demência precoce.
+Em relação à Psicanálise, o autor ressalta, que embora ela tenha provocado um afastamento
+das teorias biológicas, trouxe uma importante contribuição a partir da observação das diversas
+interações sociais e ambientais e sua interferência na etiologia das doenças mentais –
+
+examinando como fatores ambientais interagem com fatores intrínsecos cerebrais nessa
+gênese.
+Na década de 1950, Pliszka ressalta as contribuições das abordagens farmacológicas no
+tratamento da depressão e da psicose, com a descoberta e desenvolvimento de diversas
+drogas para esses tratamentos. Os estudos não pararam por aqui, o autor passa a abordar os
+conhecimentos de neuroanatomia para responder como e também quais são as áreas do
+cérebro que são disfuncionais nos transtornos mentais e as pesquisas que vieram a partir daí.
+
+Fazendo essa construção histórica, Souza (2014) retrata, a partir do século XIX, as posições
+globalistas e localizacionistas sobre o estudo do cérebro. Esse confronto entre concepções,
+globalista e localizacionista faz parte da história da Neurociência. Os localizacionistas,
+defendendo que as funções neurais estariam em uma região específica, e os globalistas,
+defendendo que as funções neurais têm sua representação em muitas, ou até mesmo, em
+todas, as regiões cerebrais.
+
+O autor parte da popular frenologia, proposta por Gall, que propunha a existência no cérebro de
+regiões responsáveis por determinadas funções (localizacionista). Gall dividiu a mente em 27
+áreas, considerando as suas faculdades que estavam localizadas em órgãos cerebrais. Isso foi
+demais para a época, que ainda nem admitia a existência do cérebro como um órgão da mente.
+Na época, Gall foi expulso de Viena, pois ameaçou a unidade de conhecimento proposta até
+então.
+
+Embora infundada, a proposta de Gall abriu as portas para importantes pesquisas na
+neurociência, visando à localização das lesões, pois oferecia uma hipótese testável para a
+verificação da função de cada parte do cérebro.
+Souza (2014) cita também os estudos de Jean Pierre Florens, e sua teoria do campo agregado,
+em que defendia que o cérebro funciona como um todo (globalista).
+Indo além das ideias de Gall, o autor traz as contribuições de J. H. Jackson, que apresenta a
+organização topográfica do cérebro, em que cada região cerebral controla uma parte motora
+(localizacionista).
+Nessa linha investigativa o autor destaca as descobertas de Paul Broca como uma das mais
+importantes para a história das neurociências. Juntamente com Carl Wernicke, desenvolveu
+pesquisas que levaram à localização de uma função em uma área específica do cérebro, no
+caso, mapearam as regiões da expressão da fala e da compreensão.
+2
+A localização das funções
+Parte da história da neurociência foi marcada por essas questões quanto à globalidade e à
+localização das funções neurais. Vamos aprofundar um pouco mais sobre a visão da
+
+localização a partir do trabalho de Robert Lent (2001), autor de uma grande referência da
+neurociência, “Cem bilhões de neurônios”.
+Clique sobre a imagem abaixo:
+
+Foi justamente o trabalho de neurologistas sobre a linguagem e os efeitos de lesões no cérebro
+sobre ela, que permitiram concluir que essa função está representada em regiões cerebrais
+específicas. Segundo a lógica desses estudos, o desaparecimento de uma determinada região
+cerebral provocaria um défice funcional, assim, essa região, seria como uma sede para essa
+função. Porém, essa lógica não considerava a capacidade do cérebro de se reorganizar com
+outras regiões para participar dessa função. Com as técnicas anteriores não era possível saber
+se o défice era resultado da falta da região lesada, ou se era resultado da reorganização
+funcional do sistema. Atualmente, os exames de imagem já permitem localizar o uso de
+determinadas áreas do cérebro, e não de outras, ao se avaliar, por exemplo, questões de
+julgamento emocional e moral.
+
+Esses experimentos comprovam o funcionamento do sistema nervoso como um mosaico de
+regiões, com funções determinadas. Embora, as funções realizadas sejam determinadas, isso
+não quer dizer que trabalhem de forma isolada. Na verdade, trabalham de forma integrada, não
+havendo uma função mental pura, mas uma combinação complexa das diversas conexões
+neurais, representadas nas funções fisiológicas e psicológicas de cada ato.
+Vimos um pouco da história, com as pesquisas que deram início aos estudos das
+neurociências. Vamos continuar e conhecer agora um pouco sobre o funcionamento do
+sistema nervoso e também da estrutura cerebral, que segundo Pliszka (2004) são fundamentais
+para a construção do conhecimento das Neurociências.
+Introdução às Neurociências
+UNIDADE 1 | CAPÍTULO 3Partes
+•
+
+Bem-vindo!
+Neste capítulo estudaremos
+Sistema Nervoso
+1
+Introdução
+Como já vimos, as neurociências se interessam pelos estudos do sistema nervoso, que se
+divide em central e periférico. Segundo Souza (2014) a etimologia de nervos vem do latim
+nervium, fazendo referência a cordas, como se o nervo fosse visto como uma corda de um
+instrumento musical. A criação do microscópio no século XVII possibilitou a análise detalhada
+
+da estrutura do nervo, em que se identificou sua composição através de axônios, neurônios,
+somados a membranas que os envolvem e os separam em fascículos.
+Rubinstein e Cardoso (2012) apontam como papel do sistema nervoso o controle e a
+coordenação das funções orgânicas de todo o sistema e também a interpretação e
+desencadeamento de resposta a partir da recepção dos estímulos. Acreditam que muitas
+funções do sistema nervoso podem depender da vontade, mas também podem ocorrer sem
+que se tome consciência delas.
+
+Souza (2014) destaca que o conhecimento do sistema nervoso como responsável pelo controle
+dos movimentos data de muitos séculos. Acreditava-se que uma mensagem era enviada pelo
+cérebro através da coluna vertebral para a medula, que por sua vez, repassava para os
+membros através dos nervos para que o movimento fosse realizado. O sentido contrário
+também era conhecido, sendo o cérebro capaz de receber informações transmitidas pelos
+nervos, que as coletavam no ambiente, como sensações de frio ou calor.
+
+Na atualidade, com estudos mais complexos, é sabido que as informações cerebrais podem
+ser passadas com o uso de substâncias químicas, os chamados neurotransmissores, que as
+repassam para todos os órgãos do corpo, e não só para os membros responsáveis pelos
+movimentos.
+A divisão em sistema nervoso central e periférico se dá considerando a localização do cérebro.
+O sistema nervoso central do homem aloja a imensa maioria
+dos neurônios, e está contido no interior da caixa craniana (o
+encéfalo) e da coluna vertebral (a medula espinhal). Já o
+sistema nervoso periférico é constituído de uma menor
+proporção de neurônios, mas apresenta uma extensa rede de
+fibras nervosas espalhadas por quase todos os órgãos e
+tecidos do organismo.
+
+O sistema nervoso central (SNC) é composto pelo encéfalo e pela medula espinhal, sendo que
+o encéfalo é composto por: cérebro, cerebelo, e tronco encefálico (mesencéfalo, ponte e
+bulbo). Grosso modo, o encéfalo abarca tudo que está dentro do nosso crânio. O encéfalo tem
+funções mais complexas que as da medula espinhal, o que possibilita toda a capacidade
+humana cognitiva e afetiva, e também outras atividades comuns a todos os seres.
+Já a medula espinhal está localizada no interior da coluna, da primeira vértebra cervical até o
+espaço situado entre a primeira e segunda vértebra lombar. Sua função, segundo Rubinstein e
+Cardoso “é a recepção de estímulos, de comando e desencadeadora de respostas, formado
+pelo encéfalo e pela medula espinhal, protegidos, respectivamente pelo crânio e pela coluna
+vertebral”.
+
+De forma cilíndrica ou tubular, a medula contém em seu interior um canal estreito que contém
+um líquido, com suas funções motoras e sensitivas, relacionadas principalmente ao controle
+imediato do funcionamento corporal.
+O sistema nervoso periférico compõe o sistema nervoso, mas fora do encéfalo e da medula
+espinhal. Ele é constituído por fibras (nervos cranianos e espinhais), gânglios nervosos e órgãos
+terminais. Essas são as vias que conduzem os estímulos até o SNC ou até os órgãos que irão
+executar as ordens vindas do SNC. São três, os tipos de nervos que compõem o sistema
+nervoso periférico (SOUZA, 2014):
+Clique sobre os itens abaixo:
+•
+
+I Nervos sensitivos: responsáveis pela transmissão dos impulsos nervosos do órgão
+receptor para o sistema nervoso central.
+
+•
+
+IINervos motores: responsáveis pela condução da mensagem codificada no
+encéfalo até o órgão que efetuará o movimento.
+
+•
+
+IIINervos mistos: são nervos que possuem as funções sensitivas e motoras.
+
+Os nervos do sistema nervoso periférico podem emergir diretamente do encéfalo (nervos
+cranianos, exemplificados em A), inervando órgãos e tecidos da cabeça. Ou então emergem de
+cada segmento da medula (nervos espinhais, exemplificados Como principais componentes
+do SNP, os nervos são encontrados em praticamente todas as partes do corpo. Ao se percorrer
+o trajeto de um nervo, é possível observar que uma extremidade está localizada em algum
+órgão, enquanto a outra extremidade está inserida no SNC em orifícios do crânio e da coluna
+vertebral. De forma esquemática os nervos são divididos em espinhais e cranianos. São
+espinhais quando unidos ao SNC a partir dos orifícios existentes na coluna vertebral. São
+cranianos quando a união com o SNC se dá a partir dos orifícios cranianos. As informações
+veiculadas pelos nervos, espinhais e cranianos, podem ser sensitivas ou motoras, somáticas
+ou viscerais, sendo que, como já foi apontado, os nervos podem ser mistos, transmitindo mais
+de um tipo de informação. (LENT, 2010)
+Lent (2010) faz uma analogia do SNP com máquinas, em que pode ser compreendido a partir
+do seu conjunto de sensores, cabos e chips. Os sensores, ou receptores sensoriais, são de
+certa forma os nossos sentidos, distribuídos por todos os tecidos do organismo, músculos,
+ossos, articulações, vísceras e pele. A função desses sensores é captar a informação advinda
+do ambiente ou do próprio organismo, traduzindo-a de uma forma que seja compreendida pelo
+sistema nervoso, que são os impulsos bioelétricos. Esses sensores ficam ligados às fibras
+nervosas constituintes dos nervos, que funcionam como cabos. A função dos nervos é a
+condução dos impulsos elétricos que foram gerados pelos receptores, levando-os até o SNC.
+Da mesma forma que levam informações até o SNC, os nervos fazem o caminho inverso,
+trazendo impulsos elétricos produzidos no SNC para as glândulas, para os músculos das
+paredes das vísceras, para os músculos esqueléticos e cardíacos. O trabalho dos nervos não
+termina aí, nesses locais os impulsos transformam-se em ações, como a contração muscular,
+ou a secreção glandular, liberando energia. Como a função do SNP não é apenas condutora, é
+preciso lembrar dos chips que irão processar as informações como se fossem pequenos
+computadores. Os chips são os contatos realizados entre os neurônios que se situam nos
+gânglios sensitivos, espinhais e motores.
+
+Introdução às Neurociências
+UNIDADE 1 | CAPÍTULO 4Partes
+•
+
+Bem-vindo!
+Neste capítulo estudaremos
+Organização do cérebro
+
+1
+Introdução
+
+Não há muito para ver. Macio, esponjoso, mosqueado e de cor cinzarosado, dificilmente
+poderia se dizer que tem beleza física. Porém, apesar de sua aparência, ele se classifica como
+a maior maravilha natural que conhecemos e tem uma beleza e sofisticação próprias.
+O objeto ao qual se aplica essa descrição: o cérebro. Ele é responsável por nossos
+pensamentos mais elevados – e por nossos impulsos mais primitivos. Ele é o supervisor das
+intricadas operações do corpo humano. Se tivéssemos de tentar projetar um computador que
+imitasse o leque das capacidades do cérebro, a tarefa seria quase impossível; na verdade
+revelou-se difícil chegar apenas perto disso. A simples quantidade de células nervosas no
+cérebro é suficiente para intimidar até mesmo o engenheiro de computação mais ambicioso.
+Muitos bilhões de neurônios compõem uma estrutura que pesa apenas 1300 gramas no adulto
+mediano. Entretanto, não é o número de células o aspecto mais impressionante em relação ao
+cérebro, mas sua capacidade de permitir que o intelecto humano floresça orientando nosso
+comportamento e nossos pensamentos.
+Fonte: FELDMAN, R. S. Introdução à Psicologia. 10ª ed. Porto Alegre: Artmed,
+Mc Graw Hill Education, 2016.
+
+O estudo das lesões no cérebro e os consequentes distúrbios provocados, foi e ainda é, o
+caminho que muitas vezes permite levantar hipóteses sobre o modo de funcionamento do
+cérebro normal. Como destaca Gil (2010)
+
+Se o ser humano pode conhecer o mundo e nele agir, é graças a um funcionamento
+coordenado dos recursos cognitivos e às múltiplas conexões que o cérebro tece, não só entre
+os dois hemisférios, mas também no interior de cada hemisfério, desenhando uma rede
+complexa, articulada de uma ponta à outra da neuraxe. Inúmeros vínculos são tecidos entre a
+cognição, a afetividade, a sensitividade e a motricidade.
+Esses vínculos descritos pelo autor são realizados pelos neurônios, considerados a unidade
+fundamental do SN, por serem os responsáveis pela condução e tratamento das informações
+recebidas. São vários bilhões de neurônios que se conectam através de sinapses, criando
+inúmeras redes. É justamente essa reunião de neurônios que constitui a chamada substância
+cinzenta, o córtex. Mas os neurônios não estão presentes somente no córtex, estão espalhados
+pelo tálamo e núcleos cinzentos. Os prolongamentos dos neurônios, axônios e dendritos,
+constituem a chamada substância branca, que fica entre o córtex e os núcleos cinzentos.
+Dentro do SNC, o cérebro é o responsável pelas funções mais elevadas, que vão desde a
+interpretação de estímulos à ordenação de movimentos musculares, sendo a parte mais
+desenvolvida do encéfalo. Além disso, armazena informações e é responsável por processos
+psíquicos elaborados, que determinam inteligência e personalidade. (RUBINSTEIN; CARDOSO,
+2012)
+Sua composição se dá pelos hemisférios cerebrais, juntamente com o diencéfalo. Sua
+aparência é geralmente comparada a uma noz, e para funcionar recebe em média 25% do
+sangue bombeado pelo coração.
+
+Saiba MaisFechar
+Feldman (2016) apresenta a estrutura cerebral a partir do que alguns autores chamam de
+cérebro antigo, que é uma parte que comanda atividades básicas, como comer, dormir e
+respirar. Seria como uma parte do cérebro mais primitivo. Essa parte do cérebro é composta
+por: bulbo raquidiano, ponte, cerebelo e formação reticular. O bulbo controla algumas funções
+corporais específicas, como respiração e batimentos cardíacos. A ponte funciona como
+reguladora do sono e também como um neurotransmissor de informações motoras ao
+controlar os músculos e seus movimentos obedecendo os lados direito e esquerdo do corpo. O
+cerebelo tem como função principal o controle do equilíbrio corporal, sem o qual seria
+impossível andar em linha reta. Também está relacionado a funções intelectuais de análise, de
+resolução de problemas e coordenação sensorial. A formação reticular funciona como um
+guarda, vigiando atentamente a qualquer excitação corporal. Quando percebe alguma ameaça,
+ativa um estado aumentado de atenção até identificar qual deve ser a resposta. Essas são
+atividades consideradas menos sofisticadas, por isso, geralmente chamado de cérebro antigo.
+
+Continuando sua explanação, o autor apresenta o cérebro novo, assim chamado considerando
+a sua evolução recente. Ele é formado pelo córtex cerebral, que faz do homem um ser
+diferenciado, distinto dos outros animais. Essa parte do cérebro é dividida em quatro seções,
+os lobos: frontais, parietais, temporais e occipitais, que são separados fisicamente pelos
+sulcos. Além da estrutura física, o cérebro também é estudado a partir das funções associadas
+a áreas específicas. São conhecidas três áreas principais: áreas sensoriais, áreas de
+associação e áreas motoras. Essa divisão é uma simplificação didática, pois é sabido que o
+comportamento recebe influência de diversas áreas do cérebro ao mesmo tempo:
+Clique sobre a imagem abaixo:
+
+Dentro do SNC, o cérebro é a parte mais
+importante, pois é ele que favorece a tomada de consciência de todas as informações
+coletadas por nossos órgãos dos sentidos e também é o responsável pela interpretação dessas
+informações coletadas, fazendo uma comparação entre as vivências e expectativas
+levantadas. O cérebro é também responsável pela emissão de respostas, tanto as voluntárias
+quanto as involuntárias, que são a expressão do nosso comportamento atuando sobre o
+ambiente. Na mesma linha, ocorrem os processos mentais: pensamentos, atenção e
+capacidade de julgamento. (COSENZA; GUERRA, 2011)
+A neurofilósofa Patrícia Churchland em entrevista à revista ‘Super Interessante’, afirma que a
+mente é produto do cérebro, que executa tarefas complexas. Destaca que não somos
+máquinas e que os computadores estão muito distantes do comportamento humano. Eles
+podem executar várias ações, mas o fazem de forma mecânica, sem compreensão do que está
+sendo feito.
+O livro indaga sobre “qual é a verdadeira natureza dos processos e estados mentais? Em que
+meio eles ocorrem, e como se relacionam com o mundo físico? A capacidade de pensar sobre
+as coisas, sobre a própria existência e tomar atitudes é o que significa dizer que seres humanos
+possuem “mentes”, diferenciando o homem dos demais animais? Assim, não causa surpresa
+que a tentativa de esclarecer o que significa “ter uma mente” esteja no centro das
+preocupações da tradição filosófica ocidental.
+Tudo aquilo que vivemos, qualquer experiência, será processada e armazenada pelo nosso
+cérebro. A química cerebral é alterada a cada acontecimento, a cada aprendizagem.
+Gazzaniga e Heatherton (2005) corroboram a afirmação de Churchland. Para eles a mente é
+referente à atividade mental, que acontece sempre que pensamos em uma situação, que
+acionamos a nossa memória, que planejamos um evento. Essa atividade mental, que é a nossa
+
+mente, é resultado de processos biológicos que acontecem no nosso cérebro, por meio da
+ação das suas células nervosas e também da associação com as reações químicas.
+
+Estudamos em René Descartes, considerado o pai da filosofia moderna, que falava sobre corpo
+e mente como duas entidades separadas e irreconciliáveis, o corpo separado da mente. E ele
+não foi o primeiro a falar disso, ele tirou essas ideias de Platão, considerado o pai da filosofia
+ocidental. Freud, os estudou, e tinha ideias similares sobre a separação do corpo e da mente. E
+essa é a forma pela qual médicos e psicólogos, de forma geral, estudam e funcionam!
+
+Então, se eu sou um médico, e alguém vem até mim, eu procuro “consertar” seu corpo; a
+mente, é irrelevante! Ou, se sou um psicólogo, vamos falar sobre seus problemas, suas
+questões, o corpo? Vá ao médico, eles irão te curar, como se o corpo fosse irrelevante para o
+que ele faz.
+Durante muito tempo vimos corpo e mente como duas entidades separadas e irreconciliáveis.
+Hoje em dia existem cada vez mais profissionais que já olham os dois como inseparáveis, como
+uma unidade. Sabem que trabalhar com um, afeta o outro, pois eles são interconectados.
+Antonio Damasio, um dos grandes pensadores de nossa Era, em seu livro, “O erro de
+Descartes” escreve:
+
+Esse é o erro de Descartes: a separação em forma de um abismo entre corpo e mente, entre o
+corpo como algo mensurável, dimensionável, operado mecanicamente, divisível e de outro
+lado a mente como algo não mensurável, não dimensionável, inflexível, indivisível [...]
+sugestionando que a causa, o julgamento moral, e o sofrimento que vêm da dor física ou
+emocional existem separadamente do corpo.
+Ele fala sobre moralidade separada do corpo, da parte espiritual, como algo que não existe uma
+dimensão, que não pode ser mensurável, como pertencente a outro lugar. E temos pensadores
+e cientistas ainda separando esses dois papéis, que são na verdade um só. Simplesmente, não
+podem ser separados, e pelo fato de separarmos, pagamos um preço alto por isso! E se os
+colocamos juntos, os ganhos são enormes.
+
+Uma curiosidade: Os três cérebros
+As estruturas do cérebro, filogeneticamente mais antigas, são essencialmente constituídas de
+uma grande parte do tronco cerebral e, em particular, do sistema reticular implicado na vigília,
+bem como dos núcleos cinzentos centrais implicados na motricidade: segundo a concepção
+tripartida de MacLean, essas estruturas correspondem ao “cérebro reptiliano”. Esse cérebro, o
+mais arcaico, rico em receptores opiáceos e em dopamina, controla os comportamentos
+indispensáveis às necessidades básicas e à sobrevida da espécie, como o ato de comer e a
+defesa do território. O sistema límbico ou “cérebro mamífero” ou “paleomamaliano” envolve
+
+como um “anel” (um “limbo”) o precedente, na face interna dos hemisférios cerebrais. A parte
+mais profunda, conectada ao hipotálamo, é constituída de estruturas subcorticais e, em
+particular, do hipocampo e da amígdala. A parte periférica do anel corresponde ao córtex
+límbico, que é constituído do giro do hipocampo (T5 ou giro para-hipocampal) e do giro do
+corpo caloso (giro do cíngulo), e todo o conjunto constitui o grande giro límbico de Broca ou
+gyrusfornicatus, percorrido por um feixe associativo, o cíngulo, e que tem sua origem no córtex
+fronto-orbital. O aparelho olfatório completa o sistema límbico. Além disso, múltiplas
+conexões unem o sistema límbico com o neocórtex (frontal, temporal) da face interna dos
+hemisférios cerebrais, com os núcleos, ditos límbicos, do tálamo (sobretudo os núcleos
+anterior e dorsomedial), e com a formação reticulada mesencefálica (área límbica do
+mesencéfalo). Enfim, o sistema límbico compreende o circuito de Papez, que é feito de fibras
+eferentes do hipocampo que, por intermédio do trígono ou fórnix, atingem os corpos
+mamilares, fazem conexão com o feixe mamilotalámico de Vicq d’Azyr, para chegar, enfim, ao
+núcleo anterior dos tálamos e ao giro do cíngulo (ou cingular). O sistema límbico intervém na
+regulação dos comportamentos instintivos, dos comportamentos emocionais e na memória.
+Acima dos cérebros “reptiliano” e “límbico”, abrem-se os hemisférios cerebrais cobertos por
+um manto ou córtex cerebral e que constituem o “cérebro neomamaliano”, que gerencia as
+informações provenientes do meio ambiente, adapta as ações, permite o desdobramento das
+funções cognitivas, com a linguagem em primeiro lugar, e também dar capacidade de
+planificação, de antecipação do lobo frontal, em que culmina a humanização do cérebro. Essa
+concepção tripartida, com certeza esquemática, não pode ser imaginada sem as conexões que
+ligam as três estruturas entre si.
+
+Introdução às Neurociências
+UNIDADE 1 | CAPÍTULO 5Partes
+•
+
+Bem-vindo!
+Neste capítulo estudaremos
+Neurociência cognitiva
+
+1
+Introdução
+Conforme aponta Eysenck (2017) a abordagem cognitiva está assumindo um espaço cada vez
+maior. É uma abordagem que reconhece que os processos cognitivos desempenham
+importante papel tanto para o desenvolvimento quanto para o tratamento dos transtornos
+mentais.
+
+A cognição humana é estudada de diversas formas, incluindo técnicas de imagem cerebral,
+como imagem por ressonância magnética funcional (IRMf), e também, técnicas
+eletrofisiológicas a partir do registro de sinais elétricos emitidos pelo cérebro. Outra forma
+possível, é estudar os efeitos que uma lesão cerebral pode provocar na cognição humana. Usase esse estudo por se acreditar que ao investigar o prejuízo cognitivo que um paciente com
+lesão cerebral apresenta, pode oferecer informações sobre como é o funcionamento normal,
+bem como ser indicativo das áreas cerebrais responsáveis pelos processos cognitivos.
+Por que esse interesse? Esse interesse pelo uso de diferentes formas de investigar
+detalhadamente o funcionamento da estrutura do cérebro vem da possibilidade de se obter
+
+informações sobre a localização e o momento em que processos cognitivos específicos
+ocorrem, ou seja, permite que a ordem da ativação de diferentes áreas cerebrais ao se
+desempenhar uma tarefa seja estabelecida. Da mesma forma, permite saber se as mesmas
+áreas cerebrais podem ser acionadas da mesma forma por duas tarefas, ou se existe alguma
+diferença significativa.
+Eysenck (2017, pp.12-13) cita como principais técnicas para o estudo do cérebro, as seguintes:
+Clique sobre os números abaixo:
+1Registro de unidade isolada. Trata-se de uma técnica (também conhecida como registo de
+célula única) que envolve a inserção no cérebro de um microelétrodo de um décimo de
+milésimo de um milímetro de diâmetro para estudar a atividade em neurônios isolados. Esse
+instrumento é muito sensível, uma vez que alterações elétricas de um milionésimo de volt
+podem ser detectadas. 2Potenciais relacionados a eventos (ERPs). O mesmo estímulo (ou
+estímulos muito semelhantes) é apresentado repetidamente, e o padrão de atividade cerebral
+elétrica registrado por vários eletrodos colocados no couro cabeludo é calculado para produzir
+uma forma de onda única. Essa técnica permite investigar vários processos cognitivos com
+muita precisão temporal, mas sua resolução espacial é muito fraca. 3 Tomografia por emissão
+de pósitrons (PET). Trata-se de uma técnica que envolve a detecção de pósitrons (partículas
+atômicas emitidas por algumas substâncias radioativas). A PET tem razoável resolução
+espacial, mas pouca resolução temporal e mede a atividade neural apenas de forma indireta.4
+Imagem por ressonância magnética funcional (IRMf). Técnica que envolve a imagem da
+oxigenação do sangue, usando uma máquina de imagem por ressonância magnética (IRM)
+(descrita posteriormente). A IRMf tem resolução espacial e temporal superiores à PET e
+também fornece uma medida indireta da atividade neural.5 Imagem por ressonância
+magnética funcional relacionada a evento (IRMfe). “Envolve a separação dos elementos de um
+experimento em pontos discretos no tempo, de modo que os processos cognitivos (e as
+respostas cerebrais) associadas a cada elemento possam ser analisadas independentemente”
+(HUETTEL, 2012, p. 1152). Em geral, a IRMf relacionada a evento é muito informativa e se tornou
+muito popular recentemente.6 Magnetoencefalografia (MEG). Trata-se de uma técnica que
+envolve a mensuração dos campos magnéticos produzidos pela atividade elétrica cerebral.
+Proporciona informações bastante detalhadas em nível de milissegundos sobre o curso
+temporal dos processos cognitivos, e sua resolução espacial é razoavelmente
+boa.7Estimulação magnética transcraniana (TMS). Técnica na qual uma bobina é colocada
+próxima à cabeça do participante e uma pulsação de corrente magnética muito breve passa
+através dela. Isso produz um campo magnético de vida curta que geralmente (mas nem
+sempre) inibe o processamento na área afetada do cérebro. Quando o pulso é repetido várias
+vezes em rápida sucessão, temos a estimulação magnética transcraniana repetitiva (rTMS). A
+rTMS é amplamente usada.
+O autor não defende uma técnica em detrimento da outra, ele aponta suas vantagens e
+limitações, destacando que em muitos momentos é importante combinar técnicas de
+investigação diferentes dependo da pergunta da pesquisa.
+
+Para explorar um pouco mais e ampliar os conhecimentos veja esses vídeos de palestras de
+médicos apresentando seus trabalhos sobre estimulação cerebral não invasiva:
+https://www.youtube.com/watch?v=jn9kjdTFFiM
+https://www.youtube.com/watch?v=Nf0cljOXdTc
+
+2
+Neurociência cognitiva na psicologia
+A partir de Luria (1992; 2006; 2010 apud BASTOS; ALVES, 2013) estudaremos os apontamentos
+científicos da época apresentados por Vygotsky e continuadas exaustivamente pelo autor que
+conjecturava uma ciência da consciência humana, integrando os estímulos externos,
+valorizando a importância do mundo exterior, sem, portanto, deixar os aspectos dos processos
+cognitivos de fora.
+Importante
+Nesse contexto se faz jus observar que há avanços na história da ciência, e mais precisamente
+da neurociência cognitiva, uma vez que nos fins do século XVII o neuroanatomista Franz Joseph
+Gael sugeriu que certas funções mentais superiores estariam localizadas em distintas áreas do
+cérebro. Mais adiante, por volta do século XX, Vygotsky apresentou, como processos
+psicológicos superiores as ações conscientemente controladas, a atenção voluntária, a
+memorização ativa e o pensamento abstrato. Portanto, como frisaram os autores, se
+retomarmos à história poderemos observar avanços significativos no desenvolvimento da
+neurociência cognitiva, que está sendo alargada desde o final do século XVII até a metade do
+século passado, quando os neurologistas e anatomistas pesquisavam as bases neurológicas
+por meio de autópsias e de estudos clínicos em pacientes com lesões cerebrais.
+Atualmente, início do século XXI, estudos avançados sobre neurociências, neuropsicologia, e
+neuroplasticidade vão se desenvolvendo largamente e a prova disso é o estudo atual do
+professor da Universidade da Califórnia, São Francisco, Michael Merzenich. Que segundo a
+reportagem apresentada pela Revista Exame (29/4/2016):
+
+Desde os anos 1960, quando ainda predominava entre neurocientistas a ideia de que o cérebro
+seria um órgão estático, pré-moldado sob estrita ordenação genética, Merzenich defende que é
+possível, ao longo de toda a vida, criar novos circuitos e conexões neuronais em resposta a
+estímulos e experiências, o que resultaria em mudanças funcionais. As teorias sobre a
+neuroplasticidade formuladas por Merzenich e outros neurocientistas contemporâneos
+abriram perspectivas revolucionárias – tanto para crianças com dificuldades de aprendizado
+
+como para pessoas com lesão cerebral decorrente de trauma ou de doenças como acidente
+vascular cerebral (AVC). Nas décadas de 1970 e 1980, por meio de experimentos com animais,
+Merzenich demonstrou que os circuitos neuronais e as sinapses se modificam rapidamente de
+acordo com a atividade praticada. Em um dos ensaios, rearranjou os nervos na mão de um
+macaco e observou que as células do córtex sensorial do animal rapidamente se reorganizaram
+para criar um novo mapa mental daquele membro. No fim dos anos 1980, Merzenich integrou o
+grupo da UCSF que desenvolveu o implante coclear. Em 1996, fundou a Scientific Learning
+Corporation, empresa que desenvolve softwares voltados a aprimorar o aprendizado infantil
+com base em modelos de plasticidade cerebral. Também foi um dos fundadores, em 2004, e é
+atualmente cientista chefe na empresa Posit Science, que desenvolve softwares para
+treinamento cerebral com base nos resultados de suas pesquisas. O programa é conhecido
+como BrainHQ. Nos últimos anos, Merzenich tem se dedicado a verificar se a prática de
+exercícios intelectuais pode ajudar a remodelar as funções cerebrais, possibilitando recuperar
+habilidades perdidas por causa de doenças, lesões ou envelhecimento. Seus estudos já foram
+publicados em mais de 150 artigos científicos – muitos deles em revistas de grande impacto,
+como Science e Nature. Ele também recebeu diversos prêmios acadêmicos, como o
+RussPrize, o IpsenPrize e o ZülchPrize. Em 2013, Merzenich publicou o livro ‘SoftWired: Howthe
+New Science of Brain Plasticity Can Change Your Life’, no qual apresenta estratégias para que
+pessoas comuns possam assumir o controle dos processos de plasticidade cerebral e, assim,
+melhorar sua qualidade de vida.
+A neurociência cognitiva tem como preocupação estrutural analisar e estudar,
+fundamentalmente, como os processos cognitivos são produzidos envolvendo atenção,
+memória, gnosias ou percepções, pensamento, consciência, comportamento emocional,
+aprendizagem e linguagem, e refletem o modelo dinamicista mencionado anteriormente, em
+que as áreas cerebrais (auditiva, sensorial e tátil-cinestésica, visual, planejamento consciente
+do comportamento e programas de ação) além de integrarem funcionalmente e influenciar
+ativamente pelo meio sociocultural as relações sociais do homem.
+Em se tratando de um modelo mais atual e tecnológico, em que as funções cognitivas com
+base em mecanismos de processamento de informação e construção de representações
+mentais, trabalham para conceber os processos cognitivos em uma dimensão corpórea e
+interativa com o ambiente. Enfocamos as ações dos sistemas cognitivos em seus respectivos
+contextos, num processo de adaptação ativa em relação à base cerebral da atividade
+consciente humana, constituída por sistemas funcionais complexos e diferenciados. Desse
+modo, é possível deduzir que as funções mentais superiores são processos cognitivos, sendo
+essas funções mentais superiores importantes para a aprendizagem numa relação direta com
+a linguagem, mediando nossas funções psicocognitivas. (BASTOS; ALVES, 2013)
