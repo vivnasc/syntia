@@ -1,0 +1,2921 @@
+Neurociência da Cognição
+e da Emoção
+
+Brasília-DF.
+
+Elaboração
+Renata Gomes Netto
+
+Produção
+Equipe Técnica de Avaliação, Revisão Linguística e Editoração
+
+Sumário
+Apresentação.................................................................................................................................. 4
+Organização do Caderno de Estudos e Pesquisa..................................................................... 5
+Introdução.................................................................................................................................... 7
+Unidade I
+Introdução às Neurociências......................................................................................................... 9
+Capítulo 1
+Conceitos básicos e questões de estudo.......................................................................... 9
+Capítulo 2
+Aspectos históricos........................................................................................................... 15
+Capítulo 3
+Sistema Nervoso.................................................................................................................. 21
+Capítulo 4
+Organização do cérebro................................................................................................ 25
+Capítulo 5
+Neurociência cognitiva.................................................................................................... 31
+Unidade iI
+Psicologia Cognitiva...................................................................................................................... 36
+Capítulo 1
+Conceitos............................................................................................................................ 36
+Capítulo 2
+Neuroplasticidade e Neurogênese................................................................................... 68
+Unidade iII
+Emoção............................................................................................................................................ 73
+Capítulo 1
+Espaço da emoção............................................................................................................ 73
+Unidade iV
+Neurociência e educação............................................................................................................. 80
+Capítulo 1
+Desafios............................................................................................................................... 80
+Para Não Finalizar........................................................................................................................ 88
+Referências................................................................................................................................... 89
+
+Apresentação
+Caro aluno
+A proposta editorial deste Caderno de Estudos e Pesquisa reúne elementos que se
+entendem necessários para o desenvolvimento do estudo com segurança e qualidade.
+Caracteriza-se pela atualidade, dinâmica e pertinência de seu conteúdo, bem como pela
+interatividade e modernidade de sua estrutura formal, adequadas à metodologia da
+Educação a Distância – EaD.
+Pretende-se, com este material, levá-lo à reflexão e à compreensão da pluralidade
+dos conhecimentos a serem oferecidos, possibilitando-lhe ampliar conceitos
+específicos da área e atuar de forma competente e conscienciosa, como convém
+ao profissional que busca a formação continuada para vencer os desafios que a
+evolução científico-tecnológica impõe ao mundo contemporâneo.
+Elaborou-se a presente publicação com a intenção de torná-la subsídio valioso, de modo
+a facilitar sua caminhada na trajetória a ser percorrida tanto na vida pessoal quanto na
+profissional. Utilize-a como instrumento para seu sucesso na carreira.
+Conselho Editorial
+
+4
+
+Organização do Caderno
+de Estudos e Pesquisa
+Para facilitar seu estudo, os conteúdos são organizados em unidades, subdivididas em
+capítulos, de forma didática, objetiva e coerente. Eles serão abordados por meio de textos
+básicos, com questões para reflexão, entre outros recursos editoriais que visam tornar
+sua leitura mais agradável. Ao final, serão indicadas, também, fontes de consulta para
+aprofundar seus estudos com leituras e pesquisas complementares.
+A seguir, apresentamos uma breve descrição dos ícones utilizados na organização dos
+Cadernos de Estudos e Pesquisa.
+Provocação
+Textos que buscam instigar o aluno a refletir sobre determinado assunto antes
+mesmo de iniciar sua leitura ou após algum trecho pertinente para o autor
+conteudista.
+Para refletir
+Questões inseridas no decorrer do estudo a fim de que o aluno faça uma pausa e reflita
+sobre o conteúdo estudado ou temas que o ajudem em seu raciocínio. É importante
+que ele verifique seus conhecimentos, suas experiências e seus sentimentos. As
+reflexões são o ponto de partida para a construção de suas conclusões.
+
+Sugestão de estudo complementar
+Sugestões de leituras adicionais, filmes e sites para aprofundamento do estudo,
+discussões em fóruns ou encontros presenciais quando for o caso.
+
+Atenção
+Chamadas para alertar detalhes/tópicos importantes que contribuam para a
+síntese/conclusão do assunto abordado.
+
+5
+
+Saiba mais
+Informações complementares para elucidar a construção das sínteses/conclusões
+sobre o assunto abordado.
+
+Sintetizando
+Trecho que busca resumir informações relevantes do conteúdo, facilitando o
+entendimento pelo aluno sobre trechos mais complexos.
+Para (não) finalizar
+Texto integrador, ao final do módulo, que motiva o aluno a continuar a aprendizagem
+ou estimula ponderações complementares sobre o módulo estudado.
+
+6
+
+Introdução
+Neurociência. O que quer dizer?
+Um termo tão presente no nosso dia a dia atualmente, em que ao abrir nossas redes
+sociais é fácil encontrar algum tipo de postagem, seja de profissionais de áreas diversas,
+seja de leigos, em algum momento vamos ver algo relacionado às neurociências.
+Sim, neurociências, veremos que é um termo no plural, tamanha a diversidade de
+conhecimentos que o termo abarca.
+O conhecimento sobre neurociências cresceu muito nos últimos anos, principalmente
+considerando o período entre 1990-1999, conhecido como Década do Cérebro. As
+neurociências se interessam pelo estudo do funcionamento do sistema nervoso, e
+através do cérebro e demais órgãos, investiga as funções e o comportamento resultante
+das atividades dessas estruturas.
+Nessa disciplina vamos iniciar a Unidade I adentrando em um terreno que desperta
+muitas indagações: o nosso sistema nervoso. Esse campo de investigação das
+neurociências vai nos levar ao estudo do cérebro e do poder que ele exerce sobre o nosso
+comportamento, em todos os momentos da nossa vida, seja dormindo, seja acordado.
+Na Unidade II o foco será na Psicologia Cognitiva abordando os processos psicológicos
+básicos, bem como as funções mentais superiores, que envolvem nossa cognição e
+emoção: sensação, percepção e atenção; memória, pensamento e linguagem; raciocínio,
+inteligência e aprendizagem; motivação, sentimentos e emoções.
+Após essa explanação, na Unidade III nos dedicaremos aos estudos das neurociências e
+os desafios enfrentados na aprendizagem e os distúrbios mentais e neurológicos.
+Vamos lá!
+
+Objetivos
+»» Conhecer uma visão geral do sistema nervoso e a organização do cérebro.
+»» Entender o desenvolvimento das neurociências e seu percurso histórico.
+»» Desenvolver os conceitos dos processos mentais.
+»» Conhecer o espaço das emoções nas neurociências.
+»» Refletir sobre a contribuição das neurociências para a educação.
+7
+
+8
+
+Introdução às
+Neurociências
+
+Unidade I
+
+Capítulo 1
+Conceitos básicos e questões de
+estudo
+Qual a proposta da neurociência?
+De forma resumida podemos dizer que a proposta básica da Neurociência é o estudo
+dos processos mentais, dos processos cerebrais e sua gama de redes neurais formadas
+por meio das interações entre mente e cérebro. Ampliando um pouco e falando
+de outra forma, é o estudo do sistema nervoso central e periférico, suas estruturas,
+funcionalidades e seus processos de desenvolvimento que podem sofrer alterações ao
+longo da vida.
+O homem deve saber que de nenhum outro lugar, mas apenas do
+encéfalo, vem a alegria, o prazer, o riso e a diversão, o pesar, o luto,
+o desalento e a lamentação. E por isso, de uma maneira especial, nós
+adquirimos sabedoria e conhecimento e enxergamos e ouvimos e
+sabemos o que é justo e injusto, o que é bom e o que é ruim, o que é
+doce e o que é insípido [...] E pelo mesmo órgão nos tornamos loucos
+e delirantes, e medos e terrores nos assombram [...] Todas essas coisas
+nós temos de suportar do encéfalo quando não está sadio [...] Nesse
+sentido, opino que é o encéfalo quem exerce o maior poder sobre o
+homem. (HIPÓCRATES apud BEAR; CONNORS; PARADISO, 2008)
+
+Segundo Bear, Connors e Paradiso (2008), o termo ‘neurociência’ é relativamente
+novo. A Sociedade de Neurociências (associação norte-americana de neurocientistas
+profissionais) teve a sua fundação em 1970. O estudo do encéfalo, entretanto, é antigo,
+assim com a própria ciência. Historicamente, os neurocientistas que se dedicaram à
+compreensão do sistema nervoso vieram de diversas vertentes científicas: Medicina,
+Biologia, Psicologia, Física, Química e Matemática. A revolução das neurociências
+9
+
+UNIDADE I │ Introdução às Neurociências
+
+ocorreu quando esses cientistas pesquisadores viram que a melhor abordagem
+para compreender o funcionamento do encéfalo era originada de uma abordagem
+interdisciplinar, a combinação de enfoques tradicionais visando à produção de uma
+síntese nova, uma nova perspectiva. A maioria dos indivíduos envolvidos nessa questão
+científica do sistema nervoso considera-se, hoje, neurocientista.
+Figura 1.
+
+Fonte: <http://acontecefloripa.com.br/wp-content/uploads/2017/05/111.jpg>.
+
+Quando nos perguntamos sobre:
+»» Como Cristiano Ronaldo consegue golear tanto?
+»» O que provoca os transtornos mentais?
+»» Como Daiane dos Santos realizava tantos movimentos sincrônicos e de
+alta dificuldade com tanta perfeição?
+»» Como Kasparov faz tantas jogadas acertadas no xadrez?
+»» Como o cérebro controla os movimentos do nosso corpo?
+Estamos falando de uma imbricada sequência de eventos que acontecem no nosso
+corpo, na nossa vida, alinhados gerando algum um resultado final. Aqui usamos
+exemplos de grandes destaques no esporte, mas essa sequência de eventos acontece
+em qualquer atividade que desenvolvemos, de um movimento físico, ao processamento
+mental de uma ideia, como uma jogada de xadrez. Do sentar ao ficar de pé e andar, para
+que um simples movimento aconteça em nosso corpo é preciso que o cérebro envie e
+coordene as mensagens certas para que esse movimento aconteça. Se algum transtorno
+10
+
+Introdução às Neurociências │ UNIDADE I
+
+acontece, da mesma forma, há algum envolvimento do nosso cérebro. E aqui falamos
+apenas de comportamentos que são observados, mas temos que considerar também os
+comportamentos encobertos, como sonhar, planejar, imaginar, pensar.
+Essa sequência de eventos é estudada pelas neurociências que se interessam por
+conhecer o funcionamento do sistema nervoso central por meio do cérebro, da medula
+espinhal e dos nervos periféricos.
+Na atualidade, conhecer o cérebro e seu funcionamento vem ganhando força e
+importância à medida que as pesquisas evoluem.
+Vejamos na tabela abaixo, as especialidades médicas associadas ao sistema nervoso.
+Tabela 1.
+
+ESPECIALIDADES MÉDICAS ASSOCIADAS AO SISTEMA NERVOSO
+Especialista
+
+Descrição
+
+Neurologista
+
+Um médico treinado para diagnosticar e tratar doenças do sistema nervoso.
+
+Psiquiatra
+
+Um médico treinado para diagnosticar e tratar transtornos do humor e da personalidade.
+
+Neurocirurgião
+
+Um médico treinado para realizar cirurgia em encéfalo e medula espinhal.
+
+Neuropatologista
+
+Um médico ou outro profissional treinado para reconhecer as alterações no tecido nervoso que resultam em patologias.
+Fonte: Bear, Connors e Paradiso, 2008.
+
+É importante que tenhamos um breve conhecimento sobre essa temática.
+A combinação da Psicologia com a Neurociência nos ajuda a compreender como ocorre
+a construção e o processamento das informações, auxilia na compreensão dos níveis
+neurológicos e na formação dos modelos mentais de aprendizagem, assim como as
+maneiras que o ser humano interage com seu meio e entende a si mesmo, a forma
+com que se comporta diante de determinadas situações, seus impulsos, sentimentos,
+sensações e compreende como os estímulos externos influenciam em suas ações e
+reações.
+No momento que ampliamos os nossos conhecimentos sobre a ciência que estuda o cérebro
+e suas interferências, conseguimos utilizar de maneira mais efetiva a capacidade mental
+e intelectual do ser humano a seu favor, compreendendo, assim, os comportamentos
+sabotadores e assim buscar eliminá-los, perceber os pontos positivos e potenciá-los,
+trabalhar, também, a inteligência emocional e social do indivíduo.
+Infere-se, assim, que à medida que desenvolvemos a compreensão sobre o nosso cérebro
+e seu funcionamento, mais conseguiremos compreender os nossos comportamentos e
+atitudes. Diante disso, pode-se afirmar que a relação entre a Neurociência e a Psicologia é
+um excelente apoio nesse processo.
+11
+
+UNIDADE I │ Introdução às Neurociências
+
+Podemos perceber que existem vários temas que interessam a esse campo de estudos, de
+forma que na verdade estamos falando de neurociências, porque não estamos falando
+de uma ciência única, com um objeto único, com uma forma única de estudar. Assim,
+para abarcar essa diversidade a neurociência acaba sendo dividida em níveis de estudos,
+que são complementares, mas que discutem temáticas diferentes. Lundy-Ekman divide
+o estudo da neurociência, por meio da análise do sistema nervoso em cinco níveis.
+Tabela 2.
+
+Análise do Sistema Nervoso
+A neurociência molecular investiga a química e a física envolvidas na função neural. Os estudos das trocas iônicas necessárias para que uma célula
+nervosa conduza informações de uma parte do sistema nervoso para outra e da transferência química de informações entre células nervosas constituem
+a neurociência em nível molecular. Reduzidos ao seu nível mais fundamental, sensação, movimento, compreensão, planejamento, relacionamento, fala e
+muitas outras funções humanas dependem de alterações químicas e elétricas nas células do sistema nervoso.
+A neurociência celular considera as distinções entre os diferentes tipos de células no sistema nervoso e como funciona cada um desses tipos. As
+investigações para saber como um neurônio individual processa e transmite informações, como as informações são transferidas entre neurônios e os
+papeis de células não neurais no sistema nervoso são questões em nível celular.
+A neurociência de sistemas investiga grupos de neurônios que executam uma função comum. A análise do nível dos sistemas estuda as
+conexões, ou circuitos, do sistema nervoso. São exemplos o sistema proprioceptivo, que transmite informações de posição e movimento do sistema
+musculoesquelético para o sistema nervoso central, e o sistema motor que controla os movimentos.
+A neurociência comportamental estuda a interação entre os sistemas que influenciam o comportamento. Os estudos do controle postural, por
+exemplo, investigam a influência relativa de sensações visuais, vestibulares e proprioceptivas no equilíbrio em diferentes condições.
+A neurociência cognitiva cobre os campos de pensamento, aprendizado e memória. Os estudos do planejamento, do uso da linguagem e das
+diferenças entre a memória para eventos específicos e a memória para a execução de habilidades motoras são exemplos da análise no nível cognitivo.
+Fonte: LUNDY-EKMAN, 2008.
+
+Como já colocamos, esses níveis são inter-relacionados. Estamos falando de certa
+forma de um objeto dividido em diversas partes/etapas, em que um único evento está
+relacionado a uma sequência de eventos que não são observados:
+O homem interage o tempo todo no seu ambiente, emitindo diversos
+comportamentos, usando da sua linguagem, planejando os seus atos,
+acessando a sua memória (Neurociência cognitiva). Esse mesmo
+homem tem cinco sentidos, que são porta de entrada das sensações, que
+ele precisa interpretar para se comportar, responder a esses estímulos
+(Neurociência comportamental). Esses processos, das sensações
+até a avaliação do comportamento a ser desempenhado dependem das
+transferências de informações através das conexões entre os neurônios
+(Neurociência de sistemas), que dependem do papel das células
+não neurais no sistema nervoso (Neurociência celular), que por sua
+vez são influenciados pelas alterações químicas e elétricas do sistema
+nervoso (Neurociência molecular).
+
+12
+
+Introdução às Neurociências │ UNIDADE I
+
+Neurociências, Neurocientistas
+O que chamamos simplificadamente Neurociência é na verdade Neurociências.
+No plural. Se é assim, quais são elas? E quem são os profissionais que lidam com
+elas?
+Há muitos modos de classificá-las, de acordo com os níveis de abordagem
+que mencionamos no início do capítulo. Um modo simples, mas esquemático,
+seria considerar cinco grandes disciplinas neurocientíficas. A Neurociência
+molecular tem como objeto de estudo as diversas moléculas de importância
+funcional no sistema nervoso, e suas interações. Pode ser também chamada
+de Neuroquímica ou Neurobiologia molecular. A Neurociência celular aborda
+as células que formam o sistema nervoso, sua estrutura e sua função. Pode ser
+chamada também de Neurocitologia ou Neurobiologia celular. A Neurociência
+sistêmica considera populações de células nervosas situadas em diversas
+regiões do sistema nervoso, que constituem sistemas funcionais como o visual,
+o auditivo, o motor, etc. Quando apresenta uma abordagem mais morfológica
+é chamada Neuro-histologia ou Neuroanatomia, e quando lida com aspectos
+funcionais é chamada Neurofisiologia. A Neurociência comportamental
+dedica-se a estudar estruturas neurais que produzem comportamentos e
+outros fenômenos psicológicos como o sono, os comportamentos sexuais,
+emocionais e muitos outros. E às vezes conhecida também como Psicofisologia
+ou Psicobiologia. Finalmente, a Neurociência cognitiva trata das capacidades
+mentais mais complexas, geralmente típicas do homem, como a linguagem, a
+autoconsciência, a memória etc. Pode ser também chamada de Neuropsicologia.
+É claro que os limites entre essas disciplinas não são nítidos, o que nos obriga
+a saltar de um nível a outro, ou seja de uma disciplina a outra, sempre que
+tentamos compreender o funcionamento do sistema nervoso.
+Os profissionais que lidam com o sistema nervoso são de dois tipos: os
+neurocientistas, cuja atividade é a pesquisa científica em Neurociência; e os
+profissionais de saúde, cujo objetivo é preservar e restaurar o desempenho
+funcional do sistema nervoso. Os neurocientistas geralmente estudam em
+alguma faculdade de Biologia, Ciências Biomédicas ou Ciências da Saúde,
+depois cursam um programa de pós-graduação já voltado especificamente para
+o sistema nervoso, e finalmente são admitidos como professores universitários
+ou pesquisadores em instituições científicas não universitárias. Seu trabalho
+é financiado por recursos governamentais ou privados, e os resultados que
+obtêm são publicados em revistas científicas especializadas. Já os profissionais
+13
+
+UNIDADE I │ Introdução às Neurociências
+de saúde incluem médicos (especialmente os neurologistas, neurocirurgiões e
+psiquiatras), psicólogos, fisioterapeutas, fonoaudiólogos, enfermeiros etc. Sua
+formação passa pelas faculdades correspondentes, e às vezes inclui alguns anos
+de residência ou especialização. Alguns desses profissionais se voltam também
+para a pesquisa científica básica ou clínica.
+Recentemente, outros profissionais têm-se interessado pelo sistema nervoso;
+é o caso dos engenheiros, especialmente aqueles voltados para a informática.
+Isso porque os computadores e alguns robôs mais modernos têm a arquitetura
+projetada de acordo com os conceitos originados das Neurociências. Também os
+artistas gráficos e programadores visuais têm-se aproximado das Neurociências,
+pois necessitam dominar conceitos modernos sobre a percepção visual das
+cores, do movimento etc. Da mesma forma, os educadores e pedagogos estão
+interessados em saber como o sistema nervoso exerce a capacidade de selecionar
+e armazenar informações, atributo importante no processo de aprendizagem.
+Tanto na pesquisa científica como nas profissões da saúde, o trabalho se beneficia
+muito da interação multidisciplinar, envolvendo várias das disciplinas citadas.
+Na verdade, multidisciplinaridade torna-se cada vez mais indispensável, pois o
+sistema nervoso tem vários níveis de existência, como já vimos, e compreendêlo exige múltiplas abordagens. É por isso que as equipes de saúde dos hospitais
+são geralmente multiespecializadas, e é por isso, também, que os trabalhos
+científicos modernos em Neurociências envolvem a colaboração de diferentes
+especialistas.
+Fonte: LENT, R. Cem bilhões de neurônios? Conceitos fundamentais de neurociências. 2. Ed. São
+Paulo: Atheneu, 2010.
+
+14
+
+Capítulo 2
+Aspectos históricos
+Se hoje há grande interesse pelo estudo do cérebro, na antiguidade já foi diferente.
+Soares (2012) aponta em seus estudos a tradição dos egípcios de jogar fora o cérebro
+no processo de mumificação por considerarem como um órgão inútil. Para os assírios,
+o fígado era considerado como o centro do pensamento. Já na visão de Aristóteles a
+função do cérebro era resfriar o sangue. A autora relata que Hipócrates, pai da Medicina
+Moderna, foi o responsável por mostrar a divisão do cérebro em dois hemisférios,
+contendo as funções biológicas da mente.
+Demonstrando esse interesse sobre o cérebro, Souza (2014) traz uma citação de
+Hipócrates, em que explicita a sua definição do cérebro como sede da mente, que
+embora datem do século IV antes de Cristo parece muito atual:
+Deveria ser sabido que ele é a fonte do nosso prazer, alegria, riso e
+diversão, assim como nosso pesar, dor, ansiedade e lágrimas, e nenhum
+outro que não o cérebro. É especificamente o órgão que nos habilita a
+pensar, ver e ouvir, a distinguir o feio do belo, o mau do bom, o prazer
+do desprazer. É o cérebro também que é a sede da loucura e do delírio,
+dos medos e sustos que nos tomam, muitas vezes à noite, mas às vezes
+também de dia; é onde jaz a causa da insônia e do sonambulismo, dos
+pensamentos que não ocorrerão, deveres esquecidos e excentricidades.
+
+Como afirma Callegaro (2011), nem sempre houve interesse da psicologia pelo
+conhecimento neurobiológico, principalmente da psicologia clínica. Porém, no final do
+século XX observa-se uma mudança nesse panorama a partir do uso de técnicas de
+neuroimagem funcional.
+O uso dessas técnicas favoreceu a detecção de alterações no funcionamento das
+estruturas neurais que foram relacionadas a intervenções psicológicas. Hoje é sabido
+que as intervenções medicamentosas e também psicológicas se dão no sistema nervoso
+central, “uma vez que as intervenções psicoterapêuticas atuam no tecido neural,
+produzindo alterações no padrão de comunicação sináptica de forma semelhante aos
+efeitos produzidos por drogas psicotrópicas”. (p. 271)
+Como o autor complementa, qualquer abordagem psicoterapêutica é capaz de
+produzir alterações de longo prazo na rede de conexões sinápticas, alterando os
+estados emocionais, a cognição e o próprio comportamento. Essas alterações se
+15
+
+UNIDADE I │ Introdução às Neurociências
+
+devem à aprendizagem durante a psicoterapia em que as informações aprendidas são
+armazenadas pela memória e podem ser acessadas em outros momentos.
+Lundy-Ekman também corrobora a ideia da neurociência como um ramo relativamente
+novo, que se ocupa da compreensão do sistema nervoso em relação ao seu
+desenvolvimento, química, estrutura e funções. O autor relata que as pesquisas nessa
+área são recentes, somente a partir do final do século XIX alguns cientistas começaram
+a relacionar as áreas encefálicas a funções complexas como linguagem e percepção, por
+exemplo. Os estudos evoluíram muito, e hoje é possível analisar o sistema nervoso em
+seus diversos níveis (como visto no capítulo anterior).
+Figura 2.
+
+Fonte: <http://itaperunanews.com.br/site/wp-content/uploads/cerebro-700x522.jpg>.
+
+Gazzaniga e Heatherton (2005) descrevem uma revolução biológica que está
+acontecendo na atualidade e mudando os rumos das pesquisas a partir das suas
+descobertas. Perguntas, como: ‘O que é a consciência?’ ou ‘Como a emoção afeta os
+processos cognitivos?’, existem há muito tempo, porém, o conhecimento recente do
+funcionamento cerebral tem possibilitado entender esses processos mentais básicos.
+Os autores se referem a três desenvolvimentos que revolucionaram a explicação desses
+processos mentais: química do cérebro, o genoma humano e a observação do cérebro
+em funcionamento. Vejamos a explicação dos autores para tais contribuições.
+
+16
+
+Introdução às Neurociências │ UNIDADE I
+
+Tabela 3.
+Química do cérebro. O cérebro funciona pela ação de substâncias químicas conhecidas como neurotransmissores, que enviam mensagens entre
+as células nervosas. Nos últimos 30 anos, os cientistas psicológicos fizeram progressos imensos na identificação dessas substâncias químicas e suas
+funções. Embora, há muito tempo, se acreditasse que não mais do que uns poucos neurotransmissores estavam envolvidos na atividade cerebral, agora
+se sabe que centenas de substâncias diferentes desempenham papel crítico na atividade mental e no comportamento. [...] Também sabemos agora que
+as pessoas têm melhor memória para eventos que acontecem quando elas estão emocionadas do que quando estão calmas, porque as substâncias
+químicas presentes na resposta aos estímulos influenciam os mecanismos neurais envolvidos na memória. Compreender os processos químicos do
+cérebro fornece muitos insights sobre a atividade mental e possibilita o comportamento, e é útil para desenvolver tratamentos para ajudar pessoas com
+variados transtornos psicológicos.
+O genoma humano. Os cientistas não só conseguiram mapear o genoma humano, o projeto ou código genético básico do corpo humano, como
+também criaram várias técnicas que lhes permitiram descobrir a ligação entre genes e comportamento. Evidentemente, a ideia de que um único
+gene causa um comportamento específico é demasiado simplista. Quase toda a atividade psicológica e biológica é afetada pelas ações de múltiplos
+genes. Não existe um gene específico que é o único responsável pela memória, ou pelas atitudes racistas, ou pela timidez. No entanto, acumulam-se
+evidências de que os genes estão envolvidos em muitos desses processos. [...] O mapeamento do genoma humano proporcionou aos cientistas o
+conhecimento fundamental para estudar como genes específicos afetam pensamentos, sentimentos e vários transtornos. Embora muitas das fantásticas
+possibilidades de corrigir defeitos genéticos ainda demorem algumas décadas para se concretizar, os métodos empregados pelos cientistas para
+estudar a influência dos processos genéticos possibilitaram novos insights sobre a atividade mental.
+A observação do cérebro em funcionamento. Empregando os métodos da ciência cerebral, ou neurociência, os cientistas psicológicos
+conseguiram investigar algumas das perguntas mais centrais da experiência humana: como as diferentes regiões cerebrais interagem para produzir
+a experiência perceptiva? como os vários tipos de memória são semelhantes e diferentes? e como a experiência consciente envolve mudanças na
+atividade cerebral? Saber em que local do cérebro algo acontece não nos diz muito, mas saber que existem padrões consistentes de ativação cerebral
+associados a tarefas cognitivas específicas nos mostra que os dois estão conectados. Na verdade, os cientistas, há mais de cem anos, discordam sobre
+se os processos psicológicos estão localizados em partes específicas do cérebro ou distribuídos por todo o cérebro. Nós sabemos que existe alguma
+localização de função, mas também que muitas regiões cerebrais participam da produção do comportamento e da atividade mental. O uso de imagens
+cerebrais permitiu aos cientistas psicológicos avançarem imensamente no entendimento dos estados mentais, como volição e atenção, ambos os quais
+têm sido centrais na psicologia há mais de um século.
+Fonte: Gazzaniga, Heatherton, 2005.
+
+Os autores também destacam os últimos anos como fundamentais no desenvolvimento
+de métodos para estudar o cérebro em funcionamento. As técnicas de imagem cerebral,
+por exemplo, permitem estudar a atividade metabólica do cérebro ao observar como a
+circulação do sangue flui quando estamos processando informações. Essa informação
+indica que há mudanças na atividade cerebral e que algumas partes do cérebro estão
+envolvidas em determinados comportamentos, sejam eles, observáveis ou encobertos.
+Pliszka (2004) retoma esses acontecimentos históricos a partir de meados do século
+XVII e XVIII, destacando movimentos humanitários preocupados com a dignidade
+dos pacientes doentes mentais. O trabalho de Phillipe Pinel é apontado por ele, por
+defender que os doentes mentais internados não ficassem acorrentados. No século XIX
+o autor evidencia as discussões sobre as causas da doença mental, se eram biológicas
+ou psicológicas. Na continuidade desse movimento que precede as neurociências,
+aponta as descobertas feitas por Paul Broca e Carl Wernicke sobre a relação de lesões
+cerebrais em regiões específicas com o défice da fala e da linguagem, o que reforça a
+associação de distúrbios de comportamento às disfunções cerebrais. E nessa mesma
+linha de associação se destaca Alois Alzheimer por sua descoberta da relação entre
+lesões patológicas no cérebro e demência precoce.
+Em relação à Psicanálise, o autor ressalta, que embora ela tenha provocado um
+afastamento das teorias biológicas, trouxe uma importante contribuição a partir da
+17
+
+UNIDADE I │ Introdução às Neurociências
+
+observação das diversas interações sociais e ambientais e sua interferência na etiologia
+das doenças mentais – examinando como fatores ambientais interagem com fatores
+intrínsecos cerebrais nessa gênese.
+Na década de 1950, Pliszka ressalta as contribuições das abordagens farmacológicas no
+tratamento da depressão e da psicose, com a descoberta e desenvolvimento de diversas
+drogas para esses tratamentos. Os estudos não pararam por aqui, o autor passa a
+abordar os conhecimentos de neuroanatomia para responder como e também quais
+são as áreas do cérebro que são disfuncionais nos transtornos mentais e as pesquisas
+que vieram a partir daí.
+Fazendo essa construção histórica, Souza (2014) retrata, a partir do século XIX, as
+posições globalistas e localizacionistas sobre o estudo do cérebro. Esse confronto entre
+concepções, globalista e localizacionista faz parte da história da Neurociência. Os
+localizacionistas, defendendo que as funções neurais estariam em uma região específica,
+e os globalistas, defendendo que as funções neurais têm sua representação em muitas,
+ou até mesmo, em todas, as regiões cerebrais.
+O autor parte da popular frenologia, proposta por Gall, que propunha a existência
+no cérebro de regiões responsáveis por determinadas funções (localizacionista). Gall
+dividiu a mente em 27 áreas, considerando as suas faculdades que estavam localizadas
+em órgãos cerebrais. Isso foi demais para a época, que ainda nem admitia a existência
+do cérebro como um órgão da mente. Na época, Gall foi expulso de Viena, pois ameaçou
+a unidade de conhecimento proposta até então.
+Embora infundada, a proposta de Gall abriu as portas para importantes pesquisas na
+neurociência, visando à localização das lesões, pois oferecia uma hipótese testável para
+a verificação da função de cada parte do cérebro.
+Figura 3.
+
+Fonte: <http://www.noemifremd.com.uy/notas/origen-historia-teoria-neurocongnitiva/>.
+
+18
+
+Introdução às Neurociências │ UNIDADE I
+
+Souza (2014) cita também os estudos de Jean Pierre Florens, e sua teoria do campo
+agregado, em que defendia que o cérebro funciona como um todo (globalista).
+Indo além das ideias de Gall, o autor traz as contribuições de J. H. Jackson, que
+apresenta a organização topográfica do cérebro, em que cada região cerebral controla
+uma parte motora (localizacionista).
+Nessa linha investigativa o autor destaca as descobertas de Paul Broca como uma das
+mais importantes para a história das neurociências. Juntamente com Carl Wernicke,
+desenvolveu pesquisas que levaram à localização de uma função em uma área específica
+do cérebro, no caso, mapearam as regiões da expressão da fala e da compreensão.
+
+A localização das funções
+Parte da história da neurociência foi marcada por essas questões quanto à globalidade
+e à localização das funções neurais. Vamos aprofundar um pouco mais sobre a visão da
+localização a partir do trabalho de Robert Lent (2001), autor de uma grande referência
+da neurociência, “Cem bilhões de neurônios”.
+O autor aponta que o estudo da localização cerebral de funções neuropsicológicas é
+antigo, vem do século XIX, destacando o começo, que se deu com o estudo da linguagem,
+a partir de pacientes que perderam a capacidade de falar. Como veremos mais à frente,
+o estudo da linguagem teve início com a descoberta da relação entre sinais de lesão em
+uma região específica do cérebro e a perda da capacidade de falar ou de compreender a
+linguagem – estudos feitos em cérebros após a morte.
+Figura 4.
+
+Fonte: <http://www.hela03.es/wp-content/uploads/2012/06/Areabroca.jpg>.
+
+Foi justamente o trabalho de neurologistas sobre a linguagem e os efeitos de lesões
+no cérebro sobre ela, que permitiram concluir que essa função está representada em
+regiões cerebrais específicas. Segundo a lógica desses estudos, o desaparecimento de
+19
+
+UNIDADE I │ Introdução às Neurociências
+
+uma determinada região cerebral provocaria um défice funcional, assim, essa região,
+seria como uma sede para essa função. Porém, essa lógica não considerava a capacidade
+do cérebro de se reorganizar com outras regiões para participar dessa função. Com as
+técnicas anteriores não era possível saber se o défice era resultado da falta da região
+lesada, ou se era resultado da reorganização funcional do sistema. Atualmente, os
+exames de imagem já permitem localizar o uso de determinadas áreas do cérebro, e não
+de outras, ao se avaliar, por exemplo, questões de julgamento emocional e moral.
+Figura 5
+
+A localização funcional pode hoje ser demonstrada
+em pessoas normais em vida, através da ressonância
+magnética funcional. Essa técnica de imagem mostra
+as regiões mais ativas do cérebro, quando o indivíduo
+foi solicitado a refletir sobre uma frase com implicações
+morais: a atividade neural correspondente ficou bem
+localizada no lobo frontal em ambos os lados (áreas em
+vermelho e amarelo).
+Fonte: Lent, 2001.
+
+Esses experimentos comprovam o funcionamento do sistema nervoso como um
+mosaico de regiões, com funções determinadas. Embora, as funções realizadas sejam
+determinadas, isso não quer dizer que trabalhem de forma isolada. Na verdade,
+trabalham de forma integrada, não havendo uma função mental pura, mas uma
+combinação complexa das diversas conexões neurais, representadas nas funções
+fisiológicas e psicológicas de cada ato.
+Vimos um pouco da história, com as pesquisas que deram início aos estudos das
+neurociências. Vamos continuar e conhecer agora um pouco sobre o funcionamento
+do sistema nervoso e também da estrutura cerebral, que segundo Pliszka (2004) são
+fundamentais para a construção do conhecimento das Neurociências.
+
+20
+
+Capítulo 3
+Sistema Nervoso
+Como já vimos, as neurociências se interessam pelos estudos do sistema nervoso, que
+se divide em central e periférico. Segundo Souza (2014) a etimologia de nervos vem
+do latim nervium, fazendo referência a cordas, como se o nervo fosse visto como uma
+corda de um instrumento musical. A criação do microscópio no século XVII possibilitou
+a análise detalhada da estrutura do nervo, em que se identificou sua composição
+através de axônios, neurônios, somados a membranas que os envolvem e os separam
+em fascículos.
+Rubinstein e Cardoso (2012) apontam como papel do sistema nervoso o controle e
+a coordenação das funções orgânicas de todo o sistema e também a interpretação e
+desencadeamento de resposta a partir da recepção dos estímulos. Acreditam que muitas
+funções do sistema nervoso podem depender da vontade, mas também podem ocorrer
+sem que se tome consciência delas.
+Souza (2014) destaca que o conhecimento do sistema nervoso como responsável pelo
+controle dos movimentos data de muitos séculos. Acreditava-se que uma mensagem
+era enviada pelo cérebro através da coluna vertebral para a medula, que por sua vez,
+repassava para os membros através dos nervos para que o movimento fosse realizado. O
+sentido contrário também era conhecido, sendo o cérebro capaz de receber informações
+transmitidas pelos nervos, que as coletavam no ambiente, como sensações de frio ou
+calor.
+Na atualidade, com estudos mais complexos, é sabido que as informações cerebrais podem
+ser passadas com o uso de substâncias químicas, os chamados neurotransmissores, que
+as repassam para todos os órgãos do corpo, e não só para os membros responsáveis
+pelos movimentos.
+A divisão em sistema nervoso central e periférico se dá considerando a localização do
+cérebro.
+
+21
+
+UNIDADE I │ Introdução às Neurociências
+Figura 6
+
+O sistema nervoso central do homem aloja a imensa maioria
+dos neurônios, e está contido no interior da caixa craniana
+(o encéfalo) e da coluna vertebral (a medula espinhal). Já
+o sistema nervoso periférico é constituído de uma menor
+proporção de neurônios, mas apresenta uma extensa rede
+de fibras nervosas espalhadas por quase todos os órgãos e
+tecidos do organismo.
+Fonte: <http://www.sobiologia.com.br/figuras/Fisiologiaanimal/nervoso18.jpg>.
+
+O sistema nervoso central (SNC) é composto pelo encéfalo e pela medula espinhal, sendo
+que o encéfalo é composto por: cérebro, cerebelo, e tronco encefálico (mesencéfalo,
+ponte e bulbo). Grosso modo, o encéfalo abarca tudo que está dentro do nosso crânio.
+O encéfalo tem funções mais complexas que as da medula espinhal, o que possibilita
+toda a capacidade humana cognitiva e afetiva, e também outras atividades comuns a
+todos os seres.
+Já a medula espinhal está localizada no interior da coluna, da primeira vértebra cervical
+até o espaço situado entre a primeira e segunda vértebra lombar. Sua função, segundo
+Rubinstein e Cardoso “é a recepção de estímulos, de comando e desencadeadora de
+respostas, formado pelo encéfalo e pela medula espinhal, protegidos, respectivamente
+pelo crânio e pela coluna vertebral”.
+De forma cilíndrica ou tubular, a medula contém em seu interior um canal estreito que
+contém um líquido, com suas funções motoras e sensitivas, relacionadas principalmente
+ao controle imediato do funcionamento corporal.
+O sistema nervoso periférico compõe o sistema nervoso, mas fora do encéfalo e da
+medula espinhal. Ele é constituído por fibras (nervos cranianos e espinhais), gânglios
+nervosos e órgãos terminais. Essas são as vias que conduzem os estímulos até o SNC ou
+22
+
+Introdução às Neurociências │ UNIDADE I
+
+até os órgãos que irão executar as ordens vindas do SNC. São três, os tipos de nervos
+que compõem o sistema nervoso periférico (SOUZA, 2014):
+»» Nervos sensitivos: responsáveis pela transmissão dos impulsos
+nervosos do órgão receptor para o sistema nervoso central.
+»» Nervos motores: responsáveis pela condução da mensagem codificada
+no encéfalo até o órgão que efetuará o movimento.
+»» Nervos mistos: são nervos que possuem as funções sensitivas e motoras.
+Figura 7.
+
+Os nervos do sistema nervoso periférico podem emergir
+diretamente do encéfalo (nervos cranianos, exemplificados
+em A), inervando órgãos e tecidos da cabeça. Ou então
+emergem de cada segmento da medula (nervos espinhais,
+exemplificados em B), formando os nervos periféricos que se
+espalham por todo o corpo (C).
+Fonte: <http://alunosonline.uol.com.br/upload/conteudo_legenda/60af7ba0d505c116e45c8c8ea54f2f12.jpg>.
+
+Como principais componentes do SNP, os nervos são encontrados em praticamente
+todas as partes do corpo. Ao se percorrer o trajeto de um nervo, é possível observar que
+uma extremidade está localizada em algum órgão, enquanto a outra extremidade está
+inserida no SNC em orifícios do crânio e da coluna vertebral. De forma esquemática os
+nervos são divididos em espinhais e cranianos. São espinhais quando unidos ao SNC a
+partir dos orifícios existentes na coluna vertebral. São cranianos quando a união com
+o SNC se dá a partir dos orifícios cranianos. As informações veiculadas pelos nervos,
+espinhais e cranianos, podem ser sensitivas ou motoras, somáticas ou viscerais, sendo
+que, como já foi apontado, os nervos podem ser mistos, transmitindo mais de um tipo
+de informação. (LENT, 2010)
+23
+
+UNIDADE I │ Introdução às Neurociências
+
+Lent (2010) faz uma analogia do SNP com máquinas, em que pode ser compreendido a
+partir do seu conjunto de sensores, cabos e chips. Os sensores, ou receptores sensoriais,
+são de certa forma os nossos sentidos, distribuídos por todos os tecidos do organismo,
+músculos, ossos, articulações, vísceras e pele. A função desses sensores é captar a
+informação advinda do ambiente ou do próprio organismo, traduzindo-a de uma forma
+que seja compreendida pelo sistema nervoso, que são os impulsos bioelétricos. Esses
+sensores ficam ligados às fibras nervosas constituintes dos nervos, que funcionam como
+cabos. A função dos nervos é a condução dos impulsos elétricos que foram gerados
+pelos receptores, levando-os até o SNC. Da mesma forma que levam informações até
+o SNC, os nervos fazem o caminho inverso, trazendo impulsos elétricos produzidos no
+SNC para as glândulas, para os músculos das paredes das vísceras, para os músculos
+esqueléticos e cardíacos. O trabalho dos nervos não termina aí, nesses locais os impulsos
+transformam-se em ações, como a contração muscular, ou a secreção glandular,
+liberando energia. Como a função do SNP não é apenas condutora, é preciso lembrar
+dos chips que irão processar as informações como se fossem pequenos computadores.
+Os chips são os contatos realizados entre os neurônios que se situam nos gânglios
+sensitivos, espinhais e motores.
+
+24
+
+Capítulo 4
+Organização do cérebro
+Não há muito para ver. Macio, esponjoso, mosqueado e de cor cinzarosado, dificilmente poderia se dizer que tem beleza física. Porém,
+apesar de sua aparência, ele se classifica como a maior maravilha
+natural que conhecemos e tem uma beleza e sofisticação próprias.
+O objeto ao qual se aplica essa descrição: o cérebro. Ele é responsável
+por nossos pensamentos mais elevados – e por nossos impulsos mais
+primitivos. Ele é o supervisor das intricadas operações do corpo
+humano. Se tivéssemos de tentar projetar um computador que imitasse
+o leque das capacidades do cérebro, a tarefa seria quase impossível;
+na verdade revelou-se difícil chegar apenas perto disso. A simples
+quantidade de células nervosas no cérebro é suficiente para intimidar
+até mesmo o engenheiro de computação mais ambicioso. Muitos bilhões
+de neurônios compõem uma estrutura que pesa apenas 1300 gramas no
+adulto mediano. Entretanto, não é o número de células o aspecto mais
+impressionante em relação ao cérebro, mas sua capacidade de permitir
+que o intelecto humano floresça orientando nosso comportamento e
+nossos pensamentos.
+Fonte: FELDMAN, R. S. Introdução à Psicologia. 10ª ed. Porto Alegre: Artmed,
+Mc Graw Hill Education, 2016.
+
+O estudo das lesões no cérebro e os consequentes distúrbios provocados, foi e ainda é, o
+caminho que muitas vezes permite levantar hipóteses sobre o modo de funcionamento
+do cérebro normal. Como destaca Gil (2010)
+Se o ser humano pode conhecer o mundo e nele agir, é graças a um
+funcionamento coordenado dos recursos cognitivos e às múltiplas
+conexões que o cérebro tece, não só entre os dois hemisférios, mas
+também no interior de cada hemisfério, desenhando uma rede complexa,
+articulada de uma ponta à outra da neuraxe. Inúmeros vínculos são
+tecidos entre a cognição, a afetividade, a sensitividade e a motricidade.
+
+Esses vínculos descritos pelo autor são realizados pelos neurônios, considerados a
+unidade fundamental do SN, por serem os responsáveis pela condução e tratamento
+das informações recebidas. São vários bilhões de neurônios que se conectam através de
+sinapses, criando inúmeras redes. É justamente essa reunião de neurônios que constitui
+25
+
+UNIDADE I │ Introdução às Neurociências
+
+a chamada substância cinzenta, o córtex. Mas os neurônios não estão presentes somente
+no córtex, estão espalhados pelo tálamo e núcleos cinzentos. Os prolongamentos dos
+neurônios, axônios e dendritos, constituem a chamada substância branca, que fica entre
+o córtex e os núcleos cinzentos.
+Dentro do SNC, o cérebro é o responsável pelas funções mais elevadas, que vão desde
+a interpretação de estímulos à ordenação de movimentos musculares, sendo a parte
+mais desenvolvida do encéfalo. Além disso, armazena informações e é responsável
+por processos psíquicos elaborados, que determinam inteligência e personalidade.
+(RUBINSTEIN; CARDOSO, 2012)
+Sua composição se dá pelos hemisférios cerebrais, juntamente com o diencéfalo. Sua
+aparência é geralmente comparada a uma noz, e para funcionar recebe em média 25%
+do sangue bombeado pelo coração.
+Feldman (2016) apresenta a estrutura cerebral a partir do que alguns autores chamam
+de cérebro antigo, que é uma parte que comanda atividades básicas, como comer, dormir
+e respirar. Seria como uma parte do cérebro mais primitivo. Essa parte do cérebro é
+composta por: bulbo raquidiano, ponte, cerebelo e formação reticular. O bulbo controla
+algumas funções corporais específicas, como respiração e batimentos cardíacos. A
+ponte funciona como reguladora do sono e também como um neurotransmissor de
+informações motoras ao controlar os músculos e seus movimentos obedecendo os
+lados direito e esquerdo do corpo. O cerebelo tem como função principal o controle
+do equilíbrio corporal, sem o qual seria impossível andar em linha reta. Também está
+relacionado a funções intelectuais de análise, de resolução de problemas e coordenação
+sensorial. A formação reticular funciona como um guarda, vigiando atentamente
+a qualquer excitação corporal. Quando percebe alguma ameaça, ativa um estado
+aumentado de atenção até identificar qual deve ser a resposta. Essas são atividades
+consideradas menos sofisticadas, por isso, geralmente chamado de cérebro antigo.
+Continuando sua explanação, o autor apresenta o cérebro novo, assim chamado
+considerando a sua evolução recente. Ele é formado pelo córtex cerebral, que faz
+do homem um ser diferenciado, distinto dos outros animais. Essa parte do cérebro
+é dividida em quatro seções, os lobos: frontais, parietais, temporais e occipitais, que
+são separados fisicamente pelos sulcos. Além da estrutura física, o cérebro também é
+estudado a partir das funções associadas a áreas específicas. São conhecidas três áreas
+principais: áreas sensoriais, áreas de associação e áreas motoras. Essa divisão é uma
+simplificação didática, pois é sabido que o comportamento recebe influência de diversas
+áreas do cérebro ao mesmo tempo:
+
+26
+
+Introdução às Neurociências │ UNIDADE I
+
+As pessoas usam diferentes áreas do cérebro quando criam frases (uma
+tarefa verbal) em comparação a quando elas improvisam melodias
+musicais. Além disso, quando as pessoas sofrem lesão cerebral,
+porções intactas do cérebro às vezes podem assumir as funções que
+antes eram gerenciadas pela área lesionada. Em resumo, o cérebro é
+extraordinariamente adaptável. (FELDMAN, 2016, p. 74)
+Figura 8.
+
+Fonte: <http://www.elintransigente.com/u/fotografias/m/2015/10/29/f300x0-311151_311169_0.jpg>.
+
+Dentro do SNC, o cérebro é a parte mais importante, pois é ele que favorece a tomada
+de consciência de todas as informações coletadas por nossos órgãos dos sentidos e
+também é o responsável pela interpretação dessas informações coletadas, fazendo
+uma comparação entre as vivências e expectativas levantadas. O cérebro é também
+responsável pela emissão de respostas, tanto as voluntárias quanto as involuntárias, que
+são a expressão do nosso comportamento atuando sobre o ambiente. Na mesma linha,
+ocorrem os processos mentais: pensamentos, atenção e capacidade de julgamento.
+(COSENZA; GUERRA, 2011)
+A neurofilósofa Patrícia Churchland em entrevista à revista ‘Super Interessante’, afirma
+que a mente é produto do cérebro, que executa tarefas complexas. Destaca que não
+somos máquinas e que os computadores estão muito distantes do comportamento
+humano. Eles podem executar várias ações, mas o fazem de forma mecânica, sem
+compreensão do que está sendo feito.
+
+27
+
+UNIDADE I │ Introdução às Neurociências
+Figura 9.
+
+Fonte: <https://issuu.com/lucasmargoni/docs/stern__luiz_roberto_carlos_-_o_mate>.
+
+O livro indaga sobre “qual é a verdadeira natureza dos processos e estados mentais?
+Em que meio eles ocorrem, e como se relacionam com o mundo físico? A capacidade de
+pensar sobre as coisas, sobre a própria existência e tomar atitudes é o que significa dizer
+que seres humanos possuem “mentes”, diferenciando o homem dos demais animais?
+Assim, não causa surpresa que a tentativa de esclarecer o que significa “ter uma mente”
+esteja no centro das preocupações da tradição filosófica ocidental.
+Tudo aquilo que vivemos, qualquer experiência, será processada e armazenada pelo
+nosso cérebro. A química cerebral é alterada a cada acontecimento, a cada aprendizagem.
+Gazzaniga e Heatherton (2005) corroboram a afirmação de Churchland. Para eles a
+mente é referente à atividade mental, que acontece sempre que pensamos em uma
+situação, que acionamos a nossa memória, que planejamos um evento. Essa atividade
+mental, que é a nossa mente, é resultado de processos biológicos que acontecem no
+nosso cérebro, por meio da ação das suas células nervosas e também da associação com
+as reações químicas.
+Estudamos em René Descartes, considerado o pai da filosofia moderna, que falava sobre
+corpo e mente como duas entidades separadas e irreconciliáveis, o corpo separado da
+mente. E ele não foi o primeiro a falar disso, ele tirou essas ideias de Platão, considerado
+o pai da filosofia ocidental. Freud, os estudou, e tinha ideias similares sobre a separação
+do corpo e da mente. E essa é a forma pela qual médicos e psicólogos, de forma geral,
+estudam e funcionam!
+
+28
+
+Introdução às Neurociências │ UNIDADE I
+
+Então, se eu sou um médico, e alguém vem até mim, eu procuro “consertar” seu corpo;
+a mente, é irrelevante! Ou, se sou um psicólogo, vamos falar sobre seus problemas, suas
+questões, o corpo? Vá ao médico, eles irão te curar, como se o corpo fosse irrelevante
+para o que ele faz.
+Durante muito tempo vimos corpo e mente como duas entidades separadas e
+irreconciliáveis. Hoje em dia existem cada vez mais profissionais que já olham os dois
+como inseparáveis, como uma unidade. Sabem que trabalhar com um, afeta o outro,
+pois eles são interconectados.
+Antonio Damasio, um dos grandes pensadores de nossa Era, em seu livro, “O erro de
+Descartes” escreve:
+Esse é o erro de Descartes: a separação em forma de um abismo entre
+corpo e mente, entre o corpo como algo mensurável, dimensionável,
+operado mecanicamente, divisível e de outro lado a mente como
+algo não mensurável, não dimensionável, inflexível, indivisível [...]
+sugestionando que a causa, o julgamento moral, e o sofrimento que vêm
+da dor física ou emocional existem separadamente do corpo.
+
+Ele fala sobre moralidade separada do corpo, da parte espiritual, como algo que não
+existe uma dimensão, que não pode ser mensurável, como pertencente a outro lugar. E
+temos pensadores e cientistas ainda separando esses dois papéis, que são na verdade
+um só. Simplesmente, não podem ser separados, e pelo fato de separarmos, pagamos
+um preço alto por isso! E se os colocamos juntos, os ganhos são enormes.
+Uma curiosidade: Os três cérebros
+As estruturas do cérebro, filogeneticamente mais antigas, são essencialmente
+constituídas de uma grande parte do tronco cerebral e, em particular, do
+sistema reticular implicado na vigília, bem como dos núcleos cinzentos centrais
+implicados na motricidade: segundo a concepção tripartida de MacLean, essas
+estruturas correspondem ao “cérebro reptiliano”. Esse cérebro, o mais arcaico,
+rico em receptores opiáceos e em dopamina, controla os comportamentos
+indispensáveis às necessidades básicas e à sobrevida da espécie, como o ato
+de comer e a defesa do território. O sistema límbico ou “cérebro mamífero”
+ou “paleomamaliano” envolve como um “anel” (um “limbo”) o precedente,
+na face interna dos hemisférios cerebrais. A parte mais profunda, conectada
+ao hipotálamo, é constituída de estruturas subcorticais e, em particular, do
+hipocampo e da amígdala. A parte periférica do anel corresponde ao córtex
+límbico, que é constituído do giro do hipocampo (T5 ou giro para-hipocampal)
+29
+
+UNIDADE I │ Introdução às Neurociências
+e do giro do corpo caloso (giro do cíngulo), e todo o conjunto constitui o grande
+giro límbico de Broca ou gyrusfornicatus, percorrido por um feixe associativo,
+o cíngulo, e que tem sua origem no córtex fronto-orbital. O aparelho olfatório
+completa o sistema límbico. Além disso, múltiplas conexões unem o sistema
+límbico com o neocórtex (frontal, temporal) da face interna dos hemisférios
+cerebrais, com os núcleos, ditos límbicos, do tálamo (sobretudo os núcleos
+anterior e dorsomedial), e com a formação reticulada mesencefálica (área
+límbica do mesencéfalo). Enfim, o sistema límbico compreende o circuito de
+Papez, que é feito de fibras eferentes do hipocampo que, por intermédio do
+trígono ou fórnix, atingem os corpos mamilares, fazem conexão com o feixe
+mamilotalámico de Vicq d’Azyr, para chegar, enfim, ao núcleo anterior dos
+tálamos e ao giro do cíngulo (ou cingular). O sistema límbico intervém na
+regulação dos comportamentos instintivos, dos comportamentos emocionais e
+na memória.
+Acima dos cérebros “reptiliano” e “límbico”, abrem-se os hemisférios cerebrais
+cobertos por um manto ou córtex cerebral e que constituem o “cérebro
+neomamaliano”, que gerencia as informações provenientes do meio ambiente,
+adapta as ações, permite o desdobramento das funções cognitivas, com a
+linguagem em primeiro lugar, e também dar capacidade de planificação, de
+antecipação do lobo frontal, em que culmina a humanização do cérebro. Essa
+concepção tripartida, com certeza esquemática, não pode ser imaginada sem as
+conexões que ligam as três estruturas entre si.
+
+30
+
+Capítulo 5
+Neurociência cognitiva
+Conforme aponta Eysenck (2017) a abordagem cognitiva está assumindo um espaço cada
+vez maior. É uma abordagem que reconhece que os processos cognitivos desempenham
+importante papel tanto para o desenvolvimento quanto para o tratamento dos
+transtornos mentais.
+Falando de neurociência cognitiva, o autor a define como aquela que usa informações
+sobre o cérebro e o comportamento como base para compreender a cognição humana.
+Para a neurociência cognitiva é importante estudar o cérebro e o comportamento
+enquanto as pessoas estão envolvidas em atividades cognitivas. Isso é importante
+porque para os neurocientistas cognitivos os processos internos relacionados à cognição
+humana ocorrem todos no cérebro.
+A cognição humana é estudada de diversas formas, incluindo técnicas de imagem
+cerebral, como imagem por ressonância magnética funcional (IRMf), e também, técnicas
+eletrofisiológicas a partir do registro de sinais elétricos emitidos pelo cérebro. Outra
+forma possível, é estudar os efeitos que uma lesão cerebral pode provocar na cognição
+humana. Usa-se esse estudo por se acreditar que ao investigar o prejuízo cognitivo que
+um paciente com lesão cerebral apresenta, pode oferecer informações sobre como é o
+funcionamento normal, bem como ser indicativo das áreas cerebrais responsáveis pelos
+processos cognitivos.
+Por que esse interesse? Esse interesse pelo uso de diferentes formas de investigar
+detalhadamente o funcionamento da estrutura do cérebro vem da possibilidade de
+se obter informações sobre a localização e o momento em que processos cognitivos
+específicos ocorrem, ou seja, permite que a ordem da ativação de diferentes áreas
+cerebrais ao se desempenhar uma tarefa seja estabelecida. Da mesma forma, permite
+saber se as mesmas áreas cerebrais podem ser acionadas da mesma forma por duas
+tarefas, ou se existe alguma diferença significativa.
+Eysenck (2017, pp.12-13) cita como principais técnicas para o estudo do cérebro, as
+seguintes:
+»» Registro de unidade isolada. Trata-se de uma técnica (também
+conhecida como registo de célula única) que envolve a inserção no
+cérebro de um microelétrodo de um décimo de milésimo de um
+milímetro de diâmetro para estudar a atividade em neurônios isolados.
+31
+
+UNIDADE I │ Introdução às Neurociências
+
+Esse instrumento é muito sensível, uma vez que alterações elétricas de
+um milionésimo de volt podem ser detectadas.
+»» Potenciais relacionados a eventos (ERPs). O mesmo estímulo (ou
+estímulos muito semelhantes) é apresentado repetidamente, e o padrão
+de atividade cerebral elétrica registrado por vários eletrodos colocados
+no couro cabeludo é calculado para produzir uma forma de onda única.
+Essa técnica permite investigar vários processos cognitivos com muita
+precisão temporal, mas sua resolução espacial é muito fraca.
+»» Tomografia por emissão de pósitrons (PET). Trata-se de uma
+técnica que envolve a detecção de pósitrons (partículas atômicas emitidas
+por algumas substâncias radioativas). A PET tem razoável resolução
+espacial, mas pouca resolução temporal e mede a atividade neural apenas
+de forma indireta.
+»» Imagem por ressonância magnética funcional (IRMf). Técnica
+que envolve a imagem da oxigenação do sangue, usando uma máquina
+de imagem por ressonância magnética (IRM) (descrita posteriormente).
+A IRMf tem resolução espacial e temporal superiores à PET e também
+fornece uma medida indireta da atividade neural.
+»» Imagem por ressonância magnética funcional relacionada
+a evento (IRMfe). “Envolve a separação dos elementos de um
+experimento em pontos discretos no tempo, de modo que os processos
+cognitivos (e as respostas cerebrais) associadas a cada elemento possam
+ser analisadas independentemente” (HUETTEL, 2012, p. 1152). Em
+geral, a IRMf relacionada a evento é muito informativa e se tornou muito
+popular recentemente.
+»» Magnetoencefalografia (MEG). Trata-se de uma técnica que envolve
+a mensuração dos campos magnéticos produzidos pela atividade elétrica
+cerebral. Proporciona informações bastante detalhadas em nível de
+milissegundos sobre o curso temporal dos processos cognitivos, e sua
+resolução espacial é razoavelmente boa.
+»» Estimulação magnética transcraniana (TMS). Técnica na qual
+uma bobina é colocada próxima à cabeça do participante e uma pulsação
+de corrente magnética muito breve passa através dela. Isso produz um
+campo magnético de vida curta que geralmente (mas nem sempre)
+inibe o processamento na área afetada do cérebro. Quando o pulso é
+32
+
+Introdução às Neurociências │ UNIDADE I
+
+repetido várias vezes em rápida sucessão, temos a estimulação magnética
+transcraniana repetitiva (rTMS). A rTMS é amplamente usada.
+O autor não defende uma técnica em detrimento da outra, ele aponta suas vantagens
+e limitações, destacando que em muitos momentos é importante combinar técnicas de
+investigação diferentes dependo da pergunta da pesquisa.
+Figura 10. Estimulação magnética transcraniana (TMS).
+
+Fonte: <http://www.ipan.med.br/wp-content/uploads/ImagemBlog2.jpg>.
+
+Para explorar um pouco mais e ampliar os conhecimentos veja esses vídeos de
+palestras de médicos apresentando seus trabalhos sobre estimulação cerebral
+não invasiva:
+<https://www.youtube.com/watch?v=jn9kjdTFFiM>.
+<https://www.youtube.com/watch?v=Nf0cljOXdTc>.
+
+Neurociência cognitiva na psicologia
+A partir de Luria (1992; 2006; 2010 apud BASTOS; ALVES, 2013) estudaremos
+os apontamentos científicos da época apresentados por Vygotsky e continuadas
+exaustivamente pelo autor que conjecturava uma ciência da consciência humana,
+integrando os estímulos externos, valorizando a importância do mundo exterior, sem,
+portanto, deixar os aspectos dos processos cognitivos de fora.
+Nesse contexto se faz jus observar que há avanços na história da ciência, e mais
+precisamente da neurociência cognitiva, uma vez que nos fins do século XVII o
+neuroanatomista Franz Joseph Gael sugeriu que certas funções mentais superiores
+estariam localizadas em distintas áreas do cérebro. Mais adiante, por volta do século XX,
+Vygotsky apresentou, como processos psicológicos superiores as ações conscientemente
+controladas, a atenção voluntária, a memorização ativa e o pensamento abstrato.
+
+33
+
+UNIDADE I │ Introdução às Neurociências
+
+Portanto, como frisaram os autores, se retomarmos à história poderemos observar
+avanços significativos no desenvolvimento da neurociência cognitiva, que está sendo
+alargada desde o final do século XVII até a metade do século passado, quando os
+neurologistas e anatomistas pesquisavam as bases neurológicas por meio de autópsias
+e de estudos clínicos em pacientes com lesões cerebrais.
+Atualmente, início do século XXI, estudos avançados sobre neurociências,
+neuropsicologia, e neuroplasticidade vão se desenvolvendo largamente e a prova disso
+é o estudo atual do professor da Universidade da Califórnia, São Francisco, Michael
+Merzenich. Que segundo a reportagem apresentada pela Revista Exame (29/4/2016):
+Desde os anos 1960, quando ainda predominava entre neurocientistas
+a ideia de que o cérebro seria um órgão estático, pré-moldado sob
+estrita ordenação genética, Merzenich defende que é possível, ao longo
+de toda a vida, criar novos circuitos e conexões neuronais em resposta a
+estímulos e experiências, o que resultaria em mudanças funcionais. As
+teorias sobre a neuroplasticidade formuladas por Merzenich e outros
+neurocientistas contemporâneos abriram perspectivas revolucionárias
+– tanto para crianças com dificuldades de aprendizado como para
+pessoas com lesão cerebral decorrente de trauma ou de doenças como
+acidente vascular cerebral (AVC). Nas décadas de 1970 e 1980, por
+meio de experimentos com animais, Merzenich demonstrou que os
+circuitos neuronais e as sinapses se modificam rapidamente de acordo
+com a atividade praticada. Em um dos ensaios, rearranjou os nervos
+na mão de um macaco e observou que as células do córtex sensorial do
+animal rapidamente se reorganizaram para criar um novo mapa mental
+daquele membro. No fim dos anos 1980, Merzenich integrou o grupo da
+UCSF que desenvolveu o implante coclear. Em 1996, fundou a Scientific
+Learning Corporation, empresa que desenvolve softwares voltados a
+aprimorar o aprendizado infantil com base em modelos de plasticidade
+cerebral. Também foi um dos fundadores, em 2004, e é atualmente
+cientista chefe na empresa Posit Science, que desenvolve softwares
+para treinamento cerebral com base nos resultados de suas pesquisas.
+O programa é conhecido como BrainHQ. Nos últimos anos, Merzenich
+tem se dedicado a verificar se a prática de exercícios intelectuais pode
+ajudar a remodelar as funções cerebrais, possibilitando recuperar
+habilidades perdidas por causa de doenças, lesões ou envelhecimento.
+Seus estudos já foram publicados em mais de 150 artigos científicos –
+muitos deles em revistas de grande impacto, como Science e Nature.
+Ele também recebeu diversos prêmios acadêmicos, como o RussPrize,
+34
+
+Introdução às Neurociências │ UNIDADE I
+
+o IpsenPrize e o ZülchPrize. Em 2013, Merzenich publicou o livro ‘SoftWired: Howthe New Science of Brain Plasticity Can Change Your Life’,
+no qual apresenta estratégias para que pessoas comuns possam assumir
+o controle dos processos de plasticidade cerebral e, assim, melhorar sua
+qualidade de vida.
+
+A neurociência cognitiva tem como preocupação estrutural analisar e estudar,
+fundamentalmente, como os processos cognitivos são produzidos envolvendo
+atenção, memória, gnosias ou percepções, pensamento, consciência, comportamento
+emocional, aprendizagem e linguagem, e refletem o modelo dinamicista mencionado
+anteriormente, em que as áreas cerebrais (auditiva, sensorial e tátil-cinestésica, visual,
+planejamento consciente do comportamento e programas de ação) além de integrarem
+funcionalmente e influenciar ativamente pelo meio sociocultural as relações sociais do
+homem.
+Em se tratando de um modelo mais atual e tecnológico, em que as funções cognitivas com
+base em mecanismos de processamento de informação e construção de representações
+mentais, trabalham para conceber os processos cognitivos em uma dimensão corpórea
+e interativa com o ambiente. Enfocamos as ações dos sistemas cognitivos em seus
+respectivos contextos, num processo de adaptação ativa em relação à base cerebral
+da atividade consciente humana, constituída por sistemas funcionais complexos e
+diferenciados. Desse modo, é possível deduzir que as funções mentais superiores
+são processos cognitivos, sendo essas funções mentais superiores importantes para
+a aprendizagem numa relação direta com a linguagem, mediando nossas funções
+psicocognitivas. (BASTOS; ALVES, 2013)
+
+35
+
+Psicologia
+Cognitiva
+
+Unidade iI
+
+Capítulo 1
+Conceitos
+
+O que estuda a Psicologia Cognitiva? Qual é o
+seu interesse?
+Sternberg (2010, p. 1), define a Psicologia Cognitiva como o “estudo de como as pessoas
+percebem, aprendem, lembram-se e pensam sobre a informação”. Vai investigar como
+as pessoas conseguem perceber formas diversas, se interessa pelo funcionamento da
+memória e a lembrança de alguns fatos, o como se dá o processo de aprendizagens
+diversas etc. Tudo isso porque as pessoas são dotadas de cognição, ou seja, as pessoas
+pensam, e para a Psicologia Cognitiva interessa saber como pensam, como percebem,
+como aprendem e como registram suas lembranças.
+Algumas questões são levantadas por Sternberg (2010, p. 1) como alvo de investigação
+da Psicologia Cognitiva são:
+»» Por que os objetos parecem estar mais distantes do que realmente
+estão em dias nebulosos? Essa discrepância pode ser perigosa, inclusive
+enganando motoristas e causando acidentes.
+»» Por que muitas pessoas conseguem se lembrar de uma experiência
+em especial, por exemplo de um momento muito feliz ou algum
+constrangimento na infância, mas esquecem os nomes de pessoas que
+conhecem há muitos anos?
+»» Por que muitas pessoas têm mais medo de viajar de avião do que de
+carro? Afinal, as chances de acidente e morte são muito maiores no carro
+do que no avião.
+
+36
+
+Psicologia Cognitiva │ UNIDADE II
+
+»» Por que sempre me lembro mais de alguém da minha infância do que de
+alguém que conheci na semana passada?
+»» Por que os políticos gastam tanto dinheiro com suas campanhas de
+televisão?
+Para Eysenck (2017), a Psicologia Cognitiva refere-se “aos processos internos
+envolvidos em extrair sentido do ambiente e decidir que ação deve ser apropriada” (p.
+1). Que processos são esses? Linguagem, atenção, resolução de problemas, memória,
+aprendizagem, raciocínio, percepção, pensamento. Assim, o objetivo da Psicologia
+Cognitiva é compreender a cognição humana a partir da observação das pessoas se
+comportando, executando tarefas cognitivas. O autor acrescenta que o termo ‘Psicologia
+Cognitiva’ também pode ser usado de forma a abranger “a atividade e estrutura cerebral
+como informações relevantes para a compreensão da cognição humana”.
+As perguntas acima são respondidas investigando os processos cognitivos que veremos
+a seguir, iniciando com processos básicos de sensação e percepção. Ao pesquisar
+sobre processos psicológicos básicos, não se encontra uma unanimidade em relação a
+quais são, há muita divergência entre os autores. Aqui abordaremos alguns que serão
+importantes para a disciplina de uma forma geral.
+
+Atenção, sensação e percepção
+Em uma noite chuvosa, um matemático de 33 anos de idade saiu após o jantar
+para um passeio trágico. Seus amigos sempre o consideraram o “gourmet dos
+gourmets” porque ele possuía a capacidade fantástica de provar um prato e citar
+todos os ingredientes contidos nele. Um dos amigos comentava que ele tinha o
+“dom perfeito” para a comida. No momento em que o matemático colocou os
+pés na rua naquela noite, um carro que vinha devagar pela estrada o atropelou
+e ele caiu na calçada, batendo a cabeça. Quando saiu do hospital descobriu,
+horrorizado, que havia perdido o sentido do olfato. Devido ao fato de o olfato e o
+paladar estarem fisiologicamente relacionados, seus dias como gourmet tinham
+chegado ao fim.
+Seus botões gustativos estavam funcionando: ele conseguia dizer se uma
+comida era salgada, amarga, ácida ou doce. Mas, sem sentir os aromas, ele já não
+podia mais experimentar as misturas sutis dos sabores que tornavam a comida
+deliciosa e memorável. O ato de comer agora era uma árdua tarefa.
+
+37
+
+UNIDADE II │ Psicologia Cognitiva
+Alguns anos mais tarde ele processou o motorista do carro, alegando,
+primeiramente, que seu prazer de viver havia sido lesado sem possibilidade de
+reparação e, em segundo lugar, que a perda do olfato fazia com que ele corresse
+risco de vida. De fato, não conseguiu perceber o cheiro de fumaça quando seu
+apartamento pegou fogo; intoxicou-se por não perceber que estava comendo
+comida estragada; e não foi capaz de detectar o cheiro de um vazamento de
+gás. O matemático ganhou a causa na justiça. O termo técnico para a desordem
+da qual ele sofria é anosmia (palavra originária da combinação greco-latina que
+significa “sem cheiro”). (ACKERMAN, 1995)
+Não damos valor ao nosso olfato nem ao ar que respiramos. E, na verdade,
+sentimos odores toda vez que respiramos. Sem o aroma intenso do café recémpreparado, o forte odor da brisa do mar, o cheiro de limpeza da roupa lavada
+ou até mesmo a atmosfera de um estábulo, a vida seria extraordinariamente
+chata. Pergunte aos dois milhões de norte-americanos que sofrem de distúrbios
+do paladar e do olfato. “Sinto-me vazio, em uma espécie de limbo, disse aquele
+matemático (ACKERMAN, 1995, p. 41). Uma mulher que havia readquirido seu
+olfato comparou o dia em que percebeu que era capaz de sentir o sabor da
+comida novamente como “um momento do filme ‘O mágico de Oz’, em que o
+mundo deixa de ser preto-e-branco e passa a ser colorido” (ACKERMAN, 1995,
+p. 42). Nosso olfato pode não ser tão aguçado como o de outros animais, como
+os cães, por exemplo, mas os aromas fazem parte da nossa experiência de vida.
+As sensações, que incluem odores, visões, sons, gostos, equilíbrio, tato e dor,
+são os dados brutos da experiência. Nossos vários órgãos dos sentidos são
+continuamente bombardeados por informações, todas competindo entre
+si por atenção, tão pequenas quanto peças de um quebra-cabeça gigante e
+entrecortado. A percepção é o processo mental de separar, identificar e organizar
+essas porções para que formem padrões dotados de significado. A sensação e a
+percepção são os fundamentos da consciência; juntas, elas nos informam o que
+está acontecendo dentro e fora do nosso corpo.
+Fonte: MORRIS, Charles G.; MAISTO, Albert A. Introdução à Psicologia. 6ª ed. São Paulo: Prentice
+Hall, 2004.
+
+A percepção é considerada uma atividade cognitiva fundamental, pois serve de base para
+as demais. Temos, primeiramente, que a realidade se apresenta de um modo neutro e
+se disponibilizando para ser captada pelas sensações (nos nossos cinco sentidos) e para
+posterior interpretação das informações apresentadas. Esse processamento se dá por
+meio de dois níveis: o nível da sensação e o da percepção.
+
+38
+
+Psicologia Cognitiva │ UNIDADE II
+
+Mas por que falarmos de sensação e percepção? Alencar (2000) destaca a importância
+da percepção na adaptação do organismo ao meio, que precisa receber e processar
+informações a respeito do ambiente. Funciona como uma espécie de filtro que seleciona
+o que é captado ou não.
+Imagine se conseguíssemos perceber todos os estímulos ao nosso redor. Como
+seria?
+
+Com certeza enfrentaríamos sérios problemas para administrar tanta informação.
+Somos “bombardeados” o tempo inteiro por uma série de estímulos (visuais, auditivos,
+olfativos etc.) e o organismo precisa filtrar as informações, de forma que ignore a maior
+parte e receba apenas uma pequena fatia dos estímulos.
+A sensação aqui, é entendida como a recepção dos dados disponíveis ao nosso redor,
+enquanto a percepção supõe significados que atribuímos a essas sensações mediante
+nossas experiências de vida, ou seja, a interpretação. Trata-se, pois, de um processo em
+que relacionamos aquilo que foi captado, coletado por nossos órgãos do sentido com as
+experiências já vividas.
+Temos assim, uma distinção entre sensação e percepção. A primeira pode ser
+entendida como “[...] a atividade desses receptores sensoriais [visuais, auditivos, táteis
+etc.], implicando em um registro passivo das informações recebidas através deles”.
+(ALENCAR, 2000, p. 112)
+Já a percepção pode ser compreendida como um fenômeno mais amplo que o fenômeno
+da sensação, pois percebe-se uma elaboração das informações anteriormente recebidas,
+o que exige um processamento e uma análise dessas informações. Barber e Legge,
+segundo Braghirolli et al. (2003), definem percepção como o “[...] processo de recepção,
+seleção, aquisição, transformação e organização das informações fornecidas através de
+nossos sentidos”.
+Para complementarmos com o estudo que está sendo feito até aqui, vejamos
+esse trecho da obra de Cosenza e Guerra (2011, p. 19):
+É por intermédio do córtex cerebral que percebemos uma
+determinada sensação. Em outras palavras, sabemos que houve
+uma estimulação tátil em nosso dedo quando essa informação,
+trazida através da cadeia neuronal mencionada, excita neurônios
+no córtex cerebral, levando a um processamento que ativa a
+consciência. Na região cortical, que se encarrega das informações
+táteis, existe um mapa corporal em que estão representadas as
+
+39
+
+UNIDADE II │ Psicologia Cognitiva
+diversas partes do corpo. Ou seja, uma estimulação da pele do rosto
+chega em um ponto do córtex, enquanto a estimulação do braço
+atinge uma área um pouco diferente, e assim sucessivamente.
+Dessa forma, nosso cérebro “sabe” que região do corpo está sendo
+estimulada.
+Se a cadeia neuronal for interrompida, o córtex deixará de ser
+informado e, portanto, não será possível perceber a estimulação
+dos receptores na região agora desconectada do restante do
+sistema. É o que acontece quando a medula espinhal de uma
+pessoa é lesada. Neste caso, ela perderá a sensibilidade nas regiões
+do corpo agora separadas de sua ligação com o córtex cerebral.
+
+Nossos sentidos são a base de um processo de percepção. A inoperância ou o mal
+funcionamento de nossos cinco sentidos impossibilita-nos ou dificulta-nos a percepção
+da realidade. Por outro lado, a simples eficiência funcional dos nossos sentidos não nos
+garante a adequada percepção das informações.
+Para que conheçamos determinado objeto, por exemplo, é necessário que,
+prioritariamente, focalizemos nossa atenção sobre ele. A atenção é condição básica para
+a percepção. De nada nos adiantaria uma excelente visão se não olharmos diretamente
+para o objeto pretendido.
+Como destacam Bear, Connors e Paradiso (2008), a atenção é um estado de
+processamento simultâneo de fontes distintas de informação:
+Imagine-se em uma festa muito movimentada, com música alta
+e as conversas de centenas de pessoas. Embora você esteja sendo
+bombardeado por sons a partir de todas as direções, de algum modo
+você é capaz de concentrar-se na conversação que está tendo, enquanto
+ignora a maior parte das demais conversas e do barulho. Você está
+prestando atenção a uma conversação. Às suas costas, você ouve alguém
+mencionar seu nome e decide escutar discretamente. Sem voltar-se,
+você começa a focar sua atenção nessa outra conversação para descobrir
+o que estão falando de você.
+No sistema visual, a atenção nos permite a concentração em um
+objeto entre muitos outros do campo visual. Interações entre distintas
+modalidades também podem ocorrer. Por exemplo, se você está
+realizando uma tarefa visual que demanda atenção como a leitura, você
+está menos sensível aos sons que surgirem. A atenção está claramente
+relacionada com o processamento preferencial de informação sensorial.
+Em meio a todas as informações visuais, sons ou sabores que chegam a
+40
+
+Psicologia Cognitiva │ UNIDADE II
+
+seu encéfalo, você é capaz de perceber seletivamente alguma informação
+e ignorar as demais. (p. 644)
+
+A percepção dos estímulos sofre a interferência de fatores internos e externos àquele
+que percebe. São esses fatores que explicam porque uma determinada pessoa percebe
+apenas alguns objetos, cheiros, ruídos, e ignora ou elimina outros estímulos presentes.
+Os fatores externos estão relacionados às características dos estímulos, tais como:
+intensidade, tamanho, forma, mobilidade, entre outros. Já os fatores internos referemse ao estado psicológico daquele que percebe: seus motivos ou necessidades, seus
+valores e atitudes, seus interesses, sua personalidade etc.
+Embora os fatores externos influenciem nossa percepção, os fatores internos são mais
+relevantes na determinação da percepção. Nossa predisposição de encontrar uma
+determinada peça de roupa, uma calça vermelha, por exemplo, em um cesto de roupas,
+nos faz atentarmos mais para as peças daquela tonalidade previamente procurada.
+Ainda que vejamos outras peças, como, por exemplo, uma camiseta branca, não a
+perceberemos, pois, nosso foco nos direcionou para aquilo que pretendíamos. Ainda
+que nos perguntem, momentos após a procura, se sabemos onde se encontra aquela
+camiseta branca, talvez não saibamos, pois, nossa atenção não estava focada nela e
+podemos simplesmente não tê-la notado.
+Se, ansiosamente, esperamos por alguém, poderemos ouvi-lo chegar diversas vezes
+antes desse fato realmente ocorrer. Em uma leitura podemos não nos dar conta da
+falta de certas palavras ou da troca de letras, porque esperamos naturalmente que elas
+estejam presentes e corretas, como nos exemplos que se seguem:
+TEXTO 1.
+Sohw de bloa. - O nosso cérebro !!!
+De aorcdo com uma peqsiusa de uma uinrvesriddaeignlsea, não ipomtra em qaulodrem as lrteas de uma plravaaetãso, a
+únciacsioaiprotmatne é que a piremria e útmlialrteasetejasm no lgaurcrteo. O rsetopdoe ser uma bçguanattaol, que vcoêanidapdoe ler sem
+pobrlmea. Itso é poqrue nós não lmeoscdaalrteaisladoa, mas a plravaacmoo um tdoo.
+Sohw de bloa.
+
+41
+
+UNIDADE II │ Psicologia Cognitiva
+
+TEXTO 2.
+3M UM D14 D3 V3R40,
+3574V4 N4 PR414, 0853RV4ND0 DU45 CR14NC45 8R1NC4ND0 N4 4R314. 3L45 7R484LH4V4M MU170 C0N57RU1ND0 UM
+C4573L0 D3 4R314, C0M 70RR35, P4554R3L45 3 P4554G3NS 1N73RN45. QU4ND0 3575V4M QU453 4C484ND0, V310 UM4
+0ND4 3 D357RU1U 7UD0, R3DU21ND0 0 C4573L0 4 UM M0N73 D3 4R314 3 35PUM4. 4CH31 QU3, D3P015 D3 74N70 35F0RC0
+3 CU1D4D0, 45 CR14NC45 C41R14M N0 CH0R0. C0RR3R4M P3L4 PR414, FUG1ND0 D4 4GU4, R1ND0 D3 M405 D4D45 3
+C0M3C4R4M 4 C0N57RU1R 0U7R0 C4573L0. C0MPR33ND1 QU3 H4V14 4PR3ND1D0 UM4 GR4ND3 L1C40;
+G4574M05 MU170 73MP0 D4 N0554 V1D4 C0N57RU1ND0 4LGUM4 C0154 3 M415 C3D0 0U M415 74RD3, UM4 0ND4 P0D3R4
+V1R 3 D357RU1R 7UD0 0 QU3 L3V4M05 74N70 73MP0 P4R4 C0N57RU1R. M45 QU4ND0 1550 4C0N73C3R 50M3N73 4QU3L3
+QU3 73M 45 M405 D3 4LGU3M P4R4 53GUR4R, 53R4 C4P42 D3 50RR1R!! S0 0 QU3 P3RM4N3C3 3 4 4M124D3, 0 4M0R 3 0
+C4R1NH0. 0 R3570 3 F3170 4R314.
+
+Nos dois textos acima, temos o português como base, embora nenhuma palavra esteja
+grafada corretamente, algumas nem palavras são realmente, porém, é possível a sua
+leitura e compreensão. Você conseguiu? Se não tente mais uma vez. Leia em conjunto
+com outra pessoa, pois, às vezes, a visão de outra pessoa pode lhe ajudar a compreender
+e a perceber o que o texto propõe.
+Outro exemplo, de como nossas experiências prévias interferem em nossa percepção é
+que, provavelmente um marceneiro observará, ao entrar em uma casa, a qualidade dos
+móveis, sem atentar muito, por exemplo à pintura da casa, dado que será prontamente
+percebido por um pintor. Ou, quando estamos com algum machucado, uma unha do pé
+inflamada, por exemplo, temos a impressão de que sempre alguém nos atinge no local
+do ferimento. Temos a sensação de que foi só nos machucarmos para todas as pessoas
+mirarem o nosso pé. Entretanto, é provável que a frequência de pisões e batidas daquele
+dedo não tenha sido alterada, realmente. O que alterou, na verdade, foi a atenção que
+voltamos para ele e a importância que passamos a dar para tais incidentes, fatos que
+passavam desapercebidos quando o dedo se encontrava em perfeito estado de saúde.
+Temos uma tendência, portanto, a perceber o mundo mais como cremos ou queremos
+que ele seja do que como nos informam os diferentes estímulos que chegam aos nossos
+órgãos de sentido. Assim, nós, seres humanos, não somos meros registradores de
+estímulos, mas interpretadores desses.
+A seguir ilustraremos isto com estímulos que, dependendo da ênfase que damos a
+determinadas estruturas modificamos a percepção que temos deles, ainda que eles
+permaneçam inalterados. Observe e diga o que você vê.
+
+42
+
+Psicologia Cognitiva │ UNIDADE II
+
+Figura 11.
+
+Fonte: <https://br.pinterest.com/pin/512636370055644436/>.
+
+Figura 12.
+
+Fonte: <http://artnectar.com/2010/05/fundamentals-design-gestalt/>.
+
+43
+
+UNIDADE II │ Psicologia Cognitiva
+Figura 13.
+
+Fonte: <http://blog.rachacuca.com.br/2007/11/ilusao-de-optica-da-mesa/>.
+
+O que você conseguiu identificar na primeira figura?
+E na segunda?
+Pegou uma régua para medir as mesas? Difícil acreditar que são do mesmo tamanho,
+não?
+Muitas vezes nos fixamos em alguns estímulos e ignoramos todos os outros. Assim pode
+acontecer o que chamamos de ilusões visuais, que
+[...] ocorrem quando empregamos diversas pistas sensoriais para gerar
+experiências perceptivas que, na verdade, não existem. Algumas são
+ilusões físicas, como a aparência inclinada de um palito na água. Outras
+são ilusões perceptivas, que ocorrem porque um estímulo contém pistas
+enganosas que levam a percepções imprecisas. (MAISTO; MORRIS,
+2004, p. 121)
+
+São vários os fatores que influenciam a nossa percepção, tais como experiências
+passadas e aprendizagem, que formam nossa maneira individual de nos relacionarmos
+com o nosso meio, de interpretá-lo e consequentemente agir sobre ele.
+
+Motivação
+Assim como as emoções e os sentimentos, a motivação é outro aspecto subjetivo
+do ser humano que não pode ser observado diretamente, mas inferido a partir do
+comportamento que, presumimos, foi gerado por sua interferência. Portanto, não
+vemos a motivação acontecendo de forma direta, mas a partir do comportamento
+podemos inferir.
+
+44
+
+Psicologia Cognitiva │ UNIDADE II
+
+Podemos começar a compreender a motivação a partir de sua raiz etimológica latina:
+movere, que significa mover-se. Assim, a motivação seria aquele estímulo, que move
+determinada pessoa para a ação. Ou, nas palavras de Sawery e Telford, citados por
+Braghirolli et al. (2003), como “uma condição interna relativamente duradoura que
+leva o indivíduo ou que o predispõe a persistir num comportamento orientado para
+um objetivo, possibilitando a transformação ou a permanência da situação”. Sawery e
+Telford nos alertam para o fato de que a motivação trata-se de um estímulo interno. Dessa
+forma devemos distingui-la de outros termos, largamente utilizados, erroneamente, no
+lugar do termo motivação, como: incentivo e impulso.
+Figura 14.
+
+Fonte: <http://www.jrmcoaching.com.br/blog/historias-e-frases-de-motivacao-pessoal/>.
+
+O incentivo é um objeto, uma condição ou significação externa para o qual o
+comportamento se dirige. Como exemplo de incentivo, podemos considerar um
+pagamento extra por produção, que visa aumentar a dedicação e a produtividade de
+uma pessoa.
+Já no caso do impulso, este é considerado a força que põe o organismo em movimento.
+É compreendido como a consequência de uma necessidade. A sede, por exemplo é uma
+necessidade, é um impulso, consequência da necessidade de água. Mas não se trata de
+motivo, pois não dá direção definida ao comportamento, apenas o ativa.
+A identificação de um motivo nos auxilia a compreender o comportamento humano,
+embora isso possa ser dificultado pelo fato de que um comportamento pode ser
+resultado de vários motivos atuando simultaneamente. Outra dificuldade enfrentada
+é a existência de motivos inconscientes e que, por essa razão, impossibilitam a pessoa
+a saber qual o motivo real para ter se comportado de determinada maneira. Por tudo
+45
+
+UNIDADE II │ Psicologia Cognitiva
+
+isso, é inadequado procurar explicar a complexidade e a totalidade do comportamento
+humano, levando-se em conta apenas os motivos.
+Aragão e Edwards em Braghirolli et al. (2003), propõem a classificação dos diversos
+motivos humanos em três categorias: os motivos relacionados às necessidades
+fisiológicas (motivos de sobrevivência); os motivos relacionados com a interação com
+outras pessoas (motivos sociais); motivos relacionados com a competência ou o eu
+(motivos do eu). Essas classificações serão melhor detalhadas a seguir.
+Os motivos de sobrevivência se baseiam nas necessidades fisiológicas ou quaisquer
+condições que afetem diretamente a sobrevivência do indivíduo. São eles: fome, sede,
+sono, eliminação, dor, medo, fadiga, entre outros.
+Os motivos sociais são aqueles que exigem, para sua expressão, a presença ou
+participação de outros indivíduos da mesma espécie. Nessa categoria se incluem os
+motivos de agressão, reprodutivos, afiliativos e de dominação ou prestígio.
+Os comportamentos maternais, são um exemplo de motivação social reprodutiva, pois
+dirigem as ações do indivíduo para cuidar dos membros mais jovens da sua espécie.
+Entende-se como motivo afiliativo, a tendência para estar com outros indivíduos
+semelhantes. Assim, tendemos a nos sentir aflitos e angustiados quando isolados de
+ambientes que nos são familiares, o que nos motivará a ter comportamentos corteses
+e afetivamente positivos, para que sejamos aceitos pelos desconhecidos, e não sejamos
+excluídos dos ambientes já conquistados.
+O motivo de prestígio é entendido como responsável pelos comportamentos de obtenção
+e manutenção da aprovação, da estima e reconhecimento dos outros. Ou seja, é uma
+etapa posterior à afiliação conquistada.
+Já os motivos do Eu são aqueles que contribuem para a defesa e revigoração da
+imagem que cada pessoa possui de si mesma são eles: a necessidade de realização e a
+necessidade de informação consoante, entre outros. O motivo de realização pode ser
+entendido como uma necessidade de agir conforme padrões de excelência, procurando
+fazer o melhor possível, com o desejo de sucesso. Caracteriza-se pelo desejo de vencer
+obstáculos, realizar tarefas difíceis, ser bem-sucedido e sobressair-se quanto ao próprio
+desempenho.
+Vimos aqui de que forma a motivação e outras associações podem interferir no nosso
+modo de nos comportar e como são pautados nos processos psicológicos, nosso alvo
+aqui. Veremos agora, o processo de aprendizagem, juntamente com as formas de
+aprendizagem.
+46
+
+Psicologia Cognitiva │ UNIDADE II
+
+Aprendizagem
+Parece impossível, mas todas as ações a seguir têm algo em comum:
+andar de bicicleta, pegar uma bola ou passar em um teste de álgebra.
+Sentir-se mal só de pensar em comer pizza de anchovas ou vestir luvas
+de cozinha antes de pegar uma caçarola quente. Ensinar um esquilo
+a praticar esqui aquático ou um cachorro a dar a pata. (MORRIS;
+MAISTO, 2004, p. 157)
+
+Antes de continuar seus estudos, e por enquanto sem recorrer a outro material, defina
+o que é aprendizagem.
+O que há em comum entre todos os comportamentos descritos acima é a aprendizagem.
+Embora a maioria das pessoas associe aprendizagem às salas de aula ou ao ato de estudar
+para provas, os psicólogos a definem de maneira mais ampla. Para eles, a aprendizagem
+ocorre toda vez que a experiência ou a prática resultam em uma mudança relativamente
+permanente no comportamento efetivo ou potencial. Essa definição inclui todos os
+exemplos acima, além de muitos outros. Quando você se lembra de como colocar a
+chave na fechadura da porta da frente de sua casa, de como estacionar o carro ou de
+onde está o bebedouro da biblioteca, você está demonstrando apenas uma pequena
+parte de sua enorme capacidade de aprender e do que já aprendeu.
+A vida humana seria impossível sem a aprendizagem. Ela está presente em praticamente
+tudo o que fazemos. Você não seria capaz de se comunicar com outras pessoas,
+reconhecer-se como um ser humano ou até mesmo saber quais as substâncias adequadas
+para comer caso você não fosse capaz de aprender nada. (MORRIS; MAISTO, 2004, p.
+157)
+Aprendizagem: esse é um dos assuntos mais estudados pela Psicologia, isso porque
+“praticamente todo o comportamento humano é aprendido”. (BRAGHIROLLI et al.,
+2003, p. 117)
+A partir da escala evolutiva dos animais, podemos perceber que nós humanos estamos
+numa escala mais ascendente. Os animais mais inferiores, de forma geral são dependentes
+do instinto para sobreviver, dependem pouco da aprendizagem. Embora os animais
+também aprendam, seu comportamento é praticamente determinado pelo instinto, que
+pode ser definido como um comportamento complexo e universal, uniforme para cada
+espécie, que aparece de forma súbita, não requerendo treino ou aprendizagem prévia,
+tem valor de sobrevivência.
+
+47
+
+UNIDADE II │ Psicologia Cognitiva
+Figura 15.
+
+Fonte: <https://static.wixstatic.com/media/3af732_b97e81492f274bbaa3088eeced50d4df.png/v1/fill/w_607,h_455,al_c,usm_0.
+66_1.00_0.01/3af732_b97e81492f274bbaa3088eeced50d4df.png>.
+
+Já nós, seres humanos, somos completamente dependentes da aprendizagem para
+nossa sobrevivência: de comer a falar, precisamos aprender praticamente tudo.
+Aprendizagem que começa ainda no ambiente intrauterino e se estende até a morte.
+Além da sobrevivência individual, a aprendizagem “[...] torna possível às gerações
+tirar proveito das experiências e descobertas das gerações anteriores, acrescentam sua
+própria contribuição e, assim, promover o progresso”. (BRAGHIROLLI et al., 2003, p.
+117)
+É preciso atentar, entretanto, para o fato de que nem sempre a aprendizagem visa
+ao crescimento, seja ele pessoal ou social, pois, “[...] não aprendemos somente os
+comportamentos que nos tornarão melhores, mais capazes ou mais felizes. Também
+aprendemos comportamentos inúteis ou prejudiciais, como fumar ou ingerir drogas”
+(BRAGHIROLLI et al., 2003, p. 117). Encontramos a aprendizagem associada a uma
+conotação moral, mas como vimos, tanto bons, quanto maus comportamentos podem
+ser aprendidos.
+Conceituar aprendizagem não é uma tarefa fácil, uma vez que não encontramos
+unanimidade entre os autores, mas alguns fatores são característicos e determinantes
+nesse conceito. Primeiramente, é importante diferenciar aprendizagem de conhecimento,
+esse último é o produto do processo de aprendizagem.
+Como não é possível observar a aprendizagem diretamente, e sim seus efeitos sobre
+o comportamento, usaremos as consequências sobre a conduta, que advém de uma
+experiência ou treino anterior, somada a uma duração relativa, como critérios para
+definir se houve aprendizagem ou não. É preciso estabelecer esses critérios uma vez
+48
+
+Psicologia Cognitiva │ UNIDADE II
+
+que não é somente a aprendizagem que modifica o comportamento. O uso de um
+determinado medicamento, por exemplo, pode modificar a atitude de uma pessoa, sem
+que para isso tenha ocorrido aprendizagem, pois não estará associada ao treino, nem a
+uma mudança duradoura.
+Como abordamos anteriormente, a aprendizagem tem início ainda na vida intrauterina,
+e só paramos de aprender quando morremos. Desse fato podemos supor que é possível
+aprender de diversas maneiras, dependendo da nossa idade, do contexto, da nossa
+bagagem, maturação etc. Abordaremos a seguir os tipos de aprendizagem e suas
+características básicas.
+
+Condicionamento simples
+É também conhecido como: condicionamento clássico; associação simples; resposta
+condicionada; reflexo condicionado; condicionamento simples.
+Foi Pavlov (1849-1936), fisiologista russo, que por meio da observação da salivação em
+cães mesmo quando não havia a presença ou o cheiro da comida, – mas também na
+presença de outros estímulos associados a ele, como o som dos passos fora da sala, na
+hora da alimentação – quem criou a teoria do condicionamento simples.
+Figura 16.
+
+Fonte: <http://2.bp.blogspot.com/-tM-vE6or8SU/UP_Fb4HmcmI/AAAAAAAAAUg/o4ZLUvXZXio/s1600/c%C3%A3o.png>.
+
+Veja vídeos que ilustram a experiência de Pavlov:
+<https://www.youtube.com/watch?v=C40cXKi4c3Y>.
+49
+
+UNIDADE II │ Psicologia Cognitiva
+<https://www.youtube.com/watch?v=ThrSiJNVggw>.
+<https://www.youtube.com/watch?v=v6eU9pMDedQ&t=321s>.
+
+Como acontece? A apresentação de um estímulo artificial (campainha) simultaneamente
+ou antes de um estímulo original (alimento), incondicionado, por repetidas vezes,
+determinará, com facilidade a produção da reação, em presença, apenas, do estímulo
+artificial, condicionado.
+A associação do estímulo não condicionado (ENC) pode se dar com quaisquer objetos,
+pessoas ou aspectos da situação presentes no momento ou imediatamente antes da
+apresentação do ENC e a generalização pode se estender a quaisquer objetos, pessoas,
+situações que tenham algo em comum com o estímulo condicionado (EC).
+É provável que o condicionamento seja o responsável por muitos de nossos gostos,
+temores, simpatias ou antipatias, aparentemente, irracionais, pois o condicionamento
+ocorre, em grande parte, sem que o aprendiz tome consciência do processo. Porém, como
+já vimos, a conexão mente/cérebro traz outras explicações para o desenvolvimento de
+respostas.
+Utilizado em diversos contextos, por meio do condicionamento simples, buscase estabelecer um vínculo emocional, para que a percepção favorável desencadeie o
+comportamento esperado.
+A propaganda, por exemplo, utiliza essa técnica, ao associar uma imagem de cerveja à
+de uma mulher bonita; um bebê saudável a uma fralda descartável etc. Lembram-se das
+antigas propagandas de cigarros?
+
+Condicionamento operante
+Essa forma de aprendizagem ocupa-se das relações entre o comportamento a ser
+aprendido e as suas consequências. O organismo emite uma resposta a um estímulo
+cujo conhecimento não é necessário identificar, e essa resposta, dependendo das
+consequências, será reforçada, ou extinta.
+São os estímulos que se seguem à resposta (reforço) que representam o núcleo da
+teoria, e não os que a antecedem. As consequências da ação levam à repetição, ou não,
+dela. Dentro desse esquema, as respostas são consideradas plenamente previsíveis e
+controláveis e se afirmam à medida que recebem reforço.
+
+50
+
+Psicologia Cognitiva │ UNIDADE II
+
+Uma ilustração simples: um indivíduo realiza uma ação sobre o meio e recebe uma
+resposta. Passa, então, a repetir o comportamento para permanecer merecedor do
+estímulo, condicionando-se, assim, a proceder segundo aquele padrão aceitável.
+O indivíduo manterá o comportamento enquanto possuir expectativa favorável sobre o
+resultado da ação. Esse tipo de comportamento inclui parte substancial das respostas
+por meio das quais se age conscientemente sobre o ambiente.
+Alguns exemplos de modelagem do comportamento do consumidor são os programas
+de milhagens aéreas; bônus e brindes de cartões de crédito; cupons de sorteios.
+Veremos agora dentro da aprendizagem por condicionamento operante os conceitos de
+punição, reforço e extinção.
+
+Punição
+A punição apresenta-se como um estímulo aversivo ou a retirada de um positivo após o
+comportamento, para diminuir a sua ocorrência. Ex.: multa de trânsito.
+A necessidade que surge é de avaliar suas potenciais consequências e os melhores
+procedimentos para reduzir possíveis efeitos psicológicos colaterais. Isso é importante
+porque TODA PUNIÇÃO DESAGRADA... e quando praticada, transforma-se em
+figura na percepção dos punidos, ocupando o espaço que deveria ser preenchido pelo
+comportamento desejado.
+A punição afeta emocionalmente quem a recebe, impactando todas as funções mentais
+superiores. Se for utilizar a punição assegure-se de que a punição aplicada é exemplar e
+servirá de advertência para que todos saibam de sua existência e possível intensidade.
+É preciso considerar também o fato que deve ser memorizado como punido, assim a
+punição deve acontecer tão logo ocorra o fato gerador, para que aconteça a associação
+entre um fato e outro. O indivíduo deve compreender os motivos que levaram à punição,
+discriminando as ações dela merecedoras.
+
+Reforço
+O reforçamento é todo evento que pode aumentar a frequência de um comportamento,
+como por exemplo, receber um elogio: Muito bem!
+Pode ser positivo e negativo. O reforço positivo é qualquer estímulo cuja apresentação
+fortalece o comportamento. Receber um elogio pode estimular que eu desempenhe
+aquela tarefa do mesmo jeito, meu comportamento de organização pode ser reforçado
+51
+
+UNIDADE II │ Psicologia Cognitiva
+
+quando elogiado. Notando aqui a diferença com a motivação, que no caso é interna,
+enquanto esse elogio, é um estímulo externo. Porém, os dois provocam algum tipo de
+alteração que nos faz querer, ou simplesmente agir de alguma forma.
+Já o reforço negativo é qualquer estímulo cuja retirada irá fortalecer o comportamento.
+Quando estamos incomodados com um som e abaixamos o volume, reforçamos o
+comportamento de ir lá abaixar novamente quando isso acontecer. Quando ingerimos
+uma medicação para a dor e essa é aliviada, da próxima vez que sentirmos dor
+repetiremos esse ato.
+O reforço é muito usado no adestramento de animais ao se comportarem do modo
+desejado e ensinado pelo dono. Ao emitir esse comportamento o animal recebe um
+brinde, geralmente algum alimento, ou até mesmo um carinho, que irão reforçar o seu
+comportamento, aumentando a probabilidade de repeti-lo novamente.
+Figura 17.
+
+Fonte: <http://3.bp.blogspot.com/-1bQNnpkq9fQ/ToZZUr9DPhI/AAAAAAAAC10/0lPRGnv8GEc/s1600/
+refor%25C3%25A7o+positivo.jpg>.
+
+Extinção
+Depois que um comportamento já foi aprendido pela associação com o reforço, é
+possível eliminá-lo? Sim. Através da suspensão do reforço é possível extinguir um dado
+comportamento. Se não há um reforçador (positivo ou negativo) o comportamento
+perde seu sentido.
+
+52
+
+Psicologia Cognitiva │ UNIDADE II
+
+Ensaio e erro
+Lee Thorndike (1874-1949) defendeu um tipo de aprendizagem que se caracteriza por
+uma eliminação gradual dos ensaios ou tentativas que levam ao erro, e à manutenção
+daqueles comportamentos que tiveram o efeito desejado.
+De acordo com essa teoria, a aprendizagem se dá pela seleção de respostas bem-sucedidas,
+obedecendo a objetivos, não é, pois, um processo cego, mecânico. A aprendizagem é
+direcionada para algum objetivo, e cada passo no processo, se bem-sucedido, ou não, é
+planejado. Não deve, portanto, ser identificada como mera atividade ao acaso, em que
+as respostas corretas são feitas ao acaso.
+Duas leis são importantes para esse tipo de aprendizagem:
+»» Lei do Efeito: em que um comportamento é alterado, ou não, pelas suas
+consequências.
+»» Lei do Exercício: afirma que a conexão entre estímulos e respostas é
+fortalecida pela repetição. A prática ou exercício, permite que mais acertos
+e menos erros sejam cometidos como resultado de um comportamento
+qualquer.
+
+Imitação
+Antes de explicar a aprendizagem por imitação, reflita um pouco:
+Por que seria mais difícil aprender a dirigir se você nunca tivesse entrado em um
+carro antes?
+
+Muitas de nossas aprendizagens se fazem por observação direta da conduta de outras
+pessoas, é o aprender pelo exemplo. Caracteriza-se por uma forma mais rápida
+de aprender do que as outras, pois a pessoa cuja conduta é imitada é, em geral, um
+dispensador de reforços do comportamento que se aproxima do seu.
+É importante lembrar que a imitação é seletiva. Fatores como importância do modelo,
+seu status percebido, sua atratividade etc., são significativos na aprendizagem por
+imitação. Sabemos que até uma pessoa considerada um mau exemplo pode ser alvo de
+imitação, desde que seja um modelo a ser seguido por alguém.
+
+53
+
+UNIDADE II │ Psicologia Cognitiva
+Figura 18.
+
+Fonte: <http://www.folhavitoria.com.br/entretenimento/blogs/modaebeleza/files/2013/08/metre-alvaro.jpg>.
+
+A imitação é uma maneira mais eficiente de se obter segurança, aceitação e prestígio,
+assim como de adquirir habilidades motoras e sociais desejadas, do que tentativas
+variadas sujeitas ao erro.
+Não é necessariamente um processo intencional e nem se limita a situações particulares.
+As oportunidades de aprender por observação são abundantes.
+
+Insight
+Insight é definido como um discernimento súbito, que designa uma mudança repentina
+no desempenho, proveniente da aprendizagem: um súbito insight na resolução de um
+problema.
+A aprendizagem por insights é particularmente importante para os seres humanos, que
+precisam aprender não apenas onde conseguir comida e como escapar de predadores,
+mas também ideias éticas e culturais tão complexas como o valor do trabalho árduo, a
+ajuda ao próximo, a superação de vícios ou lidar com uma crise na vida.
+
+54
+
+Psicologia Cognitiva │ UNIDADE II
+
+Figura 19.
+
+Fonte: <http://amaboston.org/wp-content/uploads/2016/02/Insight-300x200.jpg>.
+
+Há momentos em que todas as técnicas conhecidas não são capazes de produzir uma
+solução; em casos assim, não raro, a solução simplesmente surge em um momento
+de insight. Além disso, uma vez que as pessoas adquiriram insights a respeito de seu
+próprio comportamento, elas serão capazes de mudar significativamente ao longo da
+vida. (MORRIS; MAISTO, 2004, p. 181)
+Alguns facilitadores do insight são:
+»» dispor-se previamente de todos os elementos componentes da solução;
+»» presença de uma motivação razoavelmente forte para solucionar o
+problema;
+»» nível de inteligência favorecido.
+Em um estudo realizado por Wolfgang Köler sobre a aprendizagem dos símios,
+um pedaço de fruta era colocado fora da jaula pouco além do alcance do macaco.
+Se se colocasse uma vara perto das barras da jaula diante da fruta, a vara e a fruta
+eram visualizadas como parte da mesma situação, e o macaco usava a vara para
+puxar a fruta até a jaula.
+Se a vara fosse colocada na parte posterior da jaula, os dois objetos (a vara e a
+fruta) eram vistos de forma menos imediata como partes da mesma situação.
+Nesse caso, a solução do problema requeria uma reestruturação do campo
+perceptivo.
+Outra experiência envolvia a colocação de uma banana fora da jaula, além do
+alcance, e o posicionamento de duas varas de bambu ocas dentro da jaula. Cada
+vara, por si mesma, era demasiado curta para alcançar a banana.
+
+55
+
+UNIDADE II │ Psicologia Cognitiva
+Para fazê-lo, o animal tinha de juntar as duas varas (inserindo a extremidade
+de uma na extremidade da outra) a fim de construir uma vara de comprimento
+suficiente. Logo, para resolver o problema, alcançando a banana, o animal tinha
+de perceber uma nova relação entre as varas.
+Sultão, o macaco mais inteligente de Köhler, fracassou em seu primeiro confronto
+com essa situação. De início, ele tentou alcançar a banana com uma das varas.
+Depois, empurrou uma delas o mais longe que pôde, empurrando-a para ainda
+mais longe com a segunda até que a primeira tocasse a banana.
+Ele não teve sucesso pelo período de uma hora, mas imediatamente depois do
+fim da sessão experimental, enquanto brincava com as varas, Sultão resolveu o
+problema, como conta seu tratador. Primeiro Sultão se agacha indiferentemente
+sobre a caixa, que tinha ficado um pouco atrás das grades; então ele se levanta,
+pega as duas varas, senta-se outra vez na caixa e brinca descuidadamente com
+elas. Enquanto faz isso, vê-se de repente segurando uma vara em cada mão de
+uma maneira que as faz ficar em linha reta; ele empurra a mais fina um pouquinho
+para dentro da abertura da menos fina, pula e corre na direção das grades, para
+as quais até agora estivera quase de costas, e começa a puxar a banana para si
+com a ajuda da vara dupla.
+
+Como se vê na citação acima, ao contrário das aprendizagens por reforçamento e
+por punição, vistas anteriormente, aqui a aprendizagem não surge do ambiente que,
+pelas consequências positivas ou negativas de minhas ações me incentivam ou me
+desestimulam a continuar a me comportar de determinado modo. Ou seja, de fora para
+dentro. Do ambiente para o sujeito. Aqui a aprendizagem surge de dentro para fora.
+Tem como base uma reestruturação de seu campo perceptivo e a consequente conquista
+de uma nova aquisição cognitiva.
+As vantagens do insight estão no fato de ser uma aprendizagem rápida, que proporciona
+melhor retenção. E também o fato de que o aprender por discernimento é prontamente
+transferido para outras situações. Uma vez compreendido o princípio geral, esse poderá
+ser usado em uma grande diversidade de problemas semelhantes.
+
+Raciocínio
+É um tipo de aprendizagem mais complexo e abstrato, envolvendo todas as demais
+formas de aprendizagem e dependendo delas. É considerado um processo análogo ao
+ensaio-e-erro, mas de natureza mental – ensaiamos e erramos mentalmente – para só
+depois tentarmos resolver, efetivamente, os nossos problemas.
+56
+
+Psicologia Cognitiva │ UNIDADE II
+
+Figura 20.
+
+Fonte: <http://universitarioconcursos.com.br/wp-content/uploads/2016/09/Racioci%CC%81nio-lo%CC%81gico-para-conc.
+jpg>.
+
+É um processo que envolve:
+»» Motivação – necessidade de resolução de um problema.
+»» Análise para determinar a dificuldade, formulação de hipóteses, sugestões
+para a solução.
+»» Estudo das hipóteses – qual implicação de cada uma.
+»» Verificação da hipótese – aplicação do procedimento escolhido para
+solucionar o problema.
+Ou seja, precisamos sentir uma necessidade que nos faça entrar em movimento para
+resolver um problema. Daí iremos analisar o contexto, determinar o grau de dificuldade,
+formular hipóteses. Após definidas as hipóteses, é hora de testá-las, verificando o que
+cada uma delas traz, até aplicar a melhor solução encontrada para resolver o problema
+em questão.
+
+Linguagem
+Como descrevem Bear, Connors e Paradiso (2008, p. 618) “a linguagem representa
+um sistema notável para a comunicação e obviamente possui um enorme impacto em
+nossas vidas [...] mais do que apenas sons, a linguagem é um sistema pelo qual sons,
+símbolos e gestos são utilizados para a comunicação.”.
+Enquanto o sistema motor se encarrega do discurso falado e da escrita, os sistemas
+visual e auditivo se encarregam de fazer a linguagem chegar ao nosso encéfalo, e é o
+57
+
+UNIDADE II │ Psicologia Cognitiva
+
+processamento encefálico, entre esses sistemas, motores e sensoriais, que é a essência
+da linguagem.
+Os autores destacam que muito do que se sabe sobre a linguagem foi descoberto
+por linguistas e psicólogos, o que foi descoberto sobre os mecanismos encefálicos da
+linguagem tem origem em estudos acerca das deficiências da linguagem decorrentes de
+lesões cerebrais.
+Figura 21.
+
+Fonte: <http://www.neurocienciasaplicadas.com.br/site/wp-content/uploads/2015/09/img-225809-shutterstock-300x205.jpg>.
+
+Exames de imagem do encéfalo humano têm mostrado circuitos complexos subjacentes
+à linguagem. Já foi descoberto também que “numerosos aspectos” diferentes da
+linguagem podem sofrer prejuízo seletivo, incluindo a fala, a compreensão e a designação,
+o que sugere que a linguagem seja processada em estágios múltiplos, anatomicamente
+distintos”. (BEAR; CONNORS; PARADISO, 2008, p. 618)
+Como a linguagem é universal em todas as sociedades humanas (não se tem
+conhecimento de nenhuma sociedade muda) supõe-se que essa universalidade seja
+resultado do encéfalo que desenvolveu sistemas especiais para processar a linguagem.
+Vejamos um pouco sobre o desenvolvimento da linguagem através da teoria da fala
+egocêntrica e socializada de Vygotsky, que são uma expressão desse desenvolvimento
+encefálico na linguagem que tanto diferencia o homem dos outros animais.
+Segundo Van Der Veer e Valsiner (1996), Vygotsky inspirou-se nos estudos do
+neurologista Kurt Golsdstein e sua concepção da fala interior, concordando com ele
+em relação ao papel da fala interior, não como fala de fato, mas como atividade de
+pensamento. Entretanto, vai além dos estudos de Goldstein ao trabalhar a transformação
+social da fala, num movimento que vai do exterior para o interior.
+
+58
+
+Psicologia Cognitiva │ UNIDADE II
+
+Vygotsky destacava o papel fundamental da fala no desenvolvimento da criança, por
+possibilitar a intelectualização da inteligência inicialmente prática (VAN DER VEER;
+VALSINER, 1996). Ele observou em seus estudos que fala e pensamento têm origens
+diferentes. Para explicar esse processo, Vygotsky procurou distinguir a fala interior
+da fala exterior, considerando para essa distinção, o plano semântico. Para o autor,
+“[...] a estrutura do sentido pode ser mudada quando o plano interior é incorporado no
+exterior e vice-versa”, sugerindo “que esses dois planos não são totalmente diferenciados
+em períodos precoces de desenvolvimento, uma vez que crianças pequenas e povos
+primitivos tendem a ver nomes como propriedades de objetos”. (VYGOTSKY, 1934
+apud VAN DER VEER; VALSINER, 1996)
+Vygotsky fez questão de diferenciar as falas interior e exterior, tendo como principal
+interesse a utilização da linguagem, que viabiliza ao sujeito abstrair e generalizar. Nesse
+processo de aquisição e internalização da linguagem, é o discurso interior que funciona
+como auxiliar das operações psicológicas (OLIVEIRA, 1993). Considerado como uma
+linguagem interna, sem expressão verbal, torna possível através de um diálogo consigo
+mesmo, a elaboração mental da solução de um problema.
+Como sua função não é comunicar, o discurso interior “é fragmentado, abreviado,
+contendo quase só núcleos de significados e não todas as palavras usadas num diálogo
+com outros” (OLIVEIRA, 1993, p. 51). Em relação ao desenvolvimento do pensamento
+e da linguagem, como já vimos, Vygotsky propõe a mesma trajetória: primeiro o social,
+depois o individual,
+A criança primeiro utiliza a fala socializada, com a função de comunicar,
+de manter um contato social. Com o desenvolvimento é que ela passa
+a ser capaz de utilizar a linguagem como instrumento de pensamento,
+com a função de adaptação pessoal. Isto é, a internalização do discurso
+é um processo gradual, que se completará em fases mais avançadas da
+aquisição da linguagem. (OLIVEIRA, 1993, p. 52)
+
+Van Der Veer e Valsiner (1996) destacam as várias definições dadas por Vygotsky ao
+fenômeno da fala interior, mas centram-se a partir da sobreposição de definições,
+na definição de fala interior “[...] como parte do plano semântico da fala e não
+necessariamente como um fenômeno ‘mais profundo’, no sentido de estar mais próximo
+dos pensamentos”. (VAN DER VEER; VALSINER, 1996, p. 393)
+Nesse processo de internalização, a fala egocêntrica favorece a transição, do que será o
+discurso interior, mas que ainda se encontra na forma da fala socializada. Ao utilizar a
+fala egocêntrica, a criança verbaliza em voz alta, independente da presença de alguém
+com quem possa dialogar. A fala egocêntrica atende a uma necessidade do pensamento,
+59
+
+UNIDADE II │ Psicologia Cognitiva
+
+que para se organizar precisa inicialmente da atividade verbal, que oferece apoio no
+planejamento sequencial do que será executado pela criança. (OLIVEIRA, 1993)
+Lembrando que pensamento e linguagem são questões fundamentais na obra de
+Vygotsky, é importante destacar que o pensamento passa a existir por meio das palavras,
+mas que não é meramente expresso através delas, pois “cada pensamento tende a
+relacionar alguma coisa com outra, a estabelecer uma relação entre as coisas. Cada
+pensamento se move, amadurece e se desenvolve, desempenha uma função, soluciona
+um problema” (OLIVEIRA, 1993, p. 54). Vygotsky (1998, p. 34) destaca o papel da fala
+egocêntrica na realização de atividades pelas crianças, pois essa não é uma fala isolada,
+aleatória, mas faz parte de uma função psicológica mais complexa, com o intuito de
+solucionar um dado problema. Acrescenta ainda, que
+Quanto mais complexa a ação exigida pela situação e menos direta a
+solução, maior a importância que a fala adquire na operação como um
+todo. Às vezes a fala adquire uma importância tão vital que, se não for
+permitido seu uso, as crianças pequenas não são capazes de resolver a
+situação.
+
+A mudança, de uma função interpessoal para intrapessoal, dá-se justamente nesse
+processo. Num primeiro momento a fala egocêntrica favorece a solução de problemas,
+através do planejamento, ao dirigir, determinar e dominar o curso da ação. A partir
+da sua experiência, torna-se possível o controle e o planejamento mental da situação,
+sem que seja preciso verbalizar sua prática (VYGOTSKY, 1998). Temos, portanto, que
+inicialmente a fala acompanha as ações e, posteriormente ela passa a dirigir, determinar
+e dominar o curso da ação, com sua função planejadora.
+
+Memória
+Memória é a habilidade que os seres possuem de reter informações que podem,
+quando precisam, recuperá-las sem ter que repetir o processo de aprendizagem a cada
+situação. É muito mais econômico para o organismo recuperar a memória do que ter
+que se adaptar continuamente a cada nova situação. A memória nos permite efetivar
+a aprendizagem ocorrida no passado que se realiza na retenção do vivenciado e na
+retomada da experiência de modo a facilitar nossa vida.
+Ainda que as circunstâncias não sejam exatamente iguais, a memória nos possibilita
+uma adaptação e uma aprendizagem mais fácil, visto que identificamos semelhanças
+com experiências passadas, tornando mais compreensível até mesmo tais situações
+inéditas.
+60
+
+Psicologia Cognitiva │ UNIDADE II
+
+É a memória que nos proporciona a sensação de que as inúmeras experiências que
+vivemos ao longo da vida são um continuum lógico e sequencial em nossa vida, dando
+sentido a nossas experiências e a sensação de que as experiências vividas são parte
+integrante de nossas vidas.
+Nossas alegrias e tristezas, sucessos e fracassos, amores e desamores, tudo que
+compõe nossa história, só é percebido como tal por nossa capacidade de recordar e
+organizar tudo isso em nossa mente. Essas recordações têm enorme poder sobre nossas
+escolhas presentes e futuras. Se tivemos sucesso com uma determinada experiência,
+é provável que nos sintamos mais confortáveis em realizá-la novamente. Em caso de
+fracasso anterior, é provável que nos sintamos mais desconfortáveis em experiências
+semelhantes futuras. Talvez, até mesmo, as evitemos.
+Mas, o que é a memória propriamente dita? Como se dá o processo dessa habilidade tão
+importante?
+
+Processos Mnemônicos
+A primeira etapa é essencial. A aquisição da memória. Sem a experiência aprendida, ou
+seja, fixada, não há a possibilidade de uma memória ser instaurada. Essa experiência
+nada mais é do que a entrada de um determinado evento nos sistemas neurais ligados à
+memória. Essa entrada, se dá por meio dos órgãos de sentido, sem os quais as impressões
+acerca do mundo não ocorrem. Mas também podem ser oriundos de nós mesmos, como
+um pensamento ou um sentimento. E esse evento pode ser tudo: um som, um objeto,
+um toque uma textura, um aroma, um sabor etc., enfim, quaisquer impressões do ser
+sobre o mundo. Uma vez percebido, o evento se torna apto para ser memorizável.
+Quando da ocorrência de um evento, tendemos a selecionar seus aspectos mais
+significativos para a memorização. Não conseguimos memorizar todos os eventos
+em sua totalidade. Selecionamos aspetos mais relevantes, segundo nossa capacidade
+particular de percepção, que se guia a partir de nossas emoções, de nossas experiências
+prévias, dentre outros tantos fatores. Apesar de ter retido apenas dados essenciais,
+nossa mente preenche as lacunas de modo a aparentar certa coerência entre os eventos
+memorizados. Assim, o mesmo evento pode ser lembrado de diferentes formas por
+distintas pessoas nele envolvidos.
+Sobre esse fato, de cada um poder memorizar uma mesma situação de formas diferentes,
+veja a música da Clarice Falcão, em “Eu me lembro”, em que a compositora e cantora
+traz um relato engraçado sobre as visões diferentes de um casal de namorados sobre a
+sua história.
+61
+
+UNIDADE II │ Psicologia Cognitiva
+Ela: Era manhã
+Ele: Três da tarde
+Ela: Quando ele chegou
+Ele: Foi ela que subiu
+Ela: Eu disse: Oi! Fica à vontade
+Ele: Eu é que disse Oi, mas ela não ouviu
+Refrão: E foi assim que eu vi que a vida colocou ele/ela pra mim
+Ali naquela terça-feira/quinta-feira de setembro/dezembro
+Por isso eu sei de cada luz, de cada cor de cor
+Pode me perguntar de cada coisa
+Que eu me lembro
+Ele: A festa foi muito animada
+Ela: Oito ou nove gatos pingados no salão
+Ele: Eu adorei a feijoada
+Ela: Era presunto enrolado no melão
+Refrão: E foi assim que eu vi que a vida colocou ele/ela pra mim
+Ali naquela terça-feira/quinta-feira de setembro/dezembro
+Por isso eu sei de cada luz, de cada cor de cor
+Pode me perguntar de cada coisa
+Que eu me lembro
+Que eu me lembro
+Ele: Ela me achou muito engraçado
+Ela: Ele falou, falou e eu fingi que ri
+Ele: A blusa dela tava do lado errado
+Ela: Ele adorou o jeito que eu me vesti
+Refrão
+
+62
+
+Psicologia Cognitiva │ UNIDADE II
+
+A música “Eu me lembro” de Clarice Falcão está disponível em: <https://www.
+youtube.com/watch?v=olbbAuQUZd4>.
+
+Alguns desses eventos podem ser retidos por muitos anos, outros por meros segundos.
+Como dito anteriormente, há diversos fatores que interferem nos aspectos que iremos
+selecionar para reter. É provável que nos recordemos do gol do time para o qual
+torcemos, mas não nos recordamos da cor da camisa da pessoa sentada à nossa frente
+durante o jogo. O primeiro evento é muito mais relevante que o segundo, o que explica
+a maior tendência de que seja retido por um período maior de tempo.
+O fato é que nem todas as nossas memórias são infinitas. Em diferentes ritmos, alguns
+tipos de memórias tendem a sucumbir ao esquecimento, outros tipos não correm esse
+risco, a menos que haja algum evento patológico. Como reforça Lent (p. 647)
+O esquecimento é uma propriedade normal da memória. Provavelmente
+desempenha papel muito importante como mecanismo de prevenção
+de sobrecarga nos sistemas cerebrais dedicados à memorização, e tem
+ainda a virtude de permitir a filtragem dos aspectos mais relevantes
+ou importantes de cada evento. Mas há casos em que o esquecimento
+é patológico, para mais ou para menos. Chama-se amnésia quando o
+indivíduo apresenta esquecimento “demais”, e hipermnésia quando
+ocorre o oposto – uma exacerbada capacidade de retenção que impede
+a separação entre aspectos relevantes e irrelevantes dos eventos.
+
+Como vimos, alguns eventos podem ser esquecidos e outros retidos. Esses se distinguem
+pela duração da retenção, curta ou longa. Para aquelas retenções que, por um motivo ou
+outro, avançam superando a retenção de curto prazo e se fixando de modo mais longo
+diz-se que houve a consolidação.
+Por fim, tem-se o último dos processos mnemônicos que é a evocação ou a lembrança
+propriamente dita. Por meio desse processo ocorre o resgate da informação ou da
+experiência registrada, o que orienta, decisivamente, o comportamento daquele que
+recorda. Assim, uma lembrança sempre se manifesta, se exterioriza por meio de um
+comportamento.
+
+Subtipos de memória
+Estudos apontam a existência de três subtipos de memória quanto ao tempo de retenção:
+
+63
+
+UNIDADE II │ Psicologia Cognitiva
+Memória ultrarrápida ou imediata, cuja retenção não dura mais que
+alguns segundos; memória de curta duração, que dura minutos ou horas
+e serve para proporcionar a continuidade do nosso sentido do presente,
+e memória de longa duração, que estabelece engramas duradouros
+(dias, semanas e até mesmo anos). (LENT, p. 642)
+
+Há, ainda, uma divisão que o autor faz sobre a natureza da memória (LENT, p. 649):
+Memória explícita ou declarativa; memória implícita ou não declarativa
+e memória operacional ou memória de trabalho.
+A memória explícita reúne tudo que só podemos evocar por meio de
+palavras (daí o termo “declarativa”) ou outros símbolos (um desenho,
+por exemplo). É formada facilmente, mas pode-se perder também
+facilmente. Pode ser episódica, quando envolve eventos datados, isto
+é, relacionados ao tempo; ou semântica, quando envolve conceitos
+atemporais. Ao lembrar que foi ao teatro no domingo passado assistir
+Romeu e Julieta, você empregou a sua memória episódica. Mas saber
+que o teatro é uma forma de arte cênica e que Romeu e Julieta é
+uma peça do escritor inglês, William Shakespeare, é um exemplo de
+memória semântica. A memória episódica é geralmente específica de
+cada indivíduo, característica de sua trajetória de vida. A memória
+semântica, por outro lado, é compartilhada por muitas pessoas,
+fazendo parte da cultura. A memória implícita, por sua vez, é diferente
+da explícita porque não precisa ser descrita com palavras. Além disso,
+requer mais tempo e treinamento para se formar, mas persiste mais
+duradouramente. Pode ser de quatro subtipos. O primeiro é a chamada
+memória de representação perceptual, que corresponde à imagem de
+um evento, preliminar à compreensão do que ele significa.
+Outro subtipo de memória implícita é a memória de procedimentos:
+trata-se, aqui, dos hábitos e habilidades e das regras em geral. Sabemos
+os movimentos necessários para dirigir um carro, sem que seja preciso
+descrevê-los verbalmente. [...] Finalmente, dois subtipos muito
+importantes de memória implícita são conhecidos como associativa
+e não associativa. Ambas se relacionam fortemente a algum tipo de
+resposta ou comportamento. Empregamos a memória associativa,
+por exemplo, quando começamos a salivar bem antes que a comida
+chegue à nossa boca, por termos em algum momento da vida associado
+o seu cheiro ou aspecto à alimentação. Por outro lado, empregamos
+a memória não associativa quando sem sentir aprendemos que um
+64
+
+Psicologia Cognitiva │ UNIDADE II
+
+estímulo repetitivo que não traz consequências é provavelmente inócuo,
+o que nos faz “relaxar” e ignorá-lo.
+O terceiro tipo é a memória operacional, através da qual armazenamos
+temporariamente informações que serão úteis apenas para o raciocínio
+imediato e a resolução de problemas, ou para a elaboração de
+comportamentos, podendo ser descartadas (esquecidas) logo a seguir.
+Fonte: LENT, R. Cem bilhões de neurônios? Conceitos fundamentais de neurociências. 2ª
+ed. São Paulo: Atheneu.
+
+65
+
+UNIDADE II │ Psicologia Cognitiva
+Tabela 4.
+
+Quanto ao
+tempo de
+retenção
+
+Quanto à
+natureza
+
+Tipos e subtipos
+
+Características
+
+Ultrarrápida ou imediata
+
+Dura de segundos a alguns
+segundos; memória sensorial.
+
+Curta duração
+
+Dura minutos ou horas, garante o
+sentido de continuidade do presente.
+
+Longa duração
+
+Dura horas, dias ou anos, garante o
+registro do passado autobiográfico e
+dos conhecimentos do indivíduo.
+
+Explícita ou declarativa
+
+Pode ser descrita por meio de
+palavras e outros símbolos.
+
+Episódica
+
+Tem uma referência temporal:
+memória de fatos sequenciados.
+
+Semântica
+
+Envolve conceitos atemporais:
+memória cultural.
+
+Implícita ou não
+declarativa
+
+Não precisa ser descrita por meio de
+palavras.
+
+De representação
+perceptual
+
+Representa imagens sem significado
+conhecido: memória pré-consciente.
+
+De procedimentos
+
+Hábitos, habilidades e regras.
+
+Associativa
+
+Associa dois ou mais estímulos
+(condicionamento clássico), ou
+um estímulo a uma certa resposta
+(condicionamento operante).
+
+Não associativa
+
+Atenua uma resposta (habituação) ou
+aumenta-a (sensibilização).
+
+Operacional ou memória Permite o raciocínio e o planejamento
+de trabalho
+do comportamento.
+Fonte: LENT, 2010.
+
+Problemas da memória
+A memória é uma daquelas habilidades humanas tão utilizadas que quase nunca
+pensamos nela. Recorremos a elas com tamanha frequência que se parecem tão naturais
+quanto o ato de respirar. Nesse caso, também, não pensamos no fato de termos uma
+capacidade de respirar, a menos que nos falte ar. (STERNBERG, 2010)
+Da mesma forma lidamos com a memória. Raramente pensamos nela até que
+identificamos alguns lapsos. Uma criança de 7 anos não conhece o mundo sem as
+facilidades proporcionadas pelos smartphones e pela internet. A falta momentânea
+deles é que ressalta a sua importância. Como a tecnologia, a memória é espetacular até
+que apresente alguma falha. A falha mais conhecida da memória é a amnésia.
+A amnésia é uma perda importante da memória explícita. Um dos tipos razoavelmente
+comuns é a amnésia que ocorre após um evento traumático intenso. A amnésia que
+ocorre nesses casos faz com que a pessoa, vítima de trauma severo, perca as lembranças
+imediatamente anteriores ao evento traumático ocorrido.
+66
+
+Psicologia Cognitiva │ UNIDADE II
+
+Outro tipo de amnésia é a conhecida como amnésia infantil. Ela se refere às
+impossibilidades de se recordar eventos da vida infantil, principalmente na primeira
+infância. Geralmente conseguimos nos lembrar de eventos ocorridos após os 5 anos.
+Eventos anteriores aos 3 anos de idade são extremamente raros de serem recordados.
+As lembranças anteriores a essa idade que sobrevivem na vida adulta costumam se
+referir a eventos muito significativos, tais como a morte dos pais ou o nascimento de
+um irmãozinho. Ainda assim, dependem da capacidade linguística da criança e de sua
+formação educacional e pela inteligência da criança. (STERNBERG, 2010)
+Há, ainda, doenças que interferem na qualidade de nossa memória. Essas doenças
+deterioram a memória de modo muito mais drástico e, muitas vezes de modo irreversível
+e progressivo. O Mal de Alzheimer é o exemplo mais clássico desse tipo de doença.
+Ela atinge preferencialmente idosos, afetando inicialmente a sua memória retrógrada,
+como é conhecida a memória recente, e progressivamente vai afetando a memória
+anterógrada, a memória referente a eventos mais longínquos. Essa é uma doença
+cuja progressão, embora irreversível, pode ser desacelerada por meio de medicações
+específicas. (STERNBERG, 2010)
+Continuaremos nosso percurso discutindo sobre a neuroplasticidade cerebral.
+
+67
+
+Capítulo 2
+Neuroplasticidade e Neurogênese
+Até 1998, a maioria dos psicólogos e neurocientistas acreditavam que nosso cérebro era
+basicamente fixo. O conhecimento até aquele momento pregava que nascíamos com
+uma predisposição genética, que o cérebro se desenvolvia e mudava até os 3 anos, mas
+que após essa idade ele não mudava ou mudava pouco, pois perdíamos neurônios, era
+como se acontecesse uma “depreciação”. Essa crença, esse esquema de que o cérebro
+era algo fixo mudou. Em 1998, psicólogos descobriram dois processos fundamentais
+que comprovam que existem mudanças no cérebro e que isso começa pouco depois da
+concepção e vai até o dia em que morremos.
+Dois conceitos foram fundamentais para essa mudança de concepção, passando de um
+cérebro congelado, para um cérebro em constante movimento:
+1. Neuroplasticidade. É a capacidade que o cérebro tem de criar caminhos
+novos para manter seus canais de comunicação. O nosso cérebro é
+composto por dois hemisférios, e existe uma contínua comunicação entre
+eles sobre o que está acontecendo com cada um. Se por algum motivo essa
+comunicação é interrompida, o cérebro vai buscar outra alternativa para
+fazer essa informação chegar aonde precisa. A neuroplasticidade significa
+que nosso cérebro é plástico, flexível, muda sua forma, transforma.
+É a habilidade do cérebro de se reorganizar formando novas conexões
+neurais.
+2. Neurogênese. É o processo de alteração que ocorre em determinadas
+regiões encefálicas continuamente, ou seja, significa que novas células
+cerebrais são criadas, não só até os 3 anos de idade, mas potencialmente
+até o dia em que morremos. É o processo pelo qual cada novo neurônio
+é formado.
+
+68
+
+Psicologia Cognitiva │ UNIDADE II
+
+Figura 22.
+
+Fonte: <http://www.mundoboaforma.com.br/wp-content/uploads/2014/11/cerebro-malhando-580x330.jpg>.
+
+Vejamos algumas pesquisas nesse campo, o que elas mostram é que nosso cérebro faz
+novas conexões, muda sua forma, é plástico e que novos neurônios são criados, por
+exemplo, por meio de exercícios físicos! Em seu livro Spark (no Brasil traduzido como
+Corpo Ativo, Mente Desperta – Editora Objetiva) John Ratey discute pesquisas que
+mostram que exercícios físicos aceleram o processo de formação de novos neurônios,
+o que explica porquê exercícios nos ajudam a pensar melhor. Isso acontece porque o
+exercício físico desacelera os efeitos do envelhecimento, nos faz parecer mais novos,
+porque pessoas que se exercitam são menos suscetíveis a terem Alzheimer e Parkinson,
+porque o cérebro é renovado por meio de exercícios físicos e neurogênese.
+Existem também as pesquisas sobre neuroplasticidade, e o que encontraram foi que em
+músicos, a parte do cérebro associada à música (particularmente aquele tipo de música
+ou instrumento do músico pesquisado/observado) se torna maior, como resultado de
+muita prática. Uma outra pesquisa interessante foi realizada com taxistas de Londres,
+antes e depois, de memorizarem o mapa da cidade. Antes de se tornarem motoristas de
+táxi, eles tiveram que estudar e memorizar o mapa de Londres, que não é simples como
+o de Brasília, por exemplo. Para memorizá-lo os motoristas passaram meses estudando
+esse mapa. O que os pesquisadores descobriram quando mensuraram os taxistas antes
+de começarem a memorizar o mapa e depois, foi que a parte do cérebro, especificamente
+o córtex visual, cresceu significativamente.
+Nosso cérebro é feito de caminhos neurais (canais), alguns mais estreitos outros mais
+largos. Uma boa analogia é a dos rios, pois existem os mais largos como o Amazonas,
+e aqueles mais estreitos como os córregos. E o nosso cérebro é estruturado da mesma
+forma, com canais largos e estreitos. E como esses canais são criados? Eles são criados
+por meio de experiências. Se eu passo pela mesma experiência repetidas vezes, o mesmo
+comportamento, seja tocando violino, ouvindo música, seja memorizando o mapa de
+Londres, seja estudando Braile, esses canais associados a esse tipo de aprendizado se
+tornam mais largos, eles vão sendo ampliados.
+
+69
+
+UNIDADE II │ Psicologia Cognitiva
+
+Então, de um rio mais estreito, torna-se um rio mais largo! E o que é importante
+entender sobre esses canais é que os caminhos neurais são “autorreforçadores”. O que
+isso significa? Que uma vez que esse caminho, esse canal, é “alargado” é muito mais fácil
+de atrair ação, comportamentos. Da mesma forma acontece com um rio mais largo, para
+o qual é mais fácil atrair chuva. Então, onde é mais provável da chuva cair? Em um rio
+largo ou estreito? No mais largo. E o que acontece, é que quanto mais água é atraída e flui
+pelo rio, mais largo ainda ele se torna. E nesse sentido, os caminhos neurais, funcionam
+como canais autorreforçadores. Quanto mais fizermos algo (comportamentos), quanto
+mais pensarmos em certas coisas (porque pensamentos são circuitarias neurais), mais
+largo e forte se torna esse caminho neural, e mais provável é que se torne mais forte.
+Porque ele atrai os comportamentos e pensamentos.
+Assim como rios extensos são mais suscetíveis a atrair água, caminhos
+neurais mais fortes/grossos são mais suscetíveis a atrair certos pensamentos e
+comportamentos.
+
+Aquilo que mais fazemos, nós podemos observar, ver no nosso cérebro, que associado
+àquele hábito tem uma série de canais ligados a ele. Então por exemplo, um saque
+de tênis, para quem está aprendendo a jogar, inicialmente precisará pensar em cada
+detalhe para jogar! Não será claro, para o jogador, os movimentos que precisa fazer,
+o técnico/instrutor precisará instruir o tempo todo, dizendo: “Levante a mão! Bata a
+bola, etc.”. E até que se aprenda a jogar será preciso fazer isso muitas vezes, e que mais
+água, metaforicamente, caia naquele rio, fazendo-o engrossar, até após um tempo já
+se saiba jogar automaticamente! Você pode observar os experts do mundo, parece até
+fácil! Porque eles não têm que pensar em cada passo, é um hábito, um caminho neural
+fortalecido.
+Ainda sobre neuroplasticidade, um trabalho realizado por Jeffrey Schwartz chama
+atenção, que deu origem ao livro “BrainLock” (ainda sem tradução no Brasil).
+Ele fez um trabalho sobre brainlock (bloqueio cerebral), que são os comportamentos
+bloqueadores, no caso, de comportamentos obsessivos. Poderia ser um transtorno
+obsessivo compulsivo, ou algo menos extremo que o TOC, como ser muito ansioso e
+preocupado. Como poderia ser o hábito de lavar as mãos constantemente ou ter que
+certificar-se que a porta está trancada etc.
+O TOC é geralmente uma vivência ruim, as pessoas que experienciam isso são infelizes
+por tê-lo, nas formas extremas e mais brandas. E o que Jeffrey fez foi pegar a ideia da
+neuroplasticidade e aplicar nessa área. Segundo ele, o TOC é essencialmente formado
+
+70
+
+Psicologia Cognitiva │ UNIDADE II
+
+por canais/circuitarias neurais extremamente enraizadas, e cada evento que acontece
+engatilha esse comportamento.
+Por exemplo, se ao dirigir, de repente pensamos na nossa casa... podemos pensar:
+“Não devo ter trancado!”. Às vezes são pensamentos (obsessões) e comportamentos
+(compulsões) difíceis de evitar, pois são caminhos tão enraizados, tão largos em nosso
+cérebro que logo pensamos: “O que eu faço? Volto em casa e checo se tranquei a porta,
+ou não?”.
+Ao agir assim, o que estou fazendo com este comportamento? Reforçando mais ainda
+essa circuitaria! E assim as pessoas se prendem a esses comportamentos que as
+machucam, às vezes por toda sua vida, sem a habilidade de mudar.
+Jeffrey Schwartz começou um programa para ajudar as pessoas, sem a ajuda de
+medicação, a mudar seus hábitos... seja de TOC ou qualquer outro tipo de comportamento
+ou pensamento que machucavam as pessoas.
+Sua proposta de trabalho e intervenção foi dividida em duas fases:
+1. Enfraquecendo antigas circuitarias
+Como? Seu método propunha a ressignificação do problema.
+Quando uma pessoa com TOC lava suas mãos pela 16ª vez, por que ela o faz? Porque ela
+diz a si mesma que existem germes, porque é perigoso etc.
+Quando a pessoa volta para checar se desligou o fogão, que tipo de pensamento está
+presente? Que é perigoso, que a casa pode pegar fogo etc. Então Jeffrey Schwartz
+propunha a ressignificação, dizendo que o problema não eram os germes, e sim o TOC
+e a obsessão.
+Ao invés de se dizer que o problema são os germes, ou a casa, a proposta é dizer a si
+mesmo: “O problema é meu TOC, é meu comportamento obsessivo compulsivo!”. E
+assim é possível criar um novo caminho neural. Então, ao invés de permitir os mesmos
+pensamentos “germes são ruins” e fortalecer essa circuitaria, procura-se mudá-la para
+outra direção, literalmente. A cada vez que vem o pensamento do TOC, o objetivo é
+ressignificar e pensar: “este é meu TOC, estou percebendo... não são os germes...”.
+2. Criar novas circuitarias
+Nós precisamos criar circuitarias alternativas para que o fluxo de água seja direcionado
+para outro lugar. Como? Focando no positivo!!! Ao invés de todas as vezes que o TOC
+vier focar-se apenas no perigo, foca-se em algo bom. Então, ao invés de voltar em
+71
+
+UNIDADE II │ Psicologia Cognitiva
+
+casa para checar as portas: “eu penso nas pessoas que amo, ou coloco minha música
+favorita ou faço algo que eu gosto muito!”. Em outras palavras, a sugestão é mudar o
+foco e criar novos estímulos, novas respostas. Ao invés de fortalecer aquela circuitaria
+negativa, muda-se a direção do pensamento, lembrando que existem essas coisas
+boas, desconectando o comportamento do pensamento do TOC, e assim, começa a
+“emparelhar” o TOC com um pensamento positivo.
+Se pensarmos bem, é uma técnica muito simples, com apenas duas etapas: ressignificar
+a situação e criar circuitarias alternativas!
+Os resultados são incríveis! Mesmo aqueles que não conseguiram não emitir o
+comportamento obsessivo, mas fizeram o esforço para pensar em algo positivo, com o
+tempo se beneficiaram muito. Porque eles começaram um pequeno passo... ainda não
+era um hábito fortalecido, mas mesmo se por 5 segundos eles colocassem uma música
+ou pensassem em algo bom... e então voltassem em casa para checar a porta, mesmo
+essas pessoas, com o tempo melhoraram. Então, mesmo que a pessoa não consiga
+mudar, fazer isso, mesmo que de forma temporária, ajudará a se sentir bem melhor e
+começará a criar um processo de uma nova circuitaria que vai se tornar cada vez mais
+forte com o tempo.
+E isso pode se aplicar para todas as pessoas que não tem TOC também. Pense naqueles
+pensamentos de preocupação, digamos que você seja um preocupado constante, ou um
+“buscador do negativo”. Se algo acontecer, lembre a si mesmo “isto não se trata do mundo
+sendo mal, se trata da minha percepção dele (nem sempre, mas frequentemente)”. E
+depois lembre a si mesmo de algo positivo, assim que o pensamento de preocupação
+vier, ou da situação específica que o preocupa ou anseia, pense em seu companheiro, em
+seus filhos, em algo bom que aconteceu! E mesmo que você volte a pensar no processo
+novamente, tudo bem! A palavra-chave aqui é persistência! Leva tempo... assim como
+a natureza leva tempo para construir um novo rio, de forma similar, o nosso cérebro
+leva tempo para criar novas circuitarias (para fortalecê-las, ou para enfraquecer uma
+circuitaria antiga).
+Assista ao vídeo baseado na obra de Norman Doidge, importante neurocientista
+da atualidade, “The Brainsthatchangesitself” (O Cérebro que se transforma –
+Editora Record). (Lembre-se de fazer a mudança da legenda para Português).
+<http://www.youtube.com/watch?v=gI1BT7E58WU>
+No youtube você irá encontrar várias entrevistas do Norman Doidge sobre
+neuroplasticidade.
+
+72
+
+Emoção
+
+Unidade iII
+
+Capítulo 1
+Espaço da emoção
+Figura 23.
+
+Fonte: <http://www.emocoesempauta.com.br/wp-content/uploads/2015/09/asdfa.jpg>.
+
+Historicamente, as emoções sempre foram consideradas como um aspecto menor do
+ser humano em detrimento da razão. Eram vistas como um lado “indigno, impróprio
+e até mesmo desprezível” (BRAGHIROLLI et al., 2003). Essa visão tem como origem
+o dualismo platônico que distinguia duas faces humanas como antagônicas: a
+racionalidade e a emotividade, ou a mente e o corpo.
+O privilégio histórico pela razão levou o ser humano a um desequilíbrio, visto que
+sua emoção foi, paulatinamente, negligenciada. A ênfase exagerada ou exclusiva em
+qualquer desses aspectos gera transtornos, pois o comportamento humano dever ser
+guiado pela interação desses dois importantes componentes.
+A conceituação da emoção não é tarefa fácil. Por ser subjetiva não podemos observá-la
+diretamente, apenas nos é possível presumir sua existência através do comportamento.
+O termo emoção é utilizado para significar os sentimentos e os estados afetivos em
+geral, mas os autores tendem a preferir atribuir significados distintos para emoção e
+sentimento. Para Dorin, citado por Braghirolli et al. (2003),
+73
+
+UNIDADE III │ Emoção
+Os estados emocionais e sentimentais formam a afetividade, um dos
+aspectos do comportamento humano. Por sentimento entendemos
+o estado afetivo brando de prazer, desprazer ou indiferença. São
+predisposições de prazer ou desprazer em relação a um objeto, pessoa
+ou ideia que vem a formar os sentimentos. Distinguem-se das emoções
+por serem reações mais calmas e com uma experiência mais complexa,
+com mais elementos intelectuais.
+
+Os autores, em geral, admitem a existência de duas dimensões na emoção: a experiência
+individual, interna, e a expressão comportamental, externa. No ser humano, essas duas
+dimensões nem sempre são congruentes, ao contrário dos demais animais. Embora
+possamos estar tristes, podemos expressar um comportamento antagônico, sorrindo
+e tentando transparecer uma alegria interna. Por essa razão, é impossível precisar a
+emoção de uma pessoa apenas por sua expressão.
+Esse é apenas um viés de observação, mas não pode ser o único. Há vários fatores que
+interferem na manifestação e na exteriorização dos sentimentos. Fatores culturais, por
+exemplo, podem modular os comportamentos.
+Há três indicadores úteis para a identificação das emoções:
+»» os relatos verbais, como a solicitação da expressão verbal dos sentimentos
+pessoais;
+»» a observação do comportamento; e
+»» os indicadores fisiológicos.
+Várias alterações fisiológicas e orgânicas ocorrem durante os estados de emoção. As
+principais são: a condutividade elétrica da pele que aumenta com o grau de excitação
+emocional do indivíduo; as mudanças de pressão, volume e composição do sangue e
+o ritmo cardíaco; as alterações na temperatura cutânea; a mudança nas dimensões
+da pupila do olho; a secreção alterada das glândulas salivares; e a tensão e o tremor
+musculares.
+
+74
+
+Emoção │ UNIDADE III
+
+Figura 24
+
+Fonte: <https://cdn-images-1.medium.com/max/1920/0*Ll4H8otIbBpaUGMP>.
+
+Desenvolvemos nossas emoções desde o nascimento e, para muitos autores, mesmo
+antes do parto, pois mesmo na vida intrauterina há estudos que indicam a manifestação
+de sentimentos de prazer e desprazer. Watson, um dos precursores da psicologia
+moderna, admitia três tipos básicos de reações emocionais inatas: medo, raiva e amor.
+As demais se desenvolveriam a partir dessas respostas básicas.
+A visão de Watson é complementada pela abordagem que destaca a importância da
+aprendizagem, da cultura e da sociedade na aquisição e no desenvolvimento das emoções.
+Assim, acredita-se que o desenvolvimento emocional depende de aprendizagem, mas
+também do desenvolvimento e amadurecimento de células, tecidos, músculos e órgãos.
+O social é fundamental para a formação e o desenvolvimento das nossas emoções, e por
+meio dos processos de imitação, condicionamento e compreensão adquirimos respostas
+emocionais.
+Na infância, a imitação é uma modalidade de comportamento que coloca as crianças em
+contato com as emoções dos adultos e, consequentemente com as próprias. Observar
+o comportamento dos adultos autoriza ou desabilita as crianças a procederem ou a
+sentirem-se, ou deixarem de sentirem-se de determinada maneira. Assim, as crianças
+vão, paulatinamente, deixando de expressar, por exemplo, sua ira pelas vontades não
+atendidas. O sentimento tende, assim, a se transformar. Vai deixando de ser ira e vai
+assumindo faces mais próximas da frustração, entre outras.
+O condicionamento, é outro poderoso meio de aquisição de resposta emocionais.
+Esse se dá pela associação de um estímulo neutro a outro já capaz de provocar uma
+reação emocional. Watson e Royner demonstraram essa possibilidade por meio de um
+experimento que expunha uma criança a um ruído súbito e estridente sempre que ela
+se aproximava de seu animal de estimação. Assim, o menino passou a fugir do animal e,
+mais tarde de outros animais por se assemelharem à sua mascote. Houve, por parte da
+criança, a vinculação do seu animal de estimação a uma sensação desagradável, passando
+
+75
+
+UNIDADE III │ Emoção
+
+assim, a gerar uma emoção negativa associada ao animal, embora, originariamente as
+emoções fossem positivas.
+Assista ao vídeo que apresenta esse experimento: <https://www.youtube.com/
+watch?v=vMVaxktVJz4>.
+Uma pesquisa assim seria viável na atualidade?
+
+Por fim, as emoções podem ser adquiridas por meio da compreensão, ou seja, a partir
+de um processo racional e lógico. A razão nos faz compreender as consequências
+de determinado evento (a expectativa de conseguirmos um emprego e todas as
+consequências decorrentes desse fato) e isso nos leva a sentir emoções (ansiedade e
+angústia, por exemplo).
+Assim, podemos concluir que há muito de inato e muito de aprendido no que se refere
+às emoções. Tanto nascemos com algumas, quanto modelamos e desenvolvemos outras
+a partir de nossa interação com o mundo em que vivemos. O chorar, por exemplo não
+é aprendido, mas quando, onde, quanto e como chorar, são. Ainda nesse exemplo, a
+clássica e retrógrada frase que estabelece que “homem não chora”, exige dos meninos
+uma nova emoção frente a duas sensações conflitantes: o desejo de chorar e a
+impossibilidade de fazê-lo.
+Possivelmente, a nossa civilização exagerou no culto à supressão e à repressão das
+emoções. Nos dias atuais, o controle e a racionalidade são valorizados e desejados
+nas relações interpessoais. Embora certo controle das emoções nos facilite o convívio
+social, “não é saudável negar a expressão emocional de impulsos genuínos e naturais”.
+(HILGARD, ATKINSON E ATIKINSON apud BRAGHIROLLI et al., 2003)
+Estados emocionais intensos e prolongados não expressos adequadamente provocam
+alteração na fisiologia normal do organismo e essas podem gerar doenças tais como:
+úlceras pépticas, asma brônquica, hipertensão arterial, úlceras de cólon, artrite, entre
+outras. A essas doenças cuja origem é psíquica ou emocional dá-se o nome de doenças
+psicossomáticas.
+
+Estudos diversos
+Sobre as emoções e sua expressão, um ótimo exemplo é o estudo do médico John Sarno,
+professor de Medicina Clínica de Reabilitação da Universidade de NY.
+
+76
+
+Emoção │ UNIDADE III
+
+Figura 25. John Sarno.
+
+Fonte: <http://g1.globo.com/platb/files/1045/2009/06/jonh-sarno-2.jpg>.
+
+Por muitos anos ele foi taxado como louco, como alguém que não faz realmente medicina
+científica, como um alternativo e hoje em dia é um dos médicos mais respeitados do
+mundo!
+Ele fez uma pesquisa fotografando e radiografando as costas dos seus pacientes e se
+surpreendeu porque muitas vezes havia muitas semelhanças entre duas costas, sendo
+que uma era de uma pessoa que sentia muitas dores e a outra de uma pessoa que não
+sentia dor nenhuma, que funcionava em 100%. Ele começou a se perguntar o porquê
+desse fato: por que algumas pessoas com o mesmo problema nas costas não sofrem de
+dor, enquanto outras sente muita dor?
+E o que ele percebeu, após muita pesquisa, foi que muitas das razões (não todas) para
+as pessoas terem dores nas costas não é fisiológica, e sim psicológica, ou melhor, é uma
+combinação entre as duas.
+E como funciona? O que ele viu, foi que quando suprimimos uma emoção tal como
+ciúmes, ou raiva, por exemplo, algo que não gostamos (ansiedade, desapontamento
+etc.) quando a suprimimos e não deixamos fluir, ela precisa sair de alguma forma.
+Frequentemente a emoção flui naturalmente quando falamos sobre ela, quando
+aceitamos, choramos, escrevemos sobre elas, mas se não sai naturalmente ela sai de
+uma forma diferente, e esta forma diferente atinge frequentemente a parte mais fraca
+do corpo, a parte do sistema que é mais vulnerável (lembrando que mente e corpo são
+um). E para muitas pessoas esse local são as costas, a parte lombar principalmente.
+Sarno explica que muitas vezes somos criados em ambientes em que não é
+permitido expressar sentimentos como raiva, medo, ansiedade, e quando crescemos,
+inconscientemente não nos permitimos sentir e expressar isso. E assim fazemos o
+que ele chama de compressão e enrijecimento muscular, o que provoca dores e acaba
+desviando a nossa atenção do que realmente é a causa da nossa ansiedade, medo,
+ciúmes ou raiva. Essas dores podem durar anos a fio, caso não se observe a conexão e o
+77
+
+UNIDADE III │ Emoção
+
+que realmente está provocando-a. Um bom exercício é se perguntar em momentos de
+dor: O que está provocando essa raiva em mim? O que está me deixando ansioso?
+Por exemplo, um jovem homem, que acaba de se casar, indo muito bem na vida até
+que uma pessoa entra em sua vida, um bebê! O que frequentemente acontece, após
+um mês, as costas dele começam a doer. Existe um motivo, é claro, de repente ele tem
+que pegar seu bebê no colo, etc. pega de um lado, força o outro, e parece que é por isso
+que suas costas doem! Alguns falam que parece que perdeu sua independência depois
+que o bebê nasceu. Não dorme mais a noite toda, e tudo mudou na vida dele! Sua vida
+social, trabalho, vida amorosa, tudo muda! E a pessoa se sente triste, com raiva, com
+ciúmes, mas não pode sentir isso tudo! Porque é seu filho. Supostamente deve amá-lo
+mais que tudo nessa vida! “Eu deveria estar como minha esposa. Devo ser uma má
+pessoa!” Isso tudo passa pelo inconsciente! “Eu não quero pensar em mim como uma
+má pessoa. Como assim ter raiva dessa pessoinha tão linda? Ciúmes do meu filho? Não
+eu.” E então, ele reprime essa emoção e isso deve sair de alguma forma! E como sai?
+Pelo canal mais fraco: as costas começam a doer como nunca doeram antes. É claro,
+que as pessoas vão relacionar com um desalinhamento nas costas e isso é aceitável! O
+que não é aceitável é dizer aos amigos e ao médico que na verdade está com raiva do
+filho, que está triste, isso não é aceitável em nossa cultura! E pagamos um preço por
+isso, pois tem que sair de alguma forma!
+Ao longo dos anos, John Sarno tem curado milhares de pessoas com dores nas costas!
+Ou porque leram o livro, ou participaram de um de seus workshops, ele simplesmente
+entendeu que uma ideia muito simples de que corpo e mente são um, e se reprimimos
+uma ideia, um sentimento, uma emoção ela precisa sair!
+Claro, nem todas as dores nas costas, enxaquecas, são resultados da mente e das
+emoções, as pessoas quebram uma vértebra, e terão muita dor, independente de quais
+sejam as emoções! Mas o que o trabalho de Sarno faz, é nos dizer que corpo e mente, são
+um só. Que não são duas entidades, na verdade são uma só! E que uma afeta e é afetada
+pela outra, e existe essa troca constante. Se uma não está bem, normalmente a outra
+não fica bem também. E nesse caso, o que fazer? Simplesmente expressar as emoções,
+como somos humanos também sentimos raiva, ciúmes, ódio, ansiedade. Assim como
+todo mundo sente! Se permitimos que essas emoções fluam, nos sentiremos melhor
+psicologicamente e fisiologicamente, são dois lados da mesma moeda!
+
+78
+
+Emoção │ UNIDADE III
+
+Veja entrevista de John Sarno para o programa Milênio da Globo News:
+Parte 1 – <https://www.youtube.com/watch?v=VDgtXIaIB3U>.
+Parte 2 – <https://www.youtube.com/watch?v=ZZeNQIxvZbc>.
+Parte 3 – <https://www.youtube.com/watch?v=PAF0mMFMLzQ>.
+
+79
+
+Neurociência e
+educação
+
+Unidade iV
+
+Capítulo 1
+Desafios
+Para Mietto (2009), os avanços e descobertas que ocorreram no segmento da
+neurociência, os quais são ligados ao processo de aprendizagem, é uma revolução para a
+educação. Quando fala-se em Neurociência da aprendizagem podemos, resumidamente,
+dizer que é o estudo da forma que ocorre a aprendizagem do cérebro. É a compreensão
+de como ocorre o estabelecimento das redes neurais na hora em que está acontecendo
+o processo de aprendizagem, assim como de que jeito os estímulos chegam ao cérebro,
+da maneira como são consolidadas as memórias, e, por fim, como temos acesso a essas
+informações armazenadas.
+Ainda sob a ótica da autora, aquilo que era novo ou desconhecido para nós sobre a
+aprendizagem, a neurociência começou a desvendar. O personagem principal desse
+processo onde ocorre o aprendizado é o cérebro. Suas regiões, lobos, sulcos, reentrâncias
+possuem funções e são realmente importantes num trabalho em conjunto, onde cada
+um necessita e relaciona-se com o outro.
+Conhecer o papel do hipocampo na consolidação de nossas memórias,
+a importância do sistema límbico, responsável pelas nossas emoções,
+desvendar os mistérios que envolvem a região frontal, sede da cognição,
+linguagem e escrita, poder entender os mecanismos atencionais
+e comportamentais de nossas crianças com TDAH, as funções
+executivas e o sistema de comando inibitório do lobo pré-frontal é hoje
+fundamental na educação assim como compreender as vias e rotas que
+norteiam a leitura e escrita (regidas inicialmente pela região visual mais
+específica (parietal), que reconhece as formas visuais das letras e depois
+acessando outras áreas para que a codificação e decodificação dos sons
+sejam efetivas. Como não penetrar nos mistérios da região temporal
+relacionada à percepção e identificações dos sons onde os reconhece por
+80
+
+Neurociência e educação │ UNIDADE IV
+
+completo (área temporal verbal que produz os sons para que possamos
+fonar as letras)? Não esquecendo a região occipital que tem como
+uma de suas funções coordenar e reconhecer os objetos assim como
+o reconhecimento da palavra escrita. Assim, cada órgão se conecta e
+se interliga nesse trabalho onde cada estrutura com seus neurônios
+específicos e especializados desempenham um papel importantíssimo
+nesse aprender. (MIETTO, 2009, p. 1)
+
+Podemos inferir que a neurociência é uma forte aliada do educador uma vez que o
+auxilia na identificação do indivíduo como uma pessoa única e especial, um ser que
+pensa e que compreende a importância da sua individualidade no mundo. No momento
+em que avaliamos o processo de aprendizagem, devemos notar um múltiplo enfoque,
+observando as questões psicológicas, neurológicas e sociais de cada ser humano.
+Educar é um ato de dedicação e amor onde requer dos educadores a formação e o apreço
+pela tarefa desenvolvida no dia a dia. O professor não pode achar que uma criança é
+igual a outra. Com o passar dos tempos, a consciência de que cada pessoa é um ser único
+vem crescendo cada vez mais, assim obtemos um resultado melhor no aprendizado.
+Como vimos, o sistema nervoso (SN), através do cérebro e seus componentes, é
+responsável pela recepção e processamento de estímulos (sensação e percepção), e a
+partir deles elabora a melhor resposta para se adaptar à situação. É justamente dessa
+atividade do SN, do cérebro em funcionamento, que advém o nosso comportamento.
+Como analisa Guerra (2011), educar e aprender, da mesma forma, são funções
+relacionadas tanto às nossas cognições, quanto às nossas emoções, pois “se os
+comportamentos dependem do cérebro, a aquisição de novos comportamentos também
+resulta de processos que ocorrem no cérebro do aprendiz”. Como define a autora, o
+cérebro é o órgão da aprendizagem. Assim, as estratégias pedagógicas se tornam
+um importante estímulo, responsáveis pela reorganização do SN, que resultará em
+mudanças comportamentais. Tanto pais, quanto professores trabalham como agentes
+das mudanças provocadas neurobiologicamente que resultam em aprendizagem, mesmo
+que não saibam como o cérebro funciona e como estão provocando essas mudanças.
+Sobre essa difusão do conhecimento, a autora alerta sobre os cuidados necessários,
+pois na atualidade a troca e disseminação de informações é uma constante, o que acaba
+gerando muitas vezes a propagação de informações que muitas vezes não são corretas,
+não foram testadas ou comprovadas, alimentando os chamados “neuromitos”.
+Entender a contribuição das neurociências para a educação não quer dizer que
+haverá uma aplicação direta de uma na outra. A educação não funciona como uma
+81
+
+UNIDADE IV │ Neurociência e educação
+
+neurotransmissão, ela depende de processos que são regidos não apenas pelas leis
+físicas, mas conta com a influência de questões dinâmicas como o próprio processo
+de ensino e aprendizagem, a escola e seu funcionamento, a participação da família, as
+condições sociais e econômicas.
+A aplicação não é direta, não há mágica em ensinar e aprender, porém os conhecimentos
+das neurociências podem orientar objetivos e estratégias educacionais, de forma a
+tornar o trabalho do educador mais eficiente pelo fato dele conhecer o funcionamento
+cerebral. Saber como se dá o processo de aprendizagem, a organização e o funcionamento
+cerebral, com todos os seus processos, os mecanismos da linguagem, da atenção e da
+memória etc. são conhecimentos de grande contribuição para a atuação do educador.
+Guerra (2011) complementa:
+A psicologia educacional, desempenhada por educadores capacitados
+em neurociências básicas, poderá contribuir para o uso adequado dos
+achados das neurociências e para a colaboração entre as duas áreas.
+A inclusão dos fundamentos neurobiológicos do processo ensinoaprendizagem na formação inicial do educador proporcionará nova e
+diferente perspectiva da educação e de suas estratégias pedagógicas,
+influenciando também a compreensão dos aspectos sociais, psicológicos,
+culturais e antropológicos tradicionalmente estudados pelos pedagogos.
+As teorias de Piaget, Wallon, Vigotsky e mesmo a Pedagogia Inaciana
+estarão sujeitos a novos significados sob o olhar das neurociências.
+[...] É importante esclarecer que as neurociências não propõem uma
+nova pedagogia e nem constituem uma panaceia para a solução das
+dificuldades da aprendizagem e dos problemas da educação. Elas
+fundamentam a prática pedagógica que já se realiza, demonstrando
+que, estratégias pedagógicas que respeitam a forma como o cérebro
+funciona, tendem a ser mais eficientes. [...] a neurociência por si só não
+pode fornecer o conhecimento específico necessário para elaboração de
+ambientes de aprendizagem em áreas de conteúdo escolar específicas,
+particulares. Mas fornecendo “insights” sobre as capacidades e limitações
+do cérebro durante o processo de aprendizagem, a neurociência pode
+ajudar a explicar porque alguns ambientes de aprendizagem funcionam
+e outros não.
+
+82
+
+Neurociência e educação │ UNIDADE IV
+
+Figura 26.
+
+Fonte: <http://www.valordoconhecimento.com.br/blog/wp-content/uploads/2015/05/mem%C3%B3riaoperacional.jpg>.
+
+Cosenza e Guerra (2011) apresentam em seu trabalho os desafios enfrentados pelos
+educadores no seu dia a dia, destacando o lidar com as dificuldades de aprendizagem.
+Eles apontam várias situações enfrentadas:
+»» o estudante que não presta atenção na aula;
+»» o aluno que está perturbando a turma com brincadeiras inconvenientes
+ou provocações;
+»» o aluno que não para quieto, ou o que tem facilidade em determinada
+disciplina, mas fracassa em outras;
+»» o aluno que não tem problemas de comunicação, mas escreve garranchos;
+»» o estudante que é campeão de futebol, mas só tira notas baixas;
+»» crianças e adolescentes com limitações, com deficiências (visual, auditiva);
+»» alunos com desarranjos ou diferenças no comportamento social, cognitivo
+ou motor etc.
+Conhecer cada aluno e suas necessidades é fundamental para a condução do processo
+educativo dentro da escola, pois isso pode demandar abordagens distintas. A origem
+das dificuldades de aprendizagem é diversa e sabe-se que essas dificuldades interferem
+na reorganização cerebral na produção de comportamentos novos, que podem alterar
+a capacidade de aprendizagem. Os autores apresentam dados de 15 a 20% de crianças
+que se encontram no primeiro ano escolar que apresentam algum tipo de dificuldade de
+aprendizagem, números que podem aumentar ao longo dos seis primeiros anos.
+83
+
+UNIDADE IV │ Neurociência e educação
+
+Já falamos no decorrer desse texto sobre a importância de romper com a dicotomia
+mente vs. corpo, ampliando para a abordagem da unicidade, que ao falar de saúde,
+estamos falando da saúde de uma forma geral.
+Assim também se dá na aprendizagem, para que aconteça, é preciso considerar a saúde
+de uma forma ampla, geral. Por mais que a aprendizagem, dependa de funções mentais
+e seus correspondentes funcionamentos cerebrais, estamos falando de pessoas que
+funcionam como um todo. Isso quer dizer, que tanto algumas questões apresentadas
+pela disfunção de algum órgão, como também, algo que acontece no ambiente, podem
+provocar prejuízo do funcionamento do sistema nervoso, e como consequência
+influenciar a atenção e a memória.
+Os autores apontam acontecimentos cotidianos, como o início da vida escolar, o
+ambiente familiar agressivo, uso de drogas pelos pais, desemprego familiar, chegada de
+um irmão, morte na família, mudança (de casa, de cidade, de escola) etc. Todos eventos
+rotineiros, mas que naquele momento exigem da criança um processamento diferente
+para se adaptar a essas situações de forma a se adaptar a elas. Assim,
+Os circuitos neuronais que deveriam estar envolvidos nas tarefas
+escolares estarão ocupados com comportamentos que, naquele
+momento, são mais relevantes para a sobrevivência e o bem-estar. O
+cérebro desse aprendiz, portanto, não apresenta nenhum problema,
+mas funciona com o objetivo de melhor adaptar o indivíduo ao contexto
+ao qual ele está exposto naquela ocasião. (COSENZA; GUERRA, p. 131)
+
+Além desses aspectos, é preciso considerar também a participação de fatores como o
+uso de estratégias pedagógicas inadequadas que podem provocar baixo envolvimento e
+consequente baixo desempenho escolar. Da mesma forma, os fatores socioeconômicos
+podem impedir o acesso a materiais que proporcionem experiências sensoriais, sociais
+e motoras que favorecem o funcionamento adequado do sistema nervoso.
+É preciso também abordar os casos em que o cérebro do aprendiz não apresenta
+o mesmo funcionamento de indivíduos com a mesma faixa etária e estágio de
+desenvolvimento. Se esse funcionamento é diferente, vamos encontrar diferenças
+também no comportamento, nas habilidades e potencialidades cognitivas, o que
+traz um novo desafio para o educador, exigindo diferentes estratégias pedagógicas
+ao longo do processo de aprendizagem desse aluno, visando o desenvolvimento dos
+comportamentos e a aquisição de conhecimentos que sua estrutura cerebral permite. A
+aprendizagem, embora aconteça no cérebro, nem sempre tem nele, a origem dos seus
+problemas e dificuldades.
+
+84
+
+Neurociência e educação │ UNIDADE IV
+
+É fundamental que a investigação nas neurociências aplicada à sala de aula seja confiável,
+séria e científica, antes mesmo que se estabeleça algum tipo de aplicação educacional.
+Na medida em que os educadores, capacitados em neurociências, desempenham a
+psicologia educacional, a colaboração para a educação é riquíssima e poderá, assim,
+colaborar para o uso correto dos achados das neurociências e para a contribuição e
+benefício entre as duas áreas.
+Figura 27
+
+Fonte: <http://cursoposneuro.com.br/wp-content/uploads/2016/01/neuro2.jpg>.
+
+Transtornos mentais e psicológicos
+Compreender os distúrbios neurológicos contribui para ilustrar o papel desempenhado
+pelos processos fisiológicos na função encefálica normal, como por exemplo,
+“importância da mielina para a condução do potencial de ação e o papel do lobo frontal
+na linguagem”. (BEAR; CONNORS; PARADISO, 2008, p. 662)
+Em relação aos transtornos mentais, muito se tem descoberto sobre a sua relação
+com o sistema nervoso. Como descrevem Bear, Connors e Paradiso (2008, p. 662), “o
+comportamento humano é o produto da atividade encefálica, e o encéfalo é o produto
+de dois fatores que interagem: a hereditariedade e o ambiente”.
+Nosso comportamento é único. O encéfalo é diferente em cada um, não só fisicamente,
+como também porque nossas histórias e experiências pessoais são diferentes também.
+Essas diferenças, somadas às variações genéticas, fazem do nosso encéfalo fisicamente
+diferente, e provocam a diversidade de comportamentos também. Ao falar de saúde
+mental, “um indivíduo é dito “mentalmente doente” quando apresenta um transtorno
+85
+
+UNIDADE IV │ Neurociência e educação
+
+diagnosticável do pensamento, do humor ou do comportamento, que causa dificuldades
+de adaptação ou prejuízo funcional”. (BEAR; CONNORS; PARADISO, 2008, p. 662)
+Os autores apontam os principais transtornos psiquiátricos e a contribuição das
+neurociências para sua compreensão e tratamento: transtornos de ansiedade (transtorno
+do pânico, agorafobia e TOC1), transtornos do humor (transtorno depressivo maior e
+transtorno bipolar) e esquizofrenia (paranoide, desorganizada e catatônica).
+Os transtornos de ansiedade são diversos “diferem em termos dos estímulos que evocam
+a ansiedade (reais ou imaginárias) e das respostas comportamentais que o indivíduo
+utiliza para tentar diminuí-la” (ibdem, p. 665), porém têm a expressão patológica do
+medo em comum.
+Os transtornos do humor também diferem entre si. Os transtornos depressivos têm
+graus considerando o seu episódio naquele momento, e também a sua forma, se é
+depressivo maior ou bipolar.
+Sobre os transtornos do humor, os autores apontam “pesquisas que têm considerado
+o papel dos sistemas modulatórios difusos, com seu longo alcance e diversos efeitos”
+(ibdem, p. 665), como os transtornos do sono, do apetite e a perda da capacidade de
+concentração. Também apontam os estudos de desequilíbrio do eixo HPA (hipotálamopituitária adrenal) e sua implicação na depressão.
+Os autores consideram que “entender as bases neurobiológicas da esquizofrenia
+representa um dos maiores desafios das neurociências, porque esse transtorno afeta
+muitas das características que nos fazem humanos: o pensamento, a percepção e a
+consciência”. (ibdem, p. 680)
+Nesse sentido, apontam estudos que trazem a esquizofrenia principalmente como
+uma doença genética, em que genes específicos parecem aumentar a possibilidade
+de desenvolver a esquizofrenia e desempenham importantes papeis na transmissão e
+plasticidade sináptica, e no crescimento das sinapses.
+Ao apontar a importância da genética para o desenvolvimento da esquizofrenia, os
+autores retomam a questão de que mesmo gêmeos idênticos desenvolvem encéfalos
+diferentes, sendo as questões ambientais fatores importantes para essas diferenças.
+Associando a esquizofrenia às mudanças físicas no cérebro, apresentam as alterações no
+tamanho dos ventrículos e do encéfalo, que são significativamente maiores em pessoas
+que apresentam o transtorno, e também as alterações funcionais e estruturais, com
+agrupamentos anormais de neurônios, alterações nas sinapses e em diversos sistemas
+de neurotransmissores.
+1
+
+86
+
+Ressalta-se que na atual versão do DSM-5, o TOC não faz mais parte do capítulo dos transtornos de ansiedade, mas sim, um
+capítulo próprio.
+
+Neurociência e educação │ UNIDADE IV
+
+Avaliação neuropsicológica
+Capovilla (2007 apud BASTOS; ALVES, 2013) explica que a avaliação psicológica,
+que tem por base a neuropsicologia cognitiva, traz como meta explorar os processos
+relacionados às atividades mentais dos seres humanos e relacioná-las ao estado do
+funcionamento neurológico. Desse modo, a avaliação neuropsicológica é um exame
+diagnóstico que tem o objetivo de avaliar as funções cognitivas preservadas e as funções
+cognitivas comprometidas, a partir daí teremos um perfil psicológico desse indivíduo.
+Os recursos utilizados nos laboratórios de psicometria, neurologia e neuropsicologia; e
+ainda, o processo avaliativo ocupa uma posição central nos estudos da neuropsicologia.
+Bastos e Alves (2013) ressaltam, conforme Mader (1996), que os objetivos da avaliação
+neuropsicológica estão ligados à orientação do diagnóstico diferencial, estabelecimento
+da presença ou ausência de disfunção cognitiva e do nível de funcionamento em relação
+ao nível ocupacional e localizar as pequenas alterações na intenção de detectar as
+disfunções que se encontram em estágios iniciais.
+A demanda para as avaliações neuropsicológicas pode vir do pediatra, da escola, da
+própria família quando falamos de crianças que tem comportamentos hiperativos,
+que tem suspeitas de desenvolvimentos cognitivo atrasado. Com adultos podemos ver
+pedidos vindos de médicos por problemas degenerativos, assim como se pedem com
+os idosos, também devido aos acidentes de trabalho, a fim de detectar algum tipo de
+problema neurológico. A bateria de testes que se realiza é variável, todas as áreas serão
+testadas conforme o caso que se apresenta.
+A avaliação neuropsicológica deve ser realizada pelo psicólogo especializado quando
+se depara com fenômenos diferenciados do comportamento como, atenção, memória e
+linguagem. Em crianças e adolescentes, vários são os comportamentos observáveis, são
+eles: prejuízos na aprendizagem, atrasos na fala e no andar, desatenção, hiperatividade,
+dificuldade de comunicação, de expressão, baixa tolerância à frustração.
+Os instrumentos neuropsicológicos permitem mensurar os dados coletados que se
+unem aos dados de outros profissionais que acompanham o paciente. O diagnóstico
+quem fecha é o médico.
+Ao detectar o défice, o neuropsicólogo pode atuar ativamente atendendo o paciente, o
+encaminhando para outros profissionais habilitados, ou ainda pode passar o paciente
+para reabilitação a fim de preservar o que ainda não está deficitário.
+O cérebro, portanto, nos parece, a sede da inteligência! Portanto, há muito que se
+estudar, aprender se e aprofundar.
+87
+
+Para Não Finalizar
+Vimos muitas informações interessantes e importantes ao longo dessa unidade, não?
+As contribuições das neurociências para a prática educativa são bem sustentadas,
+porém não funcionam como prescrição de receita que irá resolver todos os problemas e
+dificuldades. Porém, isso não diminui sua importância, pois pais e educadores podem
+compreender a aprendizagem sob o olhar da neurobiologia, o que pode auxiliar as
+práticas educativas em casa e na escola.
+Finalizamos nosso breve percurso pelas neurociências e a contribuição desses
+conhecimentos. Que seja apenas o início desse percurso de pesquisas.
+Para continuar explorando e complementar seus estudos assista ao documentário
+indicado no link a seguir sobre a importância da Neurociência na educação.
+Bons estudos!
+<https://www.youtube.com/watch?v=M5F2S5D5CDE>.
+
+88
+
+Referências
+ALENCAR, Eunice M. L. Soriano de. Psicologia: introdução aos princípios básicos do
+comportamento. 11ª ed. Petrópolis: Vozes, 2000.
+BASTOS, Lijamar de Souza; ALVES Marcelo Paraíso. As influências de Vygotsky e Luria
+à neurociência contemporânea e à compreensão do processo de aprendizagem. Revista
+Práxis. vol. 5. no 10, 2013. Disponível em: <http://web.unifoa.edu.br/revistas/index.
+php/praxis/article/view/580/539>.
+BEAR, M. F.; CONNORS, B. W.; PARADISO, M. A. Neurociências: desvendando o
+sistema nervoso. 3ª ed. Porto Alegre: Artmed, 2008.
+BRAGHIROLLI, Elaine Maria et al. Psicologia Geral. 23ª ed. Petrópolis: Vozes,
+2003.
+COSENZA, R. M.; GUERRA, L. B. Neurociência e educação: como o cérebro
+aprende. Porto Alegre: Artmed, 2011.
+EYSENCK, M. W.; KEANE, M. T. Manual de Psicologia Cognitiva. 7ª Ed. Porto
+Alegre: Artmed, 2017.
+FELDMAN, R. S. Introdução à Psicologia. 10ª ed. Porto Alegre: Artmed, Mc Graw
+Hill Education, 2016.
+GAZZANIGA, M. S.; HEATHERTON, T. F. Ciência Psicológica: mente, cérebro e
+comportamento. Porto Alegre: Artmed, 2005.
+GIL, R. Neuropsicologia. 2ª ed. Santos: Santos Editora, 2010.
+GUERRA, L. B. O diálogo entre a neurociência e a educação: da euforia aos desafios
+e possibilidades. Revista Interlocução, vol. 4, no 4, pp. 3-12, publicação semestral,
+junho/2011.
+LENT, R. Cem bilhões de neurônios? Conceitos fundamentais de neurociências. 2ª
+ed. São Paulo: Atheneu, 2010.
+LUNDY-EKMAN, L. Neurociência: fundamentos para reabilitação. 3ª ed. Rio de
+Janeiro: Elsevier, 2008.
+
+89
+
+Referências
+
+MORRIS, Charles G.; MAISTO, Albert A. Introdução à Psicologia. 6ª ed. São Paulo:
+Prentice Hall, 2004.
+PLISZKA, S. R. Neurociência para o clínico de saúde mental. Porto Alegre:
+Artmed, 2004.
+SOARES, D. C. R. O Cérebro X Aprendizagem. Disponível em: <http://www.
+profala.com/arteducesp67.htm>.
+SOUZA, F. História das neurociências. Disponível em: <http://www.psicologiamsn.
+com/2014/01/historia-das-neurociencias-curso-de-neurociencia-online-gratis.html>.
+RUBINSTEIN, E.; CARDOSO, M. A. Sistema Nervoso. Disponível em: <http://
+anato.webnode.pt/products/sistema-nervoso/>.
+VAN DER VEER, René; VALSINER, Jaan. Vygotsky: uma síntese. São Paulo: Loyola,
+1996.
+
+90
