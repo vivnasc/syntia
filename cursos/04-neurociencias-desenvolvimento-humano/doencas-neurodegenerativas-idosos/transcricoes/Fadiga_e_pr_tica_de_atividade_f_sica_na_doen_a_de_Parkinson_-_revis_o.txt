@@ -1,0 +1,757 @@
+ARTIGO DE REVISÃO
+doi.org/10.17696/2318-3691.25.1.2018.886
+
+ISSN
+2318-3691
+
+Fadiga e prática de atividade física na doença de Parkinson: revisão
+de literatura
+Fatigue and physical activity in Parkinson’s disease: literature review
+Débora da Luz Scheffer1, Aderbal Silva Aguiar Junior 1, Alexandra Latini1
+
+Resumo
+
+Introdução: A doença de Parkinson é a segunda doença
+neurodegenerativa mais prevalente na população mundial, com
+maior incidência nos idosos. A fadiga corresponde a um dos
+sintomas não motores mais frequentes na doença de Parkinson
+e prejudica a qualidade de vida desses pacientes. Esse cenário
+é potencializado por um estilo de vida sedentário, aumentando
+a dificuldade de realizar atividade física. Objetivo: Identificar
+o impacto do sintoma de fadiga na maior predisposição ao
+sedentarismo e na realização de atividade física em pessoas
+com doença de Parkinson. Materiais e Métodos: Trata-se de
+uma revisão narrativa. Para esta revisão foram pesquisados
+artigos em língua inglesa disponíveis na base de dados
+eletrônica PubMED. Foram adotados os seguintes indexadores
+com diferentes combinações: fatigue and Parkinson’s disease
+and exercise or physical activity. Buscas manuais foram feitas
+nas referências dos artigos encontrados. Resultados: Apesar
+da alta prevalência de fadiga, o problema nem sempre é
+reconhecido clinicamente, em virtude do seu caráter subjetivo
+e pouco explorado. A etio/fisiopatologia da fadiga na doença
+de Parkinson ainda é mal compreendida e a abordagem clínica
+é inexistente. Conclusão: A fadiga pode ser classificada como
+fadiga subjetiva, que não é objetivamente mensurável, ou
+fatigabilidade, que se caracteriza pela dificuldade em iniciar
+ou manter uma atividade física ou mental. A fatigabilidade
+é uma barreira para a realização de atividades físicas, e está
+diretamente relacionada a um estilo de vida sedentário em
+indivíduos com DP.
+Descritores: Fadiga; Doença de Parkinson; Qualidade de Vida;
+Exercício; Atividade Motora.
+
+Introdução
+
+A doença de Parkinson (DP) é uma doença neurodegenerativa
+progressiva crônica que provoca alterações motoras e não
+motoras. A doença afeta aproximadamente 1% da população
+acima de 60 anos e é a segunda doença neurodegenerativa
+mais comum1. As manifestações clínicas características da
+DP incluem tremor, rigidez de repouso, bradicinesia (lentidão
+dos movimentos) e também instabilidade postural2. Além das
+manifestações motoras, mais de 90% dos pacientes também
+desenvolvem complicações não motoras, incluindo depressão,
+
+Abstract
+
+Introduction: Parkinson disease is the second most prevalent
+neurodegenerative disease among the population. It presents a
+higher incidence in the elderly people. Fatigue corresponds to
+one of the non-motor symptoms that appear more frequently
+in people with Parkinson disease. It negatively influences
+their quality of life. This scenario is enhanced by a sedentary
+lifestyle, increasing the difficulty of performing physical
+activity. Objective: Understand and identify the impact the
+fatigue into a greater predisposition in sedentary lifestyle
+and the accomplishment of physical activity in people with
+Parkinson’s disease. Materials and Methods: A literature
+search was performed to identify full-text articles in English.
+We searched the electronic database of PubMED. The following
+keywords were used using different combinations: fatigue and
+Parkinson’s disease and exercise or physical activity. Manual
+searches were performed in references in eligible articles.
+Results: Despite the high prevalence of fatigue, the problem
+is not always clinically recognized due to its subjective nature.
+The ethio/physiopathology of fatigue in Parkinson disease is
+still poorly understood, and treatment is unknown. Conclusion:
+Fatigue can be classified as subjective fatigue, in which it is not
+objectively measurable, or fatigability, which is characterized
+by the difficulty in initiating or maintaining a physical or
+mental activity. Fatigability is a barrier to physical activity, and
+is directly related to a sedentary lifestyle in individuals with
+Parkinson Disease.
+Descriptors: Fatigue; Parkinson Disease; Quality of Life; Exercise; Motor Activity.
+
+distúrbio do sono com movimentos rápidos dos olhos (Rapid
+Eye Movement - REM), fadiga e ansiedade3-5.
+A fadiga é um sintoma comum e debilitante em muitas
+doenças crônicas, sendo caracterizada pela dificuldade na
+iniciação e sustentação de tarefas físicas e mentais6. Na
+DP dentre os sintomas não motores, as queixas de fadiga se
+destacam pela prevalência superior a 58% em indivíduos
+acometidos pela doença na população mundial, sendo referida
+como um dos piores sintomas em virtude da influência
+negativa na independência funcional e qualidade de vida dos
+
+Universidade Federal de Santa Catarina(UFSC)-Florianópolis-SC-Brasil.
+
+1
+
+Conflito de interesses: Não
+Contribuição dos autores: DLS planejamento, pesquisa do referencial teórico e elaboração do manuscrito. ASAJ redação e revisão crítica do manuscrito. AL redação e revisão crítica do manuscrito.
+Contato para correspondência: Débora da Luz Scheffer
+E-mail: dschefferlabox@gmail.com
+Recebido: 12/09/2017; Aprovado: 07/03/2018
+Arq. Ciênc. Saúde. 2018 jan-mar: 25(1) 13-17
+
+13
+
+pacientes7-9. A fadiga na DP pode ser identificada desde os
+primeiros sintomas não motores da doença, geralmente antes
+do diagnóstico clínico ser realizado. Na maioria dos casos, a
+fadiga está associada a outras comorbidades, como depressão
+e distúrbios do sono, o que dificulta seu diagnóstico clínico8-10.
+Embora a fadiga na DP seja classicamente caracterizada como
+um sintoma não motor11-13, essa classificação é questionável,
+principalmente pela fadiga repercutir negativamente sobre as
+atividades motoras, como a prática de atividade e exercício
+físico14.
+Apesar da queixa frequente de fadiga e suas implicações
+nas atividades físicas de vida diária15-17, esse cenário ainda tem
+pouca visibilidade na comunidade clínica e acadêmica.
+Identificar o impacto do sintoma de fadiga na maior
+predisposição ao sedentarismo e na realização de atividade
+física em pessoas com doença de Parkinson.
+
+Material e Métodos
+
+Trata-se de uma revisão narrativa. Para esta revisão utilizouse como ferramenta de busca a base de dados eletrônica US
+National Library of Medicine (PubMED) e foram adotados os
+seguintes indexadores com diferentes combinações: fatigue
+and Parkinson’s disease and exercise or physical activity.
+Buscas manuais adicionais foram realizadas a partir das
+referências encontradas. Foram pesquisados artigos em língua
+inglesa, entre 1994 a 2016. Foram definidos como critérios
+de exclusão artigos de revisão, artigos que não apresentassem
+conteúdo relevante para esta revisão, bem como artigos que
+não abordassem atividade física e/ou atividade motora.
+Resultados da seleção
+No total, foram 105 artigos (Figura 1), dos quais
+exclusivamente nove eram artigos originais que focaram na
+relação dos sintomas de fadiga e prática de atividade física em
+sujeitos com DP. Os detalhes clínicos e experimentais desses
+nove artigos originais estão descritos na Tabela 1.
+ETAPA 1
+
+PubMed + buscas manuais
+105 artigos
+
+ETAPA 2
+
+84 artigos excluídos por não
+apresentarem conteúdo
+relevante para esta revisão
+ou por não serem originais
+
+21 artigos potencialmente
+relevantes para a revisão
+dos resumos
+12 artigos excluídos por não
+abordarem atividade física
+e/ou atividade motora
+
+ETAPA 3
+9 artigos
+elegíveis
+
+Figura 1. Fluxograma com trajeto da pesquisa bibliográfica e
+critérios de inclusão e exclusão dos artigos encontrados.
+
+Conteúdo da Revisão
+
+Fadiga na doença de Parkinson
+Durante a última década, os sintomas não motores da DP
+têm recebido maior visibilidade17,25-26. Esses sintomas eram
+conhecidos desde a década de 1970, mas a globalização
+das informações destacou a necessidade do manejo clínico
+dos sintomas não motores, o que ainda é considerado uma
+necessidade clínica não atendida. A DP, embora classificada
+como um distúrbio do movimento, é também um distúrbio
+neurocomportamental27. A fadiga é um problema comum em
+pacientes com DP e parece estar associada com redução na
+prática de atividade física e diminuição da qualidade de vida7.
+Essa queixa é universal em doenças crônicas e progressivas,
+como por exemplo, no câncer, esclerose múltipla, acidente
+vascular cerebral, doença pulmonar obstrutiva crônica, entre
+outras28.
+14
+
+A fadiga afeta entre 33 a 70% dos pacientes com DP em todo
+mundo7. Nos Estados Unidos, a fadiga tem sido o sintoma não
+motor mais frequentemente citado pelos pacientes com DP como
+fator para desistência do trabalho27. Apesar da alta prevalência
+de fadiga nos pacientes com DP, a identificação diagnóstica
+desse sintoma é difícil. A fadiga na DP é diagnosticada pelos
+neurologistas apenas em 25% dos casos, com uma acurácia
+de 25%29. Possivelmente, a depressão e/ou alterações no
+sono simultâneos à fadiga, mascaram seu diagnóstico, sendo
+que essas comorbidades apresentam maior visibilidade na
+comunidade acadêmica, científica e na comunidade em geral26.
+Tipos de fadiga
+Não existe definição exata para a fadiga, em decorrência
+da sobreposição entre ciência de cansaço e os sintomas
+clinicamente relevantes de fadiga, o que torna a percepção
+subjetiva27. Dependendo do contexto, a fadiga pode ser
+definida de diferentes formas. O termo “fadiga”, quando
+usado por médicos ou pacientes, pode ter um significado
+que envolve situações desde a depressão mental até fraqueza
+neuromuscular7. Nas ciências do exercício físico, a fadiga
+é definida como diminuição progressiva na capacidade de
+realizar exercício (tipo 1), até sua interrupção total devida à
+própria fadiga (tipo 2), comum em indivíduos sedentários e
+destreinados. Sujeitos fisicamente ativos apresentam fadiga
+tipo 1, ou seja, a interrupção da atividade ou exercício físico
+geralmente é voluntária, e não devido ao tipo 2.
+Subjetivamente, a fadiga é descrita como uma enorme
+sensação de cansaço, falta de energia ou sentimento de exaustão.
+A fadiga subjetiva pode ser classificada em física, caracterizada
+pela quantidade de esforço que o sujeito sente ou precisa para
+concluir determinadas atividades, por exemplo, para realizar
+um trabalho manual, correr, caminhar, ou qualquer movimento
+que exija força gerada pelo músculo esquelético; ou mental,
+que se refere ao esforço aplicado para prestar atenção em uma
+tarefa7. A fadiga subjetiva é avaliada por meio de questionários
+preenchidos pelo próprio paciente27.
+Por outro lado, o termo “fatigabilidade” se refere à
+dificuldade na iniciação ou sustentação das atividades, podendo
+ser também, física ou mental28. Nesse caso, a fatigabilidade
+física é causada por execuções motoras, como a geração de
+força. A fatigabilidade mental é o grau de atenção requerido
+para manter a concentração por um determinado período de
+tempo. Essa, por sua vez, ocorre em um curto período de tempo
+e pode ser avaliada quantitativamente em um laboratório30. É
+importante ressaltar que a fadiga subjetiva e a fatigabilidade
+não estão necessariamente correlacionadas, o que requer
+atenção no momento da avaliação e interpretação. A sensação
+subjetiva de fadiga é essencialmente percebida pelo sistema
+nervoso central7. A ”fadiga central” se refere a um sentimento/
+estado, uma percepção ou experiência que não é, por enquanto,
+objetivamente mensurável31. Acredita-se que a fadiga central
+ocorra por meio do desequilíbrio entre neurotransmissores
+cerebrais (por exemplo, razão entre dopamina e serotonina)
+influenciando o nível de ativação central, que determina a
+capacidade de sustentar uma atividade11. A fadiga central,
+no entanto, não é simplesmente um sentimento de exaustão
+física, ela também tem um importante componente cognitivo
+(fadiga mental). A fadiga mental é caracterizada por uma
+constante hipervigilância, dificuldade de concentração,
+diminuição da memória e dificuldades na fala7. Em alguns
+pacientes o componente mental é o aspecto mais perturbador
+dos seus sintomas, porque eles encontram-se limitados em
+sua capacidade de sustentar a concentração e suportar tarefas
+mentais31.
+Ao contrário da fadiga periférica, quando ocorre um
+insucesso metabólico de vias energéticas envolvidas na síntese
+de ATP durante o exercício, o processo fisiopatológico da
+fadiga central, que parece prevalecer na DP e outras doenças
+crônicas e progressivas, ainda não é bem compreendido7.
+A classificação da fadiga subjetiva e da fatigabilidade são
+esquematizadas na Figura 2.
+Arq. Ciênc. Saúde. 2018 jan-mar: 25(1) 13-17
+
+Tabela 1. Características dos artigos originais, selecionados na pesquisa bibliográfica, que abordam o tema fadiga na doença de
+Parkinson e sua relação com a atividade física, entre os anos de 1997 a 2016.
+Referência Cidade, País Número de
+Gravidade da
+Instrumento
+Farmacoterapia /
+Observações
+(ano)
+participantes /
+doença
+para avaliação da
+Intervenção
+idade
+fadiga
+Hoff et. al
+Leida,
+69 / 64,8 ± 11,3 Escala UPDRS
+Questionário não
+Levodopa entre
+Fadiga na DP não
+(1997)16
+Holanda,
+38,6
+especificado
+453-731 mg
+está associada com
+redução de atividade
+física
+Ziv et.al
+Petah Tiqva, 17 / 55,7 ± 9,1 escala Hoehn & Cálculo índice de Levodopa/carbidopa Levodopa melhorou
+(1998)18
+Israel,
+anos
+Yahr ≤2
+fadiga
+125/12,5mg
+índice de fadiga
+Garber & Rhode Island, 37 / 64 ± 10
+escala Hoehn &
+Escala de
+Levodopa/carbidopa Quanto mais severos
+Friedman
+Estados
+Yahr ≤3
+severidade da
+os sintomas de fadiga
+(2003)15
+Unidos
+fadiga
+maior a imobilidade
+do paciente
+Lou et. al
+Oregon,
+25 / não
+escala Hoehn & Teste de geração Carbidopa/levodopa Levodopa melhora a
+(2003)19
+Estados
+especificado
+Yahr 2,3 ± 0,6
+de força; MFI
+25/100mg
+fadiga física
+Unidos
+Schifitto
+Nova York,
+361 / 63,9 ±
+escala Hoehn &
+Escala de
+Carbidopa/levodopa Menor progressão da
+et. al
+Estados
+11,75
+Yahr >3
+severidade da
+37,5/150mg;
+fadiga em pacientes
+(2008)20
+Unidos
+fadiga
+75/300mg ou
+tratados com
+150/600mg por 40
+Levodopa
+semanas
+Elbers et
+Newcastle,
+153 / 68 ± 11
+escala Hoehn &
+MFI
+Levodopa 400mg,
+Paciente com altos
+al. (2009)21 Inglaterra;
+Yahr ≥3
+dopamina,
+escores de fadiga
+Lovaina,
+selegilina, entre
+são menos ativos
+Bégica;
+outros
+fisicamente
+Amsterdã,
+Olanda
+Winward
+Leida,
+39 / ≥ 63,4 ± 9,6 escala Hoehn &
+Escala de
+12 semanas de
+Exercício não
+et. al
+Holanda
+Yahr 0-4
+severidade da
+exercício (30-45 melhorou a fadiga em
+(2012)22
+fadiga
+min sessão)
+pacientes com DP
+Lana et al.
+Minas
+46 / 65,9 ± 12,1 escala Hoehn &
+Escala de
+Uso de medicação A fadiga não foi um
+(2016)23
+Gerais, Brasil
+Yahr 1-4
+severidade da
+não especificada
+fator preditivo no
+fadiga
+nível de atividade
+física em pacientes
+com DP
+Santos et
+Não especificado
+O nível de atividade
+São Paulo, 40 / 71,7 ± 9,5 escala Hoehn &
+Contração
+al. (2016)24
+física parece não
+Brasil
+Yahr ≤3
+voluntária
+de membros
+modificar os efeitos
+inferiores
+da fadiga
+
+UPDRS: Unified Parkinson’s Disease Rating Scale; MFI: Multidimensional Fatigue Inventory
+Fadiga
+
+Fadiga Subjetiva
+
+Esforço aplicado para
+realizar uma tarefa física
+ou mental
+Avaliação: Questionátrios
+
+Fatigabilidade
+
+Fatigabilidade
+Física
+
+Fatigabilidade
+Mental
+
+Dificuldade em iniciar e
+manter uma atividade
+motora.
+Avaliação: Protocolo de
+exercício para fadiga física
+
+Dificuldade em iniciar
+e manter a
+concentração
+Avaliação: Teste de
+atenção
+
+Figura 2. Representação esquemática da classificação de fadiga
+subjetiva e fatigabilidade na doença de Parkinson. Modificado
+a partir de Lou et. al., 20097.
+Avaliação da fadiga
+A fadiga na DP é avaliada com o uso de questionários,
+devido a inexistência de um biomarcador específico. A Escala
+de Fadiga no Parkinson (Parkinson Fatigue Scale – PFS) é uma
+escala unidimensional composta por 16 itens, desenvolvida
+especificamente para pacientes com DP, e foi validada na
+Arq. Ciênc. Saúde. 2018 jan-mar: 25(1) 13-17
+
+população do Reino Unido. Outra escala unidimensional é
+a Escala de Severidade da Fadiga (Fatigue Severity Scale FSS) composta por 28 itens. Sua consistência, sensibilidade
+e confiabilidade teste-reteste, foi validada em pacientes com
+esclerose múltipla e é, comumente, a mais utilizada. A Escala
+Visual Analógica (Visual Analogue Scale – VAS) consiste em
+uma simples linha horizontal de 10 cm de comprimento que
+representa a gravidade da fadiga, variando em uma escala de
+0 a 100%15.
+Dentre os questionários que englobam escalas
+multidimensionais, estão o Inventário Multidimensional
+de Fadiga (Multidimensional Fatigue Inventory – MFI)
+composto de 20 itens, com uma boa consistência interna e boa
+confiabilidade entre e intra avaliadores19, e a Escala de Fadiga
+de Piper (Piper Fatigue Scale) que inclui 22 características
+de fadiga e sua validade e confiabilidade foram estabelecidas
+em pacientes com câncer, infarto do miocárdio e portadores
+do vírus HIV. Os questionários são uma ferramenta importante
+para a avaliação da fadiga subjetiva física e mental7.
+Embora algumas evidências sugerem que a terapia com
+levodopa (medicamento de primeira linha utilizado no
+tratamento da DP) possa reduzir a incidência de fadiga
+na DP20, o efeito da levodopa na fadiga permanece pouco
+entendido32. Estudos clínicos realizados em pacientes com
+DP, demonstraram que o metilfenidato (potente inibidor da
+15
+
+recaptação de dopamina e noradrenalina) melhorou o escore
+de fadiga em relação ao basal, utilizando como instrumento o
+questionário MFI28, resposta similar também encontrada com
+levodopa. Uma única dose de levodopa melhorou o escore MFI
+e a fadiga física19, bem como o índice de fadiga18.
+Fadiga e atividade física
+O estilo de vida sedentário tem sido apontado como
+um fator de risco para o desenvolvimento de doenças
+crônicas, como doença cardiovascular, diabetes mellitus,
+comprometimento cognitivo, osteoporose e depressão33-35.
+Neste contexto, grande importância vem sendo dada à prática
+de atividade física, principalmente para o desenvolvimento
+de componentes da aptidão física voltados à saúde, incluindo
+aptidão cardiorrespiratória, força, flexibilidade e composição
+corporal36-40. No entanto, na DP, as alterações de movimento
+e as disfunções motoras, além do comprometimento do
+desempenho motor, criam uma barreira para a realização de
+atividades físicas, estando diretamente relacionadas a um estilo
+de vida sedentário, além de uma capacidade diminuída para
+exercício e, portanto, um baixo condicionamento físico21. A
+inatividade física pode piorar alguns sintomas não-motores,
+como insônia e constipação.
+Até o momento, poucos estudos investigaram a atividade
+física na DP e os resultados são inconsistentes1. Fatores,
+como idade, gênero e estado de saúde, estão associados ao
+nível de atividade física em adultos saudáveis. No entanto,
+os determinantes para a prática de atividade física na DP
+permanecem incompreendidos. Um estudo revelou que
+pacientes com DP são 29% menos ativos fisicamente que
+indivíduos saudáveis. No entanto, a capacidade dos pacientes
+para realizar exercícios físicos na fase inicial da doença pode
+ser comparável a de indivíduos saudáveis quando mantêm um
+certo nível de atividade física regular, no entanto, isso tende a
+mudar com o progresso da doença41.
+Embora exista uma carência de estudos que investiguem os
+fatores associados a prática de atividade física na DP, acreditase que fatores relacionados à doença, como gravidade da
+doença, dose diária de levodopa, comprometimento motor,
+bem como, o sintoma de fadiga, sejam determinantes para uma
+vida fisicamente ativa42.
+O aumento da fadiga muscular durante a contração muscular
+tem sido demonstrado em pacientes com DP em comparação
+com indivíduos controle saudáveis, como descrito na Tabela
+1. Foi verificado um aumento de 50% na fadiga em pacientes
+com DP, embora não tenha existido diferença na geração de
+força máxima entre pacientes com DP e indivíduos controle18.
+Em outro estudo, os autores mostraram que os maiores índices
+de fadiga em paciente com DP também estão associados a (i)
+redução na atividade física recreacional; (ii) pior desempenho
+em exercícios vigorosos; (iii) e menor mobilidade ativa durante
+as tarefas de vida diária, profissional e lazer. Nos testes de
+caminhada de 6 minutos de duração e teste “Timed Up and
+Go (TUG)” (levantar, percorrer 3 metros e retornar a cadeira),
+esses pacientes com DP apresentam claramente um menor
+desempenho15. Em contrapartida, outro estudo não encontrou
+diferença em pacientes com ou sem fadiga no volume de
+atividade física diária usando um monitor de atividade16.
+Entretanto, interessantemente, pacientes com DP não
+apresentaram melhoras nos índices de fadiga após realizarem
+exercício físico por 12 semanas22.
+Nesse sentido, fatores modificáveis como a habilidade de
+realizar atividade física diária e bradicinesia foram identificados
+como preditores do nível de atividade física de indivíduos com
+DP, e que, em contrapartida, a fadiga não é um fator preditivo23.
+Além disso, o nível de atividade física não parece modificar os
+efeitos da fadiga de membros inferiores tanto em indivíduos
+saudáveis como em pacientes com DP24.
+
+Conclusão
+
+Embora a fadiga periférica na DP tenha sido estudada
+por muitos pesquisadores, até o presente momento não são
+16
+
+encontrados estudos sobre a fadiga de origem central, sequer
+estudos sobre sua modulação com a prática de atividade física na
+DP. Apesar da fadiga comprometer negativamente a qualidade
+de vida dos pacientes com DP, essa nem sempre é reconhecida
+pelos profissionais de saúde. Esse fato pode decorrer do
+entendimento incompleto das bases fisiopatológicas da fadiga,
+o desconhecimento de ferramentas para sua avaliação e/ou a
+limitação de seu tratamento. Desse modo, faz-se necessário
+uma maior compreensão acerca dos efeitos e mecanismos da
+fadiga envolvidos na DP.
+
+Agradecimentos
+
+Coordenação de Aperfeiçoamento de Pessoal de Nível
+Superior – CAPES; Conselho Nacional de Desenvolvimento
+Científico e Tecnológico – CNPq; Universidade Federal de
+Santa Catarina – UFSC.
+
+Referências
+
+1. Cugusi L, Solla P, Serpe R, Carzedda T2, Piras L2,
+Oggianu M, et al. Effects of a Nordic Walking program on
+motor and non-motor symptoms, functional performance
+and body composition in patients with Parkinson’s disease.
+NeuroRehabilitation. 2015;37(2):245-54. doi: 10.3233/NRE151257.
+2. Opara J, MaleckiA, Malecka E, Socha T. Motor assessment in
+Parkinson`s disease. Ann Agricl Environ Med. 2017;24(3):4115. DOI: https://doi.org/10.5604/12321966.1232774.
+3. Fabbrini G, Latorre A, Suppa A, Bloise M, Frontoni M,
+Berardelli A. Fatigue in Parkinson’s disease: motor or nonmotor symptom? Parkinsonism Relat Disord. 2013;19(2):14852. doi: 10.1016/j.parkreldis.2012.10.009.
+4. Smeltere L, Kuznecovs V, Erts R. Depression and social
+phobia in essential tremor and Parkinson’s disease. Brain
+Behav. 2017;7(9):e00781. doi: 10.1002/brb3.781.
+5. Ghorbani Saeedian R, Nagyova I, Krokavcova M,
+Skorvanek M, Rosenberger J, Gdovinova Z, et al. The role of
+social support in anxiety and depression among Parkinson’s
+disease patients. Disabil Rehabil. 2014;36(24):2044-9. doi:
+10.3109/09638288.2014.886727.
+6. Kader M, Ullen S, Iwarsson S, Odin P, Nilsson MH.
+Factors contributing to perceived walking difficulties in people
+with Parkinson’s disease. J Parkinsons Dis. 2017;7(2):397-407.
+doi: 10.3233/JPD-161034.
+7. Lou JS. Physical and mental fatigue in Parkinson’s
+disease: epidemiology, pathophysiology and treatment.
+Drugs Aging. 2009;26(3):195-208. doi: 10.2165/00002512200926030-00002.
+8. Ylikoski A, Martikainen K, Sieminski M, Partinen
+M. Sleeping difficulties and health-related quality of life in
+Parkinson’s disease. Acta Neurol Scand. 2017;135(4):459-68.
+doi: 10.1111/ane.12620.
+9. Valkovic P, Harsany J, Hanakova M, Martinkova J,
+Benetin J. Nonmotor symptoms in early- and advancedstage Parkinson’s disease patients on dopaminergic therapy:
+how do they correlate with quality of life? ISRN Neurol.
+2014;2014:587302. doi: 10.1155/2014/587302.
+10. Siciliano M, Trojano L, De Micco R, De Mase A,
+Garramone F, Russo A, et al. Motor, behavioural, and cognitive
+correlates of fatigue in early, de novo Parkinson disease
+patients. Parkinsonism Relat Disord. 2017;45:63-8. doi:
+10.1016/j.parkreldis.2017.10.004.
+11. Fu R, Luo XG, Ren Y, He ZY, Lv H. Clinical
+characteristics of fatigued Parkinson’s patients and the response
+to dopaminergic treatment. Transl Neurodegener. 2016;5:9.
+doi: 10.1186/s40035-016-0056-2.
+12. Bugalho P, Lampreia T, Miguel R, Mendonca MD,
+Caetano A, Barbosa R. Non-Motor symptoms in Portuguese
+Parkinson’s Disease patients: correlation and impact on quality
+of life and activities of daily living. Sci Rep. 2016;6:32267.
+doi: 10.1038/srep32267.
+Arq. Ciênc. Saúde. 2018 jan-mar: 25(1) 13-17
+
+13. Song Y, Gu Z, An J, Chan P, Chinese Parkinson Study
+Group. Gender differences on motor and non-motor symptoms
+of de novo patients with early Parkinson’s disease. Neurol Sci.
+2014;35(12):1991-6. doi: 10.1007/s10072-014-1879-1.
+14. Abrantes AM, Friedman JH, Brown RA, Strong DR,
+Desaulniers J, Ing E, et al. Physical activity and neuropsychiatric
+symptoms of Parkinson disease. J Geriatr Psychiatry Neurol.
+2012;25(3):138-45. doi: 10.1177/0891988712455237.
+15. Garber CE, Friedman JH. Effects of fatigue on physical
+activity and function in patients with Parkinson’s disease.
+Neurology. 2003;60(7):1119-24.
+16. Hoff JI, Van Hilten JJ, Middelkoop HA, Roos RA.
+Fatigue in Parkinson’s disease is not associated with reduced
+physical activity. Parkinsonism Relat Disord. 1997;3(1):51-4.
+17. Kluger BM. Fatigue in Parkinson’s disease. Int Rev
+Neurobiol. 2017;133:743-68. doi: 10.1016/bs.irn.2017.05.007.
+18. Ziv I, Avraham M, Michaelov Y, Djaldetti R, Dressler R,
+Zoldan J, et al. Enhanced fatigue during motor performance in
+patients with Parkinson’s disease. Neurology. 1998;51(6):15836.
+19. Lou JS, Kearns G, Benice T, Oken B, Sexton G, Nutt
+J. Levodopa improves physical fatigue in Parkinson’s disease:
+a double-blind, placebo-controlled, crossover study. Mov
+Disord. 2003;18(10):1108-14.
+20. Schifitto G, Friedman JH, Oakes D, Shulman L, Comella
+CL, Marek K, et al. Fatigue in levodopa-naive subjects
+with Parkinson disease. Neurology. 2008;71(7):481-5. doi:
+10.1212/01.wnl.0000324862.29733.69.
+21. Elbers R, Van Wegen EE, Rochester L, Hetherington
+V, Nieuwboer A, Willems AM, et al. Is impact of fatigue
+an independent factor associated with physical activity in
+patients with idiopathic Parkinson’s disease? Mov Disord.
+2009;24(10):1512-8. doi: 10.1002/mds.22664.
+22. Winward C, Sackley C, Meek C, Izadi H, Barker K,
+Wade D, et al. Weekly exercise does not improve fatigue levels
+in Parkinson’s disease. Mov Disord. 2012;27(1):143-6. doi:
+10.1002/mds.23966.
+23. Lana RC, Araujo LN, Cardoso F, Rodrigues-de-Paula
+F. Main determinants of physical activity levels in individuals
+with Parkinson’s disease. Arq Neuropsiquiatr. 2016;74(2):1126. doi: 10.1590/0004-282X20160009.
+24. Santos PC, Gobbi LT, Orcioli-Silva D, Simieli L, Van
+Dieen JH, Barbieri FA. Effects of leg muscle fatigue on gait in
+patients with Parkinson’s disease and controls with high and
+low levels of daily physical activity. Gait Posture. 2016;47:8691. doi: 10.1016/j.gaitpost.2016.04.002.
+25. Kluger BM, Pedersen KF, Tysnes OB, Ongre SO,
+Oygarden B, Herlofson K. Is fatigue associated with cognitive
+dysfunction in early Parkinson’s disease? Parkinsonism Relat
+Disord. 2017;37:87-91. doi: 10.1016/j.parkreldis.2017.02.005.
+26. Skorvanek M, Gdovinova Z, Rosenberger J, Saeedian
+RG, Nagyova I, Groothoff JW, et al. The associations between
+fatigue, apathy, and depression in Parkinson’s disease. Acta
+Neurol Scand. 2015;131(2):80-7. doi: 10.1111/ane.12282.
+27. Friedman JH. Fatigue in Parkinson’s disease patients.
+Curr Treat Options Neurol. 2009;11(3):186-90.
+28. Kluger BM, Krupp LB, Enoka RM. Fatigue and
+fatigability in neurologic illnesses: Proposal for a unified
+taxonomy. Neurology. 2013;80(4):409-16. doi: 10.1212/
+WNL.0b013e31827f07b.
+29. Chaudhuri KR, Healy DG, Schapira AH. Non-motor
+symptoms of Parkinson’s disease: diagnosis and management.
+Lancet Neurol. 2006;5(3):235-45.
+30. Zuo LJ, Yu SY, Hu Y, Wang F, Piao YS, Lian TH, et
+al. Serotonergic dysfunctions and abnormal iron metabolism:
+Relevant to mental fatigue of Parkinson disease. Scientific
+Reports. 2016;6(1):19. doi:10.1038/s41598-016-0018-z.
+31. Friedman JH, Abrantes A, Sweet LH. Fatigue
+in Parkinson’s disease. Expert Opin Pharmacother.
+2011;12(13):1999-2007. doi: 10.1517/14656566.2011.587120.
+32. Fabbri M, Coelho M, Guedes LC, Chendo I, Sousa C,
+Rosa MM, et al. Response of non-motor symptoms to levodopa
+in late-stage Parkinson’s disease: results of a levodopa
+Arq. Ciênc. Saúde. 2018 jan-mar: 25(1) 13-17
+
+challenge test. Parkinsonism Relat Disord. 2017;39:37-43. doi:
+10.1016/j.parkreldis.2017.02.007.
+33. Leiva AM, Martinez MA, Cristi-Montero C, Salas C,
+Ramírez-Campillo R, Díaz Martínez X, et al. [Sedentary
+lifestyle is associated with metabolic and cardiovascular
+risk factors independent of physical activity]. Rev
+Medica Chile. 2017;145(4):458-67. doi: 10.4067/S003498872017000400006.
+34. Schuch F, Vancampfort D, Firth J, Rosenbaum S, Ward
+P, Reichert T, et al. Physical activity and sedentary behavior
+in people with major depressive disorder: a systematic review
+and meta-analysis. J Affect Disord. 2017;210:139-50. doi:
+10.1016/j.jad.2016.10.050.
+35. Nguyen B, Bauman A, Ding D. Incident Type 2 Diabetes
+in a Large Australian Cohort Study: does physical activity or
+sitting time alter the risk associated with body mass index?
+J Phy Act Health. 2017;14(1):13-9. doi: 10.1123/jpah.20160184.
+36. Guiney H, Machado L. Benefits of regular aerobic
+exercise for executive functioning in healthy populations.
+Psychon Bull Rev. 2013;20(1):73-86. doi: 10.3758/s13423012-0345-4.
+37. Loprinzi PD, Cardinal BJ, Loprinzi KL, Lee H. Benefits
+and environmental determinants of physical activity in
+children and adolescents. Obes Facts. 2012;5(4):597-610. doi:
+10.1159/000342684.
+38. Stevenson JD, Roach R. The benefits and barriers to
+physical activity and lifestyle interventions for osteoarthritis
+affecting the adult knee. J Orthop Surg Res. 2012;7:15. doi:
+10.1186/1749-799X-7-15.
+39. Mota J. Atividade física, sedentarismo e promoção da
+saúde. Rev Bras Atividade Física Saúde. 2012;17(3):163-4.
+40. Mazo GZ, Sacomori C, Krug RR, Cardoso FL,
+Benedetti TRB. Aptidão física, exercícios físicos e doenças
+osteoarticulares em idosos. Rev Bras Atividade Fisica
+Saúde. 2012;17(4):300-6. DOI: https://doi.org/10.12820/
+rbafs.v.17n4p300-306.
+41. Van Nimwegen M, Speelman AD, Hofman-Van Rossum
+EJ, Overeem S, Deeg DJ, Borm GF, et al. Physical inactivity
+in Parkinson’s disease. J Neurol. 2011;258(12):2214-21. doi:
+10.1007/s00415-011-6097-7.
+42. Lamotte G, Rafferty MR, Prodoehl J, Kohrt WM,
+Comella CL, Simuni T, et al. Effects of endurance exercise
+training on the motor and non-motor features of Parkinson’s
+disease: a review. J Parkinson’s Dis. 2015;5(1):21-41. doi:
+10.3233/JPD-140425.
+Débora da Luz Scheffer é educadora física, mestre e
+doutora em Educação Física pela Universidade Federal de
+Santa Catarina (UFSC) com período sanduíche na Universidad
+Nacional de Córdoba (Córdoba, Argentina) e Universidade de
+Harvard (Boston, Estados Unidos), pós-doutora em Bioquímica
+pela Universidade Federal de Santa Catarina (UFSC). E-mail:
+dschefferlabox@gmail.com
+Aderbal Silva Aguiar Junior é fisioterapeuta, professor
+doutor do Departamento de Ciências da Saúde da Universidade
+Federal de Santa Catarina (UFSC), doutor em Farmacologia
+pela Universidade Federal de Santa Catarina (UFSC) com
+período sanduíche no INSERM/UPMC (Paris), pós-doutor
+em Bioquímica pela Universidade Federal de Santa Catarina
+(UFSC) e Neurosciências pela Universidade de Coimbra
+(Coimbra, Portugal). E-mail: aderbalaguiar@gmail.com
+Alexandra Latini é Farmacêutica e Bioquímica, doutora pela
+Universidad Nacional de Córdoba (Córdoba, Argentina) e
+revalidado no Brasil em Bioquímica pela Universidade Federal
+do Rio Grande do Sul (UFRGS), pós-doutora em Neurobiologia
+pela Universidade de Harvard (Boston, Estados Unidos).
+Professor Associado I do Departamento de Bioquímica da
+Universidade Federal de Santa Catarina (UFSC). E-mail:
+alatini@ccb.ufsc.br
+17
