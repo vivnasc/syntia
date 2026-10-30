@@ -1,0 +1,1100 @@
+Revisão da Literatura
+
+Neurobiologia das emoções
+Neurobiology of the emotions
+Vanderson Esperidião-Antonio1, Marilia Majeski-Colombo2, Diana Toledo-Monteverde2, Glaciele Moraes-Martins2,
+Juliana José Fernandes2, Marjorie Bauchiglioni de Assis2, Rodrigo Siqueira-Batista3
+1
+2
+
+Mestre em Ciências Morfológicas, Universidade Federal do Rio de Janeiro (Ufrj).
+
+Aluna do Curso de Graduação em Medicina, Centro Universitário Serra dos Órgãos (Unifeso).
+3
+
+Dourtor em Ciências, Fundação Oswaldo Cruz (Fiocruz).
+
+Trabalho realizado como parte das atividades do Grupo de Pesquisas em Ciências da Saúde (Cefet Química/RJ e Unifeso), estando vinculado à linha de
+pesquisa Neurociências: diálogos com as ciências humanas, da natureza e da saúde.
+Recebido: 10/07/2007 – Aceito: 05/10/2007
+
+Resumo
+Contexto: A “natureza” das emoções é um dos temas arcaicos do pensamento ocidental, sendo tematizada em diferentes manifestações da cultura como a arte, a religião, a filosofia e a ciência, desde tempos imemoriais. Nos últimos
+anos, o avanço das neurociências possibilitou a construção de hipóteses para a explicação das emoções, especialmente a partir dos estudos envolvendo o sistema límbico. Objetivos: Apresentar uma discussão atualizada acerca
+da neurobiologia dos processos relativos às emoções, demarcando suas conexões com o controle neurovegetativo.
+Métodos: Revisão da literatura e reflexão crítica dos textos obtidos. Resultados: Apresentação das principais estruturas neurais relativas às emoções, suas vias e circuitos de maior relevância, os neurotransmissores implicados,
+seguindo-se uma discussão sobre as principais emoções. Conclusões: Espera-se que o presente manuscrito possa
+contribuir à difusão de idéias sobre o sistema das emoções, as quais poderão motivar futuros estudos capazes de
+elucidar pontos ainda em aberto.
+Esperidião-Antonio, V. et al. / Rev. Psiq. Clín 35 (2); 55-65, 2008
+Palavras-chaves: Sistema límbico, emoções, neurociências, neurobiologia.
+
+Abstract
+Background: The “nature” of emotions is one of the archaic subjects of the western thought, being the theme choice
+in diverse manifestations of culture – as in art, religion, philosophy and science – from time immemorial. In recent
+years the advances in Neurosciences have made it possible to build hypotheses to explain emotions, a possibility
+derived particularly from the studies involving the limbic system. Objectives: To present an updated discussion
+about the neurobiology of the processes relating to emotions and their connections with neurovegetative control.
+Methods: Review of the literature on the subject. Results: An updated account of the main neural structures related
+with emotions, the pathways and circuits of greater relevance as well as the regarding neurotransmitters. The neurobiological aspects of emotions are also discussed. Discussion: It is expected that the present paper can contribute
+to the dissemination of ideas about the limbic system, hopefully motivating future studies able to elucidate points
+still to be approached.
+Esperidião-Antonio, V. et al. / Rev. Psiq. Clín 35 (2); 55-65, 2008
+Key-words: Limbic system, emotions, neurosciences, neurobiology.
+
+Endereço para correspondência: Rodrigo Siqueira Batista. Centro Universitário Serra dos Órgãos (Unifeso). Curso de Graduação em Medicina. Avenida Alberto Torres, 111 – 25964-000 – Alto,
+Teresópolis, RJ. E-mail: rsiqueirabatista@terra.com.br
+
+56
+
+Esperidião-Antonio, V. et al. / Rev. Psiq. Clín 35 (2); 55-65, 2008
+
+Introdução
+A tematização das emoções como questão relativa ao
+conhecimento é uma perspectiva bastante arcaica na
+cultura ocidental. Voltando os olhos ao mundo grego antigo, é possível encontrar no conceito de παθos (pathós) a
+idéia de paixão, entendida no âmbito da filosofia helênica
+como raiz dos males e da infelicidade do homem1, devendo, pois, ser moderada e, quiçá, dominada. Inscreve-se
+neste horizonte, por exemplo, a concepção platônica de
+alma tripartida, sendo mortais as duas porções correspondentes às emoções – concupiscente e irascível – e
+imortal (divina) a alma racional2,3.
+Assim, pois, a complexa relação emoção–razão
+tornou-se mote recorrente no pensamento de diferentes filósofos, os quais formularam concepções, as mais
+variadas, para explicar as origens e o papel das emoções
+na condição humana. Este foi, precisamente, o caso do
+pensador francês René Descartes, que, em suas Meditações Metafísicas, chega à concepção de uma substância
+pensante (res cogitans) completamente separada da
+“substância do mundo” (res extensa), facultando, assim,
+uma genuína cisão entre corpo e mente4. Para Descartes, a res cogitans pertence à razão e ao pensamento,
+enquanto ao corpo (res extensa) pertencem as emoções,
+caracterizáveis como confusas e não críveis em relação
+aos conteúdos de verdade4. Ao contrário, o filósofo Baruch de Spinoza concebia que a “substância pensante e a
+substância extensa são uma mesma substância, ora compreendida como um atributo, ora como outro” (Spinoza,
+1997: Livro II, Proposição VII)5. Nesses termos, razão
+e emoção – e, de resto, a própria constituição orgânica
+– pertenceriam a uma mesma natureza5.
+De um problema genuinamente filosófico, as relações entre corpo e mente e entre razão e emoção
+passaram a ser também investigadas no âmbito teórico
+de outros saberes, como a psicologia, a psicanálise e a
+biologia, a partir da segunda metade do século XIX e
+princípios do século XX. O que marca esse período é o
+interesse científico voltado para os processos cognitivos,
+os quais incluem as atividades mentais relacionadas à
+aquisição de conhecimento e conectadas ao raciocínio e
+à memória. Esse anseio elucidativo explica-se pela maior
+comensurabilidade da cognição, levando ao desenvolvimento da chamada “revolução cognitiva”. A partir de
+então, realizaram-se inúmeras investigações, as quais
+culminaram na proposição dos mecanismos envolvidos
+na percepção, atenção e memória. Ademais, os poucos
+autores que se voltavam às emoções, concebiam-nas de
+modo “segmentado”, tratando os “circuitos emocionais”
+como eventos à parte e independentes das demais atividades neurais.
+Mais recentemente – a partir do desenvolvimento
+de novas técnicas especializadas de pesquisa em neurofisiologia e em neuroimagem –, vem-se ampliando o
+interesse pelo estudo das bases neurais dos processos
+envolvidos nas emoções, a partir da caracterização e
+
+das investigações sobre o sistema límbico (SL). Sabese, com base em diferentes resultados, que há uma
+profunda integração entre os processos emocionais,
+os cognitivos e os homeostáticos, de modo que sua
+identificação será de grande valia para a melhor compreensão das respostas fisiológicas do organismo ante
+as mais variadas situações enfrentadas pelo indivíduo.
+Assim, reconhece-se que as áreas cerebrais envolvidas
+no controle motivacional, na cognição e na memória
+fazem conexões com diversos circuitos nervosos, os
+quais, através de seus neurotransmissores, promovem
+respostas fisiológicas que relacionam o organismo ao
+meio (sistema nervoso somático) e também à inervação
+de estruturas viscerais (sistema nervoso visceral ou da
+vida vegetativa), importantes à manutenção da constância do meio interno (homeostasia)6.
+Apesar desses avanços, muito se tem discutido sobre
+a possibilidade de se tratar, cientificamente, as questões
+relativas à emoção. Com o desenvolvimento das neurociências, postula-se que, como a percepção e a ação, a
+emoção é relacionada a circuitos cerebrais distintos.
+Ademais, as emoções estão geralmente acompanhadas
+por respostas autonômicas, endócrinas e motoras esqueléticas – que dependem de áreas subcorticais do sistema
+nervoso –, as quais preparam o corpo para a ação7-9. Com
+efeito, acredita-se que a ciência será capaz de explicar
+os aspectos biológicos relacionados à emoção, mas não
+o que é a emoção: esta permanece como uma questão
+prevalentemente filosófica.
+Com base nessas premissas, o objetivo do presente
+trabalho é discutir os aspectos atuais da neurobiologia
+das emoções – partindo do conceito de SL –, pontuando,
+ainda, a importante relação entre os processos emocionais e o sistema nervoso autônomo, destacando sua
+interferência no controle neurovegetativo.
+
+Métodos
+Os procedimentos utilizados no presente trabalho foram:
+1. Pesquisa bibliográfica sobre o tema nas principais
+bases de dados – Biblioteca Virtual em Saúde (BVS);
+Scientific Electronic Library Online (SciELO), U. S.
+National Library of Medicine (PubMed) e The
+Cochrane Library; ato contínuo,
+2. Reflexão crítica sobre o material obtido e
+3. Elaboração de sínteses a respeito do tema.
+
+Resultados e discussão
+Antecedentes históricos: do sistema límbico
+ao sistema das emoções
+A partir do Renascimento – período marcado, entre outros
+aspectos, por um substantivo progresso da anatomia humana – desenvolveram-se os estudos morfológicos, tipificados
+por uma fecunda composição entre ciência e arte10, os
+quais permitiram a descrição de diferentes estruturas or-
+
+Esperidião-Antonio, V. et al. / Rev. Psiq. Clín 35 (2); 55-65, 2008
+
+gânicas, entre as quais o cérebro e os demais constituintes
+do sistema nervoso central (SNC) e periférico (SNP). Tal
+contexto foi um dos responsáveis pelo ulterior interesse
+em compreender a representação dos processos cognitivos
+e das emoções no cérebro, temática que ganhou especial
+impulso a partir dos séculos XVIII e XIX11,12, especialmente
+após os trabalhos de Gall, Broca e Papez.
+Franz Joseph Gall descreveu a morfologia do cérebro
+e das principais estruturas nervosas, o que facultou
+um significativo avanço na diferenciação de porções
+importantes do cérebro, caracterizando algumas de suas
+funções específicas, passando a ser conhecido como “o
+autor da verdadeira anatomia do cérebro”. O primeiro
+“mapeamento” das funções cerebrais foi proposto por
+Pierre Paul Broca, realizado a partir da observação
+de pacientes com danos cerebrais. Broca identificou o
+lobo límbico (limbo = margem), o qual compreende um
+anel composto por um contínuo de estruturas corticais
+situadas na face medial e inferior do cérebro13.
+Um grande impulso para o estabelecimento de hipóteses sobre as bases neurais das emoções deu-se a
+partir da descrição do caso Phineas Gage, um operário
+que sobreviveu à ocorrência de grave dano cerebral,
+conseqüente a um sério acidente de trabalho14. Após
+uma explosão acidental, Gage teve sua cabeça atravessada por uma barra de ferro, a qual penetrou através da
+região maxilar esquerda, atingindo profundamente seu
+lobo frontal ipsilateral. Gage não perdeu a consciência,
+apesar de seu lobo frontal estar lesado. Após algumas
+semanas, o operário desejou retornar ao trabalho, mas
+não obteve permissão do seu chefe, em razão de sua
+grande mudança comportamental. Antes do acidente,
+Gage era um trabalhador capaz e eficiente, com uma
+mente bem equilibrada, sendo visto como um homem
+astuto, inteligente e talentoso. Após o evento mórbido,
+tornou-se indeciso, demonstrando indiferença, falsidade,
+deslealdade e desleixo. Mostrava-se ainda impaciente e
+inábil para estabelecer qualquer plano para o futuro13.
+O interesse pela compreensão dos processos mentais
+e cerebrais também pode ser identificado nas investigações pioneiras desenvolvidas, no século passado – pelo
+fisiologista e psicólogo vienense Sigmund Exer, pelo
+psicanalista Sigmund Freud e pelo médico francês
+Israel Waynbaum –, nas quais começou a se desenhar
+um conhecimento sobre redes neuronais e possíveis
+estruturas que comporiam os circuitos emocionais15.
+Nesse movimento, temporalmente situado na
+transição do século XIX para o XX, foram propostas
+as primeiras teorias neuropsicológicas das emoções,
+cabendo destaque às concepções de William James e
+Carl Lange – para os quais a experiência emocional
+subjetiva seria conseqüente às manifestações fisiológicas e comportamentais (ou seja, se fica alegre porque
+se sorri...) – bem como às idéias de Walter Cannon e
+de Phillip Bard – que formularam que o SNC causava
+tanto a experiência subjetiva quanto as manifestações
+fisiológicas e comportamentais16.
+
+57
+
+Substantivo avanço para a compreensão dos fenômenos neurobiológicos relacionados à emoção foi
+alcançado por Joseph Papez, anatomista estadunidense
+que deslocou o olhar de uma perspectiva de centros emocionais, substituindo-a por uma concepção de sistema.
+De fato, inicialmente se acreditava que o lobo límbico
+descrito por Broca estaria relacionado ao olfato, mas
+Papez demonstrou que suas diferentes porções estavam
+unidas e coordenadas entre si, formando um circuito,
+o qual incluía o córtex cingulado, o hipocampo, o hipotálamo e os núcleos anteriores do tálamo17.
+Evidências experimentais ulteriores permitiram a
+revisão das estruturas pertencentes ao circuito proposto
+por Papez, surgindo, assim, o conceito de sistema límbico
+(SL) – retomando o termo criado por Broca ao descrever
+o lobo límbico –, o qual envolveria as estruturas relacionadas às emoções18,19. O SL passou a ser caracterizado como
+o circuito neuronal relacionado às respostas emocionais
+e aos impulsos motivacionais, já tendo sido incluídas em
+seu bojo estruturas como hipotálamo, amígdala, núcleos
+da base, área pré-frontal, cerebelo e septo (o hipocampo,
+inicialmente inserido, não parece ter participação decisiva
+nos mecanismos neurais das emoções, tendo papel, outrossim, na consolidação da memória, incluída aquela de
+conteúdo emocional, daí estar relacionado – ainda que não
+seja pertencente – ao SL)17,20. De modo similar, o grupo de
+núcleos anteriores do tálamo não está confirmado como
+elemento substantivo na neurobiologia das emoções. Com
+efeito, ainda não existe um perfeito acordo sobre os componentes do SL. Embora a denominação “sistema límbico”
+ainda seja usada para designar componentes envolvidos
+nos circuitos cerebrais das emoções, tal categorização
+vem sofrendo críticas em diversos graus. Como exemplo,
+cita-se a inclusão de várias estruturas anatômicas no seu
+bojo, sem que haja clara concordância entre os autores; de
+fato, a maioria dos investigadores inclui, no SL, o giro do
+cíngulo, o giro para-hipocampal, a amígdala, o hipotálamo
+e a área de septo. Outras estruturas como cerebelo, tálamo, área pré-frontal e hipocampo nem sempre são tidas
+como pertencentes ao SL, ainda que esses elementos
+possuam relações diretas com os processos emocionais
+e as respostas autonômicas18,21-23. Tal fato indica que não
+há critérios amplamente aceitos para se decidir sobre
+a constituição do SL24. Ademais, a própria idéia de um
+único sistema das emoções vem sendo colocada em xeque
+na medida em que têm sido identificados diferentes
+circuitos e áreas do SNC que se correlacionam aos díspares estados denominados emoções. Desse modo, no
+presente manuscrito, incluir-se-ão nas discussões sobre
+o SL as estruturas consensualmente reconhecidas pelos
+diferentes autores, bem como aquelas que se relacionam
+diretamente às emoções.
+Assim, em substituição – ou ampliação – à idéia do SL,
+deve-se propor a concepção dos sistemas das emoções, os
+quais albergam os díspares circuitos e as redes neuronais
+correlacionáveis aos estados tipificados como emoção.
+
+58
+
+Esperidião-Antonio, V. et al. / Rev. Psiq. Clín 35 (2); 55-65, 2008
+
+Estruturas relacionadas às emoções
+Os “sistemas das emoções” – ao menos como vêm sendo
+entendidos recentemente – parecem estar organizados
+em rede; nestas não existem componentes morfofuncionalmente regulatórios mais pronunciados, ou seja, todos
+os elementos exercem papéis regulatórios semelhantes
+entre si25. Pode-se, então, compreender que tais sistemas
+dependem da integração de seus componentes de uma
+forma complexa, não-hierárquica, a qual necessita ainda
+ser mais bem explicada18,26.
+A figura 1 e o quadro 1 apresentam os componentes do
+SL, conforme proposto por Papez. O quadro 2 expõe estruturas adicionais que integram os sistemas das emoções.
+Giro de cíngulo
+Tálamo
+
+Área septal
+(septo)
+Hipotálamo
+Corpo mamilar
+Amígdala
+
+Giro para-hipocampal
+
+Figura 1. Estruturas do sistema límbico. Imagem neuroanatômica preparada
+pelos autores.
+
+Embora não se tenha uma definição precisa dos
+circuitos neuronais envolvidos no complexo “sistema
+das emoções”, podem ser descritas, de modo didático,
+algumas vias neuronais, sem perder de vista que elas
+estão, em última análise, integradas funcionalmente.
+Essas vias serão discutidas, a seguir, no âmbito das
+diferentes emoções.
+
+As bases neurais das emoções
+Prazer e recompensa
+As emoções mais “primitivas” e bem estudadas pelos
+neurofisiologistas – com a finalidade de estabelecer suas
+relações com o funcionamento cerebral – são a sensação
+de recompensa (prazer, satisfação) e de punição (desgosto, aversão), tendo sido caracterizado, para cada uma
+delas, um circuito encefálico específico.
+O “centro de recompensa” está relacionado, principalmente, ao feixe prosencefálico medial – nos núcleos lateral e ventromedial do hipotálamo –, havendo
+conexões com o septo, a amígdala, algumas áreas
+do tálamo e os gânglios da base13,21. Já o “centro de
+punição” é descrito com localização na área cinzenta
+central que rodeia o aqueduto cerebral de Sylvius, no
+mesencéfalo, estendendo-se às zonas periventriculares
+do hipotálamo e tálamo, estando relacionado à amígdala e ao hipocampo21 e, também, às porções mediais
+do hipotálamo e às porções laterais da área tegmental
+do mesencéfalo27.
+
+Quadro 1. Estruturas que compõem o circuito de Papez
+Estruturas
+Giro do cíngulo
+
+Comentários
+Está intimamente relacionado à depressão, à ansiedade e à agressividade, observando-se, em humanos, lentidão
+mental em casos de lesão dessa estrutura. Auxilia na determinação dos conteúdos da memória, observando-se
+significativo aumento de sua atividade quando as pessoas recorrem à mentira22
+
+Giro
+Apresenta-se intimamente relacionado ao armazenamento da memória; de fato, processos lesivos aí localizados
+para-hipocampal produzem amnésia retrógrada isolada, com preservação da capacidade de armazenar novas memórias explícitas12
+Hipotálamo
+
+Segundo Papez, essa estrutura constituiria o segmento central do SL, relacionando-se às diversas áreas límbicas
+e encefálicas. Tanto a estimulação quanto a inibição hipotalâmicas têm, freqüentemente, efeitos profundos sobre o
+comportamento e as emoções de animais, incluindo o Homo sapiens sapiens. A estimulação do hipotálamo lateral
+induz a sede, fome e aumenta o nível geral de atividade do animal, algumas vezes levando-o à fúria e/ou à luta. Já
+a estimulação do núcleo ventromedial provoca situação contrária, ou seja, sensação de saciedade, redução da
+ingestão alimentar e tranqüilidade21. A estimulação dos núcleos periventriculares costuma acarretar medo e reações
+de punição. O impulso sexual pode ser estimulado principalmente nas porções mais anteriores e posteriores do
+hipotálamo. As lesões hipotalâmicas geralmente causam efeitos opostos aos causados pelos estímulos21
+
+Tálamo
+
+As funções mais conhecidas relacionam-se com sensibilidade, motricidade, comportamento emocional e ativação do
+córtex cerebral18
+
+Hipocampo
+
+O hipocampo exerce importantes funções relacionadas ao comportamento e à memória22. Pessoas submetidas
+à remoção bilateral dos hipocampos conseguem acessar a memória aprendida, mas não conseguem aprender
+qualquer informação nova. Essa área também está integrada à tomada de decisões, pois quando o hipocampo
+interpreta um sinal neuronal como importante, provavelmente essa informação será armazenada na memória21.
+Recentemente demonstrou-se a relação do hipocampo com o sistema imunológico, identificando que sua
+integridade é fundamental para a normalidade da resposta imune, bem como a interação da memória com os
+níveis de interleucina 1 alfa (IL-1) e de IL-2 O hipocampo não é, atualmente, considerada parte crucial dos sistemas
+neurobiológicos das emoções
+
+Esperidião-Antonio, V. et al. / Rev. Psiq. Clín 35 (2); 55-65, 2008
+
+59
+
+Quadro 2. Estruturas relacionadas às emoções não pertencentes, originariamente, ao circuito de Papez
+Estruturas
+
+Funções
+
+Amígdala
+
+É ativada em situações com marcante significado emocional, como encontros agressivos ou de natureza sexual; está
+também relacionada aos aprendizados emocionais e ao armazenamento de memórias afetivas. Ademais, a amígdala é
+responsável pela formação da associação entre estímulos e recompensas
+
+Septo
+
+O septo relaciona-se à raiva, ao prazer e ao controle neurovegetativo. Demonstrou-se, em animais, que o comprometimento
+bilateral da área septal provoca “raiva septal”, caracterizada por hiperatividade emocional, ferocidade e ira diante de situações
+que geralmente não alteram o comportamento animal. Pode-se observar alteração na pressão arterial e do ritmo respiratório
+quando a área septal é estimulada10. Experiências de auto-estimulação realizadas em ratos permitiram a localização de “áreas de
+prazer” no cérebro; dentre as áreas estimuladas com mais freqüência destacam-se a área septal e as regiões percorridas pelo
+feixe prosencefálico medial. Essa hipótese foi, em parte, confirmada em experiências com pacientes humanos12
+
+Área
+A área pré-frontal vem sendo considerada a “sede” da personalidade12. Ainda há muitas especulações em torno dessa
+pré-frontal região, mas, por meio da interpretação de dados experimentais e clínicos, nota-se que essa estrutura participa na
+tomada de decisões e na adoção de estratégias comportamentais mais adequadas à situação física e social; ademais,
+parece estar relacionada à capacidade de seguir seqüências ordenadas de pensamentos e a modalidades de controle do
+comportamento emocional22,50
+Cerebelo Atualmente, tem-se reconhecido que este órgão tem funções mais amplas do que as puramente motoras, atuando em
+diversos processos cognitivos. O dano cerebelar está associado a disfunções em tarefas executivas, de aprendizagem,
+memória processual e declarativa, processamento de linguagem e funções visuais e espaciais, além de disfunções na
+personalidade, no afeto e na cognição. A hipótese que deriva do modelo anatômico é de que o rompimento do circuito
+neural que conecta o cerebelo com as áreas associativas e paralímbicas impede a modulação cerebelar das funções
+cognitivas relacionadas, provocando alterações nos subsistemas e produzindo déficits de conduta25. Foi proposto um
+esquema dos diferentes tipos de atividade não-motora, que poderiam modular-se por distintas regiões cerebelares.
+No caso da cognição e da emoção, descrevem-se as regiões cerebelares mais antigas, como o lóbulo flóculo-nodular,
+o verme, o núcleo fastigial e o núcleo globoso, os quais podem ser considerados equivalentes a um cerebelo límbico,
+sendo responsáveis pelos mecanismos primitivos de preservação, como manifestações de luta, emoção, sexualidade
+e, possivelmente, de memória emocional25. Os hemisférios laterais cerebelares e os núcleos denteados e emboliformes
+parecem ser responsáveis pela modulação do pensamento, planificação, formulação de estratégias, aprendizagem,
+memória e linguagem, características só identificadas nos mamíferos. Desse modo, o cerebelo vem sendo considerado um
+poderoso coordenador, capaz de contribuir tanto para as habilidades motoras, quanto sensoriais e cognitivas, graças às
+conexões que estabelece com regiões encefálicas responsáveis pela execução dessas funções21
+
+Para alguns pesquisadores a sensação de prazer
+pode ser distinguida pelas expressões faciais e atitudes
+do animal após sua exposição a um estímulo hedônico;
+tais expressões são mantidas mesmo em indivíduos
+anencefálicos, sugerindo que o “centro de recompensa”
+deva se estender até o tronco cerebral25. Acredita-se que
+emissões aferentes do núcleo acumbens em direção ao
+hipotálamo lateral e ventral, globo pálido e estruturas
+conectadas nessa mesma região cerebral estejam envolvidas nos circuitos cerebrais hedônicos25.
+Em investigações com animais de experimentação
+(ratos), demonstrou-se que estímulos na área septal,
+controlados pelo animal, acarretavam uma situação de
+deflagração recorrente do estímulo, indicando uma possível correlação com o desencadeamento de prazer12. Essa
+conclusão, entretanto, não é tão simples: por exemplo,
+na década de 1960, Robert Heath aplicou 17 eletrodos no
+encéfalo de um paciente com o intuito de descobrir a localização de uma epilepsia grave. O que o pesquisador pôde
+observar foi que a estimulação de áreas específicas, de
+acordo com a implantação dos eletrodos, gerava diferentes
+tipos de sensações. O paciente em questão estimulava com
+maior freqüência um sítio do tálamo medial que, embora
+provocasse uma sensação de irritação, lhe causava a
+sensação iminente de evocar uma memória, fazendo com
+que ele repetisse o procedimento na tentativa de trazer a
+
+memória à mente, ou seja, com o objetivo de obter uma
+recompensa com a estimulação repetida27. Estudos posteriores realizados em símios demonstraram a participação
+do feixe prosencefálico medial nos estímulos apetitivos,
+sendo possível caracterizar, inclusive, uma certa expectativa de prazer. Esse feixe e as regiões por ele integradas
+(área tegmentar ventral, hipotálamo, núcleo acumbens,
+córtex cingulado anterior e córtex pré-frontal) compõem
+o circuito denominado sistema mesolímbico.
+A dopamina parece ser fundamental na mediação dos
+efeitos de recompensa. Neurônios dopaminérgicos projetam-se da área tegmentar ventral do mesencéfalo para
+muitas áreas do encéfalo através do feixe prosencefálico
+medial. Além disso, drogas que causam dependência
+química aumentam a eficácia da dopamina e provocam
+sua liberação no núcleo acumbens, demonstrando o papel
+desse neurotransmissor nos mecanismos de recompensa e/ou prazer27. Contudo, as investigações até então
+realizadas permanecem com resultados ambíguos, principalmente no âmbito dos estudos farmacológicos – os
+quais indicam que os agonistas da dopamina aumentam
+a taxa de auto-estimulação, enquanto os antagonistas
+diminuem essa mesma taxa – e dos estudos lesionais,
+que mostram que a secção do feixe prosencefálico medial, por exemplo, não provoca redução significativa da
+auto-estimulação, como seria de se esperar27.
+
+60
+
+Esperidião-Antonio, V. et al. / Rev. Psiq. Clín 35 (2); 55-65, 2008
+
+Alegria
+A indução de alegria – resposta à identificação de expressões faciais de felicidade, à visualização de imagens
+agradáveis e/ou à indução de recordações de felicidade,
+prazer sexual e estimulação competitiva bem-sucedida
+– provocou a ativação dos gânglios basais, incluindo o
+estriado ventral e o putâmen28. Além disso, vale relembrar que os gânglios basais recebem uma rica inervação
+de neurônios dopaminérgicos do sistema mesolímbico
+– intimamente relacionados à geração do prazer – e
+do sistema dopaminérgico do núcleo estriado ventral.
+A dopamina age de modo independente – utilizando
+receptores opióides e GABAérgicos no estriado ventral,
+na amígdala e no córtex orbitofrontal – algo relacionado
+a estados afetivos (como prazer sensorial), enquanto
+outros neuropeptídeos estão envolvidos na geração
+da sensação de satisfação por meio de mecanismos
+homeostáticos29.
+Descrições neuroanatômicas de lesões das vias
+cérebro-pontocerebelares em indivíduos com riso e
+choro patológicos sugerem que o cerebelo seja uma
+estrutura envolvida na associação entre a execução do
+riso e do choro e o contexto cognitivo e situacional em
+questão; de fato, quando tal estrutura está lesionada há
+transição incompleta das informações, provocando um
+comportamento inadequado ao seu contexto30.
+Os gânglios basais também estão relacionados ao
+desgosto, sensação comum nos enfermos com esquizofrenia e depressão. Em razão de suas funções motoras,
+os gânglios basais parecem também estar envolvidos
+na coordenação de respostas apropriadas ao estímulo
+original, tentando fazer com que o organismo alcance o
+seu objetivo (adoção de comportamento de aproximação
+ou de retraimento)28.
+
+Medo
+As relações entre a amígdala e o hipotálamo estão
+intimamente ligadas às sensações de medo e raiva.
+A amígdala é responsável pela detecção, geração e
+manutenção das emoções relacionadas ao medo, bem
+como pelo reconhecimento de expressões faciais de
+medo e coordenação de respostas apropriadas à amea­
+ça e ao perigo28,31,32. A lesão da amígdala em humanos
+produz redução da emocionalidade e da capacidade de
+reconhecer o medo. Por outro lado, a estimulação da
+amígdala pode levar a um estado de vigilância ou atenção
+aumentada, ansiedade e medo27,33,34.
+Desde as descrições iniciais do SL, realizadas por
+Papez, acreditava-se que o hipotálamo exercia papel
+crucial entre as estruturas subcorticais envolvidas no
+processamento das emoções. Atualmente se reconhece
+que projeções da amígdala para o córtex contribuem
+para o reconhecimento do vivenciamento do medo e
+outros aspectos cognitivos do processo emocional24.
+
+A amígdala é uma estrutura que exerce ligação
+essencial entre as áreas do córtex cerebral, recebendo
+informações de todos os sistemas sensoriais. Estas, por
+sua vez, projetam-se de forma específica aos núcleos
+amigdalianos, permitindo a integração da informação
+proveniente das diversas áreas cerebrais, através de conexões excitatórias e inibitórias a partir de vias corticais
+e subcorticais35. Os núcleos basolaterais são as principais
+portas de entrada da amígdala, recebendo informações
+sensoriais e auditivas; já a via amigdalofugal ventral e a
+estria terminal estabelecem conexão com o hipotálamo,
+permitindo o desencadeamento do medo27. A estria
+terminal está relacionada à liberação dos hormônios de
+estresse das glândulas hipófise e supra-renal durante o
+condicionamento24.
+Aferências sensoriais à amígdala são recebidas pelo
+núcleo lateral. As aferências auditivas provêm do tálamo auditivo e do córtex auditivo e chegam ao núcleo
+lateral da amígdala, estimulando-a nos processos de
+medo condicionado (conforme descrito adiante). Tal
+fato é confirmado por estudos de ressonância magnética funcional (fRMI) em humanos, nos quais, durante
+o condicionamento, se observou atividade da amígdala
+e atividade correlata no tálamo24. Além do córtex e do
+tálamo auditivos, áreas ventrais do hipotálamo projetamse para os núcleos basolateral e basomedial da amígdala,
+havendo, em casos de lesão dessas áreas, interferência
+na geração do condicionamento. O núcleo central da
+amígdala é responsável pela interface com o sistema
+motor, conseqüentemente lesões desse núcleo revelaram alterações na expressão das respostas ao medo
+condicionado24.
+O papel da amígdala no desencadeamento do medo
+pôde ser mais bem estudado durante as décadas de
+1970 e 1980, quando foi descrita a técnica de condicionamento pavloviano do medo. Essa técnica consistia em
+oferecer um estímulo emocionalmente neutro, como a
+emissão de um tom sonoro (estímulo condicionado),
+e associá-lo a um estímulo aversivo, como um choque
+elétrico (estímulo incondicionado). Depois da aplicação
+repetida desses estímulos associados, notou-se que o
+estímulo condicionado foi capaz de provocar respostas
+observadas, tipicamente, na presença de perigo, como
+comportamento de defesa (respostas de fuga ou luta),
+ativação do sistema ner voso autônomo (alterações
+no fluxo sangüíneo e freqüência cardíaca), respostas
+neuroendócrinas (liberação de hormônios hipofisários
+e supra-renais), entre outros24. Situações como exposição a sons fortes e súbitos, altura elevada e estímulos
+visuais grandes não identificados – que surgem na
+parte superior do campo visual de modo repentino –,
+produzem o chamado medo incondicionado, presente em
+vários animais. Na espécie humana, o medo incondicionado pode ser produzido, por exemplo, pela escuridão.
+O medo condicionado, ou aprendido, é causado pela
+maioria dos estímulos, que se tornam “avisos” de que
+situações ameaçadoras podem acontecer novamente12.
+
+Esperidião-Antonio, V. et al. / Rev. Psiq. Clín 35 (2); 55-65, 2008
+
+Após essa descoberta, foi possível a associação desses
+comportamentos à amígdala, uma vez que lesões nessa
+estrutura interferiam na aquisição e na expressão do
+medo condicionado24.
+A investigação da amígdala por meio de exames de
+imagem, como tomografia por emissão de pósitrons
+(PET) e fRMI, permitiu concluir que tal estrutura é
+ativada mesmo quando o indivíduo analisado não está
+submetido diretamente a uma situação que lhe provoque
+medo. Além disso, observou-se que a amígdala não é
+ativada apenas em processos que envolvem a sensação
+de medo, mas também durante situações mais positivas, como, por exemplo, durante o reconhecimento de
+expressões faciais de alegria, levando à conclusão de
+que a amígdala está envolvida na resposta a estímulos
+de importância emocional, independentemente de seu
+contexto agradável ou desagradável28.
+Para o aprendizado do condicionamento do medo,
+as vias que transmitem a informação do estímulo convergem no núcleo lateral da amígdala, de onde parte a
+informação para o núcleo central. Este, por sua vez, estabelece conexão com o hipotálamo e substância cinzenta
+periaquedutal no tronco cefálico, evocando, por fim,
+respostas motoras somáticas25,27. A participação, nesse
+processo, dos núcleos basolaterais da amígdala pôde
+ser confirmada a partir da observação, em estudos de
+investigação dos receptores NMDA no cérebro – receptores associados à aquisição, reconsolidação e extinção
+de memórias. Verificou-se que os núcleos amigdalianos
+eram o local primário de ação das drogas que agem
+sobre os receptores NMDA, ou seja, potencializando
+(drogas agonistas) ou extinguindo (drogas antagonistas) a memória associada ao medo condicionado33.
+Além do importante papel da amígdala na geração do
+medo, esse processo também parece ser dependente dos
+sistemas serotoninérgico, noradrenérgico e GABAérgico
+centrais, na medida em que se reconhece que o mecanismo de ação dos fármacos antidepressivos e ansiolíticos
+depende de interferências na condução habitual dessas
+vias, ao alterar a concentração de seus receptores36.
+Deve-se também mencionar o papel do lobo temporal
+na neurobiologia do medo. Lesões nessa localização produzem alterações no comportamento social e emocional
+dos animais, tais como aquisição de postura dócil por animais selvagens e ferozes, perda do medo, curiosidade extrema, esquecimento rápido, tendência a colocar tudo na
+boca e impulso sexual extremamente intenso (síndrome
+de Klüver-Bucy). Embora distúrbios semelhantes sejam
+raros em seres humanos, as pessoas afetadas reagem
+de forma similar aos símios – quadro caracterizado por
+apatia, letargia e insensibilidade emocional21.
+
+Raiva
+Uma das primeiras estruturas associadas à raiva foi o
+hipotálamo, em decorrência de estudos realizados na
+década de 1920, nos quais se descreveram manifes-
+
+61
+
+tações de raiva em situações não condizentes, após a
+remoção total do telencéfalo. Entretanto, esse mesmo
+comportamento não era observado quando a lesão se
+estendia até a metade posterior do hipotálamo, levando à conclusão de que o hipotálamo posterior estaria
+envolvido com a expressão de raiva e agressividade,
+enquanto o telencéfalo mediaria efeitos inibitórios sobre
+esse comportamento27.
+A raiva é manifestada basicamente por comportamentos agressivos, os quais dependem do envolvimento
+de diversas estruturas e sistemas orgânicos para serem
+expressos. Além disso, esse comportamento também
+admite variações de acordo com o estímulo que o evoca.
+Sendo assim, podem-se descrever dois comportamentos
+classicamente estudados em animais: a agressão predatória, que tem por objetivo a obtenção de alimento, e a
+agressão afetiva, cujo propósito é a exibição para animais
+ou fêmeas ao redor. Durante a década de 1960, John
+Flynn identificou que esses comportamentos agressivos
+eram provocados pela estimulação de áreas específicas
+do hipotálamo, localizadas no hipotálamo lateral e medial, respectivamente37.
+O comportamento típico de agressão predatória pode
+ser verificado após estimulação do hipotálamo lateral, o
+qual possui eferências na área tegmentar ventral através
+do feixe prosencefálico medial. Em contrapartida, a secção desse feixe neuronal não elimina tal comportamento
+em sua totalidade, indicando a possibilidade de que o
+hipotálamo não seja a única estrutura associada à geração desse padrão comportamental. A agressão afetiva,
+por sua vez, é provocada por estimulação da substância
+cinzenta periaquedutal pelo hipotálamo lateral, por intermédio do fascículo longitudinal dorsal27.
+A raiva, assim como o medo, é uma emoção relacionada às funções da amígdala, em decorrência de conexões
+com o hipotálamo e outras estruturas. A estimulação
+elétrica dos núcleos basolaterais da amígdala ativa o
+hipotálamo e os núcleos do tronco encefálico, provavelmente através da via amigdalofugal ventral, produzindo
+comportamento típico de agressão afetiva. Por outro
+lado, a estimulação dos núcleos corticomediais provoca
+eferências inibitórias ao hipotálamo através da estria
+terminal, reduzindo a agressão predatória27.
+Sander et al. realizaram um estudo com o objetivo
+de identificar as áreas cerebrais envolvidas no processamento da raiva, utilizando a fRMI. O estímulo
+recebido pelos participantes eram vozes furiosas ou
+neutras, simultaneamente, devendo-se optar por qual
+delas escutar. Os resultados do estudo mostraram que
+a amígdala direita e os sulcos temporais superiores
+bilaterais responderam ao reconhecimento da raiva,
+independentemente de quando a voz que denotava raiva
+era escolhida ou não; entretanto, o córtex orbitofrontal
+e o cúneo (no córtex occipital medial) mostraram maior
+ativação quando a voz furiosa era escolhida do que quando era descartada, indicando possível associação dessas
+áreas no processamento neural do reconhecimento da
+
+62
+
+Esperidião-Antonio, V. et al. / Rev. Psiq. Clín 35 (2); 55-65, 2008
+
+raiva38. Além desse estudo, há outras descrições da
+associação de lesões do córtex orbitofrontal a comportamentos inapropriados, como impulsividade, raiva, pouca
+expressão de felicidade e características de distúrbio de
+personalidade duplax39.
+Recente investigação realizada por Suslow et al.
+demonstrou, também utilizando exames de imagem
+(fRMI), a ativação bilateral da amígdala durante a
+visualização de faces amedrontadas, ao passo que a observação de figuras que mostravam expressões faciais
+enfurecidas provocaram estimulação unicamente da
+amígdala direita. Tal fato, além de concordar com estudo
+anteriormente descrito38, torna possível reforçar que a
+amígdala esteja associada à percepção de expressões
+faciais de ameaça e que suas conexões com as demais
+estruturas corticais e subcorticais permita estabelecer
+uma resposta a essa ameaça40-42.
+Além dos componentes estruturais, há estudos
+envolvendo a participação de neurotransmissores na
+modulação da raiva e agressão. A serotonina é um
+dos neurotransmissores implicados nessa regulação,
+o que pode ser facilmente sugerido, uma vez que se
+conhece a localização de neurônios serotoninérgicos
+na rafe do tronco encefálico, no feixe prosencefálico
+medial, no hipotálamo e em outras estruturas límbicas
+associadas36. Essa associação pode ser reforçada por
+estudos realizados com camundongos nocaute para os
+receptores 5-HT1B. Esses receptores específicos estão
+localizados nos núcleos da rafe, amígdala, substância
+cinzenta periaquedutal e gânglios da base27.
+A raiva parece ser modulada principalmente pelo
+núcleo acumbens e por intermédio dos sistemas dopaminérgico e glutamatérgico, uma vez que antidepressivos
+dopaminérgicos e psicoestimulantes são potencializadores da raiva e os antipsicóticos e estabilizadores do humor
+podem exercer efeitos depressores sobre a raiva36.
+
+Reações de luta-fuga
+A conexão direta entre o hipotálamo e o sistema nervoso
+autônomo (SNA) se dá, possivelmente, mediante projeções hipotalâmicas para regiões do tronco encefálico,
+destacando-se o núcleo do trato solitário. Além dessas
+vias eferentes, o nervo vago (NC X), um dos principais
+elementos do SNA (porção parassimpática), representa
+ainda um importante componente aferente, ativando
+áreas cerebrais superiores: suas projeções aferentes
+ascendem ao prosencéfalo através do núcleo parabraquial e locus ceruleus, conectando-se diretamente com
+todos os níveis do prosencéfalo (hipotálamo, amígdala
+e regiões talâmicas que controlam a ínsula e o córtex
+orbitofrontal e pré-frontal)43,44.
+Dessa forma, o nervo vago destaca-se na participação
+da resposta integrada (cognição-emoção), porque, além
+de estimular áreas encefálicas, produz reações orgânicas
+fisiológicas diretas (as aferências vagais determinarão
+respostas específicas, inibitórias ou excitatórias em
+
+vários tecidos e sistemas corporais) e também indiretas, por meio da estimulação paralela de outros nervos
+que se originem próximo ao centro vagal no sistema
+nervoso central.
+O SNA está diretamente envolvido nas denominadas “situações de luta e/ou fuga” e imobilização45.
+Tais ocorrências estão intrinsecamente relacionadas
+a um mecanismo de neurocepção, que se caracteriza
+pela capacidade de o indivíduo de agir conforme sua
+percepção de segurança ou ameaça a respeito do meio
+onde ele se encontra. Essa percepção pode ser dada,
+por exemplo, pelo tom da voz ou pelos movimentos e
+expressões faciais da pessoa ou do animal com quem
+ele se comunica43,44.
+Toda vez que a pessoa percebe o meio ambiente
+como “seguro”, ela dispõe de mecanismos inibitórios
+que atuam sobre as estruturas límbicas que controlam
+comportamentos de luta-fuga, como as regiões lateral
+e dorsomedial da substância cinzenta periaquedutal.
+Tal mecanismo pode ser exemplificado pelas projeções
+neurais do giro fusiforme e sulco temporal superior em
+direção à amígdala (mais precisamente o núcleo central
+amigdaliano), inibindo-a. Dessa forma, a amígdala não
+exerce seu papel normal, ou seja, a estimulação dessas
+vias na substância cinzenta periaquedutal. Concomitantemente, após o processamento de todas as informações, o córtex motor (onde se destacam as áreas
+frontais) comanda a ativação de vias corticobulbares na
+medula (núcleos fonte dos pares cranianos NC V, VII,
+IX, X e XI), que ativam os componentes somatomotor
+(músculos da face e da cabeça) e visceromotor (coração,
+árvore brônquica) dos mecanismos fisiológicos para o
+contato social44.
+Ao contrário, toda vez que a pessoa percebe o
+meio ambiente como “ameaçador”, a amígdala estará
+livre para desencadear estímulos excitatórios sobre
+a região lateral e dorsolateral da substância cinzenta
+periaquedutal, que então estimula as vias do trato
+piramidal, produzindo respostas de luta e/ou fuga.
+Além disso, há casos em que a pessoa responde a tais
+situações como se estivesse paralisada; essa resposta
+decorre da estimulação da região ventrolateral ao
+aqueduto cerebral (Sylvius), que também estimula as
+vias neurais do trato corticoespinal lateral (piramidal).
+É interessante ressaltar que essas reações ocorrem
+paralelamente a uma resposta autonômica simpática,
+por ner vos originados dos gânglios paravertebrais,
+e parassimpática (nervos III, VII, IX e X), bem como
+sua porção sacral, representada pelos nervos sacrais
+de S2 a S4, permitindo, assim, a inervação de vasos
+sangüíneos e musculatura lisa de órgãos de diferentes sistemas em todo o organismo. Em situações de
+luta-fuga ocorre elevação da freqüência cardíaca e
+da pressão arterial; de outro modo, nas situações de
+imobilização ocorre intensa bradicardia e queda da
+pressão arterial.
+
+63
+
+Esperidião-Antonio, V. et al. / Rev. Psiq. Clín 35 (2); 55-65, 2008
+
+Tristeza
+A tristeza e a depressão podem ser vistas como “pólos”
+de um mesmo processo – a primeira considerada “fisiológica”, e a segunda, “patológica” – estando, por conta
+disso, relacionadas em termos neurofisiológicos. É
+cada vez mais freqüente a descrição da correlação entre
+disfunções emocionais e prejuízos das funções neurocognitivas. De fato, a depressão associa-se a déficits em
+áreas estratégicas do cérebro, incluindo regiões límbicas. Não obstante os fatores emocionais relacionados,
+há vários determinantes biológicos implicados no seu
+desenvolvimento; observam-se alterações ocorridas no
+sistema imunológico45.
+Estudos contemporâneos demonstraram que a
+realização de atividades que evocam esse sentimento
+relacionam-se à ativação de áreas centrais, como os giros
+occipitais inferior e medial, giro fusiforme, giro lingual,
+giros temporais póstero-medial e superior e amígdala
+dorsal, ressaltando-se, também, a participação do córtex pré-frontal dorsomedial46. Ademais, em indivíduos
+normais observou-se, por meio de exames de tomografia por emissão de pósitrons (PET), que a indução da
+tristeza relaciona-se: 1) à ativação de regiões límbicas –
+porção subgenual do giro do cíngulo e ínsula anterior –;
+2) desativação cortical – córtex pré-frontal direito e parietal inferior –; e 3) diminuição do metabolismo da glicose
+no córtex pré-frontal47. Do mesmo modo, no estudo realizado por Phan et al., identificou-se importante ativação
+do córtex cingulado subcaloso (especialmente na região
+cingulada anterior subgenual/ventral) após a indução de
+tristeza nos indivíduos estudados; já nos pacientes com
+depressão clínica notou-se hipometabolismo ou hipoperfusão no córtex cingulado subcaloso28.
+Com o objetivo de avaliar os sistemas neuroquímicos
+envolvidos nos processos emocionais, Zubieta et al. rea­
+lizaram um estudo, em humanos, observando que, por
+meio da estimulação e da manutenção de um estado de
+tristeza, desenvolve-se uma inativação da neurotransmissão no giro cingulado rostral anterior, no pálido ventral, na
+amígdala e no córtex temporal inferior48. Correlaciona-se
+aumento nas taxas de sentimentos negativos e redução
+nas taxas de sentimentos positivos, confirmando o papel
+dos receptores mu-opióides na regulação fisiológica das
+experiências afetivas em humanos.
+
+Emoção e razão
+As informações que chegam ao cérebro percorrem um
+determinado trajeto ao longo do qual são processadas. Em
+seguida, direcionam-se para as estruturas límbicas e paralímbicas, pelo circuito de Papez, ou por outras vias, para adquirirem significado emocional, dirigindo-se, ato contínuo, para
+determinadas regiões do córtex cerebral, permitindo que
+sejam tomadas decisões e desencadeadas ações – processos
+relacionados à autonomia (Figura 2) – função geralmente
+dependente do córtex frontal ou pré-frontal49-51.
+
+Córtex cingulado:
+atenção executiva
+Objetos
+
+Orientação
+visual
+
+Córtex
+pré-frontal
+dorsolateral:
+memória
+operacional
+
+Espaço
+Significado
+das palavras
+
+Identificação de
+características
+visuais
+
+Figura 2. É possível propor uma “neuroanatomia” da tomada de decisão
+envolvendo o córtex pré-frontal – quiçá uma neurobiologia da autonomia?
+Recentes investigações têm corroborado essa hipótese. Neste contexto, o
+uso da razão seria iniciado medialmente pela atuação do córtex cingulado
+anterior (atenção executiva), o qual tem por função focalizar a atenção
+perceptual e cognitiva, modulando a atividade das áreas correspondentes.
+As regiões dorsolaterais do córtex pré-frontal seriam responsáveis pela
+comparação das informações, novas e as antigas. O derradeiro ajuste –
+levando em consideração os objetivos dos indivíduos e os contextos sociais
+– seria realizado por uma área não ilustrada, o córtex pré-frontal ventromedial.
+Imagem neuroanatômica preparada por Rodrigo Siqueira-Batista (Unifeso) e
+Vanderson Esperidião Antonio (Unifeso), sob inspiração de Posner MI, Raichle
+ME. Images of mind. New York: Scientific American Library; 1994.
+
+As imagens certamente provocam, em sua maioria,
+ativação do córtex visual occipital (giro occipital e giro
+fusiforme), porém a amígdala também recebe quantidade substancial de estímulos provenientes das áreas
+temporais associadas à visão, participando na formação
+de memórias através dos circuitos hipocampais ou dos
+circuitos estriatais24. Tal fato decorre do papel especializado da amígdala no processamento de insinuações
+emocionais visualmente relevantes, sinalização do medo
+e aversão ou outras evidências. A ativação da amígdala
+pode estar primariamente envolvida na emissão de um
+alerta para ameaças provenientes da percepção obtida
+pelo córtex occipital28.
+Como demonstrado por Abu-Akel, a integração de
+carga afetiva aos processos cognitivos ocorre, provavelmente, no complexo córtex orbitofrontal (COF) /
+córtex pré-frontal ventromedial (CPFVM)52. De acordo
+com esse pesquisador, as impressões sensoriais (como
+visão, audição e outras informações somatossensoriais)
+convergem, através do COF, para o CPFVM, de onde
+a informação sintetizada é levada às regiões do córtex
+pré-frontal dorsomedial e córtex pré-frontal ínfero-lateral
+para a tomada das decisões. Lesões no CPFVM causam
+prejuízo na capacidade de tomar decisões, geralmente
+caracterizado por inabilidade de adotar estratégias de
+comportamento adequadas às conseqüências de atitudes
+tomadas, levando à impulsividade. O CPFVM e o COF
+mantêm importante relação com a amígdala e ambos
+contribuem para a tomada de decisões, embora os mecanismos pelos quais isto ocorra sejam distintos. Acreditase que essas regiões corticais recebam aferências da
+
+64
+
+Esperidião-Antonio, V. et al. / Rev. Psiq. Clín 35 (2); 55-65, 2008
+
+amígdala – as quais representem o valor motivacional
+dos estímulos – integrando-os e promovendo uma avaliação do comportamento futuro que será adotado53.
+Embora a amígdala não estabeleça conexão direta
+com o córtex lateral pré-frontal, ela se comunica com o
+córtex cingulado anterior e o córtex orbital, os quais estão
+envolvidos nos circuitos da memória, tornando possível a
+justificativa de alguns autores de que a amígdala participa
+na modulação da memória e na integração de informações
+emocionais e cognitivas, possivelmente atribuindo-lhes
+carga emocional, possibilitando a transformação de
+experiências subjetivas em experiências emocionais24,53.
+Lesões no córtex pré-frontal medial rostral levam à expressão inapropriada das emoções nos comportamentos
+sociais e ao prejuízo na tomada de decisões pessoalmente
+vantajosas28. Estudos de neuroimagem demonstram que
+processos executivos são mediados pelo lobo frontal, particularmente o córtex cingular anterior (CCA) e o córtex
+pré-frontal (CPF). De acordo com essas investigações,
+o CPF medial está envolvido na associação do aspecto
+cognitivo ao emocional, sendo responsável pela avaliação
+e/ou interpretação cognitiva das emoções28,53,54.
+Mais recentemente foi descrito que o CCA e o córtex
+pré-frontal dorsolateral (CPFDL) detêm as bases neurais
+da performance de tarefas concomitantes de execução central; torna-se, assim, possível a realização de duas tarefas
+simultâneas, como dirigir e falar ao celular. Os resultados
+mostram que os processos cognitivos são modulados pelo
+CCA no mesmo hemisfério. O CCA é provavelmente posicionado para conectar informações dentro do cérebro;
+dessa forma, ele inclui conexões recíprocas importantes
+para o sistema motor e o sistema das emoções. O CPFDL
+participa de situações executivas, como coordenação de
+processos cognitivos concorrentes e atenção seletiva
+para informações de tarefas relevantes. Postula-se que
+a inteligência geral nos humanos seja resultado de uma
+integração funcional entre o sistema de alerta baseado no
+CCA e o sistema executivo baseado no CPFDL55.
+Outra estrutura importante na integração emoção/
+razão é a ínsula, a qual é ativada durante a indução de
+recordações de momentos vividos por um indivíduo, as
+quais provoquem uma sensação específica, seja de felicidade, tristeza, prazer, raiva ou qualquer outra. Entretanto
+a ínsula não é ativada quando a mesma sensação é provocada no mesmo indivíduo por um filme, por exemplo,
+sugerindo que tal estrutura esteja envolvida nos aspectos
+de avaliação, experimentação ou de expressão de uma
+emoção gerada internamente28.
+Com base no que se discutiu, é possível considerar
+que a tomada de decisões torna-se diretamente dependente da associação emocional realizada pelo indivíduo
+ao vivenciar determinadas situações cotidianas. Além
+disso, o emprego de tal informação adquirida depende
+de respostas motoras – como, por exemplo, correr, sorrir
+ou comer – e de respostas autonômicas, como elevação
+ou redução da freqüência cardíaca, ou ainda aumento
+da peristalse intestinal. Tais respostas autonômicas são
+
+diretamente influenciadas pelo hipotálamo e este, por
+sua vez, age mediante o processamento de todas as
+informações que chegam ao cérebro.
+
+Considerações finais
+A identificação das estruturas neurais e de suas características anatomofuncionais relacionadas ao controle
+motivacional e às emoções continua a ser motivo de
+interrogação e de fomento à pesquisa56-60.
+Diferentes estímulos (aferências) – térmicos, táteis,
+visuais, auditivos, olfatórios e de natureza visceral (como
+alterações da pressão arterial) – chegam a diferentes
+partes do SNC por vias neuronais envolvendo receptores
+e nervos periféricos. Respostas (eferências) adequadas a
+esses mesmos estímulos são programadas em determinadas áreas corticais, as quais incluem desde circuitos
+simples – envolvendo poucos segmentos – até complexos,
+exigindo refinamento funcional por parte de cada uma.
+Os circuitos relacionados às emoções localizam-se
+em várias regiões no encéfalo, possuindo inúmeras conexões com o córtex, área (substância) subcortical, seus
+núcleos e as estruturas infratentoriais – pertencentes ao
+tronco encefálico e cerebelo. Destacam-se ainda as relações com o tronco encefálico, as quais facilitam sinapses
+à substância reticular, núcleos como o rubro, o ambíguo
+e os formadores dos nervos cranianos, destacando-se
+os do III par (nervo oculomotor), VII par (nervo facial),
+IX par (nervo glossofaríngeo) e o X par (nervo vago),
+fazendo parte da porção craniana do sistema nervoso
+parassimpático. A partir de então, um estímulo dirige-se
+ao cerebelo e à medula espinal, sendo distribuído por
+nervos espinais aos segmentos corporais e ao sistema
+nervoso simpático pelos segmentos de T12 a L1 (toracolombar) e ao parassimpático de S2 a S4 (parte sacral).
+Esta seria uma visão panorâmica da integração biológica
+entre as emoções e o controle neurovegetativo.
+A despeito desses conhecimentos já construídos – os
+quais permitem a proposição de diferentes, mas integrados, sistemas das emoções –, um longo percurso ainda há
+de ser trilhado, para que se adquira melhor compreensão
+dos mecanismos neurobiológicos fundamentais relacionados às – quiçá determinantes das – emoções, vereda que,
+pressupõe-se, poderá ser capaz de aproximar o homem da
+compreensão de sua própria condição de homem.
+
+Referências
+1.
+2.
+3.
+4.
+5.
+6.
+
+Reale G. História da Filosofia Antiga: das Origens a Sócrates. 3a ed.
+São Paulo: Loyola; 1999.
+Platão. Timeu. Belém: Ed. Universidade Federal do Pará; 1977.
+Siqueira-Batista R, Schramm FR. Platão e a medicina. História, Ciências,
+Saúde – Manguinhos. 2004;11(3):619-34.
+Descartes R. Meditações metafísicas. São Paulo: Martins Fontes, 2000.
+Spinoza B. Ética – demonstrada à maneira dos geômetras. São Paulo:
+Nova Cultural; 1997.
+Lanotte M, Lopiano L, Torre E, Bergamasco B, Colloca L, Benedetti F.
+Expectation enhances autonomic responses to stimulation of the human
+subthalamic limbic region. Brain Behav Immun. 19(6):500-9, 2005.
+
+Esperidião-Antonio, V. et al. / Rev. Psiq. Clín 35 (2); 55-65, 2008
+7.
+
+Kandel ER. Fundamentos de neurociência e do comportamento. Rio de
+Janeiro: Guanabara Koogan; 2000.
+8. Petitto JM, Repetto MJ, Hartemink DA. Brain-immune interactions in neuropsychiatry: highlights of the basic science and relevance to pathogenic
+factors and epiphenomena. CNS Spectr. 2001;6(5):383-8, 391.
+9. Yang TT, Simmons AN, Matthews SC, Tapert SF, Bischoff-Grethe A,
+Frank GK, Arce E, Paulus MP. Increased amygdala activation is related
+to heart rate during emotion processing in adolescent subjects. Neurosci Lett. 2007;428(2-3):109-14.
+10. Barreto G, Oliveira MG. A arte secreta de Michelangelo: uma lição de
+anatomia na Capela Sisitina. São Paulo: Arx; 2004.
+11. Gazzaniga MS, Ivry RB, Mangun GR. Neurociência cogntiva: a biologia
+da mente. 2ª ed. Porto Alegre: Artmed; 2006.
+12. Lent R. Cem bilhões de neurônios. 2ª ed. São Paulo: Atheneu; 2005.
+13. Damasio H, Grabowski T, Frank R, Galaburda AM, Damasio AR. The
+returno f Phineas Gage: the skull of a famous patient yelds clues about
+the brain. Science 264:1102-5, 1994.
+14. Harlow JM. Recovery from the passage of an iron bar through the head.
+Publication of the Massachussetts Medical Society 2; 1868. p. 329-47.
+15. Peper M, Markowitsch HJ. Pioneers of affective neurosciense and early
+concepts of the emotional brain. Journal of the History of Neuroscience.
+2001;10(1):58-66.
+16. Cannon WB. The James-Lange theory of emotions: a critical examination and an alternative theory. Am J Phychol. 1927;39:106-24
+17. Papez JW. A proposed mechanism of emotion. Arch Neurol Psychiatry.
+1937;38:725-43.
+18. Cosenza RM. Fundamentos de neuroanatomia. Rio de Janeiro: Guanabara Koogan; 1990.
+19. Dror OE. Techniques of the brain and the paradox of emotions, 18801930. Sci Context. 2001;14(4):643-60.
+20. Pergher GK, Grassi-Oliveira R, De Ávila LM, Stein LM. Memória, emoção
+e humor. Rev Psiquiatr RS. 2006;1(28):61-8.
+21. Guyton AC, Hall JE. Tratado de Fisiologia Médica. 11ª ed. Rio de Janeiro:
+Guanabara Koogan; 2006.
+22. Machado ABM. Neuroanatomia funcional. 2ª ed. São Paulo: Atheneu;
+2006.
+23. Meneses MS. Neuroanatomia aplicada. Rio de Janeiro: Guanabara
+Koogan; 2004.
+24. LeDoux, J. The emotional brain, fear and the amygdala. Cellular and
+Molecular Neurobiology. 2003;23:727-38.
+25. Berridge KC. Motivation concepts in behavioral neuroscience. Physiology & Behavior. 2004;81:179-209.
+26. Ballone GJ. Neurofisiologia das emoções. In: Psiqweb – Psiquiatria
+Geral 2002. Disponível em: http://www.psiqweb.med.br/cursos/neurofisio.html
+27. Bear MF, Connors BW, Paradiso MA. Neurociências: desvendando o
+sistema nervoso. 2a ed. Porto Alegre: Artmed; 2002.
+28. Phan KL, Wager T, Taylor SF, Liberzon I. Functional neuroanatomy of
+emotion: a meta-analysis of emotion activation studies in PET anf fRMI.
+Neuroimage. 2002;16:331-48.
+29. Burgdorf J, Panksepp J. The neurobiology of positive emotions. Neurosci Biobehav Rev. 2006;30(2):173-87.
+30. Parvizi J, Anderson SW, Martin CO, Damasio H, Damasio AR. Pathological
+laughter and crying: a link to the cerebellum. Brain. 2001;124(9):1708-19.
+31. De Gelder B, Snyder J, Greve D, Gerard G, Hadjikhani N. Fear fosters
+fight: a mechanism for fear contagion when perceiving emotion
+expressed by a whole body. Proc Natl Acad Sci USA. 2004;101(47):
+16701-6.
+32. Höistad M, Barbas H. Sequence of information processing for emotions through pathways linking temporal and insular cortices with the
+amygdala. Neuroimage. 2008;40(3):1016-33.
+33. Lee JL, Milton AL, Everitt BJ. Reconsolidation and extinction of
+conditioned fear: inhibition and potentiation. J Neurosci. 2006;26(39):
+10051-6.
+34. Graham R, Devinsky O, LaBar KS. Quantifying deficits in the perception
+of fear and anger in morphed facial expressions after bilateral amygdala
+damage. Neuropsychology. 2006;45(1):42–54.
+35. Williams LM, Das P, Liddell BJ, Kemp AH, Rennie CJ, Gordon E. Mode
+of functional connectivity in amygdala pathways dissociates level of
+awarwness for signals of fear. J Neurosci. 2006;26(36):9264-71.
+
+65
+
+36. Lara DR, Akiskal HS. Toward an integrative model of the spectrum of
+mood, behavioral and personality disorders based on fear and anger
+traits: II. Implications for neurobiology, genetics and psychopharmacological treatment. J Affect Disord. 2006;94(1-3):89-103.
+37. Flynn JP. The neural basis of aggression in cats. In: Glass DC. Neurophysiology and Emotion. New York: Rockefeller University Press; 1967.
+38. Sander D, Grandjean D, Pourtois G, Schwartz S, Seghier ML, Scherer KR,
+et al. Emotion and attention interactions in social cognition: brain regions
+involved in processing anger prosody. Neuroimage. 2005;28(4):848-58.
+39. Berlin HA, Rolls ET, Iversen SD. Borderline personality disorder, impulsivity and the orbitofrontal cortex. Am J Psychiatry. 2005;162(12):2360-73.
+40. Suslow T, Ohrmann P, Bauer J, Rauch AV, Schwindt W, Arolt V, et al.
+Amygdala activation during masked presentation of emotional faces
+predicts conscious detection of threat-related faces. Brain Cogn. 2006
+2006;61(3):243-8.
+41. Fitzgerald DA, Angstadt M, Jelsone LM, Nathan PJ, Phan KL. Beyond
+threat: amygdala reactivity across multiple expressions of facial affect.
+Neuroimage. 2006;30(4):1441-8.
+42. Majeski-Colombo M, Viana LEO, Pinto RC, Esperidião-Antônio V, SiqueiraBatista R. Neurobiologia da violência: pelos labirintos amigdalianos. XIV
+Fórum de Psiquiatria FCM / UERJ, 2006, Rio de Janeiro. Anais – XIV Fórum
+de Psiquiatria FCM/UERJ. Rio de Janeiro: UERJ; 2006. p. 4.
+43. Porges SW. The Polyvagal theory: phylogenetic contributions to social
+behavior. Physiology & Behavior. 2003;79:503-13.
+44. Porges SW. Social engagement and attachement: a phylogenetic
+perspective. Ann N Y Acad Sci. 2003;1008:31-47.
+45. Strauman TJ, Woods TE, Schneider KL, Kwapil L, Coe CL. Self-regulatory
+cognition and immune reactivity: idiographic success and failure feedback
+effects on the natural killer cell. Brain Behav Immun. 2004;18(6):544-54.
+46. Goldin PR, Hutcherson CAC, Ochsner KN, Glover GH, Gabrieli JDE,
+Gross JJ. The neural bases of amusement and sadness: A comparison
+of block contrast and subject-specific emotion intensity regression
+approaches. NeuroImage. 2005;27:26-36.
+47. Machado-Vieira R, Bressan RA, Frey B, Soares JC. As bases neurobiológicas do transtorno bipolar. Rev Psiq Clin. 2005;32(1):28-33.
+48. Zubieta JK, Ketter TA, Bueller JA, Xu Y, Kilbourn MR, Young EA, et al.
+Regulation of human affective responses by anterior cingulated and limbic
+mu-opioid neurotransmission. Arch Gen Psychiatry. 2003;60(11):1145-53.
+49. Benoit RG. The role of rostral prefrontal cortex in establishing cognitive
+sets: preparation or coordination? J Neurosci. 2008;28(13):3259-61.
+50. Siqueira-Batista R, Schramm FR. Eutanásia e os paradoxos da autonomia. Ciência Saúde Coletiva. 2008;13(1):207-21.
+51. Posner MI, Raichle ME. Images of mind. New York: Scientific American
+Library; 1994.
+52. Abu-Akel A. A neurobiological mapping of theory of mind. Brain Research Reviews. 2003;43:29-40.
+53. De Martino B, Kumaran D, Seymour B, Dolan RJ. Frames, biases, and
+rational decision-making in the human brain. Science Magazzine.
+2006;313:684-7.
+54. Kondo H, Morishita M, Osaka N, Osaka M, Fukuyama H, Shibasaki
+H. Functional roles of the cingulo-frontal network in performance on
+working memory. Neuroimage. 2004;21:2-14.
+55. Kondo H, Osaka N, Osaka M. Cooperations of the anterior cingulate
+cortex and dorsolateral prefrontal cortex for attention shifting. NeuroImage. 2004;23:670-9.
+56. Bechmann I. Failed central nervous system regeneration: a downside
+of immune privilege? Neuromolecular Med. 2005;7(3):217-28.
+57. Koprowska M, Krotewicz M, Romaniuk A, et al. Fear behavior and regional
+brain monoamines distribution after R(+) – UH – 301 injections into the
+dorsal raphe nucleus in rats. Acta Neurobiol Exp. 2002;62:63-74.
+58. Salm AK, Pavelko M, Krouse EM, Webster W, Kraszpulski, Birkle
+DL. Lateral amygdaloid nucleis expansion in adult rats is associated
+with exposure to prenatal stress. Developmental Brain Research.
+2004;148:159-67.
+59. Scinska A, Sienkiewicz-Jarosz H, Kuran W, Ryglewicz D, Rogowski A,
+Wrobel E, et al. Depressive symptoms and taste reactivity in humans.
+Physiology & Behavior. 2004; 82(5):899-904.
+60. Müller JL, Sommer M, Döhnel K, Weber T, Schmidt-Wilcke T, Hajak
+G. Disturbed prefrontal and temporal brain function during emotion
+and cognition interaction in criminal psychopathy. Behav Sci Law.
+2008;26(1):131-50.

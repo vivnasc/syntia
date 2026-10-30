@@ -1,0 +1,37 @@
+═══ BLOCO C — PRODUTO ═══
+
+[oportunidade] **Novo: série de conteúdo "O que o teu cérebro faz quando tens medo" para mae.cine** — A neurobiologia do medo condicionado (amígdala, condicionamento pavloviano, medo aprendido vs. inato) explica, com base científica, por que certos padrões de infância se repetem automaticamente em adultos sem que a pessoa "escolha" isso. Este ângulo — ciência com consequência — é o formato-âncora da mae.cine e ainda não existe no catálogo sob este frame neuro. Para quem: a audiência brasileira de 90% que já reconhece os padrões mas quer saber *por que o corpo não esquece*. Porquê agora: a neurociência do trauma e do condicionamento está em crescimento na cultura popular brasileira; este artigo fornece a base citável.
+
+[maternidade] **FreeMe Mãe** — A neurobiologia da sobrevivência (luta-fuga, imobilização, neurocepção) valida o que os ebooks da coleção descrevem como "modo de guardar a guarda" e "não poder parar": são respostas autonômicas reais, não fraqueza de carácter.
+Ideia para mae.cine (carrossel/reel): "O teu sistema nervoso aprendeu que não é seguro parar" — abre com a faca ("você não é exagerada, você está condicionada"), explica a neurocepção de Porges com uma imagem do dia a dia da mãe (filho a chorar, marido a discutir, chefe a ligar), fecha no ciclo que pode acabar em ti. CTA: GUARDAR. Alimenta a porta de entrada para `mae-04 Amar e dizer basta` e `mae-08 A mãe que não sentiu`.
+
+[identidade] **infonte** — A secção "emoção e razão" do artigo sustenta o núcleo da coleção: as decisões que a mulher toma sobre a sua carreira, o seu valor e o seu tamanho não são puramente racionais — são filtradas pela carga emocional que a amígdala e o córtex pré-frontal ventromedial atribuem às situações. Lesões (ou padrões aprendidos) nesta via produzem exactamente o perfil de `inf-01` a `inf-06`: a mulher que não se autoriza, que persegue sem chegar, que herdou uma vida.
+Ideia para conteúdo (veu.a.veu, gouache): episódio da jornada "Máscara/Sombra" — a personagem Nina toma uma decisão de carreira e o episódio mostra, de forma visual simples, como o histórico emocional filtra a escolha antes de ela chegar à razão. Pergunta da aula: "do que te protege decidires sempre o mais seguro?". Sem nomear o produto, sem CTA de venda — optimiza para GUARDAR.
+
+[amor] **SyncHim** — O condicionamento pavloviano do medo e o circuito de recompensa/dopamina explicam dois padrões centrais desta coleção: (1) associar a ausência ou a imprevisibilidade do parceiro a antecipação de recompensa (dopamina na espera) — o que sustenta `syn-01 A mulher que ama a ausência` e `syn-05 A mulher que ama o potencial`; (2) o circuito de luta-fuga/imobilização como explicação para "não conseguir sair" de uma relação que o sistema nervoso leu como ameaça crónica.
+Ideia para mae.cine (reel curto, voz científica): "A ciência explica por que você fica com quem te faz sofrer" — não é falta de amor-próprio, é dopamina + amígdala + condicionamento. Fecha: "Isso acaba em ti." CTA: SEGUIR + GUARDAR. Porta de entrada para `syn-01` e `syn-07 A mulher que confunde intensidade com amor`.
+
+[prosperidade] **Prosperidade** — O circuito de punição (zona cinzenta periaquedutal, hipotálamo periventricular) e o medo condicionado dão base neurobiológica ao padrão de `pros-04 A mulher que herdou a escassez` e `pros-07 A mulher que não pode ter mais do que os outros`: o "aviso" de perigo que a mulher sente ao receber ou ao cobrar mais não é irracional — é um condicionamento instalado precocemente, que o sistema nervoso repete automaticamente.
+Ideia (ebook profundo, texto de produto): parágrafo de abertura de `pros-05 A mulher que tem medo de receber` pode invocar, sem jargão técnico, a ideia de que o sistema nervoso aprendeu que receber é perigoso — e que esse aviso chega antes do pensamento consciente. Base científica citável: condicionamento pavloviano + amígdala.
+
+[força] **Força** — O artigo descreve a tristeza "fisiológica" vs. depressão "patológica" e o modo de sobrevivência (imobilização, luta-fuga crónica) como estados com substrato neural real. Isto sustenta directamente `for-05 A mulher que vive em modo sobrevivência` e `for-04 A mulher que se tornou forte demais`: o que parece "força" é frequentemente uma resposta autonômica crónica de luta-fuga que o sistema nervoso fixou como padrão.
+Ideia para soulab (observação/hipótese, visual escuro/lunar): peça sobre "o corpo que nunca sai do modo alerta" — não é texto de ensino, é observação: "E se o que chamamos de força for apenas o sistema nervoso que nunca aprendeu que já passou o perigo?" Território exploratório, sem nomear produto. Visual em `#1B1726`, destaque em `#C9A2E6`.
+
+[pertença] **Pertença** — A neurocepção de Porges (ler o ambiente como seguro ou ameaçador, com base em tom de voz e expressões faciais) é o mecanismo biológico por detrás do que a coleção Pertença descreve: a hipersensibilidade ao ambiente relacional, o antecipar conflitos, o não conseguir relaxar em grupo. Alimenta `per-05 A pessoa que não pertence em lado nenhum` e `per-06 A pessoa que nunca dá trabalho`.
+Ideia (guia prático — formato dos guias €5): `guia-13-guarda` *Baixar a guarda em segurança* pode incluir, na introdução, a ideia (sem jargão técnico) de que o sistema nervoso precisa de *provas* de segurança antes de relaxar — e que essas provas chegam pelo tom de voz, pelo olhar, pela presença calma. Base: neurocepção de Porges.
+
+[oportunidade] **Novo: ebook profundo "A mulher que vive em alerta"** — A articulação entre neurocepção (Porges), condicionamento do medo (amígdala) e modo de sobrevivência crónico abre espaço para um ebook profundo que ainda não existe no catálogo sob este ângulo: o corpo como arquivo de ameaças passadas. Poderia encaixar em Força (`for-07`) ou Pertença (`per-08`). Para quem: mulheres que descrevem não conseguir "desligar", dormir, ou confiar — mesmo quando "está tudo bem". Porquê agora: o vocabulário do sistema nervoso está a popularizar-se rapidamente; um ebook que traduza a ciência em reconhecimento pessoal tem potencial de entrada de catálogo.
+
+---
+
+═══ NOTAS ═══
+
+1. O texto é um artigo académico de revisão (2008), não a transcrição de uma aula falada. Não há sinais de truncamento ou falha de gravação — o documento parece completo e estruturado.
+
+2. A grafia segue o português do Brasil pré-Acordo Ortográfico de 1990 (formas como "idéia", "atividade", "ultra"), o que é esperado dado o ano de publicação. Não afecta o conteúdo.
+
+3. A figura 2 (neuroanatomia da tomada de decisão) e os quadros 1 e 2 são referenciados no texto mas apresentados como elementos visuais/tabulares — os seus conteúdos foram integrados nas secções correspondentes dos blocos A e B.
+
+4. O nome "Sigmund Exer" (p. 57) aparece como "fisiologista e psicólogo vienense", mas este nome não é reconhecível na literatura padrão de neurociências. Pode tratar-se de uma gralha ou de uma versão menos conhecida do nome (possível confusão com Ernst Brücke ou outro contemporâneo de Freud). Não foi possível confirmar com base no texto.
+
+5. A referência ao "receptor NMDA" no contexto do condicionamento do medo (p. 61) é mencionada mas não aprofundada; fica como ponto a explorar em leitura complementar para quem precisar de detalhe farmacológico.
