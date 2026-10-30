@@ -1,0 +1,790 @@
+Psicologia: Teoria e Pesquisa
+2010, Vol. 26 n. especial, pp. 123-129
+
+Um Retrato da Área de Neurociência e Comportamento no Brasil
+Dora Fix Ventura1
+Universidade de São Paulo
+RESUMO - A neurociência compreende o estudo do controle neural das funções vegetativas, sensoriais e motoras; dos
+comportamentos de locomoção, reprodução e alimentação; e dos mecanismos da atenção, memória, aprendizagem, emoção,
+linguagem e comunicação. Tem, portanto, uma importante área de interface com a Psicologia. Dentre seus objetivos, a
+neurociência busca esclarecer os mecanismos das doenças neurológicas e mentais por meio do estudo do sistema nervoso normal
+e patológico. Sua evolução no Brasil tem ocorrido desde meados do século passado, e seu desenvolvimento foi incentivado
+pela criação de sociedades científicas específicas. O presente artigo relata esse desenvolvimento e descreve os principais grupos
+atuantes na neurociência brasileira.
+Palavras-chave: neurociência; Psicologia; sistema nervoso; comportamento; doença mental; sociedades científicas.
+
+A Report on the Area of Neuroscience and Behavior in Brazil
+ABSTRACT - Neuroscience comprises the study of the neural control of vegetative, sensory and motor functions; of the
+locomotion, reproduction and feeding behaviors; and of the mechanisms of attention, memory, learning, emotion, language
+and communication. It has, therefore, an important area of interface with Psychology. Among its goals, neuroscience seeks to
+explain the mechanisms of neurologic and mental diseases through the study of the normal and pathologic nervous system. Its
+evolution in Brazil has occurred since the middle of the past century, and its development was encouraged by the creation of
+specific scientific societies. The present article describes this development and the main active groups in Brazilian neuroscience.
+Keywords: neurosciences; Psychology; nervous system; behavior; mental disease; scientific societies.
+
+A neurociência compreende o estudo do sistema nervoso
+e suas ligações com toda a fisiologia do organismo, incluindo
+a relação entre cérebro e comportamento. O controle neural
+das funções vegetativas – digestão, circulação, respiração,
+homeostase, temperatura –, das funções sensoriais e motoras, da locomoção, reprodução, alimentação e ingestão de
+água, os mecanismos da atenção e memória, aprendizagem,
+emoção, linguagem e comunicação, são temas de estudo da
+neurociência.
+
+Relevância da Área
+Modelos computacionais que simulam as funções acima
+mencionadas, notadamente as funções locomotoras e sensoriais, a aprendizagem e a memória, são objeto de pesquisa
+em inteligência artificial e visão artificial. Ferramentas da
+informática são usadas para entender os sistemas biológicos
+e soluções inspiradas na biologia e na psicologia são desenvolvidas para aplicações que servem a diferentes ramos
+da engenharia, tais como sensoriamento remoto, controle
+de sistemas de produção industrial, linha de montagem de
+fábricas e muitas outras aplicações.
+1
+
+Endereço para correspondência: Instituto de Psicologia, Universidade
+de São Paulo. Av. Prof. Mello Moraes, 1721 Bloco A, sala D9, Cidade
+Universitária. São Paulo, SP. CEP 05508-030. E-mail: dventura@usp.br.
+
+A neurociência está em grande expansão, e foi eleita com
+destaque pelo Governo dos EUA como prioritária na década
+de 1990, que ficou conhecida como a ‘Década do Cérebro’
+(Library of Congress, 2010). Muitos também consideram o
+século 21 o século do cérebro, no qual as grandes conquistas
+da humanidade estarão dirigidas para a compreensão das
+funções neurais humanas.
+A neurociência estuda também as doenças do sistema
+nervoso e seus reflexos em todas as funções do indivíduo,
+procurando métodos de diagnóstico, prevenção e tratamento, além da descoberta das causas e mecanismos. Desde
+uma dor de cabeça até a doença de Alzheimer, o custo
+social e econômico dessas afecções é imenso, e é também
+muito grande a parcela da economia dedicada ao desenvolvimento e à produção e comercialização de fármacos
+e de equipamentos de diagnóstico. O aprofundamento da
+pesquisa traz o reconhecimento de novas doenças, permitindo seu estudo e tratamento. São muitos os exemplos
+de novas descobertas. No século XIX, Freud descreveu a
+paralisia cerebral, tendo usado esse nome para distinguí-la
+da paralisia infantil. Nas últimas décadas foi reconhecida a
+síndrome do pânico e há menos de 10 anos, a morte súbita,
+as graves consequências de distúrbios do sono e os príons
+e seu possível envolvimento em patologias neurológicas e
+mentais. É surpreendente pensar que as doenças do sono,
+que sempre afligiram a humanidade, só tiveram reconhecimento muito recentemente.
+
+123
+
+D. F. Ventura
+
+Doenças Neurológicas e Mentais:
+Aspectos Epidemiológicos e Impacto Econômico
+A pesquisa em neurociência visa, dentre seus objetivos, esclarecer os mecanismos das doenças neurológicas
+e mentais por meio do estudo do sistema nervoso normal
+e patológico.
+As funções do sistema nervoso podem ser alteradas por
+eventos ambientais como trauma, agentes infecciosos ou
+tóxicos; por tumores, mutações gênicas e defeitos congênitos; por eventos vasculares e deficiências nutricionais, e por
+muitos outros fatores. Muitas doenças do sistema nervoso
+são totalmente incapacitantes, outras provocam prejuízos
+de diferentes níveis de gravidade. Infelizmente, não temos
+acesso a dados de prevalência brasileiros. Para exemplificar
+alguns números mais relevantes são citadas a seguir informações dos EUA.
+Dados do National Institute of Health - NIH (2002)
+mostram que, na população dos EUA, dentre as doenças
+neurológicas que em geral se instalam na infância: (1) a
+epilepsia afeta cerca de 2,5 milhões de norte-americanos;
+(2) a paralisia cerebral ocorre em 750.000 nascimentos; (3)
+o autismo atinge 400.000 crianças; e (4) os tumores cerebrais
+são a segunda causa de morte por câncer em crianças até 15
+anos. Dentre as doenças que afetam adultos, causando anos
+de invalidez, perda de vida e impacto econômico, os dados
+do NIH indicam que: (1) acima dos 60 anos, a demência do
+tipo Alzheimer, o acidente vascular encefálico e a doença
+de Parkinson são frequentes; (2) os acidentes vasculares
+encefálicos (cerebrais) são a terceira entre todas as causas de
+morte e uma causa importante de invalidez (mais de 700.000
+americanos são afetados); (3) o trauma cerebral e as lesões
+medulares ocorrem principalmente antes dos 30 anos, sendo
+o trauma cerebral responsável por mais de 5,3 milhões de
+comprometimentos e mais de 50.000 óbitos; (4) a esclerose
+múltipla começa por volta dos 30 anos de idade. Finalmente,
+a dor é a principal queixa para a procura de atendimento
+médico em geral. A prevalência de dor crônica é alta e suas
+causas difíceis de tratar.
+A neurociência contribui também para o esclarecimento das doenças mentais. O National Institute of Mental
+Health - NIMH (2002) define doenças mentais como
+aquelas em que há alteração no pensamento, humor ou
+comportamento (isoladamente ou combinados), acarretando sofrimento e/ou prejuízo funcional. Dados daquela
+agência mostram que durante um período de um ano, 22%
+da população americana adulta (44 milhões de pessoas)
+têm alguma doença mental diagnosticável por critérios
+confiáveis; dentre essas pessoas, 3% associam o abuso de
+drogas à doença mental.
+O prejuízo causado por uma patologia pode ser calculado
+de várias formas. O índice AVAI (Anos de Vida Ajustados
+por Incapacidade, do inglês Disability Adjusted Life Years
+- DALY) computa os anos de vida com saúde perdidos por
+causa da doença, seja por morte prematura ou incapacitação,
+e leva em conta a gravidade da incapacitação. Por exemplo,
+depressão profunda compara-se, no AVAI, à cegueira ou
+paraplegia, enquanto a psicose ativa na esquizofrenia equivale à tetraplegia. Dados da Organização Mundial da Saúde
+- OMS (do inglês World Health Organization – WHO; 2002)
+124
+
+mostraram que dentre as patologias de maior prevalência,
+os prejuízos acarretados por doenças mentais são superiores aos das doenças cardiovasculares (ver Tabela 1). Além
+do sofrimento e incapacidade do indivíduo, essas doenças
+também representam custos diretos em recursos médicos e
+custos indiretos em perda de produtividade.
+As doenças do sistema nervoso são muito difíceis de
+serem tratadas, mas têm havido progressos notáveis nos
+últimos anos, decorrentes do grande esforço de pesquisa em
+neurociência. Os progressos mais significativos são destacados pelo NIH (2002), em sua justificativa orçamentária:
+melhores técnicas diagnósticas a partir da genética molecular e neuroimagem; tratamentos para acidente vascular
+encefálico e para lesões da medula espinhal; novas drogas
+para esclerose múltipla, epilepsia e doença de Parkinson;
+aparelhos eletromecânicos para deficiências sensoriais
+e motoras; prevenção de acidente vascular encefálico e
+defeitos neurológicos congênitos. São, ainda, listados pelo
+documento do NIH tratamentos promissores para doenças
+do sistema nervoso em estudo, incluindo drogas, vacinas,
+estimulação elétrica, transplantes celulares, fatores de
+crescimento naturais, próteses neurais, terapia gênica e
+intervenções comportamentais. Verifica-se, com esses
+progressos, que a área de neurociência é importante para
+a Psicologia, tanto na pesquisa básica como na atividade
+clínica.
+Tabela 1. Prejuízo em categorias selecionadas de patologias.
+
+Categorias de Patologias
+
+AVAI
+Total (%)
+
+Todas as doenças infecciosas e parasitárias
+
+24
+
+Todas as doenças mentais
+
+13
+
+Todas as doenças cardiovasculares
+
+10
+
+Todo o uso de álcool e drogas
+
+7
+
+Todas as doenças respiratórias
+
+6
+
+Todas as doenças malignas (câncer)
+
+5
+
+Fonte: WHO, 2002
+
+Sociedades Científicas no Brasil
+A neurociência no Brasil está representada principalmente
+pela Sociedade Brasileira de Neurociências e Comportamento
+(SBNeC), que congrega a pesquisa básica da área. A produção neurocientífica está também presente nas Sociedades
+Brasileiras de Psicologia, de Farmacologia, de Fisiologia, de
+Bioquímica, e na Brazilian Research Association on Vision
+and Ophthalmology. Na área clínica, a neurociência brasileira
+é apresentada nas Sociedades Brasileiras de Neurologia, de
+Psiquiatria e de Neuropsicologia.
+A SBNeC, originalmente Sociedade Brasileira de
+Psicobiologia, tem 34 anos de existência. Foi fundada
+por Elisaldo Carlini, que reuniu um grupo de psicólogos,
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 123-1
+
+Neurociências e Comportamento
+
+psicofarmacólogos, neurofisiologistas, psiquiatras e outros especialistas. A ata de fundação gerada nessa reunião
+histórica mostra a argumentação desses pesquisadores na
+época, muito interessados em promover a integração entre
+psicologia e neurociência. Esse grupo decidiu pela fundação
+da nova sociedade a partir da Sociedade Latinoamericana
+de Psicobiologia, cujo sucesso tinha sido comprometido
+pelas dificuldades políticas dos países da região na década
+de 1970. O nome Sociedade Brasileira de Psicobiologia
+perdurou até os anos 1990, quando, para evitar a criação
+de uma segunda sociedade na mesma área, dedicada à
+neuroquímica, decidiu-se mudar o nome da entidade para
+Sociedade Brasileira de Neurociências e Comportamento.
+A manutenção da palavra comportamento como parte do
+nome tem grande relevância para a área de Psicologia, pois
+constitui a forma de integrar os psicólogos experimentais na
+sociedade, valorizando o enfoque no estudo do comportamento. Essa ênfase espelha a motivação original do grupo
+fundador de integrar psicólogos, estudiosos do comportamento, com os demais ramos da fisiologia, farmacologia,
+morfologia, e outras áreas de estudo do sistema nervoso.
+
+•
+
+•
+
+A Neurociência no Brasil
+A pesquisa em neurociência tem sólida tradição e ampla
+representação em nosso país (Silveira, 2004; Timo-Iaria, s.d.;
+Ventura, 1997). A partir das décadas de 40 e 50 do século
+passado, a área recebeu grande impulso com Aristides Pacheco Leão e Hiss Martins Ferreira estudando o fenômeno
+de depressão cortical alastarante na Universidade Federal do
+Rio de Janeiro (UFRJ); Carlos Ribeiro Diniz isolando e caracterizando o veneno de escorpião na Universidade Federal
+de Minas Gerais (UFMG); e Miguel Covian estabelecendo
+um grupo de pesquisa em eletrofisiologia do sistema nervoso
+na Faculdade de Medicina da Universidade de São Paulo em
+Ribeirão Preto (USP-RP).
+Na década de 1970, outros grupos iniciaram novas direções de pesquisa em neurociência: Carlos Eduardo Rocha
+Miranda e Eduardo Oswaldo Cruz fundaram seus laboratórios
+para o estudo do sistema visual na UFRJ, Cesar Timo-Iaria
+iniciou trabalhos no controle neural do metabolismo e em
+mecanismos de atenção e sono, Elisaldo Araújo Carlini
+criou um grupo de psicofarmacologia na Escola Paulista de
+Medicina e psicólogos experimentais e etólogos, em torno de
+Carolina Bori e Walter H. A. Cunha, começaram a trabalhar
+na USP e na Universidade de Brasília (UnB). Essas origens
+se refletem nos grupos de neurociência que existem hoje.
+Os temas de pesquisa dos principais grupos de neurociência no Brasil são apresentados a seguir (e resumidos na
+Tabela 2):
+• Memória em humanos e não humanos, investigada por
+pesquisadores do Centro de Memória do Departamento
+de Bioquímica da UFRGS, do Instituto de Biociências da USP, dos departamentos de Psicobiologia e
+de Fisiologia da Universidade Federal de São Paulo
+(UNIFESP) e do Departamento de Psicologia da USPRP. Esses grupos integram neuroquímica, fisiologia,
+farmacologia, neuroimagem e comportamento para
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 123-1
+
+•
+
+•
+
+estudar como humanos e não humanos adquirem,
+armazenam e recuperam informações.
+Ansiedade e depressão, estudadas principalmente pelo
+grupo do Departamento de Psicobiologia da USPRP, focalizando o papel da serotonina na modulação
+das respostas de medo e ansiedade em humanos e
+não humanos. Os trabalhos básicos do grupo constituíram referência para toda uma geração de drogas
+serotonérgicas. Com o mesmo tipo de metodologia,
+outros aspectos de ansiedade e estados emocionais,
+como a depressão, têm sido estudados pelos grupos
+do Departamento de Psicobiologia da UNIFESP, da
+Faculdade de Medicina da Universidade de Campinas
+(UNICAMP) e do Departamento de Psicologia Experimental do Instituto de Psicologia da USP. Outros aspectos da psicofarmacologia são estudados por grupos
+das universidades federais do Espírito Santo (UFES),
+Paraná (UFPR), Rio Grande do Norte (UFRN) e Santa
+Catarina (UFSC).
+Etologia, pesquisada pelo Departamento de Psicologia
+Experimental do Instituto de Psicologia da USP, pelo
+Instituto de Biociências da UNICAMP, pelo Departamento de Zoologia da UFMG e pelo Departamento
+de Psicobiologia da UFRN.
+Epilepsia, investigada no Departamento de Neurologia
+e Neurocirurgia da UNIFESP, o que resultou na criação de um novo modelo animal de crises epilépticas espontâneas recorrentes, agora amplamente utilizado em
+todo o mundo. Posteriormente, passou a ser estudada
+também no Departamento de Fisiologia da UNIFESP,
+nos departamentos de Fisiologia e Neurologia da Faculdade de Medicina da USP-RP e nos departamentos de
+Fisiologia da UFPR e da UFMG. Epilepsia é também
+estudada por meio de análise neuroetológica no Departamento de Psicobiologia da USP-RP.
+Sistema visual, incluindo aspectos morfológicos, neuroquímicos, eletrofisiológicos, de psicofísica (humana
+e não humana) e genéticos, estudado por um dos mais
+numerosos conjuntos de pesquisadores. Os estudos
+de desenvolvimento do sistema visual no gambá e de
+eletrofisiologia e morfologia da visão em primatas,
+realizados no Departamento de Neurobiologia do
+Instituto de Biofísica Carlos Chagas Filho da UFRJ,
+deram origem a outros grupos no Centro de Ciências
+Biológicas da UnB, no Núcleo de Medicina Tropical
+e no Centro de Ciências Biológicas da Universidade
+Federal do Pará (UFPA), e no Departamento de Neurobiologia da Universidade Federal Fluminense (UFF).
+Outros aspectos do funcionamento do sistema visual,
+estudados em abelhas, peixe, tartaruga, roedores e
+primatas humanos e não humanos, foram abordados
+por meio de psicofísica e eletrofisiologia, e metodologias morfológicas, moleculares e celulares, da retina e
+vias visuais. Esses aspectos têm sido investigados por
+grupos do Departamento de Psicologia Experimental
+do Instituto de Psicologia da USP, dos Departamentos
+de Fisiologia e Biofísica e de Biologia Celular e Tecidual do Instituto de Ciências Biomédicas da USP, no
+Departamento de Psicobiologia da Faculdade de Filosofia Ciências e Letras da USP-RP, no Departamento
+125
+
+D. F. Ventura
+Tabela 2. Principais temas e grupos de pesquisa em neurociência no Brasil.
+
+Tema
+
+Departamento
+
+Bioquímica
+Fisiologia
+Psic. Experimental
+Psicobiologia
+Psicofarmacologia (ansiedade, depressão, modelos animais Psicobiologia
+para doença mental, propriedades farmacológicas de produ- Farmacologia
+Psic. Experimental
+tos naturais)
+Fisiologia
+Neurobiologia
+Fisiologia
+Psic. Experimental
+Sistema visual (morfologia, neuroquímica, eletrofisiologia, Fisiologia
+Psicologia
+psicofísica e genética)
+Psicologia
+Psicologia
+Psicologia
+Memória
+
+Universidade
+ICB-UFRGS
+IB-USP
+IP-USP
+UNIFESP
+FFCLRP-USP
+UFSC
+IP-USP
+FM-UNICAMP
+IBCCF-UFRJ
+ICB-USP
+IP-USP
+CCB-UFPA
+UFPA
+FFCLRP-USP
+UFPE
+UnB
+
+Comportamento animal e neuroetologia
+
+Psic. Experimental
+Zoologia
+Psicobiologia
+Psicologia
+
+IP-USP
+UFMG
+UFRN
+UFSC
+
+Epilepsia
+
+Fisiologia, Neurologia
+Psicobiologia
+Psicobiologia
+Fisiologia
+
+UNIFESP
+UNIFESP
+FFCLRP-USP
+UFPR
+
+Organização funcional do sistema nervoso (morfologia,
+células tronco, plasticidade)
+
+Neurobiologia
+Anatomia
+Fisiologia e Biofísica
+Fisiologia
+
+IBCCF-UFRJ
+ICB-UFRJ
+ICB-USP
+CCB-UFPA
+
+Nutrição
+
+Fisiologia
+Fisiologia
+Psicobiologia
+
+UFPE
+CCB-UFPA
+FFCLRP-USP
+
+Sono e Cronobiologia
+
+Psicobiologia
+Fisiologia Clínica
+Fisiologia e Biofísica
+
+UNIFESP
+FM-USP
+ICB-USP
+
+Nutrição, desenvolvimento e funções neurais
+
+Nutrição
+Neurobiologia
+Neurologia
+Psicobiologia
+
+UFPE
+IBCCF-UFRJ
+UNIFESP
+FFCLRP-USP
+
+Psiquiatria
+Farmacologia
+Psiquiatria
+
+FM-USP
+UFSC
+FMRP-USP
+
+Neurociência computacional
+
+Eletricidade
+Ciência Computacional
+
+EP-USP
+IME-USP
+IF-USP
+FFCL-USP-RP
+IQF-USP-SC
+
+Neuroregeneração em acidente vascular cerebral e doença
+de Parkinson
+
+Biologia celular
+Anatomia
+Neurobiologia
+Neurologia
+Bioquímica
+
+ICB-USP
+ICB-UFRJ
+IBCCF - UFRJ
+UNIFESP
+UFRGS
+
+Doença mental (esquizofrenia, doença do pânico)
+
+126
+
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 123-129
+
+Neurociências e Comportamento
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+de Psicologia da Universidade Federal de Pernambuco
+(UFPE) e, mais recentemente, no Departamento de
+Fisiologia do Centro de Biologia da UFMG e no grupo
+de Psicologia da UFPA.
+Organização funcional do sistema nervoso e sua plasticidade, desde o desenvolvimento, apoptose, regeneração até mudanças comportamentais, são tópicos de
+pesquisa de grupos muito produtivos no Instituto de
+Biofísica Carlos Chagas Filho da UFRJ, no Instituto
+de Ciências Biomédicas da USP, no Departamento de
+Psicobiologia da Faculdade de Filosofia, Ciências e
+Letras da USP-RP, no Centro de Biologia da UFPA e
+no Departamento de Psicobiologia da UNIFESP.
+Sono e cronobiologia são também áreas de pesquisa
+muito ativas no Brasil, com grupos no Departamento
+de Psicobiologia da UNIFESP, no Instituto de Ciências
+Biomédicas da USP e no Departamento de Psicobiologia da UFRN.
+Doença mental (síndrome de pânico, esquizofrenia, depressão) e doenças neurodegenerativas são estudadas
+nos Departamentos de Psiquiatria e de Neurologia da
+Faculdade de Medicina da USP, que também utilizam
+modelos animais, nos departamentos de Psiquiatria da
+UNIFESP, de Fisiologia do Instituto de Ciências Biológicas da Universidade do Estado do Rio de Janeiro
+(UERJ) e de Neurologia da UNICAMP.
+Engenharia biomédica e redes neurais, estudadas
+por vários grupos no Instituto de Física, na Escola
+Politécnica, no Instituto de Matemática e Estatística
+e na Faculdade de Medicina da USP, na Faculdade de
+Filosofia, Ciências e Letras da USP-RP, assim como no
+Instituto de Química e Física da USP em São Carlos
+(USP-SC).
+Nutrição e funcionamento do cérebro, incluindo eletrofisiologia, morfologia e comportamento em modelos
+animais de subnutrição são aspectos pesquisados pelos
+Departamentos de Nutrição e de Fisiologia da UFPE,
+em interação com outros centros como o Departamento
+de Neurobiologia do Instituto de Biofísica da UFRJ, o
+Departamento de Neurologia da Faculdade de Medicina da UNIFESP, o Departamento de Fisiologia do
+Centro de Ciências Biológicas da UFPA e o Departamento de Psicobiologia da Faculdade de Filosofia,
+Ciências e Letras da USP-RP.
+Regeneração do sistema nervoso é estudada por meio
+de procedimentos de estimulação de neurogênese, de
+neuroproteção e de engenharia tecidual a partir de células pluripotentes. Esses estudos estão sendo conduzidos
+por grupos pioneiros da USP, da UNIFESP e da UFRJ.
+
+A comunidade de neurocientistas compreende cerca
+de 2000 pesquisadores, incluindo estudantes em todos os
+níves, da iniciação científica à pós-graduação e ao pósdoutoramento. Há programas de pós-graduação em Neurociências e Comportamento com este nome ou com o nome
+de Psicobiologia, na UFRN, na UFSC, na USP, na Faculdade
+de Filosofia, Ciências e Letras da USP-RP e na UNIFESP.
+Outros programas como os de ciências morfológicas,
+bioquímica, biofísica, farmacologia, fisiologia, nutrição e
+psicologia também incluem orientação em neurociência.
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 123-129
+
+Como consequência, um importante contingente de jovens
+pesquisadores altamente qualificados nos vários ramos da
+neurociência tem sido formado na última década. Estima-se
+que 20% da produção científica brasileira da área biológica
+e biomédica seja de neurociência.
+É intensa a produção científica da área de pesquisa
+básica, como se pode verificar em diversos congressos. Na
+Reunião Anual da Federação de Sociedades de Biologia
+Experimental (FeSBE), os trabalhos da divisão Neurociências e Comportamento (SBNec) constituem cerca de 30%
+do total. O número de trabalhos inscritos no período 2003 a
+2007 e no ano de 2009 somou 4476, ou seja, 746, em média
+(ver Figura 1 e Tabela 3). Mas na reunião da FeSBE existem
+outras divisões que incluem estudos do sistema nervoso (e.g.,
+toxicologia, neurofarmacologia etc), tornando esse número
+uma subestimação do total de trabalhos em pesquisa básica
+em neurociência anualmente apresentados nessa reunião.
+
+Figura 1. Participação das sociedades afiliadas à Federação de Sociedades
+de Biologia Experimental (FeSBE) na reunião anual. Dados acumulados
+dos anos 2003 a 2007 e 2009. Em 2008, a SBNeC organizou seu congresso
+junto com as sociedades da Argentina, Chile e Uruguai, no Neurolatam (ver
+texto). SBNeC - Sociedade Brasileira de Neurociências e Comportamento;
+SBFis – Sociedade Brasileira de Fisiologia; SBFTE – Sociedade Brasileira
+de Farmacologia e Terapeutica Experimental; SBBq – Sociedade Brasileira
+de Bioquímica; SBBf – Sociedade Brasileira de Biofísica (dados gentilmente
+cedidos em 16/09/2010 por Marcus Vinícius Baldo, Presidente da SBNeC)
+
+Outras importantes reuniões científicas também incluem
+pesquisas em neurociência. Dentre os mais de 1500 trabalhos
+apresentados na reunião anual da Sociedade Brasileira de
+Bioquímica e dentre os quase 800 apresentados na reunião da
+Sociedade Brasileira de Imunologia, uma considerável porção
+também trata de temas de neurociência. Dentre os trabalhos
+127
+
+D. F. Ventura
+Tabela 3. Proporções das linhas de pesquisa em neurociência apresentadas na
+Reunião Anual da Federação de Sociedades de Biologia Experimental (FeSBE).
+
+Linhas de Pesquisa
+Ansiedade, depressão, agressão, defesa
+Função autonômica
+Aprendizagem e memória
+Controle motor
+Visão e audição
+Dor
+Controle neuroendócrino
+Receptores, transmissores e neuromoduladores
+Ritmos biológicos
+Abuso de drogas
+Epilepsia
+EEG e potencial evocado
+Crescimento, diferenciação e morte celular
+Demais linhas
+
+Proporção
+14,2
+10,2
+8,5
+7,0
+6,8
+6,7
+5,7
+5,6
+5,3
+4,5
+3,6
+2,3
+1,8
+18,8
+
+apresentados na Sociedade Brasileira de Psicologia existe uma
+parcela dedicada à neurociência. A área está também fortemente representada em suas aplicações clínicas, na Sociedade
+Brasileira de Neuropsicologia. Na Associação Nacional de
+Pesquisa e Pós-Graduação em Psicologia (ANPEPP) foi criado
+há 10 anos o grupo de trabalho Psicobiologia, Neurociências
+e Comportamento, e a partir desse grupo surgiu a revista
+online Psychology & Neuroscience, publicada desde 2008.
+Em 2009, foi criado o Instituto Brasileiro de Neurociências e
+Comportamento, cuja primeira reunião ocorrerá em outubro
+de 2010, no Rio de Janeiro.
+Segundo o Institute for Scientific Information (http://
+www3.isi.edu/home), a neurociência está dentre as mais
+bem sucedidas áreas de investigação no Brasil, com 20% dos
+neurocientistas brasileiros situados dentre os pesquisadores
+mais produtivos de todas as áreas do conhecimento no Brasil.
+
+Integração Latinoamericana
+Em 2008, realizou-se o I NEUROLATAM – I Congresso
+de Neurociências Latinoamericano, Caribenho e Ibérico,
+em Búzios, RJ. Esse congresso reuniu 2600 participantes
+de 13 países. A expectativa dos organizadores, de cerca
+de 1000 participantes, foi superada muito antes da data do
+congresso e as inscrições precisaram ser fechadas com vários
+meses de antecedência. A idéia do NEUROLATAM surgiu
+na reunião anual da FeSBE, ocorrida em 2006, na qual o
+Comitê Regional Latino-Americano (do inglês, Latin American Regional Comittee – LARC) da International Brain
+Research Organization (IBRO) promoveu, juntamente com
+a SBNeC, um encontro oficial entre sociedades de neurociências da América Latina, Caribe e Península Ibérica. Os
+presidentes dessas sociedades e seus representantes (Conselho Ibero-Latino Americano de Presidentes e Representantes
+de Sociedades de Neurociências e LARC) reconheceram a
+necessidade premente de promover atividades integrativas e
+que alavancassem esta área do conhecimento, a começar por
+um grande congresso que se realizaria em 2008 abarcando
+128
+
+todas as sociedades. Esse congresso, por sua vez, deu origem
+à fundação da Federação de Associações Latinoamericanas
+de Neurociências (FALAN).
+Os congressos da SBNeC ocorreram, a partir de sua
+fundação em 1977, primeiramente dentro da Sociedade
+Brasileira para o Progresso da Ciência (SBPC), e desde 1992
+passaram a se realizar dentro da FeSBE. Em setembro de
+2010, a SBNeC organizou pela primeira vez seu congresso
+de forma independente, fora da reunião da FeSBE. Esse
+congresso contou com mais de 1500 inscritos. Embora a
+ideia de vários congressos simultâneos dentro do guarda
+chuva da FeSBE tenha a grande vantagem de proporcionar
+um ambiente multidisciplinar, a realização independente do
+congresso da SBNeC é consequência de sua maturidade e
+volume de associados e atividades.
+
+O Futuro
+As diversas áreas representadas nas neurociências brasileiras surgiram de forma espontânea, de meados do século
+passado para cá, refletindo oportunidades de treinamento
+em centros do exterior para os pioneiros da área. Sua diversificação cobre uma razoável extensão do campo das
+neurociências, embora ainda existam muitas lacunas. Mais
+do que cobrir todas as lacunas, contudo, devemos pensar no
+que seria relevante procurar desenvolver em nosso meio.
+Propomos, a seguir, alguns objetivos que poderão nortear
+futuras direções de desenvolvimento.
+Objetivo 1. Preservação e incentivo às linhas de pesquisa
+existentes
+Em primeiro lugar, devemos ampliar e fortalecer as linhas
+de pesquisa já bem estabelecidas e dedicar esforços para a
+expansão das linhas emergentes que já se instalaram. Em
+um país em que a massa crítica de pesquisadores é ainda
+muito pequena, devem ser aproveitados os recursos humanos
+com que já contamos. Existem também muitos cientistas
+brasileiros no exterior, destacando-se e realizando pesquisa
+de fronteira. O retorno desses cientistas deveria figurar em
+nossas prioridades.
+Objetivo 2. Incorporação da revolução trazida pela genética
+Seja nas linhas existentes, seja em novos programas, a
+pesquisa em neurociências deverá, em futuro imediato, considerar e incorporar os novos avanços da genética, em consonância com o que está ocorrendo no plano internacional.
+Esses avanços, os quais tocam em muitas linhas de pesquisa
+da neurociência, foram obtidos a partir do estudo de novas
+drogas para doenças neurológicas; das bases genéticas de
+doenças mentais como esquizofrenia e transtorno maníaco
+depressivo, incluindo investigacões dos genes desses pacientes que influenciam a resposta a drogas terapêuticas; dos defeitos congênitos; de doenças herdadas e do desenvolvimento
+como a síndrome do X frágil, síndrome de Rett e o autismo;
+da genética da adição a drogas e da farmacogenética, que
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 123-129
+
+Neurociências e Comportamento
+
+avalia a influência dos genes do indivíduo na sua resposta a
+medicamentos (e.g., antidepressivos).
+Objetivo 3. Incentivo à pesquisa clínica
+Para a tradução dos novos avanços genéticos ou de novos
+medicamentos e procedimentos em geral, em métodos terapêuticos e de diagnóstico, há necessidade de se incentivar a
+pesquisa translacional realizada por meio da pesquisa clínica
+com seres humanos. Isso vale não apenas para a neurociência, mas para toda a pesquisa biomédica. Na pesquisa
+biomédica, além de protocolos de avaliação dos efeitos de
+medicamentos, os estudos sobre envelhecimento são muito
+relevantes, dado o contínuo aumento na expectativa de vida.
+Os EUA estão investindo na pesquisa sobre retardamento do
+aparecimento e da evolução da doença de Alzheimer ou, até
+mesmo, da prevenção dessa patologia, com grandes estudos
+clínicos usando vitamina E, a droga Aricept, drogas antiinflamatórias e estrógeno. Outros estudos estão focalizando
+a busca de fatores ambientais responsáveis pela doença de
+Parkinson, como pesticidas, solventes e metais e avaliando
+drogas que lentificam a progressão da doença. São ainda muito importantes em nosso meio os estudos de neuropatologias
+regionais. Numa situação em que a pobreza da população
+está acompanhada pela desnutrição e por más condições
+sanitárias, patologias erradicadas ou inexistentes em países
+avançados são prevalentes no Brasil. Aspectos neurológicos
+de várias doenças degenerativas tropicais, como a malária e
+outras, deveriam ser estudados por nossos cientistas.
+O NIMH (2001), preocupado com impactos da doença
+mental na inclusão social desenvolveu uma rede de centros
+de excelência dedicados à pesquisa básica e clínica em autismo para prevenir, diagnosticar e tratar esta e outras doenças
+mentais em crianças. No Brasil, está sendo desenvolvido
+pela Academia Brasileira de Ciências um projeto do Centro
+de Apoio a Moradias Assistidas e ao Trabalho (CAMT), que
+se dedica a pesquisar causas e tratamentos das patologias,
+bem como a implantação e o gerenciamento de moradias
+assistidas para os pacientes.
+Objetivo 4. A incorporação de novas tecnologias
+A área de pesquisas de neuroimagem e, em especial, a
+ressonância magnética funcional, precisa se desenvolver nos
+próximos anos, em nosso meio, sob pena de ficarmos em
+grande defasagem com os países desenvolvidos. Essas novas
+tecnologias não invasivas estão rapidamente esclarecendo
+não só muitos aspectos do funcionamento normal do sistema
+nervoso, como são potencialmente úteis na compreensão de
+patologias. Por exemplo, a ressonância magnética funcional
+foi aplicada em estudos do National Institute on Drug Abuse
+(NIDA, 2010), pertencente ao NIH, usando, para examinar
+o desenvolvimento cerebral de bebês expostos durante a
+gestação, a metanfetamina e outras drogas que afetam a
+ação normal de neurotransmissores. Uma revisão sobre
+neurociência e alcoolismo, elaborada pelo National Institute
+of Alcohol Abuse and Alcoholism (NIAAA, 2008a, 2008b)
+mostra os efeitos do álcool no cérebro e as contribuiçôes
+Psic.: Teor. e Pesq., Brasília, 2010, Vol. 26 n. especial, pp. 123-129
+
+da neurociência na elucidação dos circuitos envolvidos nas
+adaptações biológicas ao álcool.
+Na área de neuroimagem temos ainda pouca atividade,
+apesar de já existirem excelentes recursos humanos, que
+estão constituindo núcleos formadores. Há necessidade de
+investimento planejado nessa área e, em geral, nos métodos
+diagnósticos não invasivos de alta tecnologia que têm surgido nas neurociências. Para tanto, devem ser constituídas
+equipes multidisciplinares, com forte ênfase em profissionais
+de informática, além de clínicos e pesquisadores básicos das
+áreas de neurofisiologia e psicologia experimental.
+Em conclusão, o presente documento procura trazer
+um retrato da área de neurociências no Brasil no momento,
+mostrando sua potencialidade e sugerindo caminhos para o
+futuro. Esse futuro depende naturalmente do apoio constante
+e integral das agências de fomento, seja em programas especiais, seja na manutenção e ampliação dos programas de
+fomento gerais que têm existido.
+
+Referências
+Library of Congress - LOC (2010). Project on the decade of the
+brain. Retirado em 16/09/2010, de http://www.loc.gov/loc/brain.
+National Institute of Alcohol Abuse and Alcoholism – NIAAA
+(2008a). Neuroscience: Pathways to alcohol dependence – Part
+I: Overview of the Neurobiology of Dependence. Retirado em
+14/09/2010, de http://pubs.niaaa.nih.gov/publications/ arh313/
+toc31-3. htm.
+National Institute of Alcohol Abuse and Alcoholism – NIAAA
+(2008b). Neuroscience: Pathways to alcohol dependence – Part II:
+Neuroadaptation, risk, and recovery. Retirado em 14/09/2010, de
+http://pubs.niaaa.nih.gov/publications/ arh313/toc31-3.htm.
+National Institute of Health – NIH (2002). Disease-specific
+estimates of direct and indirect costs of illness and NIH Support
+– NINDS. Retirado em 19/09/2010, de http://www.ninds.nih.gov/
+news_and_events/congressional_testimony/2002_appropriation_
+justification.htm.
+National Institute of Mental Health - NIMH (2001). Five-year
+strategic plan for reducing health disparities. Retirado em 16/09/2010,
+de http://www.nimh.nih.gov/about/strategic-planning-reports/nimhfive-year-strategic-plan-for-reducing-health-disparities.pdf.
+National Institute of Mental Health – NIMH (2002). Pathways to
+health: Charting the science of brain, mind, and behavior. Retirado
+em 16/09/2010, de http://www.nimh.nih.gov/about/strategicplanning-reports/index.shtml
+National Institute on Drug Abuse - NIDA (2010). Drugs that
+may have adverse prenatal effects. fMRI and the effects of prenatal
+methamphetamine exposure on verbal memory. Retirado em
+16/09/2010, de http://www.nida.nih.gov/consequences/prenatal/.
+Silveira, L. C. L. (2004). Neurociências no Brasil – uma
+revolução tecnológica ao nosso alcance. Neurociências, 1, 42-47.
+Timo-Iaria, C. (s.d.). História da neurofisiologia no Brasil.
+Retirado em 15/9/2010, de http://www.sbnec.org.br.
+Ventura, D. F. (1997). Report on experimental biology in Brazil.
+Em L. Bevilacqua (Org.), Science in Brazil - An overview (pp. 1631). Rio de Janeiro: Academia Brasileira de Ciências.
+World Health Organization - WHO (2002). Global burden of
+disease - GBD. Retirado em 16/09/2010, de http://www.who.int/
+healthinfo/global_burden_disease/en/index.html.
+
+129
