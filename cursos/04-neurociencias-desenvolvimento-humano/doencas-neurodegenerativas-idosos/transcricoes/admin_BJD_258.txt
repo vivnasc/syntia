@@ -1,0 +1,925 @@
+Brazilian Journal of Development 47677
+ISSN: 2525-8761
+
+Doença de Parkinson: revisão de literatura
+Parkinson’s Disease: literature review
+DOI:10.34117/bjdv7n5-258
+Recebimento dos originais: 23/04/2021
+Aceitação para publicação: 12/05/2021
+
+Ana Beatriz Gomes Silva
+Graduanda em Medicina
+UNIVAÇO – União Educacional do vale do Aço S.A
+Rua João Patricío Araújo, 179. Ipatinga – MG. CEP: 35164-251
+E-mail:abgomes458@gmail.com
+Beatriz Carvalho Pestana
+Graduanda em Medicina
+UNIVAÇO – União Educacional do vale do Aço S.A
+Rua João Patricío Araújo, 179. Ipatinga – MG. CEP: 35164-251
+E-mail:beatriz.cpestana@gmail.com
+Fernanda Akemi Andrade Hirahata
+Graduanda em Medicina
+UNIVAÇO – União Educacional do vale do Aço S.A
+Rua João Patricío Araújo, 179. Ipatinga – MG. CEP: 35164-251
+E-mail:akemi-h@hotmail.com
+Fernando Brasil de Sousa Horta
+Graduanda em Medicina
+UNIVAÇO – União Educacional do vale do Aço S.A
+Rua João Patricío Araújo, 179. Ipatinga – MG. CEP: 35164-251
+E-mail:fernandobrasil1309@gmail.com
+Eder Samuel Bonfim Esteves Oliveira
+Médico docente do curso de medicina
+UNIVAÇO – União Educacional do vale do Aço S.A
+Rua João Patricío Araújo, 179. Ipatinga – MG. CEP: 35164-251
+E-mail:edersamuca@yahoo.com.br
+
+RESUMO
+Introdução: A humanidade passa por um processo de envelhecimento que ocorre devido
+ao aumento da expectativa de vida, cenário que propicia o aumento do número de
+pacientes com doenças crônicas e degenerativas, como por exemplo a Doença de
+Parkinson (DP). Objetivo: Compreender as manifestações clínicas, os critérios
+diagnósticos e os possíveis tratamentos para a Doença de Parkinson. Métodos: Foi
+realizada uma revisão bibliográfica a partir de análise e seleção de artigos e publicações
+sobre o tema, encontrados nas plataformas: SciELO, Pub Med, LILACS, UpToDate e
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47678
+ISSN: 2525-8761
+
+EBSCO. Foram selecionados 36 artigos da língua portuguesa e inglesa superiores ao ano
+de 2011. Desenvolvimento: Devido a mudança no perfil epidemiológico no Brasil e no
+mundo, onde a população tem envelhecido, amplia-se também o número de doenças
+crônicas como a DP, que é definida como uma doença degenerativa primária, localizada
+na substância negra compacta na qual é sintetizada a dopamina. Apesar de vários avanços
+relacionados ao tratamento da DP, sua cura ainda não foi encontrada, portanto todos os
+tratamentos existentes visam o controle dos sintomas com o objetivo de manter o portador
+com o máximo de autonomia e independência funcional possível, proporcionando assim
+uma melhor qualidade de vida. Conclusão: Diante disso, é primordial diagnosticar a DP
+o mais precocemente possível, para iniciar a implementação de terapias e medicações que
+retardem a evolução da doença e prolonguem o início das limitações, as quais diminuem
+a qualidade de vida do paciente.
+Palavras-chave: Doença de Parkinson, Diagnóstico, Dopamina, Tratamento.
+ABSTRACT
+Introduction: Humanity is going through an aging process due to increased life
+expectancy and decreased birth rate, hence enlarging the number of patients with chronic
+and degenerative diseases, such as Parkinson's disease (PD). Objective: This study aims
+to understand the clinical manifestations, diagnostic criteria and possible treatments for
+Parkinson's Disease. Methods: A bibliographic review was made based on the analysis
+and selection of articles and publications concerning the topic. Development: Due to the
+change of the epidemiological profile in Brazil and around the world, the numbers of
+chronic diseases such as PD have risen. This condition is defined as a primary
+degenerative disease located in the compact black substance in which dopamine is
+synthesized. Despite several advances related to the treatment of PD, its cure has not been
+discovered yet, therefore all existing treatments aim to control symptoms in order to
+maintain the carrier with the maximum autonomy and the most functional independence
+possible, in addition providing better quality of life to the patient. Conclusion: In
+conclusion, it is essential to diagnose PD as early as possible, to start the implementation
+of therapies and medications that delay the condition’s development and postpone the
+beginning of severe limitations which decrease the patiente's well being and health.
+Keywords: Parkinson's disease, Diagnosis, Dopamine, Treatment.
+
+1 INTRODUÇÃO
+A doença de Parkinson (DP) ou mal de Parkinson é uma patologia de origem
+neurológica, degenerativa de uma região conhecida como substância negra, presente no
+sistema nervoso central. Recebe esse nome em honra ao médico inglês James Parkinson
+que foi o primeiro pesquisador a descrever, em 1817, os sintomas desta doença (HAYES,
+2019).
+É considerada a segunda enfermidade neurodegenerativa mais comum na
+população idosa, apresenta-se de forma crônica e progressiva, devido à diminuição do
+neurotransmissor dopamina nos gânglios da base (CHOU, 2020).
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47679
+ISSN: 2525-8761
+
+A doença de Parkinson é uma patologia de acometimento neurológico comum e
+complexo que engloba vários subtipos clínicos, epidemiológicos e genéticos. O Estudo
+de Fatores de Risco Global Burden of Dissasse Study de 2016 ressaltou que, entre os
+distúrbios neurológicos conhecidos e estudados pela ciência, sabe-se que a DP é
+considerada a que mais cresce em prevalência, incapacidades e mortes ao longo dos anos
+(DORSEY; ELBAZ, 2018; RIEDER, 2020).
+Sabe-se que o fator de risco mais importante é a idade, seguido por exposição a
+produtos químicos e poluentes industriais. Foi observado, em alguns estudos, a redução
+do risco de DP associado ao tabagismo (DORSEY; ELBAZ, 2018; RIEDER, 2020).
+O Brasil passa por uma transição demográfica com envelhecimento populacional.
+Isso leva à prevalência de patologias comuns da terceira idade. Segundo o IBGE (2018),
+o número de homens e mulheres com mais de 60 anos aumentou 18% nos últimos cinco
+anos e, em 2017, somavam mais de 30 milhões.
+Assim, tentando colaborar com a comunidade médico-científica, na tentativa de
+facilitar o entendimento sobre essa patologia, o presente estudo teve como objetivo
+realizar uma revisão de literatura para melhor compreender as manifestações clínicas, os
+critérios diagnósticos e o tratamento da Doença de Parkinson.
+2 DESENVOLVIMENTO
+A doença de Parkinson (DP) ou mal de Parkinson é uma patologia de origem
+neurológica, degenerativa de uma região conhecida como substância negra, presente no
+sistema nervoso central. Recebe esse nome em honra ao médico inglês James Parkinson
+que foi o primeiro pesquisador a descrever, em 1817, os sintomas desta doença (HAYES,
+2019).
+É considerada a segunda enfermidade neurodegenerativa mais comum na
+população idosa, apresenta-se de forma crônica e progressiva, devido à diminuição do
+neurotransmissor dopamina nos gânglios da base (CHOU, 2020).
+A doença de Parkinson é uma patologia de acometimento neurológico comum e
+complexo que engloba vários subtipos clínicos, epidemiológicos e genéticos. O Estudo
+de Fatores de Risco Global Burden of Dissasse Study de 2016 ressaltou que, entre os
+distúrbios neurológicos conhecidos e estudados pela ciência, sabe-se que a DP é
+considerada a que mais cresce em prevalência, incapacidades e mortes ao longo dos anos
+(DORSEY; ELBAZ, 2018; RIEDER, 2020).
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47680
+ISSN: 2525-8761
+
+Sabe-se que o fator de risco mais importante é a idade, seguido por exposição a
+produtos químicos e poluentes industriais. Foi observado, em alguns estudos, a redução
+do risco de DP associado ao tabagismo (DORSEY; ELBAZ, 2018; RIEDER, 2020).
+O Brasil passa por uma transição demográfica com envelhecimento populacional.
+Isso leva à prevalência de patologias comuns da terceira idade. Segundo o IBGE (2018),
+o número de homens e mulheres com mais de 60 anos aumentou 18% nos últimos cinco
+anos e, em 2017, somavam mais de 30 milhões.
+Assim, tentando colaborar com a comunidade médico-científica, na tentativa de
+facilitar o entendimento sobre essa patologia, o presente estudo teve como objetivo
+realizar uma revisão de literatura para melhor compreender as manifestações clínicas, os
+critérios diagnósticos e o tratamento da Doença de Parkinson.
+2.1 EPIDEMIOLOGIA
+A carência de evidências bibliográficas cientificas abordando a questão
+epidemiológica da Doença de Parkinson, no Brasil, não permite uma dissertação que
+elucida de forma clara e fidedigna como esses parâmetros epidemiológicos se encontram
+no país.
+Seguindo um padrão mundial, a pirâmide etária brasileira sofre mudanças no que
+se refere ao perfil da população. Segundo o Instituto Brasileiro de Geografia e Estatística
+(IBGE) está ocorrendo um aumento da expectativa de vida, justificando a elevação no
+número de portadores com DP (TYSNES; STORSTEIN, 2017).
+Sendo assim, sabe-se que a doença de Parkinson acomete preferencialmente
+pessoas com idade acima de 50 anos, de ambos os sexos, considerando ainda que sua
+incidência e prevalência aumentam com o avançar da idade. Estimava-se que, em 2004,
+existiam cerca de 4 milhões de pessoas com DP e, a partir disso, é esperado que, em 2030,
+o dobro de pessoas sejam acometidas por essa doença (PINHEIRO; BARBOSA, 2018).
+No Brasil, a estimativa é que existam 220 mil pessoas portadoras da DP, a
+prevalência entre a faixa etária com 60 e 69 anos é de 7 para 1000 indivíduos. Já na
+população que tem entre 70 e 79 anos, a taxa de acometimento é de 15 para cada 1000
+habitantes. Não obstante a isso, calcula-se que surgem cerca de 36 mil novos casos todos
+os anos, sendo a proporção de acometimento do sexo masculino superior ao sexo
+feminino (BOVOLENTA; FELÍCIO, 2016; TYSNES; STORSTEIN, 2017).
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47681
+ISSN: 2525-8761
+
+2.2 FISIOPATOLOGIA
+A DP possui origem desconhecida, entretanto alguns estudos indicam que ela pode
+ser ocasionada por um conjunto de fatores. Dentre eles, pode-se citar o, resultado de uma
+combinação da predisposição genética com a exposição a fatores tóxicos ambientais. A
+genética envolve genes que favorecem o desenvolvimento da enfermidade, já as toxinas
+ambientais estão relacionadas aos casos de pacientes com DP residentes em regiões rurais
+com exposição ao uso de pesticidas e herbicidas, associando o estresse oxidativo a uma
+exposição à produtos químicos industriais (CABREIRA; MASSANO, 2019;
+BALESTRINO; SCHAPIRA, 2019).
+Em uma análise fisiopatológica, ocorre uma degeneração dos neurônios de
+neuromelanina, localizados no tronco encefálico, destacando-se a degradação
+principalmente daqueles neurônios que contêm dopamina da camada ventral da parte
+compacta da substância negra e dos neurônios que contêm norepinefrina do lócus cerúleo.
+Esses núcleos podem apresentar neurônios que não se degeneraram e possuem inclusões
+proteináceas citoplasmáticas eosinofílicas designadas como corpúsculos de Lewy
+(KANG; FANG, 2018).
+Existem duas hipóteses patogênicas principais para a DP, sendo a associação dos
+fatores patogênicos das diferentes hipóteses uma plausível causa para compreensão do
+processo neurodegenerativo.
+
+A primeira hipótese propõe a disfunção mitocondrial
+
+associada ao estresse oxidativo como fatores fundamentais à patogenia, enquanto a
+segunda hipótese aponta que agregações e conformações anormais de proteínas sejam
+fundamentais para indução do processo neurodegenerativo (KANG; FANG, 2018).
+A partir da perda de neurônios dopaminérgicos da substância negra, há um
+comprometimento da atividade da alça frontoestriatal acarretando na disfunção do lobo
+frontal. As perdas cognitivas na DP, que comprometem os domínios de responsabilidade
+como déficit de memória operacional e redução do desempenho de funções executivas,
+podem estar relacionadas com a degeneração do lobo frontal (BALESTRINO;
+SCHAPIRA, 2019).
+Ao iniciarem os primeiros sintomas da DP, estima-se que cerca de 60% dos
+neurônios dopaminérgicos da substância negra já foram previamente degradados,
+reduzindo dessa maneira cerca de 80% da concentração habitual de dopamina estriatal. A
+presença de corpúsculos de Lewy, encontrados ao acaso em exames neuropatológicos em
+pacientes assintomáticos, pode indicar casos pré-sintomáticos da DP (PINHEIRO;
+BARBOSA, 2018).
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47682
+ISSN: 2525-8761
+
+Nos pacientes com DP, foi possível observar, através de exames, a redução da
+atividade de mitocôndrias presentes na substância negra dos mesmos, reduzindo, dessa
+maneira, a síntese de ATP, acarretando no acúmulo de elétrons livres e,
+consequentemente, no aumento do estresse oxidativo. Tal comprometimento pode ter
+como causa a associação de toxinas ambientais ao risco da DP (KANG; FANG, 2018).
+A análise da substância negra dos pacientes com DP aponta depleção grave do
+principal substrato crucial para eliminação das espécies reativas de oxigênio, a glutationa
+reduzida. Tal irregularidade também se faz presente nos cérebros que contém corpúsculos
+de Lewy ocasionais, não sendo possível ainda discernir se a irregularidade encontrada é
+causa ou consequência do estresse oxidativo (KANG; FANG, 2018).
+Há um conjunto de fatores que podem intensificar ou reduzir o estresse oxidativo,
+como a presença do ferro na substância negra para catalisar a formação do radical
+hidroxila. Existe também a presença dos genes recessivos PRKN e PINK1 com diversos
+efeitos no controle da qualidade mitocondrial e a ocorrência de reações de oxidação
+celular, que também pode resultar em danos aos neurônios monoaminérgicos. Ainda
+existem dúvidas quanto aos corpúsculos de Lewy que contém α-sinucleína, sendo
+indefinida se sua presença contribui para aumento da toxicidade ou se estaria, atuando
+como um mecanismo de proteção (KANG; FANG, 2018).
+2.3 MANIFESTAÇÕES CLÍNICAS
+As primeiras manifestações da DP são observadas diante um declínio no
+desempenho motor, afetando a prática das atividades cotidianas desses pacientes de forma
+a limitar ou até mesmo impedir tais ações. Diante desse quadro, há um comprometimento
+na qualidade de vida do paciente, prejudicando o estado mental e o relacionamento com
+elementos do ambiente, o que compromete a sua participação social (MALAK et al.,
+2017).
+O tremor é considerado um sinal inicial da doença em cerca de metade dos
+pacientes; ele apresenta o início nas extremidades distais do corpo, sendo observado em
+condições de repouso. São manifestações iniciais também a rigidez, a bradicinesia e a
+instabilidade. Ademais, o aparecimento desses sintomas está diretamente relacionado
+com a manifestação da síndrome rígido acinética que é associada mais especificamente à
+presença do tremor e à instabilidade postural. Além disso, a DP pode apresentar
+características clínicas não motoras (SVEINBJORNSDOTTIR, 2016).
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47683
+ISSN: 2525-8761
+
+O tremor parkinsoniano está presente em aproximadamente 70 a 80% dos
+pacientes, chegando a 100% com o avançar da doença. Essa manifestação se inicia
+unilateralmente na mão e depois se espalha contra lateralmente, pode envolver pernas,
+lábios, mandíbula e língua, mas raramente envolve a cabeça. O tremor na DP é de
+repouso, ou seja, é mais perceptível quando a parte trêmula do corpo é sustentada contra
+a gravidade e não envolve atividades intencionais. Nos casos mais graves, além do tremor
+de repouso terá um tremor durante manobras posturais ou com ação (CABREIRA;
+MASSANO, 2019; CHOU, 2020).
+Na fase inicial, geralmente não é perceptível para os outros, mas,
+aproximadamente metade dos pacientes, relatam uma sensação de tremulação interna nos
+membros ou no corpo que não está relacionada à presença de tremor observável. Com a
+progressão da doença, o tremor torna-se evidente (CABREIRA; MASSANO, 2019;
+CHOU, 2020).
+No cenário clinico, pode-se observar o tremor nos membros quando o paciente
+está relaxado, com as mãos descansando no colo, ao distraí-lo solicitando alguns cálculos
+mentais ou movimentos repetitivos voluntários do membro contralateral, que pode
+acentuar um tremor leve e descobrir um tremor latente.
+
+Alguns pacientes podem
+
+apresentar um tremor reemergente, um tremor postural que se manifesta após uma
+latência de vários segundos e tem frequência típica do tremor em repouso da DP. É
+importante a distinção, pois pacientes com DP que apresentam esse tipo de tremor podem
+ser diagnosticados erroneamente como possuindo temor essencial (CABREIRA;
+MASSANO, 2019; CHOU, 2020).
+Descrita pela maioria dos pacientes como “fraqueza”, “incoordenação” e
+“cansaço”, a bradicinesia é uma lentidão generalizada do movimento e está presente no
+início da DP em aproximadamente 80% dos pacientes, é vista como a principal causa da
+incapacidade deles. Nos braços, começa distalmente com a menor destreza nos dedos
+(dificuldade para amarrar sapatos, abotoar roupas, digitar). Nas pernas, as queixas mais
+comuns são ao caminhar (marcha parkinsoniana), passos mais curtos, sensação de
+instabilidade. Também podem apresentar dificuldade em se levantar de uma cadeira ou
+sair do carro. O exame clínico inclui a avaliação dos movimentos dos membros em cada
+lado do corpo. Deve-se observar a velocidade, amplitude e o ritmo de cada movimento.
+Na forma leve da DP, essas tarefas geralmente mostram alguma amplitude mais lenta e
+diminuída quando observadas por mais de alguns segundos. À medida em que a doença
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47684
+ISSN: 2525-8761
+
+progride, os movimentos se tornam menos coordenados, com frequentes hesitações
+(CABREIRA; MASSANO, 2019; CHOU, 2020).
+A rigidez é a resistência aumentada ao movimento passivo em torno de uma
+articulação estão presente em aproximadamente 75 a 90% das pacientes com DP.
+Geralmente ocorre unilateralmente e tipicamente do mesmo lado do tremor, raramente
+progride para o lado contralateral e permanece assimétrica em toda a doença. Pode afetar
+qualquer parte do corpo. Algumas características como a mão/pé estriatal (extensão das
+articulações interfalângianas proximal e distal com flexão nas articulações
+metacarpofalângianas), diminuição do balanço do braço ao caminhar e a típica postura
+curvada são resultados dessa manifestação. Na DP, normalmente a rigidez é em roda
+denteada, porém, nem todos os pacientes apresentaram esse tipo de rigidez; muitos terão
+a rigidez em cano de chumbo, uma resistência tônica suave em toda a gama de
+movimentos passivos (CABREIRA; MASSANO, 2019; CHOU, 2020).
+A instabilidade postural é comumente mencionada como uma manifestação
+principal, porém ocorre mais nas fases tardias da doença. Trata-se de um
+comprometimento dos reflexos posturais causando a sensação de desequilíbrio.
+Clinicamente é testada através do “Pull Test” ou teste de retropulsão em que o examinador
+fica atrás do paciente e puxa firmemente seus ombros. Pacientes com reflexos normais
+devem ser capazes de manter o equilíbrio e retroceder não mais que um passo, já
+portadores da DP tendem a cair ou dar vários passos para trás. Além desses sinais, existem
+outras características motoras vistas na DP com descritas no quadro 1 (CABREIRA;
+MASSANO, 2019; CHOU, 2020).
+Os sintomas motores são os mais evidentes na doença de Parkinson, mas não se
+pode esquecer das manifestações neuropsiquiátricas e não motoras. Em média, cada
+paciente com DP vai apresentar oito sintomas não motores. Em alguns portadores da
+doença, verificam-se certas características não motoras como: disfunção olfativa,
+constipação, depressão, distúrbio do comportamento do sono e movimentos oculares
+rápidos, podendo apresentar-se antes das características motoras (CABREIRA;
+MASSANO, 2019; CHAHINE; TARSY, 2020; CHOU, 2020).
+A demência e a disfunção cognitiva são comuns em pacientes com DP e ocorrem
+comumente na fase final da doença. É considerada uma demência subcortical, com
+retardo psicomotor, dificuldade de memória e personalidade alterada. Também existem
+problemas relacionados à recuperação de memória, à percepção visual equivocada e à
+função executiva prejudicada, esse sendo um dos primeiros indicadores de cognição
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47685
+ISSN: 2525-8761
+
+alterada. A psicose e alucinações ocorrem em 20 a 40% dos pacientes que são tratados
+com agonistas da dopamina para DP. As alucinações visuais são mais comuns
+comparadas às alucinações auditivas, olfativas e táteis que também podem estar
+relacionadas a essa patologia (CABREIRA; MASSANO, 2019; CHAHINE; TARSY,
+2020; CHOU, 2020).
+Depressão, ansiedade e abulia ou apatia são transtornos do humor que ocorrem
+com mais frequência em pacientes com DP. É preciso saber reconhecer esses sinais no
+paciente visto que podem ser confundidos com a bradicinesia e a expressão facial
+mascarada. Além disso, algumas características somáticas da depressão como diminuição
+do apetite, dificuldade de concentração e distúrbios do sono (insônia, sonolência diurna,
+distúrbios do comportamento do sono REM) são comumente observadas em pacientes
+com DP que não apresentam depressão. Já os sintomas relacionados à depressão, são:
+tristeza, anedonia e diminuição do interesse pelas atividades e, com menos frequência,
+sentimento de inutilidade (CABREIRA; MASSANO, 2019; CHAHINE; TARSY, 2020;
+CHOU, 2020).
+Fadiga, constipação, disfagia, dificuldades urinárias, disfunção sexual, hipotensão
+ortostática, sintomas sensoriais dolorosos e a dermatite seborreica são outros sinais que o
+portador da doença de Parkinson pode apresentar (CHAHINE; TARSY, 2020; CHOU,
+2020).
+2.4 DIAGNÓSTICO
+O diagnóstico da doença é muito complexo. A fim de melhorar o entendimento,
+estabeleceram-se três grupos de critérios: critério necessário para o diagnóstico, critério
+negativo (excludente) e critério de suporte positivo para diagnóstico (nesse são
+necessários pelo menos três). Não existem exames específicos que o comprovem, sendo
+assim, o diagnóstico é feito principalmente pela clínica, ficando claro quando os sintomas
+se tornam evidentes ou quando o paciente apresenta melhora ao uso de Levodopa, sendo
+razoavelmente um indicativo seguro (BALESTRINO; SCHAPIRA, 2019).
+O diagnóstico da Doença de Parkinson é feito pela análise clínica do paciente,
+quando ele apresenta alguma combinação dos sinais motores cardinais, como tremor de
+repouso,
+
+bradicinesia,
+
+rigidez
+
+com
+
+roda
+
+denteada,
+
+anormalidades
+
+posturais
+
+(BALESTRINO; SCHAPIRA, 2019).
+O tremor essencial, caracterizado por tremor cinético e postural, é um dos
+distúrbios mais frequentemente confundido com a DP, principalmente em suas fases
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47686
+ISSN: 2525-8761
+
+iniciais. Pacientes que são tratados com Levodopa e apresentam melhora significativa não
+confirma a doença, visto que outras patologias também podem apresentar melhora com o
+uso da Levodopa (KANG; FANG, 2018).
+Sabe-se que, pode ser difícil fazer o diagnóstico diferencial entre DP e o
+parkinsonismo atípico, especialmente nos estágios iniciais da doença. Apesar de
+existirem múltiplas causas, o termo parkinsonismo atípico é aplicado às três síndromes
+neurodegenerativas mais comuns, que é a atrofia de múltiplos sistemas, paralisia
+supranuclear progressiva e degeneração corticobasal (BRASIL, 2017)
+O exame de imagem mais utilizado no nosso cotidiano, por ser relativamente
+simples, acessível e de menor custo, comparado aos demais apresentados é a ressonância
+magnética (RM). Atualmente, existem diversos estudos que mostraram que o método
+apresenta alta sensibilidade na detecção de lesões, excelente resolução espacial e
+capacidade de avaliação multiplanar. Com isso, espectros encontrados na ressonância
+magnética convencional podem revelar grandes alterações estruturais que poderão
+facilitar o diagnóstico diferencial entre a DP e o parkinsonismo atípico (OLIVEIRA;
+PEREIRA, 2017; ARMSTRONG; OKUN, 2020).
+A Tomografia por Emissão de Pósitrons (PET) e a Tomografia Computadorizada
+por Emissão de Fóton Único (SPECT) podem ser utilizadas na investigação da DP. O
+PET tem como método a medição do metabolismo da dopamina no corpo estriado do
+paciente. Já o SPECT utiliza um marcador, que é sensível para transportadores da
+dopamina. Entretanto, são métodos que requerem um tempo hábil de exame, com elevado
+custo e são pouco disponíveis no nosso meio (OLIVEIRA; PEREIRA, 2017).
+2.5 TRATAMENTO
+Até o presente momento, não existem tratamentos para DP que prometam a
+reversão do quadro de degeneração neuronal. A ciência possui apenas métodos que
+oferecem alívio dos sintomas através de tratamentos farmacológicos, nãofarmacológicos, cirúrgicos e tratamentos alternativos (MASSANO, 2011; HAYES,
+2019).
+A DP é considerada uma doença progressiva, cuja sintomatologia piora com o
+passar do tempo, e consequentemente, aumenta a necessidade do uso de fármacos. Em
+detrimento da ausência de marcadores biológicos, não é possível realizar um diagnóstico
+precoce e primário, deixando a cargo da atenção secundária diagnosticar e visar a um
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47687
+ISSN: 2525-8761
+
+tratamento cujo objetivo seja reduzir a progressão da doença e controlar a sintomatologia
+(PINHEIRO; BARBOSA, 2018).
+O tratamento da DP é feito de acordo com os estágios da doença. Em geral, o
+estágio inicial é quando os sintomas são brandos, perceptíveis, mas ainda não incomodam
+o paciente e não há necessidade de utilizar medicamentos sintomáticos (PINHEIRO;
+BARBOSA, 2018).
+Os medicamentos sintomáticos devem ser utilizados com bastante cautela, uma
+vez que podem causar efeitos colaterais. Sendo assim, o seu uso deve ser postergado até
+que os sintomas fiquem mais acentuados e comecem a causar incômodo no cotidiano do
+paciente (PINHEIRO; BARBOSA, 2018).
+Atualmente, existem estudos que demonstram o uso do inibidor da MAO-B, como
+a Selegilina e Resagilina, provocam um efeito sintomático suave, retardando a
+necessidade do uso da Levodopa por um intervalo médio de 9 meses. Mas ainda não se
+sabe o grau de eficácia desses medicamentos, pois os estudos não demonstraram
+benefícios como o efeito neuroprotetor. Sendo assim, o estudo não atingiu a meta
+almejada e não possui recomendação de ser usado na prática clínica (SPINDLER;
+TARSY, 2020).
+Os fármacos de preservação da Levodopa são medicamentos que têm o intuito de
+realizar uma neuroproteção e retardar o uso da Levodopa, como, por exemplo, a
+Amantadina, os anticolinérgicos e os agonistas de dopamina (CACABELOS, 2017;
+HOMAYOUN, 2018).
+A Amantadina tem a função de atuar aumentando a liberação de dopamina nos
+sítios de armazenamento e bloqueando a receptação de dopamina pelas terminações présinápticas. Estudos comprovaram que, nos estágios iniciais da doença, esse medicamento
+é eficaz em 2/3 dos pacientes. Esse fármaco é considerado seguro para ser usado, mas,
+em alguns casos, a sua administração pode causar alucinações visuais ou até efeitos
+colaterais mais brandos como livedo reticular ao redor dos joelhos (HOMAYOUN,
+2018).
+A posologia habitual do medicamento é de 100 mg, duas vezes ao dia, mas, em
+alguns casos, pode ser necessária administrar uma dose mais alta de até 200 mg, duas
+vezes ao dia. Além disso, sabe-se que esse fármaco pode ser utilizado em outros estágios
+da doença, como nos avançados, sendo adjuvante da Levodopa e dos agonistas da
+dopamina. Também, é considerado medicamento de escolha para atenuar as discinesias
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47688
+ISSN: 2525-8761
+
+induzidas pela Levodopa, utilizando o mecanismo de ação antiglutamatérgico
+(SPINDLER; TARSY, 2020).
+Além disso, também podem ser usados os Agonistas de Dopamina, nos estágios
+iniciais da doença ou como coadjuvantes ao tratamento com a Levodopa para
+potencializar o efeito antiparkinsoniano e tentar minorar as reações adversas provocadas
+pelo seu uso prolongado. Os agonistas são menos eficazes que a Levodopa como
+fármacos antiparkinsonianos, visto que a maioria dos pacientes precisa acrescentar
+Levodopa depois de alguns anos (BIE, et al., 2020).
+Nesse grupo, encontram-se o Bromocriptina, a Pergolida, a Lisurida e a
+Cabergolina que são derivados do esporão de centeio. Entretanto, sabe-se que até um
+terço dos pacientes tratados com Pergolida pode desenvolver valvopatia cardíaca fibrótica
+restritiva, em razão de seu efeito agonista nos receptores de 5HT2B das valvas cardíacas.
+Devido a esse motivo o fármaco, não é mais comercializado nos EUA (BIE et al., 2020).
+Além disso, existem os agonistas dopaminérgicos como os não ergolínicos,
+Pramipexol e Ropinirol. Esses fármacos podem causar edema na pele, anorexia, náuseas,
+hipotensão ortostática, no início do tratamento e sonolência intensa, no período diurno.
+Ademais, podem causar ataques de sonolências em momentos improváveis, sendo
+imprescindível deixar o paciente em alerta sobre o perigo de dirigir ou praticar atividades
+que demandam cuidado e atenção redobrada. Já em pacientes com presença de disfunção
+cognitiva, os agonistas de dopamina têm mais tendência de causar alucinações
+(CACABELOS, 2017; ARMSTRONG; OKUN, 2020).
+Sendo assim, os cuidadores precisam ser alertados dessas possíveis complicações,
+e avisar rapidamente ao médico quando esses efeitos começarem a aparecer para que a
+medicação possa ser interrompida ou a dose, reduzida. É recomendado que o fármaco
+seja reduzido gradativamente devido à possibilidade de abstinência. E, felizmente, os
+efeitos de impulsividade são controlados com o cessamento do fármaco (HOMAYOUN,
+2018).
+A dose diária pode ser aumentada progressivamente, a intervalos semanais, de
+forma a evitar efeitos adversos, até alcançar um resultado benéfico. Também recomendase uma dose de manutenção (Bromocriptina: 5 mg, 3 vezes/dia; Pramipexol: 0,5 mg, 3
+vezes/dia; Ropirinol: 1 mg, 3 vezes/dia) (POEWE; MAHLKNECHT, 2020).
+A Rotigotina é um agonista dopaminérgico fraco, mas a aplicação de um adesivo
+dérmico por dia é conveniente e, deste modo, permite alcançar níveis plasmáticos estáveis
+do agonista ao longo de todo o dia. O medicamento mostrou eficácia na dor associada à
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47689
+ISSN: 2525-8761
+
+DP e melhorou significativamente o humor dos pacientes (REKTOROVA, 2019;
+EDINOFF et al., 2020).
+Também conhecemos as drogas anticolinérgicas, que são úteis como monoterapia
+para pacientes com idade ≤ 65 anos e tremor perturbador, mas sem bradicinesia
+significativa ou distúrbio da marcha. Todos os pacientes devem ser aconselhados
+exaustivamente e monitorados de perto quanto a efeitos colaterais, incluindo prejuízo
+cognitivo, constipação e retenção urinária (ARMSTRONG; OKUN, 2020).
+Dentre as drogas anticolinérgicas, temos a Trihexifenidil e Benzatropina, que são
+drogas anticolinérgicas de ação central. A dosagem indicada do Trihexifenidil inicial é de
+0,5 a 1 mg, duas vezes ao dia, com um aumento gradual para 2 mg, três vezes ao dia.
+Os pacientes mais jovens toleram doses mais altas, se necessário, para tremor, mas devem
+estar vigilantes para o desenvolvimento de efeitos colaterais. Já a Benzatropina, é
+tradicionalmente mais usada por psiquiatras para o tratamento do parkinsonismo induzido
+por medicamentos antipsicóticos; a dose usual é de 0,5 a 2 mg, duas vezes ao dia
+(HAYES, 2019).
+O fármaco mais eficaz para redução dos sintomas é o Levodopa, mas é pouco
+tolerado por pacientes jovens e pode provocar complicações motoras. Deve-se ser usando
+quando o paciente já não responde aos fármacos de preservação da Levodopa ou em
+pacientes acima de 70 anos que apresentam alguma disfunção cognitiva, pois é mais
+eficaz
+
+e
+
+tem
+
+risco
+
+menor
+
+de
+
+causar
+
+efeitos
+
+adversos
+
+psiquiátricos
+
+(SVEINBJORNSDOTTIR, 2016).
+A Levodopa, percursora da síntese de dopamina, é considerada a droga mais eficaz
+para o tratamento sintomático da DP. Seus efeitos são significativos na função motora,
+nas atividades da vida diária e na qualidade de vida do paciente, ao se comparar com
+outras drogas. Entretanto, a Levodopa está associada a maior risco de discinesia do que
+outros medicamentos (POEWE; MAHLKNECHT, 2020).
+No Brasil, as formulações da Levodopa que encontramos disponíveis para serem
+comercializadas vem associada a inibidores da dopa descarboxilase periférica, com o
+intuito de impedir a conversão em dopamina na corrente sanguínea. Temos disponível a
+Levodopa associada à Benserazida, mais conhecido pelo nome comercial Prolopa® e a
+Carbidopa, conhecida por Sinemet® (KANG; FANG, 2018; SPINDLER; TARSY,
+2020).
+Esses medicamentos são disponibilizados em diferentes apresentações, que
+permitem uma liberação gradual da droga no tubo digestivo com uma duração maior do
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47690
+ISSN: 2525-8761
+
+seu efeito, como o Prolopa HBS® e Cronomet® (KANG; FANG, 2018; SPINDLER;
+TARSY, 2020).
+O medicamento que associa a Benzerazida/Levodopa, estão disponíveis em
+comprimidos de 25mg/100mg e 50mg/200mg, respectivamente. A dose inicial indicada
+para o tratamento é 62,5mg, via oral, de três a quatro vezes ao dia, aumentando
+lentamente, até atingir uma dosagem ideal de 300mg a 600mg de Levodopa + 75mg a
+150mg de Benserazida, via oral, dividida em três ou mais administrações. Lembrando que
+o ideal é sempre ser administrado trinta minutos antes ou uma hora após as refeições
+(SPINDLER; TARSY, 2020).
+Já o medicamento combinado Carbidopa/Levodopa está disponível em
+comprimidos de 10/100, 25/100 e 25/250 mg, com o numerador se referindo à Carbidopa
+e o denominador, à dose de Levodopa. As doses iniciais do tratamento devem ser feitas
+com 25/100 mg, meio comprimido, duas a três vezes ao dia com as refeições. A tolerância
+para a dosagem precisa ser avaliada individualmente (ARMSTRONG; OKUN, 2020).
+Quando o tratamento for iniciado sem efeitos colaterais, a dose diária total de
+Carbidopa/Levodopa pode ser titulada cuidadosamente, ao longo de várias semanas, para
+um comprimido completo de 25/100 mg, três vezes ao dia, com um espaçamento de
+quatro a seis horas de cada tomada conforme tolerado. Normalmente, não é necessária
+uma dose antes de dormir no início da terapia com levodopa (BRESSMAN; SAUNDERS
+- PULLMAN, 2019).
+Já os pacientes mais idosos que apresentam demência devem começar com doses
+menores em detrimento de sua maior suscetibilidade aos efeitos colaterais psiquiátricos.
+A posologia deve ser individualizada, mas é tipicamente usual, no início do tratamento,
+dosagem próxima a 300 a 600 mg de Levodopa por dia (BRESSMAN; SAUNDERS PULLMAN, 2019).
+Embora alguns pacientes respondam à dosagem menor, outros apresentam
+ausência completa de resposta a uma dose de Levodopa de 1000 a 1500 mg/ dia, o que
+sugere que o diagnóstico original de DP pode estar errado e que uma das outras síndromes
+parkinsonianas, como atrofia de múltiplos sistemas, paralisia supranuclear progressiva ou
+parkinsonismo vascular, deve ser considerada (TARAKAD; JANKOVIC, 2017).
+Entretanto, a DP que tem predominância de tremor pode não apresentar uma
+resposta significativa ao medicamento, uma vez que tremores de grandes amplitudes
+podem ser resistentes à Levodopa. Esse medicamento não deve ser interrompido de
+maneira abrupta, em pacientes com DP, pois a retirada súbita pode ser raramente
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47691
+ISSN: 2525-8761
+
+associada a uma síndrome semelhante à síndrome neuroléptica maligna ou crise acinética
+(OERTEL; SCHULZ, 2016).
+Tendo como base os sinais e sintomas supracitados, é evidente o
+comprometimento social que eles trazem para o paciente. Diante disso, faz-se necessário
+o atendimento multidisciplinar, na busca de uma melhora das condições de vida desse
+paciente como um todo (EDINOFF et al., 2020).
+O atendimento multidisciplinar associa a medicina convencional à outras áreas,
+principalmente, a fonoaudiologia e a fisioterapia. A fisioterapia deve visar capacitar e
+adequar o paciente para desafios impostos pela doença, principalmente nas tarefas
+corriqueiras do dia a dia, como levantar da cama, apoiar-se ao corrimão para caminhar de
+forma segura, subir e descer escadas, até mesmo o autocuidado durante o banho ou as
+atividades diárias (FLEISHER; TARSY, 2020).
+Dentre a gama de exercícios que existem, as principais modalidades incluem:
+treinamento na esteira com suspensão parcial do peso, treino de equilíbrio e resistência
+de alta intensidade, exercícios que incluem sinalização auditiva, vocal, feedback tátil e
+musicoterapia. Portanto, além de benefícios físicos, existem também fisiológicos, dentre
+eles: melhora da capacidade cardiorrespiratória, melhor controle dos esfíncteres, aumento
+da capacidade respiratória e melhor metabolização das drogas utilizadas no tratamento
+(SHULMAN et al., 2013).
+Na fonoaudiologia, o encaminhamento precoce do paciente para o serviço também
+viabiliza uma melhora na qualidade de vida com condições aceitáveis de comunicação.
+Outro ponto importante a ser ressaltado, é a reabilitação pulmonar do paciente que pode
+ser sublocada tanto na realização da fisioterapia geral, quanto na fonoaudiologia
+(FLEISHER; TARSY, 2020).
+As abordagens cirúrgicas utilizadas atualmente são direcionadas a pacientes que
+se apresentam em estágios mais desenvolvidos da DP. Normalmente são pacientes que
+melhoram com o uso da Levodopa, mas acabam apresentando efeitos motores
+incontroláveis em função do uso desse fármaco (KANG; FANG, 2018).
+Anteriormente à introdução do tratamento com a Levodopa, a cirurgia mais
+utilizada era a esteroestática. Esse procedimento provocava lesões no globo pálido ou no
+tálamo e, assim, reduzia, principalmente, o tremor, em vista das outras manifestações da
+DP. Após o surgimento da Levodopa, tal recurso cirúrgico caiu em desuso. Entretanto,
+com os efeitos motores causados por esse tipo de fármaco, ainda há um grande interesse
+em relação aos tratamentos cirúrgicos (KANG; FANG, 2018).
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47692
+ISSN: 2525-8761
+
+A estimulação cerebral profunda (ECP) atua recuperando o equilíbrio fisiológico
+nos núcleos da base sem a necessidade de restabelecer os níveis de dopamina, sendo
+métodos mais seguros. A ECP consiste na implantação cirúrgica de um eletrodo, que pode
+ser uni ou bilateral. Um gerador é colocado na região subclavicular e conectado aos
+eletrodos, por meio de cabos, objetivando a aplicação de corrente elétrica de baixa
+intensidade às estruturas nervosas no interior do encéfalo, permitindo, assim, uma
+neuromodulação (FERREIRA, 2014).
+A ECP se mostra eficaz apenas no tratamento de pacientes que obtiveram melhora
+com o uso da Levodopa, mas que, devido à utilização da mesma, apresentam discinesias
+induzidas por ela. Esse tipo de cirurgia, em geral, permite a redução das discinesias e o
+controle dos sintomas do parkinsonismo, apresentando melhores resultados nos pacientes
+mais jovens (KANG; FANG, 2018).
+O tipo de cirurgia mais utilizado, hoje em dia, é a estimulação elétrica do núcleo
+subtalâmico, que apresenta redução do tremor, da bradicinesia e da rigidez, permitindo,
+dessa maneira, minimizar, de forma gradativa as doses dos fármacos dopaminérgicos
+(KANG; FANG, 2018).
+A estimulação do globo pálido possui como alvo a parte posterolateral da GPi
+(parte interna do globo pálido), que apresenta como foco a região das fibras
+glutamatérgicas excitatórias aferentes, provenientes do núcleo subtalâmico hiperativo na
+DP, sendo o método mais eficaz para tratar distonia e coreia contralaterais induzidas pela
+Levodopa. Entretanto apresenta melhora relativa da bradicinesia e do tremor (KANG;
+FANG, 2018).
+Naqueles pacientes com presença de déficits cognitivos e que não apresentam
+melhora com o uso da levodopa a aplicação da ECP é contraindicada, visto que há uma
+piora do transtorno cognitivo. Alguns estudos demonstraram que, após esse processo
+cirúrgico, os pacientes apresentaram uma redução em funções executivas relacionadas
+com a fluência verbal, velocidade de processamento e modificação nos níveis de apatia.
+Entretanto, há estudos que também apontaram redução no grau de ansiedade desses
+pacientes e melhoras nos escores de memória e de sintomas obsessivos-compulsivos
+(KANG; FANG, 2018; ARTEN; HAMDAN, 2020).
+Ainda não há explicações claras para redução da fluência verbal após a ECP, no
+entanto alguns estudos sugerem que tal diminuição pode estar relacionada a um efeito que
+o procedimento acarreta nos gânglios da base. Além disso, outros estudos avaliaram a
+trajetória do eletrodo e sugeriram que poupar o núcleo caudado nessa trajetória e optar
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47693
+ISSN: 2525-8761
+
+por uma outra mais antero-lateral seria cognitivamente mais seguro (MACHADO;
+REPPOLD, 2015).
+Os possíveis efeitos adversos que podem resultar do processo cirúrgico incluem a
+hemorragia cerebral (condição rara), uma provável infecção associada a um corpo
+estranho, distúrbio da fala, distonia e rompimento dos fios. Nos pacientes mais jovens,
+esses efeitos estão mais relacionados com disfunção cognitiva, disartria, depressão
+(tentativas de suicídio) e controle parcial das flutuações e das discinesias (KANG; FANG,
+2018).
+Com o avanço das ciências, a busca por tratamentos alternativos se intensificou,
+visando a promover o conforto e o bem-estar do enfermo, sem a necessidade de aumentar
+a quantidade de fármacos. Dessa forma, fisioterapias alternativas, o uso de canabidiol e a
+homeopatia podem ser utilizados como forma de ajudar na recuperação cognitiva
+(PEREIRA et al., 2019).
+Fisioterapias alternativas estão sendo muito adotadas pelos pacientes com DP,
+como dança, prática de yoga e a musicoterapia, junto com o tratamento farmacológico,
+para atenuar os sintomas e as disfunções da doença. Esses exercícios exercem o papel de
+neuroprotetor celular, atuando tanto nos sintomas motores como também nos não
+motores. A prática de dança como atividade de baixo impacto, pode facilitar a ativação
+de áreas que normalmente estão reduzidas na DP, diminuindo a progressão da doença. A
+yoga pode ser adaptada a esses pacientes, auxiliando no alinhamento postural e nos
+movimentos, além de promover relaxamento, flexibilidade e fortalecimento. Dessa
+forma, melhora a marcha, a fadiga, a qualidade de vida e a independência funcional
+(PEREIRA et al., 2019; EDINOFF et al., 2020).
+Já a musicoterapia vem sendo estudada recentemente, porém, desde os
+primórdios, é utilizada como forma preventiva, paliativa e terapêutica. É uma terapia não
+verbal que possibilita elevar a autoestima do paciente, promover as interações em grupo
+e auxiliar no tratamento, proporcionando uma melhor qualidade de vida. Pesquisas norteamericanas realizadas em pacientes com DP em uso da musicoterapia relataram melhora
+na orientação tempo/espaço, insegurança, ansiedade, potencialização das funções físicas
+e mentais, reforçando a autonomia pessoal. Com isso, é possível perceber, os benefícios
+dessa terapia no bem-estar dos idosos, visto que minimiza os problemas dos pacientes
+com Parkinsonismo (PEREIRA et al., 2019).
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47694
+ISSN: 2525-8761
+
+Sabe-se que os receptores canabinóides (receptor canabinóide 1 e 2 ou CB1 e
+CB2) e compostos endocanabinóides (N-aracdonoil etanolamina ou anandamida, e 2aracdonoil glicerol ou 2-AG) podem ser encontrados em grandes quantidades nas áreas
+cerebrais envolvidas no processamento e execução de movimentos corporais, como por
+exemplo, os gânglios da base. Durante a evolução da doença, o sistema encocanabinóide
+passa por modificações, incluindo a redução no número de receptores CB1, nas fases
+iniciais, e aumento dos receptores CB1, CB2 e endocanabinóide nas fases intermediárias
+e avançadas da DP. Com isso, existe a possibilidade do uso terapêutico dos
+fitocanabinóides (delta-9-tetraidrocanabinol, THC, canabidiol, CBD) no tratamento de
+sintomas motores e não motores desta patologia. Entretanto, ainda não foi totalmente
+esclarecido o mecanismo de ação sobre o efeito antiparkisoniano (FAGAN;
+CAMPBELL, 2014; FERREIRA-JUNIOR et al., 2020).
+3 CONCLUSÃO
+Diante da revisão bibliográfica realizada, observa-se que houve um aumento
+progressivo da população idosa portadora da Doença de Parkinson. Essa patologia é
+considerada neurodegenerativa e está em grande ascensão, manifestando-se com falência
+nas regiões neuronais, que está correlacionada, principalmente a fatores genéticos e
+ambientais.
+Perante a todos esses fatores, o que mais predomina é o envelhecimento, que está
+diretamente associado à perda neuronal progressiva. Devemos nos lembrar de que a DP
+provoca disfunções nos sistemas dopaminérgicos, monoaminérgicos, que interferem
+diretamente na apresentação da sintomatologia. As disfunções supracitadas acabam
+provocando alterações motoras, causando limitações na vida dos pacientes idosos,
+despertando um sentimento de incapacidade e repercutindo em uma baixa qualidade de
+vida.
+Infelizmente, o diagnóstico é complexo e baseado na clínica apresentada pelo
+paciente e não há possibilidade de realização de exames específicos para o mesmo, o que
+o torna normalmente tardio. Ainda não se tem conhecimento de um tratamento que visa
+à cura do paciente. Todos os fármacos, cirurgias e terapias visam a retardar a progressão
+da doença, minorar seus efeitos e contribuir para uma boa qualidade de vida do idoso.
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47695
+ISSN: 2525-8761
+
+Quadro 1: outras características motoras da DP
+CRANIOFACIAL
+
+VISUAL
+
+MÚSCULO ESQUELÉTICO
+
+MARCHA
+
+Hipomimia
+Diminuição da taxa de
+piscada espontânea nos
+olhos
+Comprometimento da
+fala.
+(disartia, hipocinética,
+hipofonia e palilalia)
+
+Visão turva
+
+Micrografia
+
+Festinação
+
+Sensibilidade de
+contraste prejudicada
+
+Distonia
+
+Sacadas hipométricas
+
+Mioclonia
+
+Disfagia
+Sialorreia
+
+Reflexo vestíbulo ocular
+comprometida
+Pálpebra de abertura
+apraxia
+
+Postura curvada
+Camptocormia
+Síndrome de Pisa
+Cifose
+Escoliose
+
+Fonte: Adaptado de CABREIRA; MASSANO, 2019; CHOU, 2020.
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47696
+ISSN: 2525-8761
+
+REFERÊNCIAS
+ARMSTRONG, M. J.; OKUN, M. S. Diagnosis and Treatment of Parkinson Disease.
+Jama Neurology, v. 323, n. 6, p. 548-560, 2020.
+ARTEN T. L. S.; HAMDAN A. C. Executive Functions in Parkinson’s disease with and
+without Deep Brain Stimulation (DBS). Dement Neuropsychol, v. 14, n. 2, p. 178- 185,
+2020.
+BALESTRINO, R.; SCHAPIRA, A. H. V. Parkinson Disease. European Journal of
+Neurology, v. 27, n. 1, p. 27-42, 2019.
+BIE, R. M. A.; CLARKE, C. E.; ESPAY, A. J.; FOX, S.H.; LANG, A. E. Initiating
+pharmacotherapy in early Parkinson´s disease. The Lancet Neurology, v. 19, p. 643-644,
+2020.
+BOVOLENTA, T. M.; FELÍCIO, A. C. Pacientes com Parkinson no contexto da Política
+Pública de Saúde Brasileira. Einstein (São Paulo), v. 14, n. 3, p. 7-9, 2016.
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas Doença de
+Parkinson. Portaria SAS/MS n. 10, 31 de outubro de 2017. Disponível em:
+https://portalarquivos2.saude.gov.br/images/pdf/2017/novembro/14/Portaria-ConjuntaPCDT-Doenca-de-Parkinson.pdf. Acesso em: 26 fev. 2021.
+BRESSMAN, S.; SAUNDERS-PULLMAN, R. When to start Levodopa Therapy for
+Parkinson´s Disease. The New England Jornal of Medicine, v. 380, n. 4, p.380- 389,
+2019.
+CABREIRA, V.; MASSANO, J. Doença de Parkinson; Revisão clinica e atualização.
+Acta Médica Portuguesa, v. 32, n. 10, p. 661-670, 2019.
+CACABELOS, R. Parkinson’s Disease: From Pathogenesis to Pharmacogenomics.
+Internacional Journal of Molecular Sciences, v.18, n. 3, p. 551, 2017.
+CHAHINE, L.; TARSY, D. Management of nonmotor symptoms in Parkinson disease.
+UpToDate, fev. 2020. Disponível em: https://www.uptodate.com/contents/managementof-nonmotor-symptoms-in-parkinsondisease?search=doenca%20de%20parkinson&topicRef=4903&source=see_link. Acesso
+em: 24 mar. 2020.
+CHOU, K. L. Clinical manifestations of Parkinson disease. UpToDate, fev. 2020.
+Disponível
+em:
+https://www.uptodate.com/contents/clinical-manifestations-ofparkinsondisease?search=doenca%20de%20parkinson&source=search_result&selectedTitle=1~1
+50&usage_type=default&display_rank=1. Acesso em: 24 mar. 2020.
+CHOU, K.L. Diagnosis and differential diagnosis of Parkinson disease. UpToDate, ago.
+2020. Disponível em: https://www.uptodate.com/contents/diagnosis-and-differentialdiagnosis-of-parkinson-
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47697
+ISSN: 2525-8761
+
+disease?search=parkinson&source=search_result&selectedTitle=3~150&usage_type=de
+fault&display_rank=3. Acesso em: 24 set. 2020.
+DORSEY, E. R.; ELBAZ, A. Global, regional, and national burden of Parkinson's
+disease, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016.
+The Lancet Neurology, v. 17, n. 11, p. 939-953, 2018.
+EDINOFF, A.; SATHIVADIVEL, N.; MCBRID, T.; PARKER, A.; OKEAGU, C.;
+KAYE, A. D. et al. Chronic Pain Treatment Strategies in Parkinson’s Disease. Neurology
+international, v. 12, n. 3, p. 61-73, 2020.
+FAGAN, S. G.; CAMPBELL, V. A. The influence of cannabinoids on generic traits of
+neurodegeneration. British Journal of Pharmacology, v. 171, n. 6, p. 1347-1360, 2014.
+FERREIRA A. G. Deep Brain Stimulation: New Frontier in the Treatment of CNS
+Disorders. Acta Médica Portuguesa, v. 27, n. 5, p. 641-648, 2014.
+FERREIRA-JUNIOR, N. C.; CAMPOS, A. C.; GUIMARÃES, F. S.; DEL-BEL, E.;
+ZIMMERMANN, P. M. R.; BRUM JUNIOR, L. et al. Biological bases for a possible
+effect of cannabidiol in Parkinson’s disease. Brazilian Journal of Psychiatry, v. 42, n.
+2, p. 218 – 224, 2020.
+FLEISHER, D.; TARSY, D. Nonpharmacologic management of Parkinson disease.
+UpToDate,
+2020.
+Disponível
+em:
+https://www.uptodate.com/contents/nonpharmacologic-management-of-parkinsondisease?search=parkinson%20e%20fisioterapia&source=search_result&selectedTitle=6
+~150&usage_type=default&display_rank=6#H1. Acesso em: 23 jan. 2021.
+HAYES, M. T. Parkinson’s Disease and Parkinsonism. The American Journal of
+Medicina, v. 132, n. 7, p. 802-807, 2019.
+HOMAYOUN, H. I Parkinson Disease. Annals of Internal Medicine, v. 169, n. 5, p.
+33-51, 2018.
+IBGE. Instituto Brasileiro de Geografia e Estatística e Pesquisa. Número de idosos
+cresce 18% em 5 anos e ultrapassa 30 milhões em 2017. Rio de janeiro: 2018.
+Disponível em: https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-denoticias/noticias/20980-numero-de-idosos-cresce-18-em-5-anos-e-ultrapassa-30milhoes-em-2017. Acesso em: 21 out. 2018.
+KANG, U. J; FANG, S. (Org.). Doença de Parkinson. In: LOUIS, E. D.; MAYER, S. A.;
+ROWLAND, L. P. Tratado de Neurologia. 13.ed. Rio de Janeiro: Guanabara Koogan,
+2018. p. 702-720.
+MACHADO F. A.; REPPOLD C. T. The effect of deep brain stimulation on motor and
+cognitive symptoms of Parkinson’s disease. Dement Neuropsychol, v. 9, n. 1, p. 24-31,
+2015.
+MALAK, A. L. S. B.; VASCONCELLOS, L. F.; PEREIRA, J. S.; GRECA, D. V.; CRUZ,
+M.; ALVES. H. V. D. et al. Sympotoms of depression in patients with mild cognitive
+impairment in Parkinson’s disease. Dement Neuropsychol, v. 11, n. 2, p. 145-153, 2017.
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
+
+Brazilian Journal of Development 47698
+ISSN: 2525-8761
+
+MASSANO, J. Doença de Parkinson: actualização clínica. Acta Médica Portuguesa, v.
+24, n. 4, p. 827-834, 2011.
+OERTEL, W.; SCHULZ, J. B. Current and experimental treatments of Parkinson disease:
+A guide for neuroscientists. Journal of Neurochemistry, v. 139, p. 325-337, 2016.
+OLIVEIRA, R. V.; PEREIRA, J. S. O papel da ressonância magnética por difusão na
+doença de Parkinson e no diagnóstico diferencial com parkinsonismo atípico. Radiologia
+Brasileira., v. 50, n. 4, p. 250-257, 2017.
+PEREIRA, A. P. S.; MARINHO, V.; GUPTA, D.; MAGALHÃES, F.; AYRES, C.;
+TEIXEIRA, S. Music Therapy and Dance as Gait Rehabilitation in Patients With
+Parkinson Disease: A Review of Evidence. Journal of Geriatric psychiatry and
+neurology, v. 32, n. 1, p. 49-56, 2019.
+PINHEIRO, J. E. S.; BARBOSA, M. T. Doença de Parkinson e Outros Distúrbios do
+Movimento em Idosos. In: FREITAS, E. V. D.; PY, L. Tratado de Geriatria e
+Gerontologia. 4.ed. Rio de Janeiro: Guanabara Koogan, 2018. p. 360-370.
+POEWE, W.; MAHLKNECHT, P. Pharmacologic Treatment of Motor Symptoms
+Associated with Parkinson Disease. Neurologic Clinics, v. 38, n. 2, p. 255-267, 2020.
+REKTOROVA, I. Current treatment of behavioral and cogntive symptoms of
+Parkinson’s disease. Parkisonism and Related Disorders, v. 59, p. 65-73, 2019.
+RIEDER, C. R. Canabidiol na doença de Parkinson. Brazilian Journal of Psychiatry, v.
+42, n. 2, p. 126-127, 2020.
+SHULMAN, L. M.; KATZEL, L. I.; IVEY, F. M.; SORKIN, J. D.; FAVORS, K.;
+ANDERSON, K. E. et al. Randomized clinical trial of 3 types of physical exercise for
+patients with Parkinson disease. Jama Neurology, v. 70, n. 2, p. 183-190, 2013.
+SPINDLER, A.M; TARSY, D. Tratamento farmacológico inicial da doença de Parkinson.
+UpToDate, set. 2020. Disponível em: https://www.uptodate.com/contents/initialpharmacologic-treatment-of-parkinson
+disease?search=parkinson%20treatment&source=search_result&selectedTitle=1~150&
+usage_type=default&display_rank=1#H1753702916. Acesso em: 18 set. 2020.
+SVEINBJORNSDOTTIR, S. The clinical symptoms of Parkinson’s disease. Journal of
+Neurochemistry, v. 139, n. 1, p. 318-324, 2016.
+TARAKAD, A.; JANKOVIC, J. Diagnosis and Management of Parkinson’s Disease.
+Seminars in Neurology, v. 37, n. 2, p. 118-126, 2017.
+TYSNES, O. B.; STORSTEIN, A. Epidemiology of Parkinson’s Disease. Journal of
+Neural Transmission, v. 128, [s.n.], p. 901-905, 2017
+
+Brazilian Journal of Development, Curitiba, v.7, n.5, p. 47677-47698 may. 2021
