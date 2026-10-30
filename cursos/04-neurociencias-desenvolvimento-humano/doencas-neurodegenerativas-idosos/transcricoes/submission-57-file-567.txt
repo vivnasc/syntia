@@ -1,0 +1,510 @@
+v.2, n.1, 2022
+
+RECISATEC – REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+ISSN 2763-8405
+
+QUALIDADE DE VIDA DOS PORTADORES DE ESCLEROSE MÚLTIPLA:REVISÃO DE LITERATURA
+QUALITY OF LIFE OF MULTIPLE SCLEROSIS PATIENTS: LITERATURE REVIEW
+Jhonathan Lima de Almeida1, Joarlison da Silva Vanzella2, Laryssa Lima Trelha3, Ruth Silva Lima da Costa4, Marília
+Perdome Machado5
+e2157
+https://doi.org/10.53612/recisatec.v2i1.57
+
+RESUMO
+Esclerose múltipla (EM) é uma doença crônica autoimune onde as células de defesa do organismo
+atacam o próprio sistema nervoso central causando a destruição da bainha de mielina. Seus sintomas
+podem variar dependendo do local que foi acometido pela reação inflamatória repercutindo em
+alterações na vida diária do portador. O presente estudo objetiva identificar os fatores que comprometem
+a qualidade de vida dos portadores de esclerose múltipla. Trata-se de uma revisão sistemática da
+literatura realizada nos bancos de dados da Scientific Electronic Library Online (SCIELO) e Medical
+Literature Analysis and Retrievel System Online (PUBMED), em estudos publicados no período
+compreendido entre de janeiro de 2018 a dezembro de 2019. Após a aplicação dos critérios de inclusão
+e exclusão foram selecionados 8 estudos que compuseram o escopo da pesquisa. Os principais fatores
+relacionados ao desenvolvimento de esclerose múltipla são a depressão, a fadiga e a ansiedade, e que
+contribuem para uma pior qualidade de vida dos portadores, afetando progressivamente o bem estar
+desses indivíduos trazendo consequências físicas e psicológicas. Novos estudos sobre a temática são
+necessários com o intuito de dar visibilidade ao tema e subsidiar o trabalho de profissionais de saúde no
+atendimento aos portadores de esclerose, com o intuito de melhorar a sua condição.
+PALAVRAS-CHAVE: Esclerose Múltipla. Fatores de Risco. Qualidade de vida
+
+ABSTRACT
+Multiple sclerosis (MS) is a chronic autoimmune disease where the body's defense cells attack the central
+nervous system causing the destruction of the myelin sheath. Its symptoms may vary depending on the
+location that was affected by the inflammatory reaction, resulting in changes in the patient's daily life. This
+study aims to identify the factors that compromise the quality of life of patients with multiple sclerosis. This
+is a systematic review of the literature carried out in the Scientific Electronic Library Online (SCIELO) and
+Medical Literature Analysis and Retrievel System Online (PUBMED) databases, in studies published from
+January 2018 to December 2019. After applying the inclusion and exclusion criteria, 8 studies that make
+up the scope of the research were selected. The main factors related to the development of multiple
+sclerosis are depression, fatigue and anxiety, which contribute to a worse quality of life for patients,
+progressively affecting the well-being of these individuals, bringing physical and psychological
+consequences. New studies on the subject are needed in order to give visibility to the topic and support
+the work of health professionals in caring for patients with sclerosis, in order to improve their condition.
+KEYWORDS: Prevalence. Trachoma. Risk factors
+
+1 Enfermeiro. Centro Universitário Uninorte. Rio Branco – Acre- Brasil. Orcid: https://orcid.org/0000-0003-4474-483X
+2 Enfermeiro. Centro Universitário Uninorte. Rio Branco – Acre- Brasil. Orcid: https://orcid.org/0000-0003-3442-1201
+3 Enfermeira. Centro Universitário Uninorte. Rio Branco – Acre- Brasil. Orcid: https://orcid.org/0000-0001-7113-8312
+4 Enfermeira. Docente. Doutoranda ENSP/FIOCRUZ Centro Universitário Uninorte. Rio Branco – Acre- Brasil. Orcid:
+
+https://orcid.org/0000-0003-1890-086X
+5 Enfermeira. Docente. Especialista. Centro Universitário Uninorte. Rio Branco – Acre- Brasil. Orcid:
+https://orcid.org/0000-0001-6913-6246
+RECISATEC - REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+
+1
+
+v.2, n.1, 2022
+
+RECISATEC – REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+ISSN 2763-8405
+QUALIDADE DE VIDA DOS PORTADORES DE ESCLEROSE MÚLTIPLA:REVISÃO DE LITERATURA
+Jhonathan Lima de Almeida, Joarlison da Silva Vanzella, Laryssa Lima Trelha, Ruth Silva Lima da Costa, Marília Perdome Machado
+
+INTRODUÇÃO
+A esclerose múltipla (EM) é uma doença crônica e progressiva, desmielinizante e autoimune,
+geralmente atinge os jovens entre 20 e 40 anos causando múltiplas lesões espalhadas pela região da
+medula espinhal e do encéfalo. Essas lesões ocorrem devido a destruição da bainha de mielina dos
+neurônios, fazendo com que ocorra uma deficiência na condução motora 1.
+Existem três tipos de esclerose múltipla, a esclerose múltipla remitente recorrente (EMRR)
+caracterizada pelo aparecimento de surtos da doença que podem durar em torno de uma semana; a
+Esclerose Múltipla primária progressiva (EMPP) que apresenta déficit neurológico com uma certa
+progressão da doença desde o início, e por fim, a Esclerose múltipla secundária progressiva (EMSP)
+que inicialmente apresenta-se como um surto da esclerose remitente, tonando-se depois progressiva
+podendo evoluir com um ganho de sintomas 2.
+Estima-se que a prevalência média de portadores da doença em nível global é de cerca de 33
+casos por 100.000 habitantes. No Brasil, a Associação Brasileira de Esclerose Múltipla (ABEM) estima
+que exista cerca de 35.000 brasileiros portadores 3-4.
+Os sintomas da doença podem variar e dependem do local da reação inflamatória resultante da
+resposta autoimune. Variam de déficits neurológicos focais como fraqueza motora, alterações de
+sensibilidade, alterações de visão, além da dificuldade para falar, fadiga, depressão, alteração de
+comportamento e de memória. A fadiga entra como outro sintoma prevalente na patologia, afetando
+diretamente a qualidade de vida dos portadores, podendo levar a um quadro grave de depressão, pois
+acomete o indivíduo no auge da sua vida social e profissional 5-6.
+A Qualidade de Vida (QV) refere-se a vários fatores como, por exemplo, o bem-estar, estado
+físico, psicológico, social, econômico e até mesmo espiritual, que devem estar em equilíbrio na vida do
+ser humano. Existem grandes alterações na qualidade de vida de uma pessoa comprometida com
+Esclerose Múltipla e estudos apontam o declínio cognitivo e a fadiga como sequelas responsáveis para
+sua ocorrência. Assim, a doença traz como consequência a incapacidade de realizar atividades do dia a
+dia, na vida social e profissional dos indivíduos acometidos por ela 7-8-9.
+Nesse sentido, é importante que o profissional de saúde esteja capacitado para o atendimento a
+esse público alvo, pois compreender a qualidade de vida dos mesmos faz com que o atendimento
+integral possibilite avaliar individualmente o paciente como um todo, favorecendo uma visão holística e
+possibilitando o planejamento de ações no sentindo de promover a assistência, recuperação e
+capacitando-os para o autocuidado, contribuindo para seu bem-estar dentro das limitações impostas
+pela doença 10.
+Visto que a Esclerose Múltipla é uma patologia rara, pouco discutida e com forte impacto na
+qualidade de vida de seus pacientes, o presente estudo justifica-se, pois poderá fornecer conhecimento
+e compreensão acerca da QV dos portadores da EM no convívio social, familiar e no aspecto
+psicoemocional, sendo assim essa pesquisa tem como objetivo identificar os fatores que comprometem
+a qualidade de vida dos portadores de esclerose múltipla.
+RECISATEC - REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+
+2
+
+v.2, n.1, 2022
+
+RECISATEC – REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+ISSN 2763-8405
+QUALIDADE DE VIDA DOS PORTADORES DE ESCLEROSE MÚLTIPLA:REVISÃO DE LITERATURA
+Jhonathan Lima de Almeida, Joarlison da Silva Vanzella, Laryssa Lima Trelha, Ruth Silva Lima da Costa, Marília Perdome Machado
+
+MÉTODO
+Trata-se de uma revisão sistemática da literatura. Optou-se por uma revisão sistemática da literatura,
+pois segundo Galvão e Pereira 11, “uma revisão sistemática de literatura tem o objetivo de investigação focada
+em questão bem definida, que visa identificar, selecionar, avaliar e sintetizar as evidências relevantes
+disponíveis”.
+As etapas utilizadas na realização dessa revisão foram: (1) identificação de um problema de saúde
+pública; (2) formulação de uma questão clínica relevante e específica; (3) busca de evidências científicas a
+partir dos critérios de inclusão e exclusão; (4) avaliação das evidências disponíveis; (5) extração e análise dos
+dados; (6) síntese e discussão dos resultados.
+A seleção dos estudos foi realizada nas seguintes bases de dados eletrônicas: Medical Literature
+Analysis and Retrievel System Online (MEDLINE) e Scientific Eletronic Library Online (SCIELO) com a adoção
+de descritores (Mesh) “Esclerose Múltipla AND Fatores de Risco AND Qualidade de vida”.
+A pergunta norteadora adotada para o presente estudo foi: quais dos fatores de risco que afetam a qualidade
+de vida de portadores de Esclerose Múltipla?
+Como critérios de inclusão, foram adotados estudos originais publicados sobre o tema proposto, no
+período de janeiro de 2018 a dezembro de 2019, sem restrição de idioma ou localização, disponíveis online na
+íntegra e com abordagem completa do conteúdo. Foram excluídos da amostra artigos de revisão, relato de
+caso, metanálise e documentos. Após a leitura da extensão completa dos artigos, também foram excluídos os
+estudos que não respondiam à pergunta da pesquisa e os estudos duplicados.
+As buscas resultaram em 176 publicações. Após a aplicação dos critérios mencionados foram
+encontrados 8 artigos e em seguida selecionaram-se todos estes estudos para a leitura na íntegra e análise
+completa, os quais compõem a amostra final desta revisão.
+Os artigos encontrados foram analisados conforme a ordem de seleção e os dados foram analisados
+de forma descritiva.
+Quanto aos aspectos éticos, todas as informações extraídas dos artigos pertencem ao domínio público,
+e as ideias, conceitos e definições dos autores incluídos na revisão foram respeitados, não sendo, portanto,
+necessária a aprovação do estudo em comitê de ética em pesquisa
+RESULTADOS E DISCUSSÃO
+Neste estudo foram analisados oito artigos que preencheram os critérios estabelecidos de inclusão e
+exclusão para composição da análise proposta. Foi elaborado um quadro conciso para facilitar a síntese dos
+artigos que foram selecionados na amostra final da revisão.
+
+RECISATEC - REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+
+3
+
+v.2, n.1, 2022
+
+RECISATEC – REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+ISSN 2763-8405
+QUALIDADE DE VIDA DOS PORTADORES DE ESCLEROSE MÚLTIPLA:REVISÃO DE LITERATURA
+Jhonathan Lima de Almeida, Joarlison da Silva Vanzella, Laryssa Lima Trelha, Ruth Silva Lima da Costa, Marília Perdome Machado
+
+Quadro 1 - Distribuição dos estudos de acordo com autor e ano, título, objetivo e tipo de estudo.
+AUTOR e ANO
+
+Silva;
+Cavalcanti,
+2019 12.
+
+TÍTULO
+
+OBJETIVO
+
+TIPO DE ESTUDO
+
+Avaliação
+da Avaliar a percepção da Estudo transversal.
+qualidade de vida qualidade de vida em
+em portadores de pacientescom esclerose
+esclerose múltipla: múltipla (EM) e verificar
+impacto da fadiga, se há associação com
+ansiedade
+e fadiga, ansiedade
+e
+depressão.
+depressão.
+
+Broersma,
+O
+impacto
+das
+et al., 2018 13. limitações da auto
+percepção, estigma
+e
+senso
+de Coerência na
+qualidade de vida
+em pacientes com
+esclerose múltipla:
+resultados
+de
+um
+estudo
+transversal.
+StrobeR,
+Qualidade de vida e
+2018 14.
+bem-estar
+psicológico
+nos
+estágios iniciais da
+esclerose múltipla.
+
+Analisar o impacto das Estudo transversal.
+limitações
+percebidas,
+estigma e senso de
+coerência na qualidade
+de vida em pacientes
+com esclerose múltipla.
+
+Determinar os efeitos Estudo Transversal.
+mediadores
+da
+depressão na qualidade
+de
+vida
+e
+fadiga
+relacionadas à saúde em
+indivíduos
+com
+esclerose múltipla.
+
+Salhofer, et al., Qualidade de vida Avaliar o impacto de Estudo transversal.
+2018 15.
+relacionada à saúde diferentes
+tipos de
+na esclerosemúltipla: temperamentos,
+o
+Temperamento conforme definido por
+supera o EDSS.
+Akiskal et al. Sobre
+qualidade
+de
+vida
+relacionada à saúde em
+pacientes com EM
+
+Muñoz,
+2018 16.
+
+Glavor,
+Titli,
+Vuletic,
+2019 17.
+
+A associação entre Determinar os efeitos Estudo Transversal.
+qualidade de vida mediadores
+da
+relacionada à saúde depressão na qualidade
+e fadiga é mediada de
+vida
+e
+fadiga
+pela depressão em relacionadas à saúde em
+pacientes
+com indivíduos com
+esclerose múltipla?
+esclerose múltipla.
+Qualidade de vida e Comparar o impacto de Estudo Transversal.
+saúde de pacientes vários sintomas de
+em
+estágios pacientes com EM com
+primeiros
+de um
+estágio
+inicial
+esclerose múltipla.
+(EDSS <2,5) da doença
+em
+amostras
+normativas baseadas
+RECISATEC - REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+
+4
+
+v.2, n.1, 2022
+
+RECISATEC – REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+ISSN 2763-8405
+QUALIDADE DE VIDA DOS PORTADORES DE ESCLEROSE MÚLTIPLA:REVISÃO DE LITERATURA
+Jhonathan Lima de Almeida, Joarlison da Silva Vanzella, Laryssa Lima Trelha, Ruth Silva Lima da Costa, Marília Perdome Machado
+
+na
+população
+em
+saúde, usando a versão
+croata do SF-36 e a
+versão croata do PWI.
+Pinto,Guerra,
+2018 18.
+
+Rojas, et
+al., 2018 19.
+
+A
+influência
+do
+sentido de vida e de
+fatores psicossociais
+na qualidade de vida
+de doentes com
+esclerose múltipla.
+
+Analisar a
+influência Estudo transversal,
+do sentido de
+vida, exploratório
+e
+suporte
+social,
+descritivo.
+ansiedade e depressão .
+na
+percepção
+de
+qualidade de vida de
+pessoas com Esclerose
+Múltipla (EM).
+Sintomas presentes Descrever
+as Estudo
+na
+esclerose características clínicas, observacional.
+múltipla: série de sociodemográficas e de Scielo.
+casos.
+sintomas de pacientes
+com esclerose múltipla
+do serviço de Neurologia
+do Hospital de San José
+em Bogotá.
+Fonte: dados da pesquisa, 2021.
+
+A esclerose múltipla pode causar um grande impacto na qualidade de vida dos seus portadores,
+trazendo consequências físicas e psicológicas. Saber como os portadores reagem a esses fatores, se
+faz importante, considerando que quanto mais alto forem os níveis de limitações desses indivíduos,
+maior serão as implicações na piora da sua qualidade de vida 13.
+Nesse sentido, variáveis sociais e psicológicas demonstram ter um impacto significativo,
+especialmente no início do processo da doença, evidenciando que, embora certos sintomas sejam
+diferentes entre aqueles com alta QV e aqueles com QV baixa e média, os fatores psicológicos e sociais
+como a depressão é consistentemente demonstrada como o maior determinante da doença entre todos
+os grupos 14.
+Mediante a isso, os achados Salhofer 15 demostraram que as pessoas portadoras da doença,
+tiveram uma redução da percepção da QV, devido alterações no organismo causados por efeitos
+colaterais das medicações utilizadas e por alterações clínicas causadas pela própria doença.
+Dados sobre a patologia evidenciam que o acometimento da medula pode chegar a um nível
+importante de cronicidade podendo trazer danos severos, sendo assim considerado péssimo
+prognóstico, ressaltando que os pacientes apresentam resultados para depressão, que se configuram
+como um dos principais fatores de risco,
+
+que contribuem na influência para os aspectos
+
+psicoemocionais da percepção da QV, sendo que ela afeta de forma gradativa esses portadores,
+afetando o seu estado emocional e social 12.
+De acordo com Muñoz, 16 em alguns domínios de qualidade de vida, a depressão e a fadiga
+estão associadas negativamente com o dor corporal e a saúde mental. Entende-se que quanto pior for a
+função física maior a fadiga será percebida e consequentemente ocorrerá a piora do estado da saúde
+mental, aumentando as dores no corpo e os sintomas depressivos.
+RECISATEC - REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+
+5
+
+v.2, n.1, 2022
+
+RECISATEC – REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+ISSN 2763-8405
+QUALIDADE DE VIDA DOS PORTADORES DE ESCLEROSE MÚLTIPLA:REVISÃO DE LITERATURA
+Jhonathan Lima de Almeida, Joarlison da Silva Vanzella, Laryssa Lima Trelha, Ruth Silva Lima da Costa, Marília Perdome Machado
+
+Segundo os achados de Salhofer
+
+15
+
+os atributos do temperamento depressivo incluem
+
+abnegação, baixo nível de energia, negativismo e sempre vendo o lado sombrio das coisas,
+principalmente quando esses indivíduos enfrentam uma doença potencialmente incapacitante e
+imprevisível como a EM.
+Ao comparar os resultados relatados por portadores de esclerose múltipla com a população
+adulta geral, observou-se que no estágio inicial da doença eles possuem uma qualidade de vida
+semelhante à da população adulta em geral, onde pontuações altamente negativas relacionadas à
+qualidade de vida nos quesitos das funções sociais, saúde mental, energia e vitalidade dá-se em
+decorrência de uma baixa satisfação com padrão de vida, segurança e saúde futuras 17.
+Ainda assim, segundo Silva e Cavalcanti ,12 estudos anteriores confirmaram uma determinada
+associação entre a ansiedade e a redução da QV. Esse estudo comprovou que a ansiedade é um
+mecanismo de causa natural que é produzido devido ao medo que esses pacientes sentem ao enfrentar
+a doença, com isso trazendo algumas consequências como redução das funções fisiológicas e a
+diminuição dos fatores que contribuem para a QV.
+Os temperamentos afetivos na qualidade de vida estão relacionados à saúde, isso se aplica
+especificamente ao temperamento depressivo e ao transtorno ciclotímico, considerando que o humor
+depressivo está entre as queixas mais comuns em todos os estágios da EM, assim, estudos demostram
+casos depressivos e de ansiedade nos pacientes participantes dos estudos, relacionando à uma
+diminuição do contato social e à perda de interesse em atividades cotidianas que antes eram
+consideradas prazerosas para eles, dessa forma, a qualidade de vida deles pode ser influenciada pelas
+consequências físicas que acompanham o seu diagnóstico, pela imagem que o indivíduo tem de si
+próprio, e pelos sintomas clínicos 16-18.
+Destarte, segundo Rojas 19 a esclerose múltipla atinge principalmente o sexo feminino, já que em
+seu estudo, a maioria dos pacientes avaliados pertenciam a esse gênero. Ainda segundo seus achados,
+evidenciou-se que sintomas como a fadiga, a dor de cabeça e a depressão são os que mais atingem os
+portadores de esclerose e que acabam trazendo outras consequências severas para eles, em diversas
+áreas psíquicas, emocionais, sociais e físicas.
+Este estudo encontrou como limitação o fato de haver poucos trabalhos publicados frente a essa
+temática, o que limitou a utilização de mais artigos que abordassem a temática em questão.
+CONSIDERAÇÕES FINAIS
+Os resultados do presente estudo demostraram que a depressão afeta a vida dos portadores de
+EM trazendo grandes consequências, como a falta de motivação para enfrentamento da doença, a preda
+do interesse em conviver em sociedade e até mesmo em continuar suas atividades do dia a dia, o que
+acaba dificultando a aceitação do diagnóstico e do tratamento da doença.
+A fadiga manifesta-se de forma diferente em cada portador da patologia, podendo afetar regiões
+diferentes do cérebro, bem como está relacionada a atividades em que requeiram maior gasto de
+energia. Quanto mais comprometida a função física do indivíduo, maior será percebida a fadiga.
+RECISATEC - REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+
+6
+
+v.2, n.1, 2022
+
+RECISATEC – REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+ISSN 2763-8405
+QUALIDADE DE VIDA DOS PORTADORES DE ESCLEROSE MÚLTIPLA:REVISÃO DE LITERATURA
+Jhonathan Lima de Almeida, Joarlison da Silva Vanzella, Laryssa Lima Trelha, Ruth Silva Lima da Costa, Marília Perdome Machado
+
+A ansiedade está relacionada ao medo para enfretamento das consequências advindas com a
+progressão da doença.
+Levando-se em consideração os apontamentos levantados, fica evidenciado que a depressão, a
+fadiga e a ansiedade são os fatores que contribuem para uma pior qualidade de vida de portadores de
+esclerose múltipla, afetando progressivamente a vida desses indivíduos. Observa-se, que a maioria dos
+portadores desistem das suas atividades trabalhistas por se sentirem debilitados e desmotivados
+emocionalmente e, portanto, acabam se isolando.
+Novos estudos sobre a temática são necessários com o intuito de dar visibilidade ao tema e
+subsidiar o trabalho de profissionais de saúde no atendimento aos portadores de esclerose, com o intuito
+de melhorar a sua qualidade de vida.
+
+REFERÊNCIAS
+
+1. Silva A, Costa F, Baptista M, Febra T, Morna C. Esclerose Múltipla: duas apresentações clínicas, uma
+só doença! Revista Brasileira de Medicina de Família e Comunidade. 2014;9(33):365-370.Doi:
+10.5712/rbmfc9(33)753
+2. Bertotti AP, Lenzi MCR, Portes JRM. O portador de esclerose múltipla e suas formas de
+enfrentamento
+frente
+a
+doença.
+Barbarói.
+2011;34:101-124.
+Doi:
+https://doi.org/10.17058/barbaroi.v0i34.1539
+3. Brasil. Ministério da Saúde. Alentuzumabe no tratamento da esclerose múltipla remitente recorrente
+após falha terapêutica a duas ou mais terapias. Secretaria de Ciência, Tecnologia e Insumos
+Estratégicos Departamento de Gestão e Incorporação de Tecnologias. 2018. [Acesso em 2021 dez.];
+Disponível em: http://conitec.gov.br/images/Relatorios/2018/Relatorio_Alentuzumabe_EMRR.pdf
+4. Associação Brasileira de Enfermagem (ABEM). O que é Esclerose Múltipla? Associação Brasileira de
+Esclerose Múltipla. 2016. [Acesso em 2021 mar 15]; Disponível em http://abem.org.br/esclerose/o-que-eesclerose-multipla/.
+5. Machado R, Almeida R, Perla A, Scheffer M. Esclerose múltipla e diferentes escores da escala
+expandida do estado de incapacidades (EDSS): funções executivas e qualidade de vida
+[Internet]. Hdl.handle.net. 2021 [citado em 10 de dezembro de 2021]. Disponível em:
+http://hdl.handle.net/10183/166265. Doi: http://hdl.handle.net/10183/166265
+6. Lima GOS, Paula PC, Abdalla DR, Abrahão DPS, Carvalho EEV, Amui SB. Avaliação da qualidade de
+vida e capacidade física de pacientes com esclerose múltipla. Jornal de ciências biomédicas e saúde.
+2016;2(1):25-32.
+7. Nielsen M, Ferreira G, Marotto L, Ferreira N. Análise da qualidade de vida em pacientes com
+esclerose múltipla. Salus Journal of Health Sciences. 2017;3(2). Doi: 10.5935/2447-7826.20170012
+8. Andrade V, Seabra M, Ramos I. Correlação entre fadiga e desempenho ocupacional de indivíduos
+com esclerose múltipla. Cadernos de Terapia Ocupacional da UFSCar. 2015;23(4):795-802. Doi:
+10.4322/0104-4931.ctoao0592
+9. Oberg LMCQ. Significando a vivência das pessoas com doença autoimune do sistema nervoso, na
+perspectiva das demandas de cuidado: contribuições para a enfermagem e para a saúde integral. [Tese].
+Rio de Janeiro: Universidade Federal do Rio de Janeiro; 2018. p. 1-179. [Acesso em 2021 dez.];
+Disponível em: https://pesquisa.bvsalud.org/portal/resource/pt/biblio-964358.
+RECISATEC - REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+
+7
+
+v.2, n.1, 2022
+
+RECISATEC – REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+ISSN 2763-8405
+QUALIDADE DE VIDA DOS PORTADORES DE ESCLEROSE MÚLTIPLA:REVISÃO DE LITERATURA
+Jhonathan Lima de Almeida, Joarlison da Silva Vanzella, Laryssa Lima Trelha, Ruth Silva Lima da Costa, Marília Perdome Machado
+
+10. Rodrigues KI. Assistência de Enfermagem ao portador de Esclerose Múltipla: revisão integrativa.
+Campus Universitário de Sinop, Mato Grosso. 2015. [Acesso em 2021 dez.]; Disponível em:
+https://bdm.ufmt.br/bitstream/1/1691/1/tcc-2015-kamila%20ingrid%20rodrigues.pdf
+11. Galvão TF, Pereira MG. Revisões sistemáticas da literatura: passos para sua elaboração.
+Epidemiologia e Serviço de Saúde. 2014;23(1):183-184.
+12. Silva M, Cavalcanti D. Avaliação da qualidade de vida em portadores de esclerose múltipla: impacto
+da fadiga, ansiedade e depressão. Fisioterapia e Pesquisa. 2019;26(4):339-345. Doi: 10.1590/18092950/17005426042019
+13. Broersma F, Oeseburg B, Dijkstra J, Wynia K. O impacto das limitações autopercebidas, estigma e
+senso de coerência na qualidade de vida em pacientes com esclerose múltipla: resultados de um estudo
+transversal. Reabilitação clínica. 2017;32(4):536-545. Doi: 10.1177/0269215517730670
+14. Strober L. Qualidade de vida e bem-estar psicológico nos estágios iniciais da esclerose múltipla
+(EM): Importância de adotar um modelo biopsicossocial. Disability and Health Journal. 2018;11(4):555561. Doi: 10.1016/j.dhjo.2018.05.003.
+15. Salhofer-Polanyi S, Friedrich F, Löffler S, Rommer P, Gleiss A, Engelmaier R et al. Qualidade de vida
+relacionada à saúde na esclerose múltipla: o temperamento supera a EDSS. BMC
+Psychiatry. 2018;18(1). Doi: 10.1186/s12888-018-1719-6.
+16. Muñoz FJJ. ¿La asociación entre la calidad de vida relacionada con la salud y la fatiga está mediada
+por la depresión en pacientes con esclerosis múltiple? Un estudio transversal español. BMJ Open.
+2018;8(1):1-6.
+17. Duka Glavor K, Titlić M, Vuletic G. Quality of life and health of patients in early stages of Multiple
+sclerosis. Psychiatr Danub. 2019;31(Suppl 1):118-125. PMID: 30946730.
+18. Pinto CR, Guerra M. The influence of the meaning of life and psychosocial factors on the quality of life
+of patients with multiple sclerosis. A-N-A. Psychological. 2018;36(4):439-453.
+19. Camargo Rojas AP, Gómez López AM, Hernández LF, Palacios Sánchez E. Symptoms present in
+multiple sclerosis: case series. Acta Neurol Colomb. 2018;34(2):108-114.
+
+RECISATEC - REVISTA CIENTÍFICA SAÚDE E TECNOLOGIA
+
+8
