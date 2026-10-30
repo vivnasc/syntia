@@ -1,0 +1,272 @@
+Neurobiologia e cognição*
+Neurobiology and cognition
+
+Introdução
+O Prêmio Nobel de Medicina foi recentemente concedido a três cientistas
+que trabalham na área de Neurobiologia: Paul Greengard, Arvid Carlsson e
+Eric Kandel. Seus trabalhos mostram que a atividade bioquímica do cérebro
+tem estreitas ligações com os processos cognitivos. O Prof. Greengard
+estudou por quarenta anos a comunicação entre células nervosas por meio
+de sinais bioquímicos, mostrando que o transmissor chamado dopamina
+desempenha um papel central nos distúrbios cognitivos presentes na
+esquizofrenia e nas doenças de Parkinson e Alzheimer. O Prof. Carlsson
+desenvolveu estudos que conduziram ao tratamento da doença de Parkinson
+com levadopa, e também realizou os primeiros estudos para tratamento da
+depressão com inibidores da reabsorção da serotonina (dos quais uma das
+últimas versões é o famoso Prozac). O Prof. Kandel realizou trabalhos de
+grande importância teórica para o entendimento dos mecanismos
+moleculares subjacentes aos processos de aprendizagem e memória.
+Descobriu que a conversão da memória de curto prazo em memória de
+longo prazo requer a ativação de genes, conduzindo a uma linha de pesquisa
+na qual se observou que animais geneticamente modificados apresentam
+capacidades de aprendizagem diferenciadas.
+
+Entrevista realizada por e-mail pelo professor Alfredo Pereira Jr., Departamento de Educação (Instituto de Biociências - Universidade
+Estadual Paulista, Unesp/Botucatu), entre novembro e dezembro de 2000, por ocasião da indicação do Prêmio Nobel de Medicina a
+cientistas da área de Neurociência.
+
+*
+
+fevereiro, 2001
+
+141
+
+ENTREVISTA
+
+Para discutir o significado dos estudos em Neurobiologia para o
+entendimento dos processos cognitivos, inclusive a cognição humana,
+realizamos uma entrevista com o Prof. Dr. Armando Freitas da Rocha, um
+dos mais destacados pesquisadores brasileiros da área. O Prof. Armando é
+titular aposentado da UNICAMP, e continua em plena atividade de pesquisa,
+como visitante na Disciplina de Informática Médica da USP, coordenador do
+Núcleo de Estudos da Aprendizagem e Cognição da UNICID e em sua própria
+empresa, a EINA (Estudos em Inteligência Natural e Artificial); assessora
+diversas instituições, destacando-se o seu continuado trabalho de pesquisa
+sobre as bases neurobiológicas da deficiência mental, junto à APAE de
+Jundiaí/SP.
+
+Interface: Para quem trabalha no âmbito das relações humanas,
+um dos problemas mais difíceis é a avaliação dos processos
+cognitivos. Noções como “inteligência” teriam um correlato na
+Neurociência?
+
+Armando: Sim. A inteligência é uma propriedade de uma classe de
+sistemas, chamados Sistemas Inteligentes de Processamento Distribuído. É
+um sistema composto de agentes (por exemplo, neurônios) que se
+especializam na solução de uma tarefa específica (exemplo, neurônios
+visuais, auditivos, motores etc.) e que se associam para resolver
+problemas complexos. A solução de um problema complexo depende
+fundamentalmente de como os agentes se associam. No cérebro, a
+solução dos problemas complexos depende da conexão que se
+estabelece entre os neurônios especializados na solução de diferentes
+tarefas. A plasticidade dessas conexões permite que se aprenda a
+solucionar novos problemas. É como na vida em sociedade. Cada um de
+nós se especializa em uma área, e nos associamos de maneiras diferentes
+para resolver problemas complexos. Em um hospital, a atividade dos
+profissionais especializados nos vários tipos de tratamento é relativa às
+doenças das quais os pacientes são portadores.
+
+Interface: Atualmente parece estar bem estabelecido entre os
+neurocientistas que a memória e a aprendizagem têm uma base
+molecular.
+
+Armando: Os diversos neurônios, das diversas áreas cerebrais, se
+especializam em tarefas definidas. Assim, uns são especializados para o
+processamento de informação visual, outros para processamento de
+estímulos verbais, outros coordenam a motricidade, outros definem
+apetites etc.
+Os processamentos cerebrais dependem de como esses neurônios podem
+ser associados. Isto é, dependem da eficácia da transmissão sináptica
+entre eles.
+
+142
+
+Interface - Comunic, Saúde, Educ 8
+
+ENTREVISTA
+
+O aprender, por exemplo, de uma resposta motora a uma informação
+verbal, depende de aumentar a eficácia da transmissão sináptica entre
+neurônios encarregados da análise do som verbal e aqueles
+encarregados de controlar a resposta motora.
+A memória e a aprendizagem dependem, portanto, do relacionamento
+entre neurônios, relacionamento este que é governado por moléculas.
+
+Interface: E como seriam estes mecanismos?
+
+Armando: Todo o processamento cerebral tem uma base bioquímica. A
+atividade elétrica da membrana depende do aporte metabólico para essa
+membrana, que por sua vez é controlado por vários sistemas enzimáticos,
+ativados pelos próprios íons envolvidos na gênese do potencial elétrico de
+membrana. A transmissão de informação entre os neurônios depende de
+uma troca molecular intensa entre esses neurônios. Assim, a chegada do
+pulso elétrico na terminação nervosa do neurônio pré-sináptico acarreta a
+entrada de cálcio, que controla a liberação de moléculas denominadas
+transmissores, estocadas em vesículas, nessa terminação. O transmissor é
+liberado pela célula pré-sináptica para agir na membrana da célula póssináptica.
+O acoplamento químico entre o transmissor e receptores específicos para
+esse transmissor, localizado na membrana da célula pós-sináptica exerce
+uma de duas funções:
+1. Abrir um canal iônico permitindo que a atividade elétrica da célula présináptica influencie a atividade elétrica da célula pós-sináptica ou
+2. Ativar uma cadeia de reações enzimáticas, chamada de via de
+transdução de sinal, ou simplesmente VTS.
+
+Interface: Essa cadeia enzimática poderia interferir na expressão
+dos genes dos neurônios? E isso teria algum papel na cognição?
+
+Armando: Muitas dessas VTSs podem influenciar a leitura dos genes, e
+dessa maneira controlar as proteínas que serão produzidas pela célula
+pós-sináptica. Isto é, muitas dessas VTSs determinam as proteínas a serem
+produzidas pela célula pós-sináptica. Muitas dessas proteínas são
+liberadas pela célula que as produzem, para controlar outras VTSs de
+células vizinhas, inclusive as células pré-sinápticas.
+Muitas das VTSs das células pré-sinápticas e pós-sinápticas controlam a
+produção do próprio transmissor e seu receptor. Dessa maneira, a
+atividade em uma sinápse pode definir a quantidade de mediadores e
+receptores utilizados na transmissão da informação nessa própria sinapse.
+Essa base molecular do controle da eficácia da transmissão da
+informação em termos das sinapses é o mecanismo básico para explicar o
+aprendizado e a memória.
+
+fevereiro, 2001
+
+143
+
+ENTREVISTA
+
+Interface: Essa teoria contribui para se entender o
+comportamento humano? Por exemplo, se ao olhar uma foto
+antiga me lembro de fatos da época, que não estão na foto e que
+não foram revividos durante muitos anos, como é possível que
+tal informação fosse “armazenada” nos neurônios durante este
+tempo?
+
+Armando: Um episódio é uma relação entre informações sensoriais e
+respostas motoras e/ou emocionais, que são coerentes num tempo e num
+espaço. A memória deste episódio é a estabilização das sinapses entre os
+neurônios envolvidos nos processamentos dessas informações sensoriais e
+aqueles envolvidos na determinação das respostas motoras e emocionais
+associadas.
+A base molecular do aprendizado e da memória deve ser entendida dessa
+maneira. Isto é, a partir do controle de processos que estabilizam sinapses
+relevantes ao fato a ser aprendido ou memorizado.
+A memória biológica é uma memória endereçada por conteúdo. Em
+outras palavras, é definida a partir de relações entre eventos ou fatos.
+Dessa maneira, a evocação de um dado evento deve, em geral, facilitar a
+lembrança de outros fatos a ele relacionados.
+
+Interface: E a deficiência mental pode ser detectada,
+diagnosticada e tratada por meios científicos, possibilitando um
+melhor desenvolvimento das potencialidades do deficiente?
+
+Armando: A deficiência mental é normalmente caracterizada com o uso
+de testes psicométricos, ou os populares testes de QI (coeficiente de
+inteligência). Se o indivíduo obtém uma pontuação, em geral, menor que
+70 pontos, é definido como deficiente mental.
+Quando se procura identificar as causas desse baixo rendimento nos
+testes, encontra-se uma quantidade muito grande de explicações. Nosso
+grupo terminou um estudo eletroencefalográfico e de ressonância
+magnética em um grupo de 150 crianças com QI menor que 70 pontos.
+Cerca de 50% dessas crianças apresentaram diversos tipos de lesões
+cerebrais na ressonância, mas os outros 50% tinham uma estrutura
+macroscópica cerebral preservada. O estudo eletroencefalográfico
+evidenciou, em muitas dessas crianças, uma disfunção funcional
+caracterizada, principalmente, pela pouca ativação de algumas áreas
+cerebrais ou por associações mal caracterizadas de neurônios.
+Entretanto, mostrou também que os erros cometidos, e o tempo utilizado
+na solução de um conjunto de tarefas definidas, diminuíram com o
+aumento da escolaridade dessas crianças. Esse aumento no desempenho
+foi acompanhado por uma mudança adequada da atividade cerebral.
+Tais resultados são muito semelhantes aos observados em crianças
+normais, por outros pesquisadores.
+
+144
+
+Interface - Comunic, Saúde, Educ 8
+
+ENTREVISTA
+
+Interface: Os conhecimentos fornecidos pela Neurociências poderiam servir
+para a formulação de processos de ensino mais eficientes?
+
+Armando: Sim. Será fundamental respeitar a funcionalidade cerebral da
+criança quer normal, quer portadora de deficiências ou distúrbios de
+aprendizagem, para que ela possa desenvolver melhor toda sua
+capacidade cognitiva.
+Por exemplo, o melhor conhecimento dos circuitos neurais para a
+linguagem oral, visual e motora são usados, hoje, para modelar
+processos mais eficientes de alfabetização, que estão sendo utilizados no
+mundo inteiro. A aplicação dessas novas estratégias na APAE-Jundiaí tem
+gerado resultados muito bons, aumentando o número de crianças que
+estão aprendendo a ler e escrever, bem como estimulando esse
+aprendizado em idades mais precoces. O mais interessante é que o
+aprendizado nessas circunstâncias obedece regras muito semelhantes
+àquelas descritas para as crianças normais.
+Outra área que está mudando a partir do conhecimento fornecido pelas
+Neurociências é o ensino da matemática, que deixa de ser
+fundamentalmente baseado em memorização de fatos matemáticos (as
+famosas tabuadas), para ser centrado na compreensão das propriedades
+fundamentais de conjuntos e relações espaciais.
+
+Vide Pereira Jr.,
+Comentário a respeito
+das bases
+neurobiológicas da
+aprendizagem.
+Interface - Comunic.,
+Saúde, Educ., v.2, n.2,
+p.233-6, 1998.
+
+1
+
+Grande número de resultados empíricos obtidos na neurociência podem ser
+relevantes para a educação. Existem aplicações médicas, como a droga
+Ritalin, destinada a combater as desordens de atenção em crianças
+hiperativas, permitindo um melhor aproveitamento escolar (a qual tem sido
+também usada indevidamente em crianças que não apresentam este
+distúrbio, como meio de melhorar o rendimento, mas com possíveis danos à
+saúde).
+No estudo sobre os fundamentos da Educação, pode-se tomar como
+referência resultados sobre o funcionamento do cérebro para se repensar a
+prática educacional1 . As considerações feitas pelo Prof. Armando sugerem
+duas possíveis conclusões.
+Primeiro, uma vez que o cérebro trabalha com um processamento
+distribuído da informação, possuindo regiões especializadas para diferentes
+modalidades sensoriais, e dado que a aprendizagem e memória estão
+relacionadas com padrões de conexão neuronal, pode-se inferir que os
+processos de aprendizagem que mobilizem diferentes modalidades,
+induzindo atividade cerebral distribuída e coerente, tem maior possibilidade
+de consolidação, no sentido da formação de traços de memória robustos e
+suscetíveis de utilização na vida prática. Por exemplo, uma lição de biologia
+sobre animais, apresentada com recursos multimídia, em que as crianças
+
+fevereiro, 2001
+
+145
+
+ENTREVISTA
+
+possam ouvir os sons que esses animais produzem, ou mesmo acompanhada
+de uma visita de campo, teria, do ponto de vista neurobiológico, maior
+possibilidade de gerar aprendizagem que uma simples aula expositiva.
+A segunda conclusão, estreitamente vinculada à primeira, diz respeito à
+motivação que as crianças teriam para aprender um determinado conteúdo.
+Como o Prof. Armando apontou, o cérebro não está disponível para absorver
+qualquer informação que lhe seja apresentada; ao contrário, ele se estrutura
+em termos de padrões de atividade eletroquímica que definem núcleos de
+interesse, para os quais é dirigido o foco da atenção. Para se motivar alguém
+a aprender, é preciso atingir esses núcleos de interesse, ainda que de forma
+desestabilizadora (apresentando desafios às crenças previamente existentes
+no aluno). Caso a informação apresentada passe ao largo dos temas para os
+quais o cérebro foi previamente mobilizado, as chances de aprendizagem se
+tornam bastante reduzidas.
+
+PALAVRAS-CHAVE: Neurociência; cognição; inteligência.
+KEYWORDS: Neuroscience; cognition; intelligence.
+PALABRAS-CLAVE: Neurociencia; cognición; inteligencia.
+
+Recebido para publicação em: 01/12/00. Aprovado para publicação em: 20/12/00.
+
+146
+
+Interface - Comunic, Saúde, Educ 8
