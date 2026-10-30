@@ -1,0 +1,513 @@
+Alzheimer, sintomas e grupos: uma revisão integrativa.
+Caetano, L.A.O.; Silva, F.S.; Silveira, C.A.B.
+
+ALZHEIMER, SINTOMAS E GRUPOS: UMA REVISÃO INTEGRATIVA.
+Liandra Aparecida Orlando Caetano
+Felipe Santos da Silva
+Cláudia Alexandra Bolela Silveira
+RESUMO
+O Alzheimer é uma doença neurodegenerativa que prejudica a cognição e memória, além das
+habilidades motoras dos portadores. Para atender as necessidades dos pacientes e garantir melhor
+qualidade de vida, esta doença requer cuidados específicos. O objetivo deste trabalho foi levantar as
+produções científicas em relação ao Alzheimer, sintomas e intervenções em grupo no período de
+2011 a 2016. A metodologia consistiu em uma revisão integrativa nos periódicos PUBmed,
+BVsalud, Scielo e CAPES. Foi realizado o levantamento das palavras “Alzheimer”, “sintomas” e
+“grupos”, combinadas entre si, verificando as pesquisas produzidas na área no período. A análise
+foi realizada quantitativamente e qualitativamente integrando o resultado das produções primárias
+com a indexação do novo material. Quanto aos resultados, foram encontrados nove resumos de
+artigos científicos, vinte e cinco artigos completos e uma monografia, totalizando trinta e cinco
+produções. Entre elas sete estão em inglês e três em espanhol. Ambas abordaram a doença de
+Alzheimer e sintomas, bem como modelos de intervenções como grupos de apoio, viabilizando
+melhorar a qualidade de vida entre os pacientes neurodegenerativos e seus cuidadores.
+Palavras-chave: Alzheimer; grupos; sintomas.
+ALZHEIMER'S, SYMPTOMS AND GROUPS: A INTEGRATIVE REVIEW.
+ABSTRACT
+Alzheimer’s is a neurodegenerative disease that affects the cognition and memory, besides the
+carrier’s motor skills. In order to meet the needs and provide a better life quality to the patients, a
+specific care it’s demanded from their caregivers. The aim of this paper was to collect and raise
+academic productions concerning Alzheimer’s disease as well as its symptoms, and group
+interventions from 2011 to 2016. Regarding the methods, an integrative survey rose our data, that
+was provided from the following scientific newspapers: PUBmed; BVsalud; Scielo; and CAPES.
+Once in these newspapers, the words ‘Alzheimer’, ‘sintomas’, and ‘grupos’ were searched,
+providing us, the produced papers in the specified date. A qualitative and quantitative analysis was
+performed, which made the integration, of the primary productions to the new data indexation,
+possible. Concerning the results, it was possible to evidence a total of thirty-five productions,
+among them, seven in English and three in Spanish. All of the collected data relates to Alzheimer’s
+disease, its symptoms, and models of intervention groups (that aims to increase patients’ and its
+caregivers’ life quality).
+Keywords: Alzheimer’s disease; intervention groups; symptoms.
+ALZHEIMER, SÍNTOMAS Y GRUPOS: UNA REVISIÓN INTEGRATIVA.
+RESUMEN
+El Alzheimer es una enfermedad neurodegenerativa que perjudica la cognición y la memoria,
+además de las habilidades motoras de los portadores. Esta enfermedad requiere cuidados específicos
+para satisfacer las necesidades de los pacientes y garantizar una calidad de vida mejor. El objetivo
+de este estudio fue levantar las producciones científicas en relación al Alzheimer, síntomas e
+VINCULO – Revista do NESME, V.14 N. 2.
+
+84
+
+Alzheimer, sintomas e grupos: uma revisão integrativa.
+Caetano, L.A.O.; Silva, F.S.; Silveira, C.A.B.
+
+intervenciones en grupo en el período de 2011 a 2016. La metodología consistió en una revisión
+integrativa en los periódicos PUBmed, BVsalud, Scielo y CAPES. Por lo tanto, se realizó el
+levantamiento de las palabras Alzheimer, síntomas y grupos, combinados entre sí, verificando las
+investigaciones producidas en el área en el período. El análisis fue realizado cuantitativamente y
+cualitativamente integrando el resultado de las producciones primarias con la indexación del nuevo
+material. En cuanto a los resultados se verificó que se encontraron nueve resúmenes de artículos
+científicos, veinticinco artículos completos y una monografía, totalizando treinta y cinco
+producciones. Entre ellas siete están en inglés y tres en español. Ambos abordaron la temática sobre
+la enfermedad de Alzheimer y síntomas, modelos de intervenciones como grupos de apoyo,
+haciendo posible mejorar la calidad de vida entre los pacientes neurodegenerativos y sus
+cuidadores.
+Palabras clave: Alzheimer; grupos; síntomas.
+
+INTRODUÇÃO
+Doenças neurodegenerativas são aquelas que causam a degeneração dos neurônios de forma
+irreversível. Essas células são fundamentais para o funcionamento do sistema nervoso. Em grande
+parte dessas doenças, se não houver intervenção, logo no início, e um tratamento adequado, o
+paciente poderá perder suas funções físicas, motoras, fisiológicas e até mesmo sua capacidade
+cognitiva, como por exemplo, na doença de Alzheimer (BOTTINO & MORENO, 2006).
+O Alzheimer é uma patologia que pode ser classificada em maior ou menor grau, ou seja,
+existem pacientes portadores que estão em estado inicial e ainda não possuem comprometimento
+significativo da memória e das habilidades físicas, motoras e intelectuais. No entanto, existem casos
+em que o portador se encontra em um estado mais tardio, com quadro demencial por exemplo,
+onde, na maior parte do tempo não responde por ele e não tem controle. Além da perda da
+capacidade de resolver questões simples e coordenação motora, suas memórias oscilam,
+necessitando, assim, de cuidados especiais que demandam maior tempo de cuidado dos
+responsáveis.
+As inúmeras pesquisas feitas atualmente, visam conceber um tratamento embasado na
+estabilização dos sintomas. Apesar de tentar descobrir uma cura, tais estudos não encontraram um
+método para a reconstrução dos neurônios e áreas afetadas pelo Alzheimer.
+Mesmo ainda não possuindo cura, meios de intervenções que ajudam melhorar a qualidade
+de vida dos portadores de Alzheimer foram desenvolvidos. Assim como os portadores, os
+cuidadores são afetados emocional e fisicamente pela doença e também demandam de um
+atendimento focado. Por isso, esse estudo busca realizar um levantamento de produções que
+apresentam tipos de intervenções, como por exemplo, grupos de apoio que viabilizam melhorar a
+qualidade de vida entre os pacientes neurodegenerativos e seus cuidadores.
+Em relação às intervenções de grupos, atuantes em instituições que acolhem pacientes
+acometidos por tal patologia, nota-se que existem vários intragrupos, que atuam de forma direta ou
+indireta, visando a promoção de saúde. Muitas dessas intervenções são encontradas documentadas
+em materiais bibliográficos que trazem os resultados das ações promovidas por modalidades
+grupais, tais como as psicoeducacionais, grupos de apoio e grupos com familiares.
+Partindo do que já se conhece acerca de intervenções grupais, pode-se dizer que tais
+intervenções possuem meios que viabilizam a vivência de pessoas que precisam se readequar a nova
+realidade em que se encontram, quase sempre, afetando não somente a pessoa portadora da doença,
+mas também todos que fazem parte de seu convívio e rotina diária.
+O método utilizado foi a revisão integrativa nos periódicos PUBmed, BVsalud, Scielo e
+CAPES, utilizando as palavras-chave “Alzheimer”; “sintomas”; e “grupos” para o levantamento das
+produções no período de 2011 a 2016.
+VINCULO – Revista do NESME, V.14 N. 2.
+
+85
+
+Alzheimer, sintomas e grupos: uma revisão integrativa.
+Caetano, L.A.O.; Silva, F.S.; Silveira, C.A.B.
+
+Portanto, utilizou-se dessa metodologia para que se atingisse o objetivo de levantar as
+produções científicas em relação ao Alzheimer, sintomas e intervenções em grupo no período
+citado, para melhor compreender o que é o Alzheimer, seus sintomas, diagnóstico, tratamento e
+intervenções com grupos de apoio. Além de entender como funcionam os processos, seus
+mecanismos e o resultado final de cada um dos meios de intervenção com grupos encontrados, para
+se ter uma melhor clareza e exatidão de quais são os mais eficazes para a promoção de saúde dos
+portadores de DA e seus familiares.
+REVISÃO DA LITERATURA
+1 Alzheimer
+Com a velhice, podem surgir várias doenças não transmissíveis, sendo comum, entre elas, as
+neurodegenerativas como o Alzheimer, patologia que ainda não existe cura (SMITH, 1999 apud
+MATTOS; GARCES et. al. 2011, p. 435). Porém, vários meios de intervenções vêm sendo
+propostos para que os idosos com Alzheimer e seus cuidadores tenham melhor qualidade de vida.
+Essa patologia irreversível compromete o sistema nervoso central, causando a destruição
+progressiva dos neurônios, resultando em danos cognitivos e comportamentais em seu portador
+(POLTRONIERE; CECCHETTO; SOUZA, 2011, p. 273).
+O Alzheimer é caracterizado, principalmente, pela perda de memória, mas logo surgem
+outros sintomas como alterações de humor, agressividade, dificuldades para realizar atividades do
+dia a dia e até o desligamento total da realidade em que se vive (SMITH, 1999 apud MATTOS;
+GARCES et. al. 2011, p. 435).
+Bremenkamp realizou um estudo de corte transversal sobre sintomas neuropsiquiátricos que
+os portadores de DA podem apresentar, segundo o resultado desse trabalho “os sintomas mais
+comuns foram comportamento motor aberrante (66%) e agitação (66%), seguidos pela apatia
+(56%)” (BREMENKAMP et. al. 2014, p. 771).
+O diagnóstico é feito por meio do histórico familiar relacionado a doença, histórico do
+próprio paciente, além de “[...] exames laboratoriais, hemograma, creatinina, sódio e potássio,
+cálcio, dosagem de vitamina B12, sorologia para sífilis, função hepática, hormônio estimulante da
+Tireóide (TSH)” (POLTRONIERE; CECCHETTO; SOUZA, 2011, p. 273).
+Ainda sobre o diagnóstico, Gonçalves e Carmo relatam que:
+A DA não é um processo natural do envelhecimento, mas um transtorno mental
+caracterizado por uma atrofia cerebral, que apresenta configuração cerebral com
+sulcos corticais mais largos e ventrículos cerebrais maiores do que o esperado pelo
+processo normal de envelhecimento, demonstrado a partir de Tomografia
+Computadorizada (TC) ou Ressonância Magnética (RM) (APA, 2002). O exame
+macroscópico do cérebro na DA revela atrofia mais proeminente nas regiões
+frontais, temporais e parietais; afetando, sobretudo as áreas corticais associativas
+(Caramelli, 2000). É possível também visualizar alterações histopatológicas com o
+exame microscópico, que podem incluir perda neuronal e degeneração sináptica
+intensa, principalmente nas camadas piramidais do córtex cerebral, estruturas
+límbicas e os córtices associativos; com relativa preservação das áreas corticais
+primárias (motora, somatosensitiva e visual) (Caramelli, 2000). O exame
+microscópico aponta para a presença de lesões principais como placas senis e
+emaranhados neurofibrilares, degeneração granulo vascular, glicose astrocítica e
+angiopatia amilóide. A presença de corpúsculos de Lewy nos neurônios corticais
+ocorre ocasionalmente na doença (APA, 2002) (GONÇALVES; CARMO, 2012 p.
+172).
+
+VINCULO – Revista do NESME, V.14 N. 2.
+
+86
+
+Alzheimer, sintomas e grupos: uma revisão integrativa.
+Caetano, L.A.O.; Silva, F.S.; Silveira, C.A.B.
+
+A maior parte do tratamento é feito utilizando fármacos, que controlam os sintomas, porém,
+existem intervenções associadas ao tratamento farmacológico que viabilizam oferecer melhor
+qualidade de vida para esses pacientes, um exemplo de tais intervenções seriam as equipes
+interdisciplinares que visam levar aos familiares mais informações, com o intuito de melhorias no
+tratamento e cuidado com relação à saúde física e mental do paciente. (STORANI apud DIAS, 2013
+p. 13).
+Poltroniere relata os principais fármacos utilizados pelos profissionais em pessoas
+portadoras do Alzheimer. Sobre isso, ainda discorre:
+Os medicamentos mais frequentemente prescritos pelos profissionais médicos são:
+Donepezil, Rivastigmina, Galantamina, os quais são bem tolerados nas fases inicial
+e intermediária. Outro fármaco aliado ao controle da Doença de Alzheimer é a
+Memantina, que é utilizada nas fases intermediária e final, e auxilia a manter as
+funções de comunicação e atividade de vida diária (POLTRONIERE, et al. 2011, p.
+273).
+
+Castillo (2013) introduziu em grupos de pacientes com Alzheimer um tratamento
+psicossocial, voltado para pessoas com demência leve e moderada. Ele aborda uma série de temas
+gerais como atividades físicas, identificações sonoras, explorações da infância, nomes, alimentos,
+discussões atuais, identificações de faces/cenas, associações de palavras, aumento da criatividade,
+categorizações de objetos, desenvolvimentos de sentidos, entre outros.
+Os resultados obtidos foram “melhorias na orientação, uma melhor compreensão e
+adaptação de seu ambiente, levando potencialmente um aumento da sensação e percepção de
+controle, auto-eficácia e auto-estima” (GAGNON apud CASTILLO, et al. 2013 p. 451, tradução
+nossa).
+Além disso, as técnicas de "estimulação cognitiva ativa, afetam o aumento da produção das
+faculdades cognitivas específicas, tais como atenção, concentração, funções de memória, funções
+executivas, linguagem, orientação espaço temporal e capacidade visio espacial” (PEÑA –
+CASANOVA apud CASTILLO, et al. 2013 p. 451-452, tradução nossa).
+Da mesma forma, o grupo de estudos interdisciplinar com ênfase no envelhecimento
+humano, da Universidade de Cruz alta (UNICRUZ) buscou intervenções para o enfrentamento, a
+promoção de cuidados à saúde e a integração entre os participantes. Seu propósito foi reinserir o
+idoso à sua vida social, mas também dar apoio aos cuidadores, viabilizando o cuidado social e a
+saúde desses idosos (MATTOS; GARCES et al. 2011, p. 435).
+Na maioria das vezes, um membro da família, é o cuidador, que fica responsável junto aos
+profissionais da saúde, por buscar meios que favoreçam e ofereçam melhor qualidade de vida ao
+idoso com Alzheimer. Por isso, a maioria das intervenções não farmacológicas busca acolher e
+orientar o cuidador afim de que ele aja da melhor forma propiciando à pessoa com Alzheimer,
+meios para melhor convivência diante dessa situação (OLIVEIRA, et al. 2016, p. 540).
+Sobre a mesma temática, Oliveira (et al. 2016) elaborou um estudo com cuidadores de
+pessoas com a doença de Alzheimer que estavam inseridos em um grupo de apoio. Observou-se que
+as principais dificuldades dos cuidadores são concernentes ao não conhecimento correto da doença,
+não saberem lidar com as fases da mesma e a agressividade dos portadores por não aceitarem os
+cuidados de terceiros. Além disso, o demasiado cuidando ao idoso pode gerar uma sobrecarga ao
+cuidador, causando desgastes físicos e emocionais.
+O grupo de apoio pode auxiliar os cuidadores informais a perceberem as dificuldades
+relatadas, como enfrentar, aceitar e entender a doença e suas complicações do dia-a-dia.
+Oferecendo, então, alternativas como o auxilio de profissionais da saúde em grupos de apoio que
+proporcionem espaços de intervenção, conscientização e sensibilização, fatores capazes de
+proporcionar cuidado de qualidade que favorece a relação cuidado-cuidador (OLIVEIRA, et al.
+2016, p. 539).
+VINCULO – Revista do NESME, V.14 N. 2.
+
+87
+
+Alzheimer, sintomas e grupos: uma revisão integrativa.
+Caetano, L.A.O.; Silva, F.S.; Silveira, C.A.B.
+
+Outros estudos mostram que acolher o cuidador, pode melhorar a qualidade de vida dos
+portadores de Alzheimer, pois, esse acolhimento auxilia-o no que concerne o conhecimento sobre
+como cuidar por meio de programas educacionais. Saber o que é a doença é fundamental para não
+colocar a saúde do idoso em risco, o que também permite que os cuidadores se sintam mais capazes
+de cuidar, até mesmo, de enfrentar junto ao paciente a doença. (LEITE, et al. 2014).
+Podemos citar, por exemplo, uma pesquisa onde foram randomizados cuidadores para
+receberem as seguintes intervenções: avaliação, educação básica sobre demência e treinamento para
+lidar com problemas comportamentais específicos. Por intermédio dessa pesquisa, verificou-se a
+existência da necessidade de intervenções que visassem melhorar a qualidade de vida dos
+portadores de demência e seus cuidadores, pois os primeiros apresentam inúmeros sintomas
+comportamentais e psicológicos enquanto os cuidadores denotam estresse psicológico e sobrecarga
+no cuidado desses idosos (GUERRA, et al. 2011).
+Santos (et al. 2013), inseriu o método psicoeducacional, com cuidadores de pessoas com
+demência e obteve expressivo resultado de diminuição nos sintomas depressivos. O grupo
+observado, tinha espaço para a troca de experiências e para expressar emoções e sentimentos sobre
+o assunto, além de informações sobre a doença e seus cuidados. A intervenção realizada foi
+realizada por meio de sessões, que almejavam:
+(1) identificar, descrever e reconhecer a frequência comportamental dos sintomas
+que são difíceis de lidar; (2) identificar os precedentes de cada problema e suas
+consequências; (3) estabelecer estratégias de modificação; (4) melhorar a
+comunicação entre os cuidadores e os pacientes acometidos pela demência; e (5)
+criar eventos prazerosos para os cuidadores e pacientes (SANTOS, et al. 2013
+tradução nossa).
+
+Dentre os modelos de intervenções analisados, evidencia-se a terapia de grupo multifamiliar,
+valendo ressaltar que esta não é a única que visa reunir grupos familiares. Destaca-se,
+comparativamente, o grupo multifamiliar com objetivos psicoeducacionais.
+Neste modelo psicoeducacional de grupo multifamiliar, os familiares devem aprender, por
+exemplo, como os medicamentos que os pacientes necessitam, são capazes de trazer mudanças nos
+seus comportamentos. Uma vez tendo maior compreensão sobre tais efeitos, os familiares saberão
+como agir diante de situações destoantes do comportamento usual dos pacientes.
+Além disso, em cada encontro, um novo objetivo, temática ou problemática podem ser
+trazidos e discutidos para que, juntos, criem e descubram, por meio da intervenção e auxilio do
+condutor principal da sessão, meios e soluções para resolverem tais situações (PONCIANO, et al.
+2010).
+Vale ressaltar que, os dados obtidos foram encontrados por meio da observação participante
+de variados grupos no Instituto de Psiquiatria (IPUB) da Universidade Federal do Rio de Janeiro
+(UFRJ). Fez-se necessária a padronização dessa abordagem, em termos de estrutura, duração e
+conteúdos ministrados, almejando a constatação de evidências mais precisas dos efeitos desses tipos
+de intervenções relacionadas aos pacientes e familiares (LEITE, et al. 2014).
+Os grupos de apoio se caracterizam e se diferenciam dos demais por haver a troca de
+informações entres os cuidadores. Tais grupos proporcionam a educação e o suporte social na vida
+de seus participantes. É relevante enfatizar que grupos de apoio são indicados para cuidadores, por
+corroborar a um menor impacto em relação à doença. Outros meios de intervenções são necessários
+quando há uma maior complexidade da temática abordada. (XIMENES et. al. 2014).
+
+2 Grupos
+
+VINCULO – Revista do NESME, V.14 N. 2.
+
+88
+
+Alzheimer, sintomas e grupos: uma revisão integrativa.
+Caetano, L.A.O.; Silva, F.S.; Silveira, C.A.B.
+
+ZIMERMAN (2000), em sua produção Fundamentos Básicos Das Grupoterapias, traz o
+conceito comunitário da modalidade grupal em saúde mental, assim como da sensibilização e da
+sala de espera. Além disso, evidencia que por tratar-se de atividades grupais, existe uma infinidade
+de modelos que podem ser aplicados de acordo com a demanda.
+Classifica ainda os grupos e suas finalidades em: operativos (onde a demanda é voltada para
+o ensino e aprendizagem por meio da técnica de grupos de reflexão); institucionais (empresas,
+escolas, associações, etc); e comunitários (que envolvem os programas de saúde mental, ou seja, o
+foco central do assunto aqui abordado). No que concerne aos grupos terapêuticos, temos os que são
+voltados para a auto-ajuda (área médica em geral, reumáticos, diabéticos, idosos, etc) e na área
+psiquiátrica (alcoolistas anônimos, pacientes boderline, etc). Enquanto os psicoterapêuticos,
+possuem em suas abordagens a base psicanalítica, psicodramática, teoria sistêmica, cognitivo
+comportamental, além de contar com a abordagem múltipla, onde se faz uso de variadas formas de
+intervenção, de acordo com a demanda analisada.
+Osório, em seu livro Grupoterapia Hoje (1989), define grupo como:
+[...] um conjunto restrito de pessoas que, ligadas por constantes de tempo e espaço,
+e articuladas por sua mútua representação interna, se propõem de forma explicita
+ou implícita à realização de uma tarefa que constitui sua finalidade, interatuando
+para isso através de complexos mecanismos de adjudicação e assunção de papéis.
+(RIVIÉRE apud OSÓRIO, 1898, p. 127).
+
+Pichon Riviére (apud CASTANHO, 2012, p. 51) vê o grupo como uma unidade de análise
+que pela sua teoria de grupos operativos, focou sua atenção no que ocorre entre seus integrantes,
+enfatizando que quando uma pessoa demonstra algo que está vivenciando não é só uma história
+pessoal, mas também um comunicado de algo inconsciente no grupo.
+Os grupos operativos de Pichon Riviére são uma possibilidade de intervenção em qualquer
+campo da vida social. Sua atenção se faz necessária para que haja comunicação entre os integrantes
+do grupo, como sujeitos ativos nesse processo. Tais grupos possuem, então, o objetivo de resolução
+de determinada tarefa que ultrapassa as barreiras impostas pelas limitações. É desvelado, assim, nos
+integrantes do grupo o conhecimento, pensamento crítico e ações transformadoras (PEREIRA,
+2013).
+Riviére construiu sua obra sobre grupos operativos com embasamento na teoria da dialética,
+acreditando que os sujeitos, seus vínculos e o modo de operar na realidade estão em constante
+mudança e transformação (PEREIRA, 2013).
+O grupo operativo, segundo Castanho, funciona da seguinte forma:
+[...] é idealmente composto por até 15 integrantes e ao menos dois profissionais
+responsáveis na função de coordenadores ou de coordenador e observador. Uma
+duração entre uma hora e uma hora e meia é normalmente recomendada, mas, em
+nossa experiência, grupos significativamente mais curtos se justificam em algumas
+circunstâncias. Como qualquer grupo, o grupo operativo de aprendizagem, reúne-se
+para a realização de uma tarefa, um objetivo a ser realizado, compartilhado por
+todos. As tarefas podem ser coisas muito diversas, como a realização de um
+trabalho, o estudo ou a terapia (RIVIÉRE apud CASTANHO, 2013, p. 56).
+
+Essa tarefa tem por finalidade resolver o denominador comum da ansiedade do grupo que,
+em cada integrante, toma características particulares. Nesse processo, o sujeito é modificado pelo
+grupo, mas também provoca mudança nesse. Segundo Osório (1898, p. 110) “A técnica de grupos
+operativos centra-se na mobilização de estruturas estereotipadas e das dificuldades de aprendizagem
+e comunicação produzidas pelo montante de ansiedade, que provoca toda a mudança”.
+Ainda segundo Osório (1898), mesmo que as mudanças ocorram no grupo, seu
+funcionamento se dá em duas dimensões: a pessoal e a fantasia inconsciente do grupo. Quando
+VINCULO – Revista do NESME, V.14 N. 2.
+
+89
+
+Alzheimer, sintomas e grupos: uma revisão integrativa.
+Caetano, L.A.O.; Silva, F.S.; Silveira, C.A.B.
+
+algum integrante expõe, de alguma forma sua história pessoal, ela pode ser pessoal ou também
+demonstrar alguma fantasia inconsciente do grupo todo, sendo este sujeito um porta-voz do que
+acontece. Torna-se porta voz, pelo fato da sua história estar mais próxima do conteúdo apresentado
+no grupo.
+Pichon Rivière salienta em seu livro O processo grupal (2009) que, a mudança pode causar
+dois tipos de ansiedade: a depressiva, criada pelo abandono do vínculo anterior; e a ansiedade
+paranóide, que é a que temos frente ao desconhecido, ou seja, ao novo vínculo. Assim, a finalidade
+dos grupos operativos é mobilizar as estruturas estereotipadas e diminuir a dificuldade de
+aprendizagem e comunicação que são promovidas pelas ansiedades , concebendo melhor
+esclarecimento. Enfatiza que “No grupo operativo, o esclarecimento, a comunicação, a
+aprendizagem e a solução de tarefas coincidem com a cura criando-se, assim, um novo Esquema
+Conceitual Referencial Operativo - ECRO” (RIVIÈRE, 2009, p. 134-137).
+Pode-se entender, então, que quando se inserem os cuidadores e os portadores de Alzheimer
+em grupos operativos é possível “criar, manter e fomentar a comunicação. Agindo desta forma, os
+integrantes do grupo tendem a ampliar seus repertórios de significação das questões relativas ao
+trabalho aliviando-se da ansiedade básica resultante da tarefa” (DUTRA; CORRÊA, 2015, p. 518).
+METODOLOGIA
+O método utilizado foi a revisão integrativa e segundo Roman & Friedlander “é um método
+que tem a finalidade de sintetizar resultados obtidos em pesquisas sobre um delimitado tema ou
+questão, de maneira sistemática e ordenada, com o objetivo de contribuir para o conhecimento desse
+tema ou questão” (ROMAN & FRIEDLANDER, 1998, p. 109).
+Para a elaboração da revisão integrativa nos periódicos PUBmed, BVsalud, Scielo e CAPES
+foram estabelecidos os objetivos e as hipóteses. O objetivo deste estudo foi levantar as produções
+científicas em relação ao Alzheimer, sintomas e intervenções em grupo no período de 2011 a 2016,
+visando compreender o material produzido na área durante este período. No que se refere às
+hipóteses, neste período estabelecido para levantamento de dados, foram significativas a quantidade
+de produções acerca do trabalho de grupos terapêuticos com portadores da Doença de Alzheimer e
+seus familiares? Entre as produções levantadas, quais os aspectos qualitativos das intervenções em
+grupo nesta área?
+Os critérios de inclusão para levantamento dos artigos foram as seguintes palavras:
+Alzheimer; Sintomas; e Grupos. Tais palavras foram combinadas entre si para culminarem na
+redação da análise dos resultados e na discussão e apresentação dos mesmos.
+A revisão integrativa permite a possibilidade de identificar, analisar e sintetizar os resultados
+de estudos independentes sobre Alzheimer, sintomas e grupos. Algumas etapas desta metodologia
+de pesquisa:
+a) organizar, de forma metódica e consistente, características dos trabalhos de
+investigação realizados sobre uma questão bem definida; b) levantar a
+resolutividade das intervenções de enfermagem e a sintomatologia associadas aos
+diagnósticos de enfermagem; e c) elaborar uma síntese das investigações existentes
+para utilização na prática profissional (SMITH & STULLENBARGER apud
+ROMAN & FRIEDLANDER, 1998, p. 110).
+
+A primeira fase da pesquisa, então, deve-se formular o problema que demanda um
+levantamento na literatura para descobrir o que é relevante para responder à questão inicial
+formulada. Essa primeira parte é necessária para manter a coerência durante a formulação de toda a
+pesquisa (ROMAN & FRIEDLANDER, 1998, p. 111).
+A próxima fase é a coleta de dados que segundo ROMAN &FRIEDLANDER (1998), para a
+revisão integrativa “a população-alvo inclui todas as unidades estritamente relacionadas ao estudo e
+que estejam ao alcance do pesquisador” (ROMAN & FRIEDLANDER, 1998, p. 111).
+VINCULO – Revista do NESME, V.14 N. 2.
+
+90
+
+Alzheimer, sintomas e grupos: uma revisão integrativa.
+Caetano, L.A.O.; Silva, F.S.; Silveira, C.A.B.
+
+Logo, deve-se fazer a análise dos dados para conferir se todas as informações coletadas
+estão de acordo com o objeto de estudo pré-definido, pois deve-se separar os fatores irrelevantes
+para não interferir no estudo (ROMAN & FRIEDLANDER, 1998, p. 111). Em seguida, é
+necessário analisar os dados de todas as produções encontradas em conjunto, de forma quantitativa
+ou qualitativa, para que seja possível alçarem-se os resultados.
+RESULTADOS
+Na presente revisão integrativa foram encontrados nove resumos de artigos científicos, vinte
+e cinco artigos completos e uma monografia, totalizando trinta e cinco produções. Entre elas, sete
+estão em inglês e três em espanhol. Todas abordaram a temática sobre a doença de Alzheimer,
+sintomas e modelos de intervenções, como os grupos de apoio que viabilizam a melhoria da
+qualidade de vida dos pacientes neurodegenerativos e seus cuidadores.
+Foi possível desvelar, nas trinta e cinco produções encontradas, o modelo de intervenção
+com grupos de apoio, ou apoio social, como as intervenções que melhor ajudam os cuidadores a
+lidar com a doença de Alzheimer, proporcionando melhores cuidados aos portadores dessa
+patologia por meio de intervenções que também diminuem o nível de estresse e depressão dos
+cuidadores. Porém, foi possível notar que esse tipo de apoio não é frequentemente disponível de
+acordo com a demanda.
+Para pacientes com a patologia de Alzheimer, nos estágios leve ou moderado, a intervenção
+psicossocial ajudou a ter uma melhora na qualidade de vida, assim como nos seguintes aspectos:
+compreensão e adaptação de seu ambiente; auto eficácia; autoestima; entre alguns outros.
+No artigo de Lopes e Cachioni (2013) foi ressaltado que para os cuidadores, existe grande
+desgaste emocional. Ainda segundo os autores, as intervenções psicoeducacionais possuem efeitos
+mais consistentes no aumento de habilidades e conhecimentos dos cuidados com o portador da
+demência, na redução da sobrecarga e depressão dos cuidadores e melhora do bem-estar pessoal.
+Porém, em outras produções foi possível notar que os grupos de apoio constituem espaços,
+que quando disponíveis, trazem resultados positivos na vida dos portadores e seus cuidadores, pois
+ensinam aspectos sobre a doença, compartilham experiências, enfatizam a importância de cuidar do
+idoso, informam sobre a ajuda de profissionais da saúde, entre outros fatores decorrentes das
+intervenções promovidas nos grupos.
+Outros tipos de intervenções foram encontrados nas produções analisadas como, por
+exemplo, treinamentos para lidar com manifestações comportamentais específicas do idoso. Apesar
+de altamente necessário, o apoio social para cuidadores informais é bastante precário nos dias
+atuais.
+Portanto, foi possível depreender o que é Alzheimer, seus sintomas, diagnóstico, tratamento
+e intervenções com grupos de apoio. Além disso, entender como funcionam os processos, seus
+mecanismos e o resultado final de cada um dos meios de intervenção com grupos encontrados,
+entendendo os mais eficazes para a promoção de saúde dos portadores de DA e seus familiares.
+CONSIDERAÇÕES FINAIS
+Esse trabalho foi realizado com intuito de levantar as produções científicas que possuíam
+como temática o Alzheimer, sintomas e intervenções em grupo no período específico de 2011 a
+2016. E com isso, foi possível analisar o material produzido na área durante este período.
+Para as hipóteses, neste período estabelecido para levantamento de dados, foram
+significativas a quantidade de produções acerca do trabalho de grupos terapêuticos com portadores
+da Doença de Alzheimer e seus familiares? Entre as produções levantadas, quais os aspectos
+qualitativos das intervenções em grupo nesta área?
+VINCULO – Revista do NESME, V.14 N. 2.
+
+91
+
+Alzheimer, sintomas e grupos: uma revisão integrativa.
+Caetano, L.A.O.; Silva, F.S.; Silveira, C.A.B.
+
+Entende-se que após a revisão integrativa que foi realizada encontrou-se uma quantidade
+significativa de produções sobre o trabalho de grupo terapêutico, onde foi possível colher os dados
+para elaboração desse estudo.
+Em relação aos aspectos qualitativos das intervenções em grupo, percebe-se que foram
+encontradas intervenções relacionadas aos grupos de apoio, psicoeducacionais e psicossociais.
+Esses modelos de grupos possuem atenção focalizada na comunicação entre os integrantes, sendo
+esses sujeitos ativos no processo, proporcionando a resolução dos problemas expostos.
+REFERÊNCIAS
+BREMENKAMP, M. G. et al. Sintomas neuropsiquiátricos na doença de Alzheimer: frequência,
+correlação e ansiedade do cuidador. Revista Brasileira de Geriatria e Gerontologia Brasileira,
+Rio de Janeiro, v. 17 n. 4, p. 763-773, 2014.
+CASTANHO, P. Uma introdução aos grupos operativos: teoria e técnica. – Revista do NESME,
+São Paulo, v. 9, n. 1, p. 1-60, 2012.
+CASTILLO, C. M.; MASCAYANO, F.; ROA, A.; MARAY, F; SERRAINO, L. Implementación
+de um programa de estimulación cognitiva em personas com demência tipo Alzheimer: um Studio
+piloto em chilenos de la tercera edad. Universidad Psicología, Bogotá , v. 12, n. 2, p. 445-455,
+2013.
+DIAS, E. B. O cuidador da pessoa com doença de Alzheimer: revisão de literatura. 2013. 37f.
+Trabalho de Conclusão do Curso em Enfermagem Psiquiátrica em Saúde Mental - Faculdade de
+Medicina em Marília, São Paulo.
+DUTRA, W. H.; CORRÊA, R. M. O grupo Operativo como instrumento terapêutico - Pedagógico
+de promoção à saúde mental no trabalho. Revista Psicologia Ciência e Profissão, Brasília, v. 35, n.
+2, p. 515-527, 2015.
+GUERRA, M. et al. Helping carers to care: the 10/66 dementia research group's randomized control
+trial of a caregiver intervention in Peru. Revista Brasileira de Psiquiatria. São Paulo, v. 33, n.
+1, p. 47-54, mar. 2011.
+GONCALVES, E. G.; CARMO, J. S. Diagnóstico da doença de Alzheimer na população brasileira:
+um levantamento bibliográfico. Revista Psicologia e Saúde. Campo Grande, v. 4, n. 2, p. 170176, dez. 2012.
+LEITE, C. D. S. M. et al. Conhecimento e intervenção do cuidador na doença de Alzheimer: uma
+revisão da literatura. J. bras. psiquiatr. Rio de Janeiro, v. 63, n. 1, p. 48-56, 2014.
+LOPES, Lais de Oliveira; CACHIONI, Meire. Cuidadores familiares de idosos com doença de
+Alzheimer em uma intervenção psicoeducacional. Rev. bras. geriatr. gerontol., Rio de Janeiro ,
+v. 16, n. 3, p. 443-460, 2013 .
+MATTOS, C. M. Z. et al. Processo de enfermagem aplicado a idosos com Alzheimer que
+participam do projeto estratégias de reabilitação. Estudo Interdisciplinar Envelhecimento. Porto
+Alegre, v. 16, edição especial, p. 433-447, 2011.
+
+VINCULO – Revista do NESME, V.14 N. 2.
+
+92
+
+Alzheimer, sintomas e grupos: uma revisão integrativa.
+Caetano, L.A.O.; Silva, F.S.; Silveira, C.A.B.
+
+OLIVEIRA, J. S. C. et al. Desafio de cuidadores familiares de idosos com doença de Alzheimer
+inseridos em um grupo de apoio. Revista de Enfermagem UFPE online. Recife, v. 10, n. 2, p.
+539-44, 2016.
+OSÓRIO, L. C. et al. Grupoterapia hoje. Porto alegre: Editora Artes Médicas Sul LTDA, 1989,
+p.110.
+PEREIRA, T. T. S. O. Pichon-Rivière, a dialética e os grupos operativos: implicações para pesquisa
+e intervenção. Revista SPAGESP. Ribeirão Preto, v. 14, n. 1, p. 21-29, 2013.
+POLTRONIERE, S. et al. Doença de Alzheimer e demandas de cuidados: O que os enfermeiros
+sabem? Revista Gaúcha de Enfermagem. Porto Alegre, v. 32, n. 2, p. 270-278, 2011.
+RIVIÈRE, Enrique Pichon. O processo grupal. São Paulo: Livraria Martins fonte editora Ltda,
+2009, p.134-137.
+ROMAN, A. R; FRIEDLANDER, M. R. Revisão integrativa de pesquisa aplicada à enfermagem.
+Cogitare Enfermagem. Curitiba, v. 3, n. 2, p. 109-112, jul. dez. 1998.
+SANTOS, R. L. et al. Efficacy of a psychoeducational group with caregivers of patients with
+dementia. Revista Psiquiatria Clínica, São Paulo, v. 40, n. 4, p. 162-164, 2013.
+ZIMERMAN, D.E. Fundamentos Básicos das Psicoterapias. Porto Alegre, Aetes Médicas, 1993,
+248p.
+XIMENES, M. A.; RICO, B.L.D.; PEDREIRA, R.Q. Doença de Alzheimer: a dependência e o
+cuidado. Revista Kairós Gerontologia, São Paulo, v. 17, n. 2, p.121-140, 2014.
+
+Liandra Aparecida Orlando Caetano, aluna do 5º semestre de Psicologia da Universidade de Franca.
+Felipe Santos da Silva, aluno do 5º semestre de Psicologia da Universidade de Franca.
+Cláudia Alexandra Bolela Silveira, Orientadora do Projeto, Professora Doutora e Supervisora do Curso de
+Psicologia da Universidade de Franca.
+
+Recebido em: 10.10.2017
+Avaliado em: 27.10.2017
+Aceito em: 30.10.2017
+
+VINCULO – Revista do NESME, V.14 N. 2.
+
+93
