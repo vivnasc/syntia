@@ -1,0 +1,315 @@
+DOENÇA DE PARKINSON: UMA DESORDEM
+NEURODEGENERATIVA
+Ailma Oliveira da Paixão 1 | Aline Vasconcelos Freitas de Jesus1 | Francimary Santos Silva1 | Géssica Maria Santos Messias1
+| Tâmara Luiza Gonçalves Magalhães Nunes1 | Tássia Luiza Gonçalves Magalhães Nunes1 | Tatiane Batista Santos1
+| Margarete Zanardo Gomes 2 | Maria das Graças da Silva Correia3
+Biomedicina
+
+ISSN IMPRESSO 1980-1769
+ISSN ELETRÔNICO 2316-3151
+
+RESUMO
+Este artigo tem como objetivo contribuir para difusão do conhecimento sobre a doença de
+Parkinson através da análise de autores que elaboraram hipóteses acerca desta doença idiopática. Entre os possíveis fatores são citados: as neurotoxinas ambientais, fatores genéticos,
+envelhecimento cerebral, a produção de espécies reativas de oxigênio, neuroinflamação,
+excitotoxicidade, fosforilação oxidativa, a apoptose e a disfunções no complexo da cadeia
+mitocondrial pois pode contribuir para a degeneração celular neuronal em decorrência
+do declínio na síntese de ATP. Esta doença é uma progressiva desorganização neurodegenerativa que acomete as pessoas idosas ficando atrás somente da doença de Alzheimer.
+Sabe-se que ocorre devido à morte dos neurônios dopaminérgicos da substância negra
+compacta do mesencéfalo associada à presença de inclusões citoplasmáticas formadas
+pelo acúmulo de proteínas que são chamados de corpúsculos de Lewy que resultam na depleção da produção de dopamina no corpo estriado e consequentemente na destruição da
+via nigroestrial e do surgimento dos sintomas característicos. Por isto a principal forma de
+tratamento ainda utilizado é a levodopoterapia – reposição de dopamina; o grande problema são os seus efeitos após longo prazo. Estudos vêm sendo realizados a fim de promover
+melhores condições de vida aos portadores parkinsonianos.
+
+PALAVRAS-CHAVE
+Doença de Parkinson. Histórico. Tratamento. Sintomas. Etiologia.
+
+Cadernos de Graduação - Ciências Biológicas e da Saúde | Aracaju | v. 1 | n.16 | p. 57-65 | mar. 2013
+
+58 |
+
+ABSTRACT
+This article aims to help spread knowledge about Parkinson's disease through the analysis of authors who have developed hypotheses about this idiopathic disease. Among the
+possible factors, the following ones may be cited: the environmental neurotoxins, genetic
+factors, brain aging, the production of reactive oxygen species, neuroinflammation, excitotoxicity, oxidative phosphorylation, apoptosis and dysfunction in the mitochondrial chain
+complex, since it may contribute to neuronal cell degeneration, due to the decline in ATP
+synthesis. This disease is a progressive neurodegenerative disruption that affects older people second only to Alzheimer's disease. It is known that it occurs due to the death of dopaminergic neurons of the substantia nigra of the midbrain associated with the presence of
+cytoplasmic inclusions formed by the accumulation of proteins that are called Lewy bodies,
+resulting in the depletion of the production of dopamine in the striatum and, consequently,
+in the destruction of the nigroestrial pathway and in th appearance of characteristic symptoms. For this reason, the main form of treatment which is still used is the levodopotherapy-dopamine replacement; the big problem is related to their long-term effects. Studies have
+been conducted in order to promote better living conditions to people with PD.
+
+KEYWORDS
+Parkinson's Disease. History. Treatment. Symptoms. Etiology.
+
+1 INTRODUÇÃO
+A Doença de Parkinson (DP) é uma progressiva desorganização neurodegenerativa,
+caracterizada pela perda contínua de neurônios dopaminérgicos (DA) na parte compacta
+da substância negra do mesencéfalo, região localizada na porção superior do tronco encefálico, resultando na depleção de dopamina na via nigroestriatal. Segundo Teive e Menezes
+(2003,) também, é considerada uma síndrome extrapiramidal, pois acomete os neurônios
+subcorticais. É a segunda doença neurodegenerativa mais frequente entre as pessoas idosas, ficando atrás somente da doença de Alzheimer (DAUER; PRZEDBORSKI, 2003).
+O resultado da morte neural promove as características básicas dos pacientes portadores dessa síndrome, os exemplos mais frequentes são: alterações de movimento que
+causam tremores, acinesia e/ou hipocinesia, rigidez muscular, desequilíbrio, instabilidade
+postural e marcha em festinação. As causas que levam uma pessoa a manifestar a doença
+de Parkinson ainda são desconhecidas, entretanto cientistas sugerem que um dos fatores
+que poderia causar a doença seria o estresse oxidativo, gerado através da disfunção mitocondrial, o qual libera espécies reativas de oxigênio e desencadeia processos inflamatórios
+decorrentes dos eventos bioquímicos (TEIVE; MENEZES, 2003).
+Nesse sentido, este artigo tem como objetivo contribuir para difusão do conhecimento sobre a doença de Parkinson, através da análise de autores que elaboraram hipóteses
+acerca desta doença idiopática. Justifica-se este trabalho por esta doença neurodegenerativa progressiva crônica atingir principalmente pessoas idosas, acometendo as funções
+motora, cognitiva e emocional, e em muitos casos desenvolvendo quadros de depressão.
+Deve-se considerar que embora os pacientes parkinsonianos sejam considerados independentes, com o passar dos anos a doença se agrava e com ela a perda da autonomia, o
+que gera custos à sociedade, pois o governo deverá investir na saúde, nas indústrias farma-
+
+Cadernos de Graduação - Ciências Biológicas e da Saúde | Aracaju | v. 1 | n.16 | p. 57-65 | mar. 2013
+
+cêuticas e em profissionais especializados para acolher pessoas que venham a desenvolver
+a doença. Além disso, a DP é uma doença idiopática e os tratamentos existentes não são
+considerados muito eficientes, em alguns casos pode até provocar efeitos secundários.
+A metodologia baseou-se na busca por artigos científicos na comunidade científica
+internacional e nacional que abordam a doença de Parkinson, sendo as produções encontradas dispostas em forma de matriz que organizada de forma alfabética com o nome do
+autor, titulo do trabalho publicado, ano, revista científica, objetivo e resultados obtidos em
+cada trabalho.
+
+2 DOENÇA DE PARKINSON
+Sou anomalia insidiosa, a me insinuar, manifesto-me pela simples
+diminuição de seu piscar, em seu olhar fixo, em seus lentos
+movimentos. Entranho-me na monotonia de sua voz, na oleosidade
+lustrosa, graxento de sua face, nos tremores manifestados em suas
+mãos, que lhe são involuntários. Sou a perda de neurônios a lhe roubar
+à dopamina, a lhe alterar os movimentos, a lhe causar problemas
+mentais, a lhe tornar a marcha difícil. Na festinação do movimento
+acelerado, ou na casualidade congelada de sua locomoção, tornome rigidez muscular. Sou a degeneração de seu sistema nervoso
+central, sem causa conhecida, sem cura. Sou a idiopática doença de
+PARKINSON. Lufague
+
+2.1 Conceito
+A doença de Parkinson ou também chamado de mal de Parkinson é uma patologia
+neurodegenerativa, crônica e progressiva que acomete, na maioria das vezes, pessoas idosas (FAHN, 2003). Ela é considerada como a segunda desordem neurodegenerativa mais
+frequente entre a população da terceira idade, ficando atrás somente da doença de Alzheimer (DAUER; PRZEDBORSKI, 2003). Geralmente o início do quadro clínico se manifesta
+entre pessoas com faixa etária de 50 a 70 anos de idade. Contudo, podem-se encontrar
+pacientes com início da doença mais precoce, antes dos 40 anos e, até mesmo, abaixo dos
+21 anos de idade. Além disso, a doença de Parkinson não distingue raça, classe social ou até
+mesmo sexo (TEIVE; MENEZES, 2003).
+A etiologia ainda é desconhecida, entretanto, sabe-se que a doença de Parkinson
+ocorre devido à morte dos neurônios dopaminérgicos da substância negra compacta do
+mesencéfalo (lócus niger) associada à presença de inclusões citoplasmáticas formadas pelo
+acúmulo de proteínas que são chamados de corpúsculos de Lewy, resultando na depleção
+da produção de dopamina no corpo estriado e consequentemente na destruição da via
+nigroestrial e do surgimento dos sintomas característicos (BERARDELLI et al., 2001).
+Os sintomas motores só serão manifestados quando houver a neurodegeneração de
+aproximadamente 50% dos neurônios dopaminérgicos do mesencéfalo e a perda de 80 a 90%
+do conteúdo de dopamina estriatal (FAHN, 2003). A perda da dopamina no corpo estriado
+acomete não só a parte motora, mas, também, a parte cognitiva e emocional. Os principais
+sintomas manifestados pelos pacientes parkinsonianos são distúrbios de movimento, balanço e alterações no controle motor fino, dentre eles estão o tremor de repouso, bradicinesia
+(acinesia ou hipocinesia), rigidez muscular do tipo plástica (PRZEDBORSKI, 2005).
+
+Cadernos de Graduação - Ciências Biológicas e da Saúde | Aracaju | v. 1 | n.16 | p. 57-65 | mar. 2013
+
+| 59
+
+60 |
+
+Os sintomas motores são caracterizados por tremor de repouso, bradicinesia (acinesia ou hipocinesia), rigidez muscular, estes são considerados os sinais cardinais da doença
+(TEIVE; MENEZES, 2003; PRZEDBORSKI, 2005), podendo ter o sinal da roda dentada e instabilidade postural, distúrbio de marcha, fácies em máscara, fraqueza muscular, alteração da
+voz, disartria, sialorréia, disfunção oftálmica, hipotensão ortostática, hiperidrose, seborreia,
+disfunção sexual, câimbra, dores, parestesias, disfagia, incontinência urinária, obstipação intestinal, alteração da escrita (micrografia), bradifrenia, depressão e demência (TEIVE; MENEZES, 2003). Além dos sinais motores, também, podem manifestar disfunções autonômicas e
+distúrbios psico-orgânicos e desencadeamento de inúmeros distúrbios de sono.
+Apesar das intensas pesquisas realizadas e do empenho dos cientistas em descobrir
+o que causa a doença de Parkinson, a sua etiopatogenia (etiologia: causa; patogenia: desenvolvimento) é desconhecida, não sabendo por que ocorre a morte dos neurônios dopaminérgicos do mesencéfalo, por esse motivo, ela ainda é considerada como uma doença
+idiopática (LANGSTON, 1990; LIMONGI, 2001).
+A doença de Parkinson, também, pode ser conceituada como parkinsonismo primário ou idiopático porque não se tem uma causa atribuída a ela. O termo parkinsonismo
+refere-se a uma vasta categoria de doenças que apresentam sintomas semelhantes à doença de Parkinson, entre elas destacam-se a doença de Parkinson primária ou idiopática, é
+aquela a qual não há uma causa atribuída a ela e, é assintomática, também existe a doença
+de Parkinson secundária ou sintomática que é aquela induzida por drogas e por último o
+Parkinson-Plus, que está presente em algumas enfermidades (TEIVE; MENEZES, 2003).
+Embora a sua causa ainda não seja conhecida, existem descrições na literatura de que
+a DP seja multifatorial, essas descrições são tidas como hipóteses, pois não há evidências
+convincentes de que sejam estes os responsáveis pelo desenvolvimento da enfermidade
+(TEIVE; MENEZES, 2003). Apesar das muitas pesquisas científicas realizadas até o momento,
+a doença de Parkinson ainda é considerada como uma doença idiopática pois, sua etiologia
+é desconhecida.
+Dentre os possíveis fatores associados ao surgimento da doença estão: as neurotoxinas ambientais, envelhecimento cerebral, a produção de espécies reativas de oxigênio,
+neuroinflamação, fosforilação oxidativa, apoptose, o estresse oxidativo e os radicais livres,
+as anormalidades mitocondriais, a excitotoxicidade, óxido nítrico e o cálcio, o papel dos
+fatores neurotróficos, os fatores genéticos, entre outros mecanismos (TEIVE; MENEZES,
+2003). Outro fator bastante discutido no meio científico é a ocorrência de disfunções no
+complexo da cadeia mitocondrial, que pode contribuir para a degeneração celular neuronal em decorrência do declínio na síntese de trifosfato de adenosina (ATP). Porém, cientistas de todo mundo consideram duas hipóteses principais: fatores ambientais e genéticos
+(LIMONGI, 2001).
+A principal forma de tratamento contra a DP é a utilização de fármacos que promovam a reposição da dopamina, molécula altamente reativa produzida pelos neurônios que
+compõem o mesencéfalo. A reposição da dopamina é realizada através da administração
+da 3,4-dihidroxifenilalanina, mais conhecida como L-DOPA. Este fármaco tem como base
+restaurar a atividade dopaminérgica para melhorar a mobilidade funcional, aumentando a
+qualidade de vida dos pacientes. Entretanto a presença de efeitos adversos provocados por
+este medicamento faz com que seja cautelosa a sua utilização (MARKOPOULOU; WSZOLEK; PFEIFFER, 1995). Ainda não há um tratamento eficaz para a DP, o grande problema da
+utilização da levodopa são os seus efeitos a longo prazo, a cada ano de tratamento com
+
+Cadernos de Graduação - Ciências Biológicas e da Saúde | Aracaju | v. 1 | n.16 | p. 57-65 | mar. 2013
+
+essa droga cerca de 10% dos pacientes desenvolvem complicações motoras como discinesias e flutuações motoras, estas últimas conhecidas com fenômeno on-off.
+As principais características clínicas e neuropatológicas para determinar a presença
+da DP em um indivíduo são as manifestações dos sintomas da doença, em especial os distúrbios da parte motora e as análises macroscópicas e microscópicas do encéfalo, respectivamente. Nas análises macroscópicas, fica evidente que a superfície do cérebro permanece
+intacta não sofrendo qualquer anormalidade, entretanto, a característica neuropatológica
+mais marcante da DP é a lesão dos neurônios dopaminérgicos na substância negra parte
+compacta (SNc), a qual passa a exibir macroscopicamente uma despigmentação na porção
+ventrolateral desta estrutura. A despigmentação da SNc é consequência da degeneração
+dos neurônios dopaminérgicos que contém a neuromelan, o que resulta em uma diminuição dos níveis de dopamina (DA) no estriado, tornando essa região um pouco mais clara.
+Outra característica neuropatológica encontrada em encéfalos post mortem de pacientes portadores da DP é a presença de corpúsculos de Lewy em diversas regiões mesencefálicas. Esses são caracterizados pela presença de agregados protéicos, que possuem
+um diâmetro aproximado de 15 μm, compostos por proteínas como: parkina, ubiquitina e
+principalmente pela proteína sináptica α-sinucleína (DAUER; PRZEDBORSKI, 2003).
+
+2.2 Histórico
+Os relatos sobre a doença de Parkinson datam de tempos remotos, período em que o
+homem não compreendia bem ao certo a relação entre ciência e religião. Alguns estudiosos da época relatavam sobre a doença de Parkinson, porém não sabiam do que se tratava,
+seria uma possível alteração do sistema nervoso ou punições daqueles que pecavam. Algumas dessas descrições foram feitas por Galeno, por autores egípcios, indianos e, também,
+por Leonardo Da Vinci (PAERCE, 1989).
+A primeira descrição mundial bem definida com base cientifica foi realizada em 1817
+pelo médico britânico James Parkinson, membro do colégio real de cirurgiões, nascido em
+1755 e falecido em 1824 (ANDRADE, 2005; TEIVE; MENEZES, 2003). Parkinson realizou um
+estudo intitulado ‘’An Essay on the Shaking Palsy’’, ou seja, ‘’O Ensaio da Paralisia Agitante’’,
+este trabalho foi publicado em Londres. Nele, Parkinson definiu de forma geral a doença
+através da observação e análise de seis casos clínicos (PARKINSON, 1817).
+Essa doença ficou conhecida ao longo de 50 anos após a publicação realizada por
+James Parkinson sobre a paralisia agitante. Embora tenha sido publicada e divulgada através do ensaio da paralisia agitante, a doença de Parkinson só passou a ser reconhecida pela
+comunidade cientifica na segunda metade do século XIX, através do médico neurologista
+francês, Jean Martin Charcot (GOETZ; CHARCOT, 1987; GOETZ; BONDUELLE; GELFAND,
+1995).
+Charcot teve um papel fundamental, pois foi ele quem estudou mais afundo a doença na qual foram descobertos novos sintomas e foi o responsável por divulgá-la (PEARCE,
+1989; PEARCE, 1992). Foi ele, também, que sugeriu a mudança do nome de paralisia agitante para doença de Parkinson (La maladie de Parkinson) em homenagem a James Parkinson
+(TEIVE; MENEZES, 2003).
+
+Cadernos de Graduação - Ciências Biológicas e da Saúde | Aracaju | v. 1 | n.16 | p. 57-65 | mar. 2013
+
+| 61
+
+62 |
+
+2.3 Epidemiologia
+Estudos revelam que a incidência da doença de Parkinson é de aproximadamente 85
+a 187 casos por 100.000 pessoas, ou seja, 1% da população mundial. Este distúrbio acomete
+principalmente pessoas idosas, na faixa etária entre 55 a 65 anos com maior prevalência em
+pessoas do sexo masculino (LIMONGI, 2001). Porém, em alguns casos, o início da doença
+pode ocorrer mais precoce, antes dos 40 anos ou até mesmo abaixo dos 21 anos de idade,
+quando isso ocorre dá-se o nome de Parkisionismo Precoce (PP) (BARBOSA; SALLEM, 2005).
+Pesquisadores acreditam que o aumento da expectativa de vida da população mundial poderá levar ao crescimento da incidência dessa doença no futuro (LEVY, 2003), além
+disso, a doença de Parkinson não distingue raça, classe social ou até mesmo sexo (TEIVE;
+MENEZES, 2003), porém em algumas literaturas são encontrados indícios que há uma prevalência em pessoas européias e norte-americanas (100-300/ 100.000 habitantes) e menos
+em africanos e asiáticos (10-30/100.000 habitantes), o que sugere uma predisposição maior
+em raças caucasianas (TANNER; BEM-SHLOMO, 1999; VAN EEDEN et al., 2003).
+
+2.4 Núcleos da base e mesencéfalo
+No final da década de 80 foi estabelecido um modelo que descreveu os circuitos da
+organização funcional dos núcleos da base, estes circuitos foram denominados de frontoestriado-pálido-talamocorticais ou simplesmente circuitos fronto-estriatais (ALEXANDER;
+DE LONG; STRICK, 1986). Os núcleos da base são conjuntos de corpos celulares de origem
+embriológica telencefálica, localizados no interior do sistema nervoso central e que estão agrupados e concentrados nas regiões subcorticais do encéfalo, são responsáveis pelo
+controle da atividade motora, cognitiva e emocional através de seus circuitos internos e sua
+inter-relação com o tálamo e córtex motor.
+As vias de comunicação entre os núcleos basais são complexas e indiretas, sendo caracterizadas como vias ou sistemas extrapiramidais, pois não tem relação com as pirâmides
+do bulbo. Elas são responsáveis pelo controle dos movimentos automáticos, pelas alterações do tônus muscular e pela coordenação dos movimentos, pois os principais pontos de
+comunicação são os núcleos da base e o cerebelo. Portanto, lesões na via extrapiramidal
+causam alterações na realização de movimentos involuntários espontâneos e no tônus
+muscular, as quais são chamadas de síndromes extrapiramidais (ANDRADE, 2005).
+As demais vias que não fazem parte dos circuitos dos gânglios da base são chamadas
+de vias piramidais, pois apresentam relações com as pirâmides do bulbo, as principais vias
+piramidais são o trato corticoespinal e o trato corticonuclear, elas são responsáveis pelos
+movimentos voluntários, portanto qualquer lesão nessa região causa paralisia. Os núcleos
+basais estão divididos de acordo com a região onde estão localizados em: núcleos telencefálicos, núcleos diencefálicos, núcleos mesencefálicos (TEIVE; MENEZES, 2003).
+Os núcleos telencefálicos estão localizados na região subcortical do telencéfalo,
+imersos na substancia branca (SAHAGÚN; ESCALERA, 2004). O telencéfalo é porção mais
+volumosa do cérebro e que ocupa quase toda a caixa craniana sendo responsáveis pelas
+funções mentais mais elevadas, incluindo a memória e o raciocínio. É ele que constitui o
+principal centro de processamento de informação. A substância cinzenta telencefálica está
+localizada na porção superficial, por isso chamamos de córtex cerebral. Porém, também,
+podem ser encontradas na base na telencéfalo, dessa forma chamadas de núcleos da base
+
+Cadernos de Graduação - Ciências Biológicas e da Saúde | Aracaju | v. 1 | n.16 | p. 57-65 | mar. 2013
+
+telencefálicos. Os núcleos telencefálicos mais importantes são: núcleo caudado, putâmen,
+globo pálido que se divide em interno (GPi) e externo(GPe) e o núcleo lentiforme (TEIVE;
+MENEZES, 2003).
+Os núcleos diencefálicos estão localizados no diencéfalo, região situada entre o telencéfalo e o mesencéfalo, que abriga estruturas vitais para o funcionamento do nosso
+organismo, como: tálamo, hipotálamo, epitálamo, subtálamo, metatálamo e hipófise. São
+formados pelos núcleos subtalâmicos (SNt) e núcleos talâmicos ( TEIVE; MENEZES, 2003)
+e estão situados no mesencéfalo, sendo responsáveis pelo controle dos movimentos involuntários forçados através da produção e liberação da dopamina. O núcleo que compõe o
+mesencéfalo é a substância negra que é dividida em substância negra compacta (SNc) e
+substância negra reticulada (SNr).
+Até hoje pesquisas são realizadas com o objetivo de entendero funcionamento dos
+núcleos basais, bem como sua relação com o mesencéfalo e o córtex cerebral (DAUER;
+PRZEDBORSKI, 2003).
+
+3 CONSIDERAÇÕES FINAIS
+As manifestações clínicas que caracterizam a doença de Parkinson estão associadas
+à depleção da dopamina na via nigroestrial, que são decorrentes da morte de neurônios
+dopaminérgicos que compõem a substância negra compacta do mesencéfalo. Os sinais
+característicos da doença de Parkinson só são visíveis quando apresenta à perda de aproximadamente 60-70% dos neurônios dopaminérgicos da parte compacta do loccusniger.
+Dessa maneira, os gânglios da base são os responsáveis pelo controle das funções
+motoras, cognitiva e emocional juntamente com o tálamo que é o centro integrador e o
+córtex motor, esse complexo constitui o sistema extrapiramidal. A dopamina, que é produzida pelos neurônios dopaminérgicos da substancia negra compacta do mesencéfalo,
+é quem controla as atividades dos gânglios basais, uma vez que ocorre a morte dos neurônios dopaminérgicos da substância negra compacta do mesencéfalo, esses neurônios
+param de produzir a dopamina. Portanto, a depleção de dopamina nos gânglios faz com
+que se desenvolvam os sintomas motores, cognitivos e emocionais.
+Os sintomas motores são caracterizados por tremor de repouso, bradicinesia (acinesia ou hipocinesia), rigidez muscular, estes são considerados os sinais cardinais da doença
+distúrbios como fácies em máscara, alteração da voz, disartria, sialorreia, disfunsão olfatória, dores, câimbras, alterações na escrita (micrografia), parestesias, hiperidrose, incontinência urinária, obstipação intestinal, distúrbio da marcha.
+Os sinais cognitivos são manifestados pela demência, importante característica do
+diagnostico de um paciente parkinsoniano. Já os sinais emocionais são caracterizados pela
+depressão, o qual é o que apresenta maior prevalência entre os distúrbios neuropsíquicos.
+Ainda continuam sendo estudados o funcionamento do cérebro do paciente de DP,
+a sua etiologia e remédios mais eficazes e com menos efeitos colaterais a fim de promover
+melhores condições de vida aos portadores parkinsonianos.
+
+Cadernos de Graduação - Ciências Biológicas e da Saúde | Aracaju | v. 1 | n.16 | p. 57-65 | mar. 2013
+
+| 63
+
+64 |
+
+REFERÊNCIAS
+ALEXANDER, G. E; DE LONG, M. R; STRICK, P. L. Parallel organization of functionally segregated circuits linking basal ganglia and cortex. Annual review of neuroscience, v. 9, p. 357-81,
+1986.
+ANDRADE, L. A. F. Doença de Parkinson: aspectos clínicos e cirúrgicos. São Paulo: Atheneu,
+2005.
+BARBOSA, E.; SALLEM, F. Doença de Parkinson – Diagnóstico. Revista neurociências, v. 13,
+n. 3, p. 158-165, 2005.
+BERARDELLI, A.; ROTHWELL, J. C.; THOMPSON, P. D.; HALLETT, M. Pathophysiology of bradykinesia in Parkinson´s disease. Brain. A journal of neurobiology, v. 124, n. 11, p. 21312146, 2001.
+DAUER, W.; PRZEDBORSKI, S. Parkinson’s disease: Mechanism and Models. neuron, New
+York, v. 39, n. 6, p. 889-909, 2003.
+FAHN, S. Description of Parkinson's disease as a clinical syndrome. Annual review of neuroscience, v. 15, n. 991, p. 1–14, 2003.
+GOETZ, C. G.; CHARCOT, J. M. The clinician: The Tuesday Lessons. New York: Raven Press,
+1987.
+GOETZ, C. G.; BONDUELLE, M.; GELFAND, T. C. Constructing neurology. New York: Oxford
+University Press, 1995.
+LANGSTON, J. W. The etiology of Parkinson´s disease with emphasis on the MPTP story.
+Neurology, v. 47, n. 6, p. 153-160. 1990.
+LEVY, A. F. J. Doença de Parkinson: Manual Prático. Lisboa:Técnicas, 2003.
+LIMONGI, J. C. P. Conhecendo melhor a doença de Parkinson – uma abordagem multidisciplinar com orientações práticas para o dia-a-dia. São Paulo: Plexius, 2001.
+MARKOPOULOU, K.; WSZOLEK, Z. K.; PFEIFFER, R. F. A greek-American Kindred with autosomal dominant levodopa-responsive parkinsonism and anticipation. Annals of neurology,
+v. 38, n. 3, p. 373-378. 1995.
+PAERCE, J. M. S. Aspects of the history of parkinson’s disease. Journal of neurology, neurosurgery e psychiatry, Suplemento especial, p. 6-10, 1989.
+PAERCE, J. M. S. History of parkinson’s diseae. In: PAERCE, J. M. S. Parkinson’s disease and
+its management. Londres: Oxford University Press, 1992.
+PARKINSON, J. An Essay on the Shaking Palsy. London: Whitingham & Rowland, 1817.
+PRZEDBORSKI, S. Pathogenesis of nigral cell death in Parkinson’s disease. Parkinsonism e
+realted disorders, n. 11, S3-S7, 2005.
+
+Cadernos de Graduação - Ciências Biológicas e da Saúde | Aracaju | v. 1 | n.16 | p. 57-65 | mar. 2013
+
+SANHAGUN, J. L. O.; ESCALERA, J. M. I. Neuroanatomia humana: Aspectos Espanha, Barcelona: Funcionales y clínicos, 2004.
+TANNER, C. M.; BEM-SHLOMO, Y. Epidemiology of Parkinson’s disease. Advances in Neurology, v. 80, p. 153-9, 1999.
+TEIVE, H. A. G.; MENEZES, M. S. Doença de Parkinson. Rio de Janeiro: Guanabara Koogan,
+2003.
+VAN DEN EEDEN, S. K; TANNER, C. M.; BERNSTEIN, A. L.; FROSS, R. D.; LEIMPETER, A.; BLOCH, D. A.; NELSON, L. M. Incidence of Parkinson’s disease: variation by age, gender, and
+race/ethnicity. American journal of epidemiology, v. 157, n. 11, p. 1015-22, 2003.
+
+Recebido em: 21 Julho 2012
+Avaliado em: 17 Dezembro 2012
+Aceito em: 7 Janeiro 2013
+1 Acadêmicas do Curso de Biomedicina. Universidade Tiradentes.
+2 Doutora em Fisiologia. Universidade de São Paulo – Ribeirão Preto. Pesquisadora do Instituto de Tecnologia
+e Pesquisa – ITP. Docente do Curso de Pós-graduação em Saúde e Ambiente da Universidade Tiradentes e
+Biotecnologia da RENORBIO.
+3 Mestre em Química Orgânica - Produtos Naturais pela Universidade Federal de Minas Gerais. Docente da
+Universidade Tiradentes. Email: mariag.correia@ig.com.br.
+
+Cadernos de Graduação - Ciências Biológicas e da Saúde | Aracaju | v. 1 | n.16 | p. 57-65 | mar. 2013
+
+| 65
