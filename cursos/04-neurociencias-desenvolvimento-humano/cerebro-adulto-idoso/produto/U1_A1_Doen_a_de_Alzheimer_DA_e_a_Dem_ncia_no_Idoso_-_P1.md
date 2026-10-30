@@ -1,0 +1,24 @@
+═══ BLOCO C — PRODUTO ═══
+
+[maternidade] **FreeMe Mãe (coleção + ebooks profundos, e.g. mae-04 "Amar e dizer basta" / mae-06 "A mãe que cumpriu")** — a aula valida cientificamente que o estilo de vida e os padrões adoptados ao longo da vida (incluindo os herdados) têm impacto directo e mensurável na saúde cerebral e na qualidade de vida futura, o que sustenta narrativamente o argumento de que quebrar ciclos prejudiciais não é apenas emocional — é neurologicamente protector.
+**Ideia — post/carrossel para mae.cine:** título de abertura tipo faca: *"O que você carregou da sua mãe pode estar envelhecendo o seu cérebro mais rápido."* Desenvolve: ciência mostra que comorbilidades, sedentarismo e estresse crónico (padrões frequentemente herdados do sistema familiar) reduzem a reserva cognitiva. Fecha: *"Quebrar o ciclo não é abandono. É o acto mais protector que você pode fazer — por você e por quem vem depois."* CTA: GUARDAR. Visual: foto cinematográfica quente, âmbar. Hashtags: #acabaemmim #quebraciclos.
+
+[identidade] **Infonte (coleção, e.g. inf-05 "A mulher que tem medo do próprio tamanho" / inf-06 "A mulher que não se autoriza a ganhar mais")** — a aula introduz a reserva cognitiva como conceito que depende de escolhas activas ao longo da vida (escolaridade, actividade intelectual, sentido de contribuição), o que ressoa directamente com a pergunta-âncora da colecção: *quem és para além do que fazes* — e com o bloqueio de mulheres que não se autorizam a investir em si próprias.
+**Ideia — ebook profundo novo ou capítulo de inf-03 "A mulher que chegou e sentiu pouco":** secção intitulada *"O cérebro que não investiste"* — o que a neurociência chama de reserva cognitiva é, em linguagem da colecção, o registo de todas as vezes que te autorizaste (ou não) a crescer, aprender, ocupar espaço. Mulheres que minimizam os próprios feitos constroem menos reserva — não só psicologicamente, mas biologicamente.
+
+[corpo/saúde] **Guia guia-03-presenca ("Práticas de presença para o dia a dia") e guia-04-mente ("Esvaziar a mente em 3 passos")** — a aula valida que actividade física, alimentação e práticas de atenção plena são factores construtores de reserva cognitiva, dando base científica ao que estes guias propõem como práticas quotidianas.
+**Ideia — reframe do copy de venda destes guias:** acrescentar uma linha de validação científica discreta — *"Práticas que a neurociência reconhece como protectoras do cérebro ao longo do tempo"* — sem tornar os guias "científicos", mas ancorando-os numa verdade maior. Para veu.a.veu (sem CTA de venda): carrossel gouache com Nina ou Teresa em cena de rotina, legenda sobre o que a ciência chama de reserva cognitiva e o que isso tem a ver com estar presente hoje.
+
+[oportunidade] **Novo:** conteúdo de série para veu.a.veu sobre "o que constrói e o que destrói o cérebro que tens aos 70" — a aula abre o tema da reserva cognitiva como conceito científico recente, ainda pouco traduzido para linguagem acessível e emocional; existe uma lacuna enorme entre a investigação neurocientífica e o que a mulher cuidadora em burnout sabe sobre os efeitos a longo prazo dos seus padrões de vida no próprio cérebro. Uma série de 4 a 6 peças gouache (personagens fixos da conta) que mapeie — sem jargão, com emoção — como escolaridade, exaustão crónica, solidão e estilo de vida constroem ou esgotam a reserva cerebral seria altamente partilhável e posicionaria a conta numa autoridade de prevenção, não só de cura.
+
+---
+
+═══ NOTAS ═══
+
+1. **Transcrição parcialmente degradada:** há vários segmentos onde a transcrição automática cortou palavras ou sílabas — por exemplo: *"o livro do BER essa a edi mais recente a edi de 2017 a quarta edi"* (referência bibliográfica incompleta, título e editora não identificáveis com certeza); *"o processo de mem Ent come a ter dificuldade"*; *"d de mem Ent"*; *"doen de Alzheimer do processo demencial"*. Estas passagens foram interpretadas pelo contexto, mas não podem ser citadas com rigor.
+
+2. **Referência bibliográfica ambígua:** o "livro do BER" na 4.ª edição de 2017 não é identificável com certeza a partir da transcrição. Pode ser o *Tratado de Neurologia* da Academia Brasileira de Neurologia numa edição diferente, ou outra obra. Recomenda-se verificação directa no material do curso.
+
+3. **DSM-IV vs. DSM-5:** a aula cita explicitamente o DSM-IV para a definição de demência. Na prática clínica actual, o DSM-5 (2013) substituiu o termo "demência" por "perturbação neurocognitiva maior". Esta discrepância pode ser relevante em contexto de avaliação — vale confirmar se o programa da disciplina adopta o DSM-IV ou o DSM-5.
+
+4. **Reserva cognitiva sem autor atribuído:** o conceito é apresentado como "muito recente na literatura", mas nenhum investigador é nomeado (o termo é habitualmente associado a Yaakov Stern, desde a década de 1990). A aula não atribui autoria — não incluir essa associação em avaliação sem confirmação no material oficial.
