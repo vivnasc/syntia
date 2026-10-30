@@ -1,0 +1,460 @@
+TRATAMENTO FARMACOLÓGICO DA ESCLEROSE
+MÚLTIPLA: UMA REVISÃO ATUALIZADA
+PHARMACOLOGICAL TREATMENT OF MULTIPLE SCLEROSIS:
+AN UPDATED REVIEW
+
+GUILHERME C AMARGO BRITO, LISS JANUÁRIO DE OLIVEIR A , LUCIANA
+BORGE S FERREIR A , LUC A S IMMICH GONÇ ALVE S, TALISSA BIANCHINI,
+R AFAEL SOMMER , PEDRO BOHM BORTOLOSSO
+e MAGNO FAUTH LUCCHE SE MOR AE S 1
+MARIA EDUARDA CONTE GRIPA 2
+JEFFER SON BECKER 3
+
+RESUMO
+Introdução: Esclerose Múltipla (EM) é uma doença imunomediada do
+Sistema Nervoso Central (SNC) que atinge um grande número de pacientes
+no mundo. Estão disponíveis diversas medicações com mecanismos, vias
+de administração e eficácia diferentes que serão abordadas nesta revisão.
+Métodos: Realizamos uma busca por artigos de revisão dos últimos 5
+anos na base de dados PubMed. Resultados: Nove drogas foram descritas
+
+1
+
+Acadêmicos da Escola de Medicina da PUCRS
+
+2
+
+Acadêmico da Escola de Medicina da ULBRA.
+
+3
+
+Professor de Neurologia na Escola de Medicina da PUCRS
+
+410
+com base nos seus mecanismos de ação, via de administração e eficácia.
+Conclusão: Há uma variedade de possibilidades para tratar pacientes
+com EM. Devem-se observar os perfis específicos de cada droga, a fim
+de equilibrar os riscos e benefícios junto com a preferência do paciente
+pela via de administração.
+Palavras-chave: Esclerose Múltipla, Tratamento, Drogas Modificadoras
+de Doença
+
+ABSTRACT
+Introduction: Multiple Sclerosis (MS) is an immune mediated disease of the Central Nervous System (CNS) that affects a large number
+of patients globally. There is a variety of medications with different
+mechanisms, administration routes and efficacy that will be reviewed in
+this paper. Methods: We searched for review articles of the last 5 years
+at the PubMed database. Results: Nine drugs were described regarding
+their mechanism of action, administration routes and efficacy. Conclusion:
+There are several possibilities when treating a patient with MS. Patient’s
+preference for the administration route and the specific profile of each drug
+should be considered to balance the risks and benefits of the treatment.
+Key word: Multiple Sclerosis, Treatment, Disease Modifying Drugs
+
+INTRODUÇÃO
+A Esclerose Múltipla (EM) é uma doença neurológica autoimune que
+atinge uma população estimada em 2.500.000 no mundo [1]. Diversos
+tratamentos farmacológicos modificadores da doença (DMD) surgiram
+nos últimos anos, permitindo flexibilidade na escolha do tratamento
+específico, conforme o perfil de cada paciente [2]. Nessa revisão, foram
+incluídos os principais fármacos utilizados no tratamento da EM remitente
+AC TA M E D I C A - L I G A S AC A D Ê M I C A S | I S S N : 0 1 0 3 - 5 0 3 7 | Vo l . 3 9 , n . 1 (2 0 1 8)
+h t t p ://e b o o k s . p u c r s . b r/e d i p u c r s/a c e s s o l i v r e/p e r i o d i c o s/a c t a - m e d i c a /a s s e t s/e d i c o e s/2 0 1 8 -1/
+
+411
+recorrente (EMRR) primariamente progressiva (EMPP) e de síndrome
+clínica isolada com alto risco de conversão para EM (SCI) com uma visão
+geral de seu mecanismo de ação, efeito, posologia e efeitos colaterais.
+
+MÉTODOS
+Buscou-se revisões e revisões sistemáticas referentes ao termo
+“Multiple Sclerosis/drug therapy”[Mesh], na base de dados PubMed, com
+restrições de artigos aos últimos 5 anos em inglês. Essa pesquisa inicial
+resultou em 648 artigos, dos quais foram excluídos trabalhos que não
+discorressem sobre as drogas de escolha para esta revisão.
+
+CONTEÚDO DA REVISÃO
+As medicações serão apresentadas em ordem de aprovação por
+alguma das principais agências reguladoras. Com exceção da cladribina,
+todas as demais já foram aprovadas pela Agência Nacional de Vigilância
+Sanitária (ANVISA).
+
+Betainterferona (IFN)
+As IFN foram as primeiras drogas aprovadas para o tratamento da EM
+[3], nas suas formas β1a e β1b (250mcg SC). As IFN promovem a produção
+de citocinas antiinflamatórias e diminuem a produção das pró-inflamatórias,
+reduzindo a inflamação no sistema nervoso central (SNC). Isso diminui
+a taxa anualizada de surto (TAA) em cerca de 1/3 em dois anos, assim
+como a formação de novas lesões na RM [4]. Nesse processo, ocorre a
+redução da produção de IFN-γ e de proteases importantes para as células
+T atravessarem a barreira hematoencefálica (BHE), além da inibição da
+apresentação de antígenos, levando à redução da ativação de linfócitos
+T e da adesão dessas células. Geralmente são bem tolerados, apesar da
+forma de administração invasiva [5].
+AC TA M E D I C A - L I G A S AC A D Ê M I C A S | I S S N : 0 1 0 3 - 5 0 3 7 | Vo l . 3 9 , n . 1 (2 0 1 8)
+h t t p ://e b o o k s . p u c r s . b r/e d i p u c r s/a c e s s o l i v r e/p e r i o d i c o s/a c t a - m e d i c a /a s s e t s/e d i c o e s/2 0 1 8 -1/
+
+412
+
+Acetato de Glatirâmer
+O Acetato de Glatirâmer (AG) é um polímero semelhante à mielina
+utilizado há mais de duas décadas. [5,6] O medicamento apresenta papel de
+imunomodulação periférica, central e de neuroproteção[7]. Seu mecanismo
+de ação envolve o bloqueio do dano à bainha de mielina efetuado pelas células
+T, competindo com peptídeos da bainha na ligação com moléculas MHC classe
+II. O AG, laboratorialmente, também aumenta processos de reparação, como
+a secreção de fator neurotrófico, remielinização e neurogênese, promovendo
+um efeito neurorreparador [5, 7]. O AG tem perfil de segurança amplamente
+estudado e é o mais seguro na gravidez (categoria B) [5].
+
+Natalizumabe
+É um anticorpo monoclonal humanizado que tem por alvo a integrina
+α4β1 expressa na membrana das células endoteliais. Ao se ligar, o anticorpo
+impede a migração da célula linfocitária através da BHE, com consequente
+efeito anti-inflamatório [6, 8]. A leucoencefalopatia multifocal progressiva
+(LEMP) é um raro, porém muito grave, evento adverso [9]. Existe importante
+associação entre positividade sorológica para o vírus John Cunningham (JCV)
+e sua ocorrência. Considera-se ainda o tempo de uso de natalizumabe e de
+outras drogas imunossupressoras, assim como o índice do JCV nos casos
+positivos, para minimizar o risco dessa complicação [9].
+
+Fingolimode
+Age sobre os linfócitos T näive ou ativados. Seu mecanismo de ação
+é a internalização dos receptores de esfingosina-1-fosfato (E1F), presentes na superfície linfocitária. Com esta internalização, os linfócitos são
+impedidos de migrarem dos órgãos linfoides secundários para a corrente
+sanguínea e consequentemente para o SNC, onde provocam inflamação.
+O E1F é expresso também no tecido cardíaco, o que explica seus principais
+efeitos adversos. Recomenda-se solicitar hemograma completo, PFH,
+ECG, imunofluorescência para varicela zoster e avaliação da mácula [6].
+AC TA M E D I C A - L I G A S AC A D Ê M I C A S | I S S N : 0 1 0 3 - 5 0 3 7 | Vo l . 3 9 , n . 1 (2 0 1 8)
+h t t p ://e b o o k s . p u c r s . b r/e d i p u c r s/a c e s s o l i v r e/p e r i o d i c o s/a c t a - m e d i c a /a s s e t s/e d i c o e s/2 0 1 8 -1/
+
+413
+
+Teriflunomida
+É um imunossupressor, com propriedades anti-inflamatórias[10]. Foi
+aprovada para uso na EMRR. Inibe a enzima mitocondrial diidroorotato
+desidrogenase, essencial para a síntese de novo de pirimidina, inibe a
+proliferação de linfócitos B e T ativos. Apresenta categoria X para uso
+na gestação. Antes do tratamento, faz-se teste de gravidez quando
+apropriado, contagem de linfócitos, monitoramento da função hepática,
+testes de tuberculose e pressão arterial inicial. Controle de linfócitos e
+enzimas hepáticas são necessários durante o tratamento [3].
+
+Fumarato de dimetila
+O fumarato de dimetila (DMF) é utilizado apenas na EMRR. Disponível
+oralmente, apresenta propriedades anti-inflamatórias e imunomoduladoras. O DMF influencia a composição das células T, diminui o número de
+células B de memória maduras em circulação e reduz a síntese de IL-12 e
+IL-23 pelas células dendríticas. Apresenta também efeito neuroprotetor
+por redução do estresse celular oxidativo[11].
+
+Alentuzumabe
+É um anticorpo monoclonal IgG humanizado que tem como alvo o
+antígeno CD52 uma glicoproteína expressa na membrana de linfócitos T e
+B envolvidos na fisiopatologia da EM. Uma vez marcados, ocorre depleção
+dos níveis periféricos desses linfócitos via citotoxidade anticorpo mediada.
+[12] O tratamento é feito em dois cursos: doses diárias de 12mg por 5 dias
+e, após doze meses, por mais 3 dias. A repopulação com predominância
+de linfócitos com caráter regulatório e menor expressão constitutiva de
+citocinas estaria ligada à redução na quantidade de surtos por um período
+prolongado. As reações mais comuns incluem rash cutâneo, cefaleia e
+sintomas gripais após a infusão, indicando-se corticoterapia, anti-histamínicos e analgésicos prévio as infusões.
+
+AC TA M E D I C A - L I G A S AC A D Ê M I C A S | I S S N : 0 1 0 3 - 5 0 3 7 | Vo l . 3 9 , n . 1 (2 0 1 8)
+h t t p ://e b o o k s . p u c r s . b r/e d i p u c r s/a c e s s o l i v r e/p e r i o d i c o s/a c t a - m e d i c a /a s s e t s/e d i c o e s/2 0 1 8 -1/
+
+414
+
+Ocrelizumabe
+É um anticorpo monoclonal humanizado que provoca depleção das
+células B através de lise celular [3]. Liga-se à proteína CD20, presente na
+superfície das células B [13]; como o CD20 não é expresso em células-tronco, em células pré-B ou em plasmócitos, o ocrelizumabe preserva
+a capacidade de reconstituição das células B [13]. Reduz a progressão de
+incapacidades decorrentes da doença na EMPP e na EMRR, assim como
+reduz a TAA na EMRR [9, 13]. É utilizado em doses endovenosas de 600mg,
+semestrais precedido por corticoterapia [3, 13].
+
+Cladribina
+É um fármaco de uso oral aprovada, apenas na Europa, para uso
+em EMRR. A Cladribina (CBD) é um análogo sintético de nucleosídeo
+purínico, que, quando fosforilada pela desoxiciditina quinase (DCK),
+transforma-se em sua forma ativa. Age depletando subpopulações de
+linfócitos T (principalmente CD4+ e CD8+) e B[14]. Por possuírem altas
+concentrações de DCK, os linfócitos tendem a acumular a forma ativa
+que se incorpora ao DNA, levando à interrupção do metabolismo celular
+normal, resultando em morte celular. Os efeitos do tratamento com CDB
+são duráveis a longo-prazo (mais de 10 meses) devido à sua ação tanto
+em linfócitos quiescentes quanto de memória [15]. Na EMRR, é utilizada
+em dois ciclos anuais curtos de no máximo 20 dias.
+
+CONCLUSÃO
+Nesta revisão, apresentou-se dados referentes à nove medicamentos
+envolvidos no tratamento da EM. Evidencia-se um novo cenário de tratamento, com um grande número de opções de medicamentos e perfis
+específicos de risco-benefício, tornando a decisão de tratamento mais
+complexa. O equilíbrio entre os benefícios e os riscos pode ser percebido de
+forma diferente entre pacientes, devido às distintas expectativas pessoais
+AC TA M E D I C A - L I G A S AC A D Ê M I C A S | I S S N : 0 1 0 3 - 5 0 3 7 | Vo l . 3 9 , n . 1 (2 0 1 8)
+h t t p ://e b o o k s . p u c r s . b r/e d i p u c r s/a c e s s o l i v r e/p e r i o d i c o s/a c t a - m e d i c a /a s s e t s/e d i c o e s/2 0 1 8 -1/
+
+415
+e à percepção da doença de cada um. Estimula-se, portanto que o médico
+e o paciente estejam envolvidos no processo da escolha terapêutica.
+
+Principais
+efeitos
+colaterais
+
+Posologia
+
+Redução na
+Taxa Anual
+de Surtos
+
+Indicação
+
+Droga
+Modificadora
+da Doença
+
+Tabela 1: Drogas modificadoras da doença
+
+Natalizumabe
+300mg
+
+EMRR
+
+68%
+
+IV 28/28
+dias
+
+Reações relacionada
+a infusão, linfocitose,
+eosinofilia, LEMP,
+aumento de infecções
+e aumento de
+transaminases
+
+Alentuzumabe
+12mg
+
+EMRR
+
+49-55%*
+
+IV 1x/ano (2
+anos)
+
+Reações relacionada a
+infusão, tireoidopatias e
+trombocitopenia
+
+Ocrelizumabe
+600mg
+
+EMRR
+e
+EMPP
+
+4647%*
+
+IV 2x/ano
+
+Reações relacionada a
+infusão, aumento de
+infecções
+
+Cladribina 3,5mg/
+kg
+
+EMRR
+e SCI
+
+58%
+
+VO 2x/ano
+(2 anos)
+
+Linfopenia, cefaleia e
+aumento de infecções
+(principalmente
+nasofaringites e herpes
+zoster)
+
+VO 1x/dia
+
+Sintomas gripais,
+bloqueios de condução,
+prolongamento
+do intervalo QT e
+bradicardia
+sintomática
+
+Fingolimode 0,5mg
+
+EMRR
+
+54%
+
+AC TA M E D I C A - L I G A S AC A D Ê M I C A S | I S S N : 0 1 0 3 - 5 0 3 7 | Vo l . 3 9 , n . 1 (2 0 1 8)
+h t t p ://e b o o k s . p u c r s . b r/e d i p u c r s/a c e s s o l i v r e/p e r i o d i c o s/a c t a - m e d i c a /a s s e t s/e d i c o e s/2 0 1 8 -1/
+
+416
+
+Fumarato de
+dimetila 240mg
+
+EMRR
+
+44-53%
+
+VO 2x/dia
+
+Flushing, prurido,
+proteinúria assintomática,
+linfopenia e aumente de
+transaminases
+
+Alopecia, aumento de
+infecções, leucopenia,
+teratogenicidade
+e aumento de
+transaminases
+
+Teriflunomida
+14mg
+
+EMRR
+e SCI
+
+32-36%
+
+VO 1x/dia
+
+Betainterferona-1a
+30mcg
+
+EMRR
+e SCI
+
+18%
+
+IM 1x/
+semama
+
+Betainterferona-1a
+22mcg
+
+EMRR
+e SCI
+
+29%
+
+SC 3x/
+semama
+
+Betainterferona-1a
+44mcg
+
+EMRR
+e SCI
+
+32%
+
+SC 3x/
+semama
+
+Betainterferona-1b
+250mcg
+
+EMRR
+e SCI
+
+34%
+
+SC em dias
+alternados
+
+Acetato de
+Glatirâmer 20mg
+
+EMRR
+e SCI
+
+29%
+
+SC 1x/dia
+
+Acetato de
+Glatirâmer 40mg
+
+EMRR
+e SCI
+
+34%
+
+SC 3x/
+semana
+
+Sintomas gripais,
+reações relacionadas
+a infusão, alopecia,
+depressão, leucopenia,
+tireoidopatias e aumento
+de transaminases
+
+Reações relacionada a
+infusão e lipoatrofia
+
+*Em comparação com o IFN-1a 44mcg. Os outros estudos foram em comparação
+ao placebo.
+
+AC TA M E D I C A - L I G A S AC A D Ê M I C A S | I S S N : 0 1 0 3 - 5 0 3 7 | Vo l . 3 9 , n . 1 (2 0 1 8)
+h t t p ://e b o o k s . p u c r s . b r/e d i p u c r s/a c e s s o l i v r e/p e r i o d i c o s/a c t a - m e d i c a /a s s e t s/e d i c o e s/2 0 1 8 -1/
+
+417
+Figura 1. Fluxograma da busca de artigos
+
+REFERÊNCIAS
+1.Msif. Atlas of MS 2013: Mapping Multiple Sclerosis Around the World. Mult
+Scler Int Fed. 2013;1–28.
+2.Marques, V.; Dos Passos, G.; Mendes, M. F.; Lana-Peixoto, M. A.; CominiFrota, E.; et al. Brazilian Consensus for the Treatment of Multiple Sclerosis:
+BCTRIMS and ABN. Arq. Neuro-Psiquiatr. São Paulo ahead of print
+3.Cross, A.H.; Naismith, R.T. Established and novel disease-modifying treatments in multiple sclerosis. Journal Of Internal Medicine 2014 mar; v. 275,
+n. 4, p.350-363
+4.Rubin, S.M. Management of multiple sclerosis: An overview. Disease-amonth 2013 jul; v. 59, n. 7, p.253-260.
+5.Tavazzi, E.; Rovaris, M.; Lamantia, L. Drug therapy for multiple sclerosis. Canadian Medical Association Journal 2014 abr; v. 186, n. 11, p.833-840.
+
+AC TA M E D I C A - L I G A S AC A D Ê M I C A S | I S S N : 0 1 0 3 - 5 0 3 7 | Vo l . 3 9 , n . 1 (2 0 1 8)
+h t t p ://e b o o k s . p u c r s . b r/e d i p u c r s/a c e s s o l i v r e/p e r i o d i c o s/a c t a - m e d i c a /a s s e t s/e d i c o e s/2 0 1 8 -1/
+
+418
+6.Vargas, D.L.; Tyor, W.R. Update on disease-modifying therapies for multiple sclerosis.
+J Investig Med. 2017 Jun;65(5):883-891.
+7.Aharoni, R. Immunomodulation neuroprotection and remyelination - the
+fundamental therapeutic effects of glatiramer acetate: a critical review. J
+Autoimmun. 2014 Nov;54:81-92.
+8.Frohman, T.C.; Beh, S.C.; Kildebeck, E.J.; Narayan, R.; Treadaway, K.;
+Frohman, E.M. Neurotherapeutic Strategis for Multiple Sclerosis. Neurol Clin
+2016 Aug;34(3):483-523
+9.Bridel, C.; Lalive, P.H. Update on multiple sclerosis treatment. Swiss Med
+Wkly. 2014;144:w14012.
+10.Totaro, R. Multiple sclerosis - New treatment modalities. Indian J Med Res.
+2015 Dec; 142(6): 647–654.
+11.Palmer, Alan M. New and emerging immune targeted drugs for the treatment
+of multiple sclerosis. British journal of clinical pharmacology, 2014, 78.1: 33-43
+12.Kasarełło, K.; Cudnoch-Jędrzejewska, A.; Członkowski, A.; Mirowska-Guzel,
+D. Mechanism of action of three newly registered drugs for multiple sclerosis
+treatment. Pharmacological Reports 2017, 69(4), 702–708.
+13.Til, M.; Dubey, D.; Warnke, C.; Hartung, H.P.; Stüve, O. Ocrelizumab for
+the treatment of relapsing-remitting multiple sclerosis. Expert Review of
+Neurotherapeutics 2016; 16: Issue 10
+14.Lorefice, L.; Fenu, G.; Frau, J.; Coghe, G.C.; Marrosu, M.G.; Cocco, E. Oral
+agents in multiple sclerosis. Antiinflamm Antiallergy Agents Med Chem
+[Internet]. 2015;14(1):15–25.
+15.Comi, G.; Hartung, H.; Kurukulasuriya, N.C.; Greenberg, S.J.; Scaramozza,
+M. Cladribine tablets for the treatment of relapsing - remitting multiple
+sclerosis. Expert Opin Pharmacother. 2013 Jan; 14(1):123-36.
+
+AC TA M E D I C A - L I G A S AC A D Ê M I C A S | I S S N : 0 1 0 3 - 5 0 3 7 | Vo l . 3 9 , n . 1 (2 0 1 8)
+h t t p ://e b o o k s . p u c r s . b r/e d i p u c r s/a c e s s o l i v r e/p e r i o d i c o s/a c t a - m e d i c a /a s s e t s/e d i c o e s/2 0 1 8 -1/
