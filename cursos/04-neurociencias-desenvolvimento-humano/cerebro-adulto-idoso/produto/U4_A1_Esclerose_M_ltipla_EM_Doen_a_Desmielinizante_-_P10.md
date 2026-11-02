@@ -1,0 +1,1 @@
+8. **Não há aplicação ao ecossistema de produto da Vivianne:** esta aula é inteiramente de neurologia clínica (esclerose múltipla), sem qualquer ponto de contacto com os temas de psicologia, heranças transgeracionais, identidade, maternidade ou vinculação amorosa que sustentam os produtos do catálogo. O Bloco C foi omitido por ausência de ligação real.
