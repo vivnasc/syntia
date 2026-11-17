@@ -669,3 +669,11 @@ select.campo { appearance: none; cursor: pointer; }
   display: block; height: 100%; border-radius: 999px;
   background: var(--gold-soft); transition: width .25s ease;
 }
+
+/* Botão de paginação do Banco de Produto. */
+.mais { margin: 22px 0 8px; text-align: center; }
+.btn-mais {
+  font: inherit; cursor: pointer; padding: 10px 18px; border-radius: 10px;
+  border: 1px solid var(--linha, #d9d2e4); background: transparent; color: inherit;
+}
+.btn-mais:hover { background: rgba(127, 127, 127, .10); }

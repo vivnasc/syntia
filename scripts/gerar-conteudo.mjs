@@ -544,6 +544,16 @@ function main() {
     const conteudo = { geradoEm: new Date().toISOString(), temas: TEMAS, cursos, partilhada, raizes, rota, banco, inspiracao: lerInspiracao(), reunioes: lerReunioes() };
   fs.writeFileSync(OUT_JSON, JSON.stringify(conteudo, null, 2), "utf-8");
 
+  // Os rascunhos do banco (campo `texto`) são metade do peso do banco e só
+  // fazem falta quando alguém abre um cartão. Vão para um ficheiro próprio,
+  // servido em /banco-textos.json e buscado só nessa altura, para a página do
+  // Banco de Produto deixar de os mandar todos para o browser de uma vez.
+  fs.writeFileSync(
+    path.join(ROOT, "public", "banco-textos.json"),
+    JSON.stringify(banco.map((b) => b.texto || "")),
+    "utf-8"
+  );
+
   // saber.json — a PONTE: artefacto público e enxuto que o repo dos produtos vai
   // buscar (SABER = cadeiras + ideias de produto). Servido em /saber.json.
     const materias = [...cursos,

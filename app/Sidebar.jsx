@@ -69,7 +69,10 @@ export default function Sidebar({ cursos, partilhada }) {
         <Link href="/rota100k" onClick={fechar} className={`sb-link${is("/rota100k") ? " active" : ""}`}>ROTA100K</Link>
         <Link href="/venda100k" onClick={fechar} className={`sb-link${is("/venda100k") ? " active" : ""}`}>VENDA100K</Link>
         <Link href="/destrave-story" onClick={fechar} className={`sb-link${is("/destrave-story") ? " active" : ""}`}>DESTRAVE STORY</Link>
-        <Link href="/produto" onClick={fechar} className={`sb-link${is("/produto") ? " active" : ""}`}>Banco de Produto</Link>
+        {/* prefetch desligado: o Banco de Produto é a página mais pesada da app e,
+            estando no menu, era pré-carregada em segundo plano a partir de
+            TODAS as outras páginas. */}
+        <Link href="/produto" prefetch={false} onClick={fechar} className={`sb-link${is("/produto") ? " active" : ""}`}>Banco de Produto</Link>
         <Link href="/inspiracao" onClick={fechar} className={`sb-link${is("/inspiracao") ? " active" : ""}`}>Inspiração</Link>
         <Link href="/reunioes" onClick={fechar} className={`sb-link${is("/reunioes") ? " active" : ""}`}>Reuniões</Link>
         <Link href="/enviar" onClick={fechar} className={`sb-link${is("/enviar") ? " active" : ""}`}>Enviar aula</Link>

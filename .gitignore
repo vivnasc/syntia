@@ -12,3 +12,5 @@ public/icons/
 .DS_Store
 *.log
 .vercel
+# Rascunhos do banco: gerados no build, como o lib/conteudo.json.
+public/banco-textos.json
