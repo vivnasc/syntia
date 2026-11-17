@@ -3,7 +3,9 @@ import BancoProduto from "./BancoProduto";
 import { getBanco } from "../../lib/conteudo";
 
 export default function ProdutoPage() {
-  const banco = getBanco();
+  // Sem o campo `texto`: os rascunhos são buscados a /banco-textos.json quando
+  // alguém abre um cartão. O índice `i` é o que os liga a esse ficheiro.
+  const banco = getBanco().map((b, i) => ({ ...b, texto: undefined, i }));
 
   return (
     <>
