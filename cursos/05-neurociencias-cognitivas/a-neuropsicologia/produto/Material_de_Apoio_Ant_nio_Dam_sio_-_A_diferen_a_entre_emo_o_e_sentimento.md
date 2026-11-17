@@ -1,0 +1,25 @@
+═══ BLOCO C — PRODUTO ═══
+
+---
+
+[oportunidade] **Novo:** post/reel para **mae.cine** (@vivianne.dos.santos / @viviannewrites) com o gancho «o teu corpo sabia antes de tu saberes» — a distinção de Damásio entre emoção (programa de ações que acontece no corpo) e sentimento (a mente a aperceber-se disso depois) é uma prova científica poderosa para o padrão de dissociação emocional muito presente nas mulheres da tribo Quebra-Ciclos: cresceram a ignorar o que sentiam porque aprenderam a funcionar antes de processar. O ângulo: «não é que não sentiste — é que o teu corpo reagiu e ninguém te ensinou a ouvir isso»; fecha no ciclo que acaba em ti quando começas a nomear o que o corpo já fez. Formato: reel curto com abertura-faca («O teu corpo teve a emoção. A tua mente chegou depois. Sempre foi assim.») + carrossel com a distinção Damásio aplicada a situações reais (berros que não saíram, choro que veio tarde, o coração acelerado que ignoraste).
+
+[identidade] **ebook-08-voz** («De quem é esta voz?») — a aula aprofunda o produto: se a emoção é um programa inato que o corpo executa e o sentimento é a experiência mental que se tem depois, a «voz» interior que nomeia o que se sente pode não ser a voz própria — pode ser a interpretação aprendida na infância sobre o que «se devia estar a sentir». Ideia concreta: acrescentar uma secção ou exercício no ebook que convide a distinguir «o que o meu corpo fez» (emoção — coração acelerou, garganta fechou, estômago contraiu) de «o que me disseram que isso significava» (sentimento nomeado por outros). Reforça o argumento central do ebook sem mudar o seu ângulo.
+
+[identidade] **Coleção Infonte** (universo de produto) — os ebooks desta coleção trabalham a mulher que não se autoriza a ser, que persegue sem saber porquê, que chegou e sentiu pouco. A distinção de Damásio explica neurologicamente o «senti pouco quando cheguei»: a emoção aconteceu (o corpo reagiu), mas o sentimento — a experiência mental de integrar essa chegada — pode ter sido suprimido ou não ter tido espaço para se formar. Ideia concreta: usar esta ciência como abertura do `inf-03 A mulher que chegou e sentiu pouco` — um parágrafo de prova científica (voz mae.cine aplicada ao produto) que valide a experiência antes de a explorar.
+
+[amor] **Coleção SyncHim** — especificamente `syn-07 A mulher que confunde intensidade com amor` e `syn-06 A mulher que nunca baixa a guarda`. A emoção como programa automático do corpo ajuda a explicar porque é que a intensidade (resposta corporal forte, visível) é confundida com amor (sentimento, experiência mental de vinculação): quando o corpo reage muito, a mente interpreta como «deve ser amor». Ideia concreta: num futuro carrossel de suporte a esta coleção em mae.cine, usar Damásio para mostrar que «a intensidade é a emoção — o teu corpo a reagir; o amor é o sentimento — a tua mente a integrar. Não são a mesma coisa».
+
+[oportunidade] **Novo:** guia prático (`guia-15` hipotético) «O que o teu corpo sabia» — exercício de três passos para distinguir a reação corporal (emoção) da nomeação mental (sentimento), destinado a mulheres que descrevem não saber o que sentem ou que «sentem mas não conseguem pôr em palavras». Público: sobreposição entre Infonte, SyncHim e Força. Porquê agora: Damásio está a ganhar visibilidade renovada em conteúdo de divulgação científica; a distinção é simples, aplicável e nunca foi trabalhada diretamente no catálogo. Formato: guia de €5, com três perguntas ancoragem para o corpo e três para a mente.
+
+---
+
+═══ NOTAS ═══
+
+1. **Transcrição de má qualidade:** gerada automaticamente pelo YouTube, com vários erros graves. Exemplos: «er decart» e «decard» por *O Erro de Descartes*; «Comes to Mind» e «o cérebro criou o homem» por *Self Comes to Mind*; «tronco» parece referir-se a «tronco cerebral»; «Tron cerebral» é provável erro de transcrição do mesmo. O título do livro na transcrição («o homem criou o cérebro») pode estar invertido — o título real é *Self Comes to Mind* / «O Cérebro Criou o Homem» (edição portuguesa).
+
+2. **Excerto sem início claro:** a transcrição começa a meio de uma frase («qual que é essa em termos mais breves…»), o que sugere que o início da entrevista foi cortado. Não é possível saber o contexto imediato da pergunta.
+
+3. **Referência à «declaração de independência dos Estados Unidos»:** aparece na transcrição como exemplo da ponte entre organização cerebral e organização social, mas o contexto é fragmentado e pouco claro. Não foi possível reconstituir o argumento completo.
+
+4. **Duração curta (5 minutos):** trata-se de um excerto de entrevista, não de uma aula desenvolvida. Os temas da tomada de decisão e da organização social são apenas aflorados, sem desenvolvimento aprofundado — o que limita o uso para Bloco B e C mas não invalida os conceitos centrais (emoção vs. sentimento), que estão claramente expressos.

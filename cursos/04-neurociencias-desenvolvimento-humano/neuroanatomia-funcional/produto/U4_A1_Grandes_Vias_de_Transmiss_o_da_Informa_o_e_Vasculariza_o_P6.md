@@ -1,0 +1,5 @@
+# BLOCO C — PRODUTO
+
+[oportunidade] **Novo:** mini-conteúdo ou carrossel sobre «o que o corpo guarda que a mente ignora» — para **mae.cine** (@vivianne.dos.santos / @viviannewrites).
+
+A aula descreve como o sistema nervoso processa experiências sensoriais através de múltiplas estações de relé antes de chegarem ao córtex — e como uma só lesão num ponto específico pode silenciar ou distorcer completamente o que se percebe. Isto abre um ângulo genuíno para o movimento **Acaba em Mim / Quebra-Ciclos**: o corpo tem "circuitos de relé" para o que sente, e padrões herdados funcionam de forma análoga — passam por múltiplas gerações antes de chegarem à consciência. O ângulo não é clínico; é a metáfora do trajeto: *quantas estações tem o que você sente antes de chegar a você?* Para quem? Mulheres brasileiras que reconhecem que reagem antes de pensar, ou que sentem sem saber de onde vem o que sentem. Porquê agora: a neurociência como prova científica é exatamente o pilar de autoridade da estratégia Telma — e este material é desse curso.

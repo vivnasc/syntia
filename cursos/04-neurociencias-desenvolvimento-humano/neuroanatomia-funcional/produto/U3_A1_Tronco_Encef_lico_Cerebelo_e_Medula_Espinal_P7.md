@@ -1,0 +1,21 @@
+# ═══ BLOCO C — PRODUTO ═══
+
+[corpo] **mae.cine (@vivianne.dos.santos / @viviannewrites)** — A aula valida que o corpo regista, avalia e corrige o movimento de forma automática e inconsciente (proprioceção, tónus, equilíbrio), o que serve como prova científica de que há processos que nos governam sem que os conscientizemos — paralelo direto com os padrões herdados que o movimento «Acaba em Mim» trabalha.
+Ideia de reel/carrossel (PT-BR, voz mae.cine): abertura faca — *"Você acha que escolhe como se move. O seu cerebelo discorda."* — desenvolve como o cerebelo corrige, ajusta e aprende sem que você perceba, faz a ponte para padrões emocionais e comportamentais que também operam abaixo da consciência, fecha com o ciclo que pode ser quebrado. Hashtags `#acabaemmim #quebraciclos`. Autoridade = neuroimagem funcional citada na aula (cerebelo e cognição).
+
+[corpo] **veu.a.veu** — A divisão funcional do cerebelo (vestíbulo / espino / cérebro) e as suas síndromes ilustram, em linguagem corporal concreta, como a desregulação num subsistema afeta toda a coordenação — analogia útil para a jornada das 13 semanas sobre heranças e máscaras.
+Ideia de carrossel (gouache, personagem Nina ou Teresa): *"Quando uma parte de nós perde o fio, o resto compensa — até não conseguir mais."* Três painéis com as três síndromes traduzidas em metáforas do quotidiano da cuidadora (ataxia = perder o rumo; hipotonia = ficar sem força para segurar; dismetria = errar sempre o alvo com as pessoas que ama). Sem CTA de venda; otimiza para GUARDAR.
+
+[corpo] **Coleção Força** — `for-05 A mulher que vive em modo sobrevivência` e `for-04 A mulher que se tornou forte demais` ganham profundidade neurobiológica: o cerebelo em modo de «sobrevivência motora» (compensação postural contínua, tónus elevado, ausência de movimentos finos) é a metáfora somática exata do que esses títulos descrevem emocionalmente.
+Ideia de capítulo/parágrafo de abertura para esses ebooks: ancorar a experiência da leitora no corpo — *"O seu sistema nervoso aprendeu a segurar-se antes de você saber o que estava a segurar."* — usando a lógica do espino-cerebelo (manutenção postural automática) como prova de que o corpo guarda o que a mente ainda não nomeou.
+
+[oportunidade] **Novo:** mini-guia *"O que o seu corpo já sabe"* — para o catálogo de guias práticos (€5), um formato curto que traduza a proprioceção e o controlo automático cerebelar numa linguagem de autoconsciência corporal, dirigido a mulheres que vivem «na cabeça» e perderam o contacto com sinais do corpo. Porquê agora: a aula fornece a base científica exata (recetores propriocetivos, tónus, coordenação), e o catálogo não tem nenhum guia que trabalhe o corpo como ponto de entrada para o autoconhecimento — seria uma porta de entrada nova para a coleção Força ou Infonte.
+
+---
+
+# ═══ NOTAS ═══
+
+1. **Transcrição automática, não revista contra áudio.** Vários termos aparecem com grafia ou segmentação incorretas: *"Neuronatomia"* (provavelmente «Neuroanatomia»), *"vênis"* (provavelmente «vérmis»), *"próprios septímibos"* (provavelmente «proprioceptivos»), *"neuroimagem"* (correto; aparece como «neuromagem» no original — corrigido nos blocos), *"Medô"* (provavelmente «Medula»), *"condomição"* (provavelmente «condição»).
+2. **Pedúnculos de entrada dos tratos espino-cerebelares.** A aula diz «pedúnculos cerebelares superior e inferior» para o espino-cerebelo, o que é consistente com a literatura (o posterior entra pelo inferior, o anterior pelo superior). A transcrição não os distingue explicitamente — assinalado para confirmação com o material escrito (apostila).
+3. **Referência ao «trato rubro-espinal» e ao «trato córtico-espinal».** A professora remete repetidamente para uma «aula de medula» futura; os detalhes desses tratos não foram desenvolvidos nesta aula — os flashcards e perguntas de avaliação refletem apenas o que foi efetivamente ensinado.
+4. **Nenhum autor foi citado nominalmente** nesta aula; o Bloco B — Autores reflete apenas os modelos e classificações apresentados.

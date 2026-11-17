@@ -1,0 +1,25 @@
+═══ BLOCO C — PRODUTO ═══
+
+---
+
+[oportunidade] **Novo:** conteúdo para mae.cine sobre o momento em que percebemos que o nosso sofrimento não tem um "diagnóstico" mas é real — a aula apresenta a psicopatologia fenomenológica como eixo em que o diagnóstico formal cede lugar ao sofrimento singular da pessoa; para a audiência brasileira do movimento "Acaba em Mim", isto abre um ângulo potente: "você não precisa de um diagnóstico para o seu sofrimento ser real" — confrontador, com base científica, encaixa na voz da Telma (faca na abertura, ciência com consequência). Formato sugerido: reel curto com abertura "Não é hipocondria, não é drama — é isto:" + explicação dos três eixos em linguagem acessível, fechando no ciclo quebrado de precisar de um rótulo para validar o que se sente.
+
+[maternidade] **FreeMe Mãe** — a aula valida que o diagnóstico pode excluir uma causa biológica e revelar que o problema está no padrão relacional e familiar; isto aprofunda a lógica dos ebooks `mae-02 A mãe que ficou` e `mae-08 A mãe que não sentiu`, onde o sofrimento não tem nome clínico mas é real e herdado. Ideia concreta: no interior desses ebooks, uma secção breve ("O que a ciência diz") que explique, em linguagem simples, que o sofrimento não precisa de preencher critérios do DSM para ser legítimo — ancorado na distinção descritivo/fenomenológico apresentada nesta aula.
+
+[identidade] **Infonte** (coleção) — a distinção entre os três eixos da psicopatologia — especialmente o fenomenológico, que foca na "experiência particular e singular do sujeito" — ressoa directamente com o núcleo desta coleção (quem és para além do que fazes, o que carregas que não é teu). Ideia concreta: no ebook `inf-03 A mulher que chegou e sentiu pouco`, uma passagem que valide que "sentir pouco" não é um transtorno classificável mas uma experiência existencial real — usando a linguagem da psicopatologia fenomenológica sem nomear o eixo técnico.
+
+[identidade] **veu.a.veu** — a aula apresenta os três eixos da psicopatologia de forma didática e acessível, sem jargão excessivo; encaixa na jornada de 13 semanas da conta, especificamente na semana de "Máscara/Sombra" (o que mostramos versus o que vivemos internamente). Ideia concreta: carrossel em gouache com as personagens fixas (ex.: Nina a ir a uma consulta e perceber que "não tenho diagnóstico — mas sofro na mesma"), explicando em imagens simples a diferença entre classificar e compreender. Sem CTA de venda, optimizado para GUARDAR.
+
+[força] **Coleção Força** — a referência da aula ao risco de um profissional desqualificar sintomas físicos de pacientes com transtorno mental ("acredita que é só da cabeça") espelha o padrão central desta coleção: a mulher que aprendeu a não incomodar, a não apresentar queixas, a engolir o que sente. Ideia concreta: no ebook `for-03 A mulher que não incomoda`, uma passagem sobre como este padrão se instala também na relação com os sistemas de saúde — validado pelo dado clínico desta aula (barreiras ao cuidado em saúde mental).
+
+[oportunidade] **Novo:** guia prático para mae.cine — "Como saber se o que sentes precisa de ajuda profissional" — dirigido à audiência brasileira que confunde sofrimento relacional/transgeracional com transtorno clínico (ou o inverso). A aula dá a base científica (distinção psicodiagnóstico vs. avaliação geral; os três eixos; a importância de excluir causas biológicas). Formato: guia de €5 na loja, promovido via reel na conta-mãe com abertura faca ("Você não está louca. Mas pode precisar de ajuda. Eis como saber a diferença."). Público: mulheres brasileiras que hesitam em procurar apoio por não saberem se o que sentem "conta".
+
+---
+
+═══ NOTAS ═══
+
+1. **Transcrição por legendas automáticas não revistas:** há um momento (~03:03–03:28) em que a professora menciona um instrumento de avaliação "em Uguiana" e uma "psicologia de orientação analítica" com referência ao que soa como "ti" (possivelmente TAT — Teste de Apercepção Temática) e ao "modelo dos cinco grandes factores / Big Five / BFP (Bateria Fatorial de Personalidade)". A palavra "Uguiana" é provavelmente "Jungiana" (mal captada pela legenda automática). Convém confirmar no áudio.
+
+2. **Referência a "associação livre" (~12:02–12:26):** a professora diz que na psicologia analítica "a associação livre não é tão livre assim, nós temos palavras-chave e o psicólogo analítico pode direcionar o paciente." Esta distinção entre associação livre freudiana e associação dirigida por palavras-chave junguiana está ligeiramente comprimida na transcrição — pode ser um ponto a verificar com o material escrito.
+
+3. **Fenomenologia sem diagnóstico (~14:11–14:37):** a afirmação "num viés didático, posso ter um diagnóstico que não existe um diagnóstico ali" é uma simplificação declarada pela própria professora ("num viés didático") — não deve ser tomada como definição rigorosa para efeitos de avaliação, mas como aproximação pedagógica.
