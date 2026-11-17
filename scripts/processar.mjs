@@ -1155,8 +1155,14 @@ async function main() {
     const prodDir = path.join(area, "produto");
     [transDir, sintDir, prodDir].forEach((d) => fs.mkdirSync(d, { recursive: true }));
 
+    // Aceita também texto e PDF, não só áudio: o caminho de ficheiro único (o
+    // do /enviar) já os aceitava, mas o modo em lote só olhava para AUDIO_EXT e
+    // ignorava em silêncio um .txt deixado aqui.
     const audios = fs.readdirSync(audioDir)
-      .filter((f) => AUDIO_EXT.includes(path.extname(f).toLowerCase()))
+      .filter((f) => {
+        const e = path.extname(f).toLowerCase();
+        return AUDIO_EXT.includes(e) || TEXTO_EXT.includes(e) || e === ".pdf" || e === ".docx";
+      })
       .sort();
     if (!audios.length) continue;
 
@@ -1174,10 +1180,13 @@ async function main() {
       }
 
       try {
-        console.log(`[${area}] A transcrever ${audio}...`);
+        const ext = path.extname(audio).toLowerCase();
+        console.log(`[${area}] A ler ${audio}...`);
+        // textoFonteDe encaminha sozinho: áudio vai a transcrever, texto lê-se,
+        // PDF extrai-se. Antes chamava-se transcrever() à força.
         const transcricao = fs.existsSync(txtPath)
           ? fs.readFileSync(txtPath, "utf-8")
-          : await transcrever(path.join(audioDir, audio));
+          : await textoFonteDe(path.join(audioDir, audio), ext);
         fs.writeFileSync(txtPath, transcricao, "utf-8");
 
         console.log(`[${area}] A processar com o Claude (${material.length} PDF(s) de referência)...`);

@@ -70,7 +70,8 @@ jobs:
     # Rede de segurança: sem isto, um passo que trave (ex.: apt-get à espera de
     # um prompt) só é morto ao fim de 6 horas e a aula fica eternamente "a
     # processar". 30 minutos chega de sobra para transcrever + gerar os textos.
-    timeout-minutes: 30
+    # Um lote grande de transcrições pode ser mais de cem chamadas ao Claude.
+    timeout-minutes: 330
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v4
